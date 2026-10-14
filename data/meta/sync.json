@@ -1,0 +1,174 @@
+{
+ "enriched": [
+  "hm-primeira-guerra",
+  "pi-nao-proliferacao"
+ ],
+ "kind": "sync",
+ "lastRun": "2026-10-14",
+ "processed": {
+  "2f60520afdf5455fadd99c10fd26182f": {
+   "deck": "hb-america-portuguesa",
+   "edited": "2026-05-10T23:23:00.016Z"
+  },
+  "35c77560e5fa800c9b7bd07148dfea40": {
+   "deck": "geo-historia-pensamento",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "36077560e5fa80528717c91789283a03": {
+   "deck": "hm-absolutismo-iluminismo",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "36177560e5fa805190f9f6d8ce280197": {
+   "deck": "hm-revolucao-francesa",
+   "edited": "2026-05-28T01:34:38Z"
+  },
+  "36577560e5fa807abcb7fc87d932bf89": {
+   "deck": "geo-conceitos-fundamentais",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "36977560e5fa80fda51fdeb7d5292f5b": {
+   "deck": "pi-onu-historia-estrutura",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "36e77560e5fa8095abfcc4ba83a3b51f": {
+   "deck": "hm-diretorio-napoleao",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "37077560e5fa804b8354dd4a27358371": {
+   "deck": "geo-urbanizacao-mundial",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "37277560e5fa80c0b4d6e7f079879b1f": {
+   "deck": "pi-onu-operacoes-paz",
+   "edited": "2026-06-04T03:26:03Z"
+  },
+  "37577560e5fa80e190b9dfca1fecacd8": {
+   "deck": "hm-restauracao-viena-1848",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "37877560e5fa805e8a6ec4b5b70fd633": {
+   "deck": "geo-glossario-urbano",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "37877560e5fa80b2b101c25537f41ca3": {
+   "deck": "geo-urbanizacao-metropoles",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "37977560e5fa80f9bf7bcfaf4d3c843a": {
+   "deck": "pi-terrorismo",
+   "edited": "2026-06-11T23:02:00Z"
+  },
+  "37c77560e5fa8024a3a7cd5cfca96283": {
+   "deck": "hm-unificacoes-bismarck",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "38377560e5fa8090afa3d75e6ef57678": {
+   "deck": "geo-urbanizacao-brasil",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "38877560e5fa8050b85fc9e4e0810565": {
+   "deck": "pi-narcotrafico-cibercrime",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "38977560e5fa80cfbb9dc616e96bdc33": {
+   "deck": "hm-revolucao-industrial-inglesa",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "38a77560e5fa8018a8c8ca9741f305c7": {
+   "deck": "hm-eua-seculo-19",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "38c77560e5fa806fa584f38d784f37f2": {
+   "deck": "pi-nao-proliferacao",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "39077560e5fa8080a291ed69a6694bf4": {
+   "deck": "geo-demografia-mundial",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "39177560e5fa80d6a9bbd23c2f723e9b": {
+   "deck": "hm-independencias-hispanicas",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "39277560e5fa803698a9cfc7c7c087d4": {
+   "deck": "pi-meio-ambiente",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "39277560e5fa809395eeceec387ff9fc": {
+   "deck": "geo-demografia-brasil",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "39277560e5fa80c082aac89d913e86a2": {
+   "deck": "pi-direitos-humanos",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "39277560e5fa80dba4edd89c39246543": {
+   "deck": "hm-imperialismo-africa",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "39a77560e5fa80868708eb7615edda94": {
+   "deck": "geo-migracoes-internacionais",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3af77560e5fa8071828ecf7d58fb545a": {
+   "deck": "geo-migracoes-brasil",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3af77560e5fa808dbaf3e6394527d1c4": {
+   "deck": "pi-comercio-omc",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3ba77560e5fa806fb8bbf4b3f5eb7f28": {
+   "deck": "hm-primeira-guerra",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3ba77560e5fa80899823f556dbaab8fb": {
+   "deck": "hm-imperialismo-asia",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3bb77560e5fa801b8b62c830dbf57364": {
+   "deck": "geo-dit-pos-fordismo",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3bc77560e5fa80d3bc7ef72253845ea0": {
+   "deck": "pi-sistema-financeiro",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3c377560e5fa8003a28dd4b589c709f5": {
+   "deck": "geo-globalizacao",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3c677560e5fa8014a42dffb2a7842d62": {
+   "deck": "pi-peb-1-vargas-jk",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3c777560e5fa803c88c4eb71582d65ef": {
+   "deck": "hm-revolucoes-russas",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3cd77560e5fa80f69824c192c5f626e2": {
+   "deck": "pi-peb-2-pei-medici",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3d477560e5fa8061b811ec63d57b5df2": {
+   "deck": "geo-industria-brasil",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3d577560e5fa8096af27f71b10d46eb1": {
+   "deck": "pi-peb-3-geisel-sarney",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3d577560e5fa80d3bc59f54722c64726": {
+   "deck": "hm-eua-entreguerras",
+   "edited": "2026-10-13T00:00:00Z"
+  },
+  "3f877560e5fa8007be53ee252b764a85": {
+   "deck": "pi-peb-4-anos-90-dilma",
+   "edited": "2026-10-13T22:11:07.520Z"
+  },
+  "3f877560e5fa80f9bffcf220597bf857": {
+   "deck": "hm-fascismos",
+   "edited": "2026-10-13T20:16:03.962Z"
+  }
+ }
+}
