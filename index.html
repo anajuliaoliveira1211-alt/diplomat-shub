@@ -430,6 +430,11 @@ canvas.confetti{position:absolute;inset:0;pointer-events:none;z-index:50;width:1
 .spin{width:28px;height:28px;border:3px solid var(--hair);border-top-color:var(--plum);border-radius:50%;animation:sp .8s linear infinite}
 @keyframes sp{to{transform:rotate(360deg)}}
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
+.rcard .topics{list-style:none;counter-reset:tp;margin:14px 0 0;padding:0;display:flex;flex-direction:column;gap:10px}
+.rcard .topics li{counter-increment:tp;display:grid;grid-template-columns:28px 1fr;column-gap:10px;row-gap:2px;padding-top:10px;border-top:1px solid color-mix(in srgb,currentColor 18%,transparent)}
+.rcard .topics li::before{content:counter(tp,decimal-leading-zero);grid-row:span 2;font-weight:600;font-size:12px;opacity:.6;font-variant-numeric:tabular-nums;padding-top:2px}
+.rcard .topics b{font-weight:600;line-height:1.3}.rcard .topics span{font-size:14px;line-height:1.45;opacity:.85}
+.rcard .pjk{margin:2px 0 -4px}
 </style>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 </head>
@@ -878,7 +883,7 @@ function newsView(){
   cs.forEach((c,i)=>{ const col=ncol(i), M=mat(c.materia);
     h+=`<button class="nmini ${col.dark?"dark":""}" style="background:${col.b}" data-read="${i}">
       <span class="nthumb">${c.img?`<img src="${esc(c.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:DOODLE[["f","m","c","n"][i%4]]}</span>
-      <span class="ntxt"><span class="meta"><span class="tag" style="background:${M.c};color:var(--plum)">${esc(c.materia||"Atualidades")}</span>${c.curso?`<span class="tag yr">Curso</span>`:""}${saved.has(c._id)?`<span class="tag acc">Salva</span>`:""}${S.notes[c._id]?`<span class="tag acc">Nota</span>`:""}</span><b>${esc(c.titulo)}</b></span></button>`; });
+      <span class="ntxt"><span class="meta"><span class="tag" style="background:${M.c};color:var(--plum)">${esc(c.materia||"Atualidades")}</span>${c.curso?`<span class="tag yr">Curso</span>`:""}${c.podcast?`<span class="tag yr">Podcast</span>`:""}${saved.has(c._id)?`<span class="tag acc">Salva</span>`:""}${S.notes[c._id]?`<span class="tag acc">Nota</span>`:""}</span><b>${esc(c.titulo)}</b></span></button>`; });
   h+=`</div>`;
   const sv=S.saved.ids.map(findNews).filter(Boolean).reverse();
   const noted=Object.keys(S.notes).filter(id=>!S.saved.ids.includes(id)).map(findNews).filter(Boolean);
@@ -902,8 +907,9 @@ function resHTML(c,ans){ const ok=ans===c.ce.ans; return `<div class="res ${ok?"
 function rcardHTML(c,i){ const col=ncol(i), M=mat(c.materia), ans=ls.get("nq-"+c._id,null), saved=S.saved.ids.includes(c._id), note=S.notes[c._id];
   return `<article class="rcard ${col.dark?"dark":""}" style="background:${col.b}" data-i="${i}" data-id="${esc(c._id)}">
     <div class="rimg">${c.img?`<img src="${esc(c.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:`<span class="ph">${DOODLE[["f","m","c","n"][i%4]]}</span>`}${c.img&&c.imgCredit?`<span class="cred">${esc(c.imgCredit)}</span>`:""}</div>
-    <div class="meta"><span class="tag" style="background:${M.c};color:var(--plum)">${esc(c.materia||"Atualidades")}</span>${c.edital?`<span class="tag acc">Edital ${esc(c.edital)}</span>`:""}${c.curso?`<span class="tag yr">Curso</span>`:""}</div>
-    <h2>${esc(c.titulo)}</h2><p class="sum">${esc(c.resumo)}</p>
+    <div class="meta"><span class="tag" style="background:${M.c};color:var(--plum)">${esc(c.materia||"Atualidades")}</span>${c.edital?`<span class="tag acc">Edital ${esc(c.edital)}</span>`:""}${c.curso?`<span class="tag yr">Curso</span>`:""}${c.podcast?`<span class="tag yr">Podcast</span>`:""}</div>
+    ${c.podcast?`<p class="lbl pjk">${esc(c.podcast)}</p>`:""}<h2>${esc(c.titulo)}</h2><p class="sum">${esc(c.resumo)}</p>
+    ${(c.topicos||[]).length?`<ol class="topics">${c.topicos.map(x=>`<li><b>${esc(x.t)}</b>${x.b?`<span>${esc(x.b)}</span>`:""}</li>`).join("")}</ol>`:""}
     ${c.porque?`<div class="why"><b>Por que cai no CACD</b>${esc(c.porque)}</div>`:""}
     ${c.ce?`<div class="quick"><p>Certo ou errado? ${esc(c.ce.s)}</p>${ans?resHTML(c,ans):`<div class="qb"><button data-nq="C">Certo</button><button data-nq="E">Errado</button></div>`}</div>`:""}
     <div class="mynote">${note?`<div class="notebox"><b>Sua nota</b><p>${esc(note.t)}</p></div>`:""}</div>

@@ -33,3 +33,8 @@ Itens:
 Nunca mude o `id` de itens nem de cards já publicados: o progresso, as notícias salvas e os comentários ficam presos a eles.
 
 Depois de qualquer mudança em `data/`, rode `python3 tools/build_index.py` e faça o commit.
+
+## Petit Journal (podcast)
+`python3 tools/petit.py /tmp/pj` baixa e transcreve (faster-whisper, modelo base, ~4 min por episódio) os episódios novos do feed
+https://www.spreaker.com/show/5659715/episodes/feed. A transcrição fica fora do repo. No clipping do dia entra um card com
+`podcast` (rótulo), `pj_guid`, `topicos: [{t, b}]` escritos com palavras próprias, `porque`, `ce` e `url` do episódio.
