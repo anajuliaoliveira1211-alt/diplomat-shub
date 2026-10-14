@@ -435,6 +435,10 @@ canvas.confetti{position:absolute;inset:0;pointer-events:none;z-index:50;width:1
 .rcard .topics li::before{content:counter(tp,decimal-leading-zero);grid-row:span 2;font-weight:600;font-size:12px;opacity:.6;font-variant-numeric:tabular-nums;padding-top:2px}
 .rcard .topics b{font-weight:600;line-height:1.3}.rcard .topics span{font-size:14px;line-height:1.45;opacity:.85}
 .rcard .pjk{margin:2px 0 -4px}
+.grita{display:flex;align-items:center;justify-content:center;gap:8px;min-height:44px;margin-top:4px;border-radius:999px;border:1.5px dashed color-mix(in srgb,var(--wine) 45%,transparent);color:var(--wine);font-weight:600;font-size:13.5px;text-decoration:none;padding:8px 14px}
+.grita[hidden]{display:none}.grita svg{width:20px;height:20px;flex:none}
+.r-bar{grid-template-columns:repeat(4,1fr)}.r-bar .rb{gap:5px;font-size:12.5px}
+.c-foot{display:grid;grid-template-columns:auto 1fr;gap:10px}.c-foot .btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;text-decoration:none}.c-foot svg{width:19px;height:19px}
 </style>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 </head>
@@ -488,6 +492,7 @@ const DOODLE = {
 };
 const A_='fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"';
 const IC = {
+  grita:`<svg viewBox="0 0 24 24" ${A_}><path d="M4 10v4a1 1 0 0 0 1 1h2l6 4V5L7 9H5a1 1 0 0 0-1 1Z"/><path d="M16.5 9.5a3.5 3.5 0 0 1 0 5M18.8 7a7 7 0 0 1 0 10"/></svg>`,
   x:`<svg viewBox="0 0 24 24" ${A_}><path d="M6.5 6.5l11 11M17.5 6.5l-11 11"/></svg>`,
   back:`<svg viewBox="0 0 24 24" ${A_}><path d="M19 12H5m6-6-6 6 6 6"/></svg>`,
   check:`<svg viewBox="0 0 24 24" ${A_}><path d="m5 12.5 4.5 4.5L19 7.5"/></svg>`,
@@ -822,22 +827,32 @@ function answer(result,grade){
 }
 function sessionTop(){ const s=SESSION, done=Math.min(s.seen.size-(s.answered?0:1),s.target), e=Date.now()-s.startedAt;
   return `<div class="s-top"><button class="ibtn dash" id="s-quit" aria-label="Encerrar sessão">${IC.x}</button><div class="timer"><div class="t num"><span>${Math.max(0,done)} de ${s.target}${s.learn.length?` · ${s.learn.length} pra rever`:""}</span><span id="tleft">${pad(Math.floor(e/MIN))}:${pad(Math.floor(e%MIN/1000))}</span></div><div class="tbar"><i style="width:${100*Math.max(0,done)/s.target}%"></i></div></div><span class="combo num ${s.combo>=5&&s.combo%5===0&&s.answered?'hot':''}">${IC.flame}${s.combo}x</span></div>`; }
+/* Grita: abre o Claude com a questão já explicada no pedido */
+function gritaURL(ctx){ const clip=(t,n)=>{ t=String(t||""); return t.length>n?t.slice(0,n)+"…":t; };
+  const head="Estou estudando para a 1ª fase do CACD 2026 (banca Cebraspe). Me tira uma dúvida sobre o conteúdo abaixo: explique de forma direta, com os conceitos, nomes e datas que costumam cair e as pegadinhas mais comuns.\n\n";
+  return "https://claude.ai/new?q="+encodeURIComponent(head+clip(ctx,2600)+"\n\nMinha dúvida: "); }
+function gritaItem(x,picked){ const d=x.deck, it=x.it; let t=`Matéria: ${d.materia} · Assunto: ${d.assunto}${d.edital?` (edital ${d.edital})`:""}\n`;
+  if(it.t==="f") t+=`Pergunta: ${it.q}\nResposta: ${it.a}${it.exp?`\nExplicação: ${it.exp}`:""}`;
+  else if(it.t==="m") t+=`Questão: ${it.q}\nAlternativas: ${(it.opts||[]).map((o,i)=>`(${i===it.ans?"correta":"errada"}) ${o}`).join(" | ")}${picked!=null&&picked!==it.ans?`\nEu marquei: ${it.opts[picked]}`:""}${it.exp?`\nExplicação: ${it.exp}`:""}`;
+  else t+=`${it.ctx?`Contexto: ${it.ctx}\n`:""}Item${it.ano?` (CACD ${it.ano})`:""}: ${it.s}\nGabarito: ${it.ans==="C"?"Certo":"Errado"}${it.exp?`\nJustificativa: ${it.exp}`:""}`;
+  return gritaURL(t); }
+const gritaBtn=(url,hid)=>`<a class="grita" id="grita" href="${esc(url)}" target="_blank" rel="noopener" ${hid?"hidden":""}>${IC.grita}<span>Grita — tirar dúvida com o Claude</span></a>`;
 function metaTags(x){ const d=x.deck, it=x.it, M=mat(d.materia); let t=`<span class="tag" style="background:${M.c}">${esc(d.materia)}</span><span class="tag acc">${esc(d.assunto)}</span>`; if(it.ano) t+=`<span class="tag yr">CACD ${esc(it.ano)}${it.prova?` · ${esc(it.prova)}`:""}</span>`; else if(it.t==="c") t+=`<span class="tag ined">Inédita</span>`; return `<div class="meta">${t}</div>`; }
 function renderSession(){
   const s=SESSION, x=s.cur, it=x.it, el=$("#session"); let main="";
   if(s.mode==="f"){ const now=Date.now(); const ivs=[0,1,2,3].map(g=>fmtIv(nextState(x.st,g,now)[1]-now));
     main=`${metaTags(x)}<div class="flip ${s.revealed?'on':''}" id="flip" role="button" tabindex="0" aria-label="Virar cartão"><div class="flip-in"><div class="face front"><span class="k">Pergunta</span><p class="q">${esc(it.q)}</p><span class="hint">Toque para virar</span></div><div class="face back"><span class="k">Resposta</span><p class="a">${esc(it.a)}</p>${it.exp?`<p style="font-size:14px;opacity:.8;line-height:1.5">${esc(it.exp)}</p>`:""}</div></div></div>
     <div class="grades" id="grades" ${s.revealed?"":"hidden"}><button style="background:var(--rose)" data-g="0">Errei<small>${ivs[0]}</small></button><button style="background:var(--sageL)" data-g="1">Difícil<small>${ivs[1]}</small></button><button style="background:var(--lime)" data-g="2">Bom<small>${ivs[2]}</small></button><button style="background:var(--ice)" data-g="3">Fácil<small>${ivs[3]}</small></button></div>
-    <button class="btn block" id="reveal" ${s.revealed?"hidden":""}>Mostrar resposta</button>`; }
+    <button class="btn block" id="reveal" ${s.revealed?"hidden":""}>Mostrar resposta</button>${gritaBtn(gritaItem(x),!s.revealed)}`; }
   else if(s.mode==="m"){ if(!x.order) x.order=shuffle([0,1,2,3].filter(i=>it.opts&&it.opts[i]!=null)); const L="ABCD";
-    main=`${metaTags(x)}<p class="qtext">${esc(it.q)}</p><div class="answers">${x.order.map((oi,k)=>{ let c=""; if(s.answered){ c=oi===it.ans?"right":oi===s.picked?"wrong":"dim"; } return `<button class="ans ${c}" data-o="${oi}" ${s.answered?"disabled":""}><span class="k">${L[k]}</span><span>${esc(it.opts[oi])}</span></button>`; }).join("")}</div>${s.answered?verdict(s.picked===it.ans?"ok":"ko",it.exp)+`<button class="btn block olive" id="next">Continuar</button>`:""}`; }
+    main=`${metaTags(x)}<p class="qtext">${esc(it.q)}</p><div class="answers">${x.order.map((oi,k)=>{ let c=""; if(s.answered){ c=oi===it.ans?"right":oi===s.picked?"wrong":"dim"; } return `<button class="ans ${c}" data-o="${oi}" ${s.answered?"disabled":""}><span class="k">${L[k]}</span><span>${esc(it.opts[oi])}</span></button>`; }).join("")}</div>${s.answered?verdict(s.picked===it.ans?"ok":"ko",it.exp)+`<button class="btn block olive" id="next">Continuar</button>`+gritaBtn(gritaItem(x,s.picked)):""}`; }
   else { const num=s.ok+s.ko+s.bl+(s.answered?0:1);
     main=`${metaTags(x)}${it.ctx?`<p class="ctx">${esc(it.ctx)}</p>`:""}<div class="ce-box"><span class="n num">Item ${pad(num)}</span><p>${esc(it.s)}</p></div>
-    ${s.answered?verdict(s.lastRes,it.exp,it.ans)+(it.trap&&s.lastRes!=="ok"?`<span class="tag yr" style="align-self:flex-start">Pegadinha: ${esc(TRAPS[it.trap]||it.trap)}</span>`:"")+`<div class="score num"><span class="pill sm dark">Nota líquida ${s.net>0?"+":""}${s.net}</span><span class="pill sm">${s.ok} C · ${s.ko} E · ${s.bl} em branco</span></div><button class="btn block olive" id="next">Próximo item</button>`
+    ${s.answered?verdict(s.lastRes,it.exp,it.ans)+(it.trap&&s.lastRes!=="ok"?`<span class="tag yr" style="align-self:flex-start">Pegadinha: ${esc(TRAPS[it.trap]||it.trap)}</span>`:"")+`<div class="score num"><span class="pill sm dark">Nota líquida ${s.net>0?"+":""}${s.net}</span><span class="pill sm">${s.ok} C · ${s.ko} E · ${s.bl} em branco</span></div><button class="btn block olive" id="next">Próximo item</button>`+gritaBtn(gritaItem(x))
       :`<div class="ce-btns"><button class="ce-c" data-ce="C">Certo</button><button class="ce-e" data-ce="E">Errado</button></div><button class="blank" data-ce="B">Deixar em branco</button>`}`; }
   el.innerHTML=sessionTop()+`<div class="s-body">${main}</div>`;
   $("#s-quit").onclick=()=>endSession();
-  if(s.mode==="f"){ const flip=$("#flip"), show=()=>{ if(s.revealed) return; s.revealed=true; flip.classList.add("on"); $("#grades").hidden=false; $("#reveal").hidden=true; }; flip.onclick=show; flip.onkeydown=e=>{ if(e.key===" "||e.key==="Enter"){e.preventDefault();show();} }; $("#reveal").onclick=show; el.querySelectorAll("[data-g]").forEach(b=>b.onclick=()=>{ const g=+b.dataset.g; answer(g===0?"ko":"ok",g); nextCard(); }); }
+  if(s.mode==="f"){ const flip=$("#flip"), show=()=>{ if(s.revealed) return; s.revealed=true; flip.classList.add("on"); $("#grades").hidden=false; $("#reveal").hidden=true; $("#grita").hidden=false; }; flip.onclick=show; flip.onkeydown=e=>{ if(e.key===" "||e.key==="Enter"){e.preventDefault();show();} }; $("#reveal").onclick=show; el.querySelectorAll("[data-g]").forEach(b=>b.onclick=()=>{ const g=+b.dataset.g; answer(g===0?"ko":"ok",g); nextCard(); }); }
   else if(s.mode==="m"){ el.querySelectorAll("[data-o]").forEach(b=>b.onclick=()=>{ s.picked=+b.dataset.o; const ok=s.picked===it.ans; answer(ok?"ok":"ko", ok?(Date.now()-s.t0<9000?3:2):0); renderSession(); }); }
   else { el.querySelectorAll("[data-ce]").forEach(b=>b.onclick=()=>{ const v=b.dataset.ce; const res=v==="B"?"bl":v===it.ans?"ok":"ko"; s.lastRes=res; answer(res, res==="ok"?(Date.now()-s.t0<12000?3:2):res==="ko"?0:-1); renderSession(); }); }
   const nx=$("#next"); if(nx) nx.onclick=()=>{ s.picked=null; nextCard(); };
@@ -919,7 +934,7 @@ function renderReader(){
   const r=RD, el=$("#reader");
   el.innerHTML=`<div class="r-top"><div class="segs">${r.cs.map((_,i)=>`<i data-seg="${i}"></i>`).join("")}</div><div class="r-row"><button class="ibtn dash" data-rclose aria-label="Fechar">${IC.x}</button><span class="r-day">${esc(dayLabel(r.date))}<small class="num" id="rcount"></small></span><span></span></div></div>
   <div class="r-track" id="rtrack">${r.cs.map(rcardHTML).join("")}</div>
-  <div class="r-bar"><button class="rb" data-rsave aria-label="Salvar">${IC.star}<span>Salvar</span></button><button class="rb" data-rnote aria-label="Comentar">${IC.chat}<span>Comentar</span></button><a class="rb" id="rsrc" target="_blank" rel="noopener">${IC.ext}<span>Fonte</span></a></div>
+  <div class="r-bar"><button class="rb" data-rsave aria-label="Salvar">${IC.star}<span>Salvar</span></button><button class="rb" data-rnote aria-label="Comentar">${IC.chat}<span>Comentar</span></button><a class="rb" id="rsrc" target="_blank" rel="noopener">${IC.ext}<span>Fonte</span></a><a class="rb" id="rgrita" target="_blank" rel="noopener">${IC.grita}<span>Grita</span></a></div>
   <div class="composer" id="composer" hidden><label for="ntext" class="lbl">Seu comentário sobre esta notícia</label><textarea id="ntext" rows="4" placeholder="Ex.: ligar com a reforma do CSNU, cobrar no item 13.14"></textarea><div class="cbtns"><button class="btn ghost" data-ncancel>Cancelar</button><button class="btn" data-nsave>Salvar nota</button></div></div>`;
   const tr=$("#rtrack");
   el.querySelector("[data-rclose]").onclick=closeReader;
@@ -938,6 +953,7 @@ function syncBar(){ if(!RD) return; const c=RD.cs[RD.idx], el=$("#reader");
   const cnt=$("#rcount"); if(cnt) cnt.textContent=` · ${RD.idx+1} de ${RD.cs.length}`;
   const sv=el.querySelector("[data-rsave]"); sv.setAttribute("aria-pressed",String(S.saved.ids.includes(c._id))); sv.querySelector("span").textContent=S.saved.ids.includes(c._id)?"Salva":"Salvar";
   const nb=el.querySelector("[data-rnote]"); nb.setAttribute("aria-pressed",String(!!S.notes[c._id]));
+  const gt=`Notícia do clipping (${c._date})${c.materia?` · ${c.materia}`:""}${c.edital?` · edital ${c.edital}`:""}\nTítulo: ${c.titulo}\nResumo: ${c.resumo}${(c.topicos||[]).length?`\nTópicos: ${c.topicos.map(t=>t.t+" — "+(t.b||"")).join(" / ")}`:""}${c.porque?`\nPor que importa: ${c.porque}`:""}${c.url?`\nFonte: ${c.url}`:""}`; $("#rgrita").href=gritaURL(gt);
   const a=$("#rsrc"); if(c.url){ a.href=c.url; a.hidden=false; } else a.hidden=true;
   const dark=ncol(RD.idx).dark; el.style.setProperty("--rbg", ncol(RD.idx).b); el.classList.toggle("dk",!!dark);
 }
@@ -955,7 +971,7 @@ function renderCarousel(){ const {d}=CR, sl=d.resumo, el=$("#carousel");
   el.innerHTML=`<div class="c-head">${S.assets.avatar?`<img class="c-av" src="${S.assets.avatar}" alt="">`:`<span class="c-av c-av-ph">A</span>`}<span class="c-who"><b>diplomat's hub*</b><small>${esc(d.materia)}</small></span><button class="ibtn dash" data-cclose aria-label="Fechar">${IC.x}</button></div>
   <div class="c-track" id="ctrack">${sl.map((s,i)=>`<div class="c-cell">${slideHTML(s,i,sl.length,d)}</div>`).join("")}</div>
   <div class="c-nav"><button class="ibtn" data-cprev aria-label="Anterior">${IC.back}</button><div class="c-dots">${sl.map((_,i)=>`<i data-cdot="${i}"></i>`).join("")}</div><button class="ibtn" data-cnext aria-label="Próximo">${IC.arrow}</button></div>
-  <div class="ov-foot"><button class="btn block olive" data-cplay>Jogar este assunto</button></div>`;
+  <div class="ov-foot c-foot"><a class="btn ghost" href="${esc(gritaURL(`Matéria: ${d.materia} · Assunto: ${d.assunto}${d.edital?` (edital ${d.edital})`:""}\nResumo rápido:\n${sl.map(x=>[x.t,x.b,(x.l||[]).join("; ")].filter(Boolean).join(": ")).filter(Boolean).join("\n")}`))}" target="_blank" rel="noopener">${IC.grita}Grita</a><button class="btn olive" data-cplay>Jogar este assunto</button></div>`;
   const tr=$("#ctrack"); let t=null;
   tr.onscroll=()=>{ clearTimeout(t); t=setTimeout(()=>{ CR.i=Math.round(tr.scrollLeft/tr.clientWidth); syncDots(); },60); };
   el.querySelector("[data-cclose]").onclick=()=>{ el.hidden=true; CR=null; };
