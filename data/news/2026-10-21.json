@@ -143,6 +143,43 @@
     "ans": "C",
     "exp": "O barril fechou o dia em US$ 108,79, após recuo com a notícia de mediação paquistanesa."
    }
+  },
+  {
+   "id": "2026-10-21-4",
+   "materia": "Política Internacional",
+   "edital": "13.1",
+   "titulo": "Cuba acusa EUA de pressionar países antes da votação da ONU contra o embargo",
+   "resumo": "Em 21/10, o chanceler cubano Bruno Rodríguez acusou o governo Trump de ameaçar países com tarifas, restrição de vistos e corte de programas de cooperação para que votem contra, se abstenham ou faltem à votação, na Assembleia Geral, de resolução que pede o fim do embargo americano a Cuba, prevista para 27 ou 28/10. Ele disse que o secretário de Estado, Marco Rubio, e o embaixador na ONU, Mike Waltz, conduzem a campanha. Waltz admitiu ter pedido a países europeus que reconsiderem o apoio. A AGNU aprova resoluções desse tipo quase todos os anos desde 1992, e em 2026 os EUA também bloquearam o petróleo destinado à ilha.",
+   "porque": "Multilateralismo universal (13.1): a AGNU como foro de pressão política, com resoluções não vinculantes, e o uso de tarifas e vistos como instrumento de coerção. O Brasil vota tradicionalmente contra o embargo e defende a não intervenção, princípio constitucional da política externa.",
+   "fonte": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad8ff8454c6-1792606084.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera",
+   "curso": false,
+   "ce": {
+    "s": "As resoluções da Assembleia Geral da ONU que pedem o fim do embargo a Cuba têm caráter vinculante, e seu descumprimento pelos EUA pode levar a sanções do Conselho de Segurança.",
+    "ans": "E",
+    "exp": "Pela Carta (arts. 10 a 14), as resoluções da AGNU são recomendações, sem força obrigatória. Só o Conselho de Segurança adota decisões vinculantes (art. 25), e os EUA, como membro permanente, podem vetar qualquer sanção contra si.",
+    "trap": 1
+   }
+  },
+  {
+   "id": "2026-10-21-5",
+   "materia": "Política Internacional",
+   "edital": "13",
+   "titulo": "México acusa de traição ex-procurador de Chihuahua por atuação dos EUA em operação antidrogas",
+   "resumo": "A Procuradoria-Geral do México, chefiada por Ernestina Godoy, acusou de traição à pátria César Jáuregui, ex-procurador de Chihuahua, do PAN, por permitir que agentes americanos participassem de operação contra um laboratório de drogas. O caso nasceu de um acidente de carro em 19/04, que matou dois agentes dos EUA e dois policiais mexicanos; a imprensa disse que os americanos eram da CIA, e Jáuregui nega. Sheinbaum afirma que os militares não sabiam e que a cooperação com Washington exige aval federal. Um juiz mandou mantê-lo preso preventivamente, e analistas veem recado contra acordos diretos entre estados e agências dos EUA.",
+   "porque": "Soberania e não intervenção em meio à pressão de Trump, que já sugeriu ação militar unilateral contra cartéis: ajuda a entender cooperação em segurança com os EUA na América Latina, tema que também toca a posição do Brasil sobre crime organizado e soberania.",
+   "fonte": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad90e8e-1792609934.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera",
+   "curso": false,
+   "ce": {
+    "s": "No caso mexicano, a atuação de forças estrangeiras em território nacional depende de autorização federal, e a Constituição exige aprovação do Senado para a entrada de tropas estrangeiras.",
+    "ans": "C",
+    "exp": "É o fundamento invocado pelo governo Sheinbaum: a cooperação com os EUA em segurança é aceita, mas sem ação direta de agências americanas com estados sem aval federal. O princípio da não intervenção e a soberania sustentam a posição."
+   }
   }
  ]
 }

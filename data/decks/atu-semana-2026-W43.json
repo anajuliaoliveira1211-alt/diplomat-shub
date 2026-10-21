@@ -76,6 +76,37 @@
    "t": "f",
    "q": "Qual foi a máxima do Brent em 20/10/2026 e o que a motivou?",
    "a": "US$ 111,99, a maior em cinco meses, por ataques a navios no Golfo e perto de Ormuz; fechou a US$ 108,79 após notícia de mediação paquistanesa."
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "As resoluções da Assembleia Geral da ONU que pedem o fim do embargo a Cuba têm caráter vinculante, e seu descumprimento pelos EUA pode levar a sanções do Conselho de Segurança.",
+   "ans": "E",
+   "exp": "Pela Carta (arts. 10 a 14), as resoluções da AGNU são recomendações, sem força obrigatória. Só o Conselho de Segurança adota decisões vinculantes (art. 25), e os EUA, como membro permanente, podem vetar qualquer sanção contra si.",
+   "trap": 1,
+   "ctx": "Cuba acusa EUA de pressionar países antes da votação da ONU contra o embargo"
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "No caso mexicano, a atuação de forças estrangeiras em território nacional depende de autorização federal, e a Constituição exige aprovação do Senado para a entrada de tropas estrangeiras.",
+   "ans": "C",
+   "exp": "É o fundamento invocado pelo governo Sheinbaum: a cooperação com os EUA em segurança é aceita, mas sem ação direta de agências americanas com estados sem aval federal. O princípio da não intervenção e a soberania sustentam a posição.",
+   "ctx": "México acusa de traição ex-procurador de Chihuahua por atuação dos EUA em operação antidrogas"
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "O que Cuba denunciou em 21/10/2026 antes da votação da AGNU sobre o embargo e qual o valor jurídico da resolução?",
+   "a": "Que os EUA ameaçam países com tarifas, vistos e corte de cooperação para derrubar o apoio. A resolução (votação em 27 ou 28/10) é recomendação, não vinculante.",
+   "exp": "Aprovadas quase todo ano desde 1992; o Brasil vota contra o embargo."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "Por que o México acusou de traição o ex-procurador de Chihuahua em 2026?",
+   "a": "Por permitir que agentes dos EUA participassem de operação antidrogas sem aval federal, em afronta à soberania.",
+   "exp": "Sheinbaum aceita cooperar, mas exige aval federal; o caso nasceu do acidente de 19/04 que matou dois agentes americanos."
   }
  ],
  "resumo": [
@@ -161,7 +192,7 @@
     "Referendo de Alberta é consultivo",
     "Brent fechou abaixo da máxima do dia",
     "Ucrânia: retomada de conversas ainda é intenção",
-    "Acordo Índia–NZ é assimétrico",
+    "Resolução da AGNU (embargo a Cuba) não é vinculante",
     "Ingerência ≠ rompimento de relações"
    ]
   }
