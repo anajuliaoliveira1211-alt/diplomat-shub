@@ -1,0 +1,169 @@
+{
+ "kind": "deck",
+ "materia": "Atualidades",
+ "assunto": "Semana de 19 a 25/out",
+ "edital": "13",
+ "week": "2026-W43",
+ "notionUrl": "",
+ "updatedAt": "2026-10-21",
+ "items": [
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "No referendo de Alberta, cerca de 76% dos votos foram a favor de a província permanecer no Canadá.",
+   "ans": "C",
+   "exp": "A consulta de 19/10 rejeitou a proposta de abrir um processo de independência; só cerca de 24% a apoiaram.",
+   "ctx": "Petit Journal: Alberta fica no Canadá, Índia–Nova Zelândia, Ucrânia e Mar Negro"
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "Segundo dados oficiais divulgados em 19/10, o PIB da China cresceu 4,5% no terceiro trimestre na comparação anual.",
+   "ans": "C",
+   "exp": "A produção industrial e as exportações foram fortes, mas a demanda interna (varejo +1,1%) segue fraca.",
+   "ctx": "Petit Journal: guerra autônoma, PIB da China, França e sanções à Rússia"
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "Em nota divulgada em 20/10/2026, o Itamaraty classificou declarações de Milei sobre o voto eletrônico brasileiro como nova tentativa de ingerência externa no processo democrático do país.",
+   "ans": "C",
+   "exp": "A nota repudia a insinuação de fraude no segundo turno e afirma que a decisão cabe só aos brasileiros.",
+   "ctx": "Itamaraty rebate Milei e fala em ingerência na eleição brasileira"
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "Segundo o Kremlin, Putin informou ao enviado Steve Witkoff que a Rússia está disposta a retomar, por volta de 10 de novembro, as negociações trilaterais com Ucrânia e EUA.",
+   "ans": "C",
+   "exp": "A informação foi dada por Yuri Ushakov, conselheiro de política internacional do Kremlin; as conversas estão paradas desde fevereiro.",
+   "ctx": "Putin se diz pronto a retomar conversas trilaterais com a Ucrânia por volta de 10 de novembro"
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "Em 20/10/2026, o Brent atingiu US$ 111,99, maior nível em cinco meses, em meio a ataques à navegação perto do Estreito de Ormuz.",
+   "ans": "C",
+   "exp": "O barril fechou o dia em US$ 108,79, após recuo com a notícia de mediação paquistanesa.",
+   "ctx": "Brent toca US$ 111,99, maior nível em cinco meses, com ataques a navios no Golfo"
+  },
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Qual foi o resultado do referendo de Alberta e o caráter da consulta?",
+   "a": "Cerca de 76% votaram por permanecer no Canadá; a consulta foi de caráter consultivo, convocada pela premiê provincial Danielle Smith."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "O que mostrou o PIB chinês do 3º trimestre de 2026 (Petit Journal de 19/10)?",
+   "a": "Alta de 4,5% anual, puxada por exportações (+36% em setembro) e indústria, com demanda interna fraca (varejo +1,1%)."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "Como o Itamaraty reagiu às declarações de Milei sobre as eleições brasileiras em 20/10/2026?",
+   "a": "Nota de repúdio: classificou as falas como nova e inaceitável tentativa de ingerência externa e defendeu a segurança do voto eletrônico; o Brasil está sem embaixador em Buenos Aires desde agosto."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "O que Putin disse a Witkoff sobre as negociações com a Ucrânia (21/10/2026)?",
+   "a": "Segundo o Kremlin, a Rússia aceita retomar por volta de 10 de novembro as conversas trilaterais com EUA e Ucrânia, paradas desde fevereiro."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "Qual foi a máxima do Brent em 20/10/2026 e o que a motivou?",
+   "a": "US$ 111,99, a maior em cinco meses, por ataques a navios no Golfo e perto de Ormuz; fechou a US$ 108,79 após notícia de mediação paquistanesa."
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Milei, Putin, Ormuz, Alberta e a Europa em ebulição na semana."
+  },
+  {
+   "t": "Itamaraty × Milei",
+   "b": "Nota de 20/10 repudia insinuações de fraude no segundo turno e fala em ingerência externa.",
+   "l": [
+    "Voto eletrônico seguro, diz o MRE",
+    "Brasil sem embaixador em Buenos Aires"
+   ],
+   "n": "25/10"
+  },
+  {
+   "t": "Ucrânia: janela de diálogo",
+   "b": "Putin diz a Witkoff que aceita retomar conversas trilaterais por volta de 10 de novembro.",
+   "l": [
+    "Zelensky aceita congelar a linha de frente",
+    "Pede garantias de segurança"
+   ],
+   "n": "10/11"
+  },
+  {
+   "t": "Brent e Ormuz",
+   "b": "Petróleo toca US$ 111,99, máxima em cinco meses, com ataques a navios e riscos no Golfo.",
+   "l": [
+    "Fechou a US$ 108,79",
+    "Mediação do Paquistão em Teerã"
+   ],
+   "n": "US$ 111,99"
+  },
+  {
+   "t": "Alberta fica no Canadá",
+   "b": "Referendo consultivo: cerca de 76% votam por permanecer, 24% pela independência.",
+   "l": [
+    "Convocado por Danielle Smith",
+    "Carney acelera oleoduto estratégico"
+   ],
+   "n": "76%"
+  },
+  {
+   "t": "Índia–Nova Zelândia",
+   "b": "Acordo de livre comércio entra em vigor: 100% das exportações indianas sem tarifas.",
+   "l": [
+    "US$ 20 bi em investimentos em 15 anos",
+    "Diversificação diante dos EUA"
+   ]
+  },
+  {
+   "t": "IA e guerra autônoma",
+   "b": "Relatório da ONU defende decisão humana sobre vidas; EUA pedem cerca de US$ 200 bi para IA militar.",
+   "l": [
+    "Gasto militar acima de US$ 1 trilhão",
+    "Problema da responsabilização"
+   ],
+   "n": "US$ 200 bi"
+  },
+  {
+   "t": "China cresce 4,5%",
+   "b": "PIB do 3º trimestre sustentado por exportações; demanda interna segue fraca.",
+   "l": [
+    "Exportações +36% em setembro",
+    "Varejo +1,1%, investimento −7,2%"
+   ],
+   "n": "4,5%"
+  },
+  {
+   "t": "Europa sob tensão",
+   "b": "Toques de recolher na França, lei antiprotesto na Itália e OTAN reforçando o Mar Negro.",
+   "l": [
+    "Juro francês de 10 anos perto de 4,9%",
+    "Itália: até 5 anos de prisão",
+    "Nova greve na França em 5/11"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Referendo de Alberta é consultivo",
+    "Brent fechou abaixo da máxima do dia",
+    "Ucrânia: retomada de conversas ainda é intenção",
+    "Acordo Índia–NZ é assimétrico",
+    "Ingerência ≠ rompimento de relações"
+   ]
+  }
+ ]
+}

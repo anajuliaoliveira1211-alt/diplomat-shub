@@ -3,6 +3,94 @@
  "date": "2026-10-21",
  "cards": [
   {
+   "id": "2026-10-21-pj75891524",
+   "pj_guid": "75891524",
+   "podcast": "Petit Journal · BP 1164 · 30 min",
+   "materia": "Política Internacional",
+   "edital": "13",
+   "titulo": "Petit Journal: Alberta fica no Canadá, Índia–Nova Zelândia, Ucrânia e Mar Negro",
+   "resumo": "Episódio de 20/10 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Alberta rejeita deixar o Canadá",
+     "b": "No referendo consultivo, cerca de 76% votaram por permanecer e 24% pela abertura de um processo de independência. A premiê provincial Danielle Smith, pessoalmente contrária, convocou a consulta e disse que ela tira o tema da pauta. Para os apresentadores, é capital político para Mark Carney diante das provocações de Trump, que o premiê retribuiu acelerando um oleoduto estratégico com participação da província."
+    },
+    {
+     "t": "Acordo Índia–Nova Zelândia entra em vigor",
+     "b": "Assinado em Nova Délhi em 27 de abril, dá acesso livre de tarifas a 100% das exportações indianas desde o primeiro dia e prevê US$ 20 bilhões em investimentos indianos em 15 anos; 57% das vendas neozelandesas ficam livres de tarifas de início. É assimétrico e se soma ao acordo Índia–UE de janeiro, numa estratégia de diversificar mercados diante do protecionismo americano."
+    },
+    {
+     "t": "Trump, Zelensky e a reunião de Oslo",
+     "b": "Trump segue acenando a Moscou e culpando Kiev. Zelensky se reuniu em Oslo com o enviado Steve Witkoff, com Jared Kushner por vídeo e mediação do premiê norueguês Støre e do presidente finlandês Stubb. Kiev cobra interceptadores balísticos, alertas antecipados e o restabelecimento do serviço Starlink; Rubio admitiu possíveis atrasos nas entregas."
+    },
+    {
+     "t": "Itália endurece a lei contra protestos",
+     "b": "Novo pacote cria o crime de participação violenta em manifestações, com até cinco anos de prisão e multa de até € 20 mil, penas maiores para rosto coberto ou feridos e responsabilidade financeira de pais por filhos. Vem após protestos no norte e greves de caminhoneiros por causa do diesel. A leitura é que a energia cara alimenta a inflação e a tensão social na Europa."
+    },
+    {
+     "t": "OTAN reforça o Mar Negro",
+     "b": "Em sessão de emergência, embaixadores aprovaram aeronaves de patrulha marítima, radar de alerta antecipado, drones de reconhecimento e equipes de inteligência. Ataques russos a navios mercantes se aproximaram de águas de Romênia e Bulgária, e caças romenos reagiram a drones russos. Os seguros marítimos subiram e a Ucrânia passa a exportar perto de águas de países da OTAN."
+    },
+    {
+     "t": "Colômbia aprova orçamento com déficit de 9,4% do PIB",
+     "b": "O Congresso aprovou o orçamento de 2027, de 634,9 trilhões de pesos (cerca de US$ 200 bilhões), com gastos maiores, sobretudo em defesa, e cortes em programas ligados à paz. A dívida pública, pouco acima de 60% do PIB, cresce rápido, e o país não recuperou o grau de investimento perdido em 2021."
+    }
+   ],
+   "porque": "Reúne temas de política internacional: secessionismo e federalismo no Canadá, acordos de livre comércio, a guerra na Ucrânia e a segurança europeia (OTAN e Mar Negro).",
+   "ce": {
+    "s": "No referendo de Alberta, cerca de 76% dos votos foram a favor de a província permanecer no Canadá.",
+    "ans": "C",
+    "exp": "A consulta de 19/10 rejeitou a proposta de abrir um processo de independência; só cerca de 24% a apoiaram."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/alberta-diz-que-fica-bp-1164--75891524",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-10-21-pj75868261",
+   "pj_guid": "75868261",
+   "podcast": "Petit Journal · BP 1163 · 30 min",
+   "materia": "Política Internacional",
+   "edital": "13",
+   "titulo": "Petit Journal: guerra autônoma, PIB da China, França e sanções à Rússia",
+   "resumo": "Episódio de 19/10 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Guerra autônoma e IA militar",
+     "b": "Um relatório da ONU alerta que decisões que põem vidas em risco devem ser humanas, também para permitir responsabilização. Os apresentadores contrastam isso com o pedido do governo Trump de cerca de US$ 200 bilhões para sistemas militares autônomos e IA bélica no ano fiscal de 2027, com o gasto militar já acima de US$ 1 trilhão. O orçamento do grupo de guerra autônoma do Pentágono teria saltado de US$ 225 milhões para US$ 54 bilhões."
+    },
+    {
+     "t": "PIB chinês cresce 4,5% no terceiro trimestre",
+     "b": "A demanda interna segue fraca: varejo +1,1% em setembro e investimento em ativos fixos −7,2% em nove meses. Produção industrial subiu 5,5% e exportações passaram de 36% em setembro, puxadas por IA e tecnologias verdes. A leitura é de crescimento dependente de mercados externos, sujeito a barreiras e saturação."
+    },
+    {
+     "t": "França após os protestos",
+     "b": "Toques de recolher em cidades como Lille, Nice e Marselha e em áreas de Paris. A federação patronal contou cerca de 3 mil lojas danificadas ou saqueadas e pediu alívio tributário. O ministro do Interior ofereceu demissão e Macron recusou. Há nova mobilização nacional marcada para 5 de novembro, e o juro de 10 anos subiu a cerca de 4,9%, perto do maior em duas décadas, com temor de contágio à Itália."
+    },
+    {
+     "t": "Portugal protesta contra o preço da moradia",
+     "b": "Manifestações em Lisboa e no Porto refletem a alta de imóveis e aluguéis, que empurra famílias para a periferia ou de volta para a casa dos pais. Entre as saídas discutidas estão menos burocracia e mais habitação pública, de um lado, e limites ao alojamento local e a fundos especulativos, de outro. A pressão recai sobre o premiê Luís Montenegro."
+    },
+    {
+     "t": "Trump suspende sanções à Rússia",
+     "b": "Com popularidade de 31%, recorde negativo, a duas semanas das eleições legislativas de 3 de novembro, Trump barrou novas sanções à Rússia que entrariam em vigor em dois dias, alegando as negociações de paz. Os EUA também buscam viabilizar a compra de diesel russo para aliviar preços. Para os apresentadores, Trump culpa Zelensky e desloca o alinhamento americano para Moscou."
+    }
+   ],
+   "porque": "Cobre segurança internacional e regulação de armas autônomas, a economia chinesa, tensões políticas e fiscais na Europa e a política dos EUA diante da guerra na Ucrânia.",
+   "ce": {
+    "s": "Segundo dados oficiais divulgados em 19/10, o PIB da China cresceu 4,5% no terceiro trimestre na comparação anual.",
+    "ans": "C",
+    "exp": "A produção industrial e as exportações foram fortes, mas a demanda interna (varejo +1,1%) segue fraca."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/bilhoes-para-guerra-por-ia-bp-1163--75868261",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
    "id": "2026-10-21-1",
    "materia": "Política Internacional",
    "edital": "2",
