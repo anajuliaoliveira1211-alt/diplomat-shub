@@ -4,7 +4,7 @@
   "pi-nao-proliferacao"
  ],
  "kind": "sync",
- "lastRun": "2026-10-14",
+ "lastRun": "2026-10-21",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",
@@ -169,6 +169,14 @@
   "3f877560e5fa80f9bffcf220597bf857": {
    "deck": "hm-fascismos",
    "edited": "2026-10-13T20:16:03.962Z"
+  },
+  "3f977560e5fa80489361dbe3f9c667ff": {
+   "deck": "geo-fontes-energia",
+   "edited": "2026-10-21T20:52:12.339Z"
+  },
+  "40077560e5fa804982a8f0bcfdfc855e": {
+   "deck": "hm-fascismos-consolidacao",
+   "edited": "2026-10-21T21:05:16.347Z"
   }
  }
 }

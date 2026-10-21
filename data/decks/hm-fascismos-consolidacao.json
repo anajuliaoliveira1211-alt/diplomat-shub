@@ -1,0 +1,385 @@
+{
+ "kind": "deck",
+ "materia": "História Mundial",
+ "assunto": "Consolidação dos fascismos",
+ "edital": "6.3–6.5",
+ "notionUrl": "https://app.notion.com/p/40077560e5fa804982a8f0bcfdfc855e",
+ "updatedAt": "2026-10-21",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Quais são os traços comuns dos regimes fascistas?",
+   "a": "Autoritarismo, antidemocracia, unipartidarismo, ultranacionalismo, anticomunismo, culto ao líder e Estado intervindo na economia.",
+   "exp": "Rejeitam a divisão de poderes e a democracia liberal, e se dizem 'revolucionários' contra o capitalismo liberal da crise de 1929."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "Por que o fascismo é descrito como irracionalista?",
+   "a": "Porque exalta a obediência cega ao líder, o mito e a emoção das massas no lugar do debate e da razão crítica.",
+   "exp": "O irracionalismo sustenta o culto ao líder: seguir sem questionar."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "Como Hannah Arendt define o Estado totalitário e quais regimes ela considera plenamente totalitários?",
+   "a": "Estado presente em todos os setores da vida (economia, cultura, vida privada). Para ela, a Alemanha nazista e a URSS stalinista; a Itália de Mussolini ficou aquém.",
+   "exp": "Cuidado: Arendt não trata os três regimes como equivalentes."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "O que foi o IRI e quem o criou?",
+   "a": "Instituto para a Reconstrução Industrial (1933), criado no regime de Mussolini para controlar setores estratégicos, como siderurgia e construção naval.",
+   "exp": "Exemplo de intervenção estatal e de busca por autossuficiência (autarquia) na Itália fascista."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "Qual a diferença entre o corporativismo italiano e a política trabalhista nazista?",
+   "a": "Na Itália, corporações reuniam Estado, patrões e trabalhadores sob tutela do regime; na Alemanha, sindicatos livres foram dissolvidos e substituídos pela Frente Alemã do Trabalho.",
+   "exp": "Ambos reprimiram sindicatos independentes; o 'corporativismo' é rótulo especialmente italiano."
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Que grupos serviam de instrumento de repressão na Itália e na Alemanha?",
+   "a": "Camisas negras (Itália); SA, SS e Gestapo (Alemanha).",
+   "exp": "Milícias partidárias e polícia política fizeram o controle social."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "O que estabeleceram as Leis de Nuremberg (1935)?",
+   "a": "Retiraram a cidadania dos judeus e proibiram casamentos e relações entre judeus e 'arianos'.",
+   "exp": "A esterilização forçada de pessoas com doenças hereditárias veio de lei anterior, de 1933."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "O que foi a Noite dos Cristais?",
+   "a": "Pogrom de 9–10 de novembro de 1938, organizado pelo regime nazista: lojas e sinagogas judaicas foram destruídas e milhares de judeus presos.",
+   "exp": "Marca a escalada da perseguição antissemita rumo ao Holocausto."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Que obra de Leni Riefenstahl é exemplo de propaganda nazista e que técnica ela renovou?",
+   "a": "'O Triunfo da Vontade' (1935), sobre o congresso nazista de Nuremberg; ela também filmou as Olimpíadas de 1936 ('Olympia'), com técnicas inovadoras de câmera.",
+   "exp": "Cinema de massas como instrumento de controle ideológico."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "Como Itália e Alemanha usaram o esporte na propaganda?",
+   "a": "Itália: Copa do Mundo de 1934, sediada e vencida pelo país; Alemanha: Olimpíadas de Berlim, em 1936, para exaltar a superioridade 'ariana'.",
+   "exp": "Em 1936 o regime moderou a propaganda aberta para receber a imprensa estrangeira."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "O que foi o Tratado de Latrão (1929)?",
+   "a": "Acordo entre Mussolini e a Santa Sé: resolveu a Questão Romana, criou o Estado da Cidade do Vaticano e previu compensação financeira à Igreja.",
+   "exp": "Mussolini ganhou legitimidade católica; a Igreja ganhou soberania territorial."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Qual foi a posição de Hitler diante de católicos e protestantes?",
+   "a": "Manteve certa equidistância entre as duas Igrejas para não perder apoio em nenhuma região da Alemanha.",
+   "exp": "Diferente de Mussolini, que fez acordo formal com o Vaticano."
+  },
+  {
+   "id": "f13",
+   "t": "f",
+   "q": "O que é 'espaço vital' (Lebensraum)?",
+   "a": "Teoria que justificava a expansão territorial alemã para o leste, para garantir terra e recursos ao povo 'ariano'.",
+   "exp": "No caso italiano, o expansionismo buscava recriar a grandeza do Império Romano."
+  },
+  {
+   "id": "f14",
+   "t": "f",
+   "q": "O que foi a política de apaziguamento e quem a criticou?",
+   "a": "Cessão de exigências a Hitler (ex.: Sudetos, em Munique, 1938) para evitar nova guerra; Churchill disse que se escolheu a desonra para evitar a guerra e se teria ambas.",
+   "exp": "Parte das elites via o nazismo como barreira contra a URSS."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Qual conjunto de normas de 1935 proibiu casamentos entre judeus e 'arianos' e retirou a cidadania dos judeus alemães?",
+   "opts": [
+    "Leis de Nuremberg",
+    "Decreto do Incêndio do Reichstag",
+    "Lei de Concessão de Plenos Poderes",
+    "Pacto de Aço"
+   ],
+   "ans": 0,
+   "exp": "As Leis de Nuremberg (1935) institucionalizaram o racismo de Estado; as demais normas são de 1933 ou de 1939 e tratam de outros assuntos."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "O Tratado de Latrão (1929) resolveu qual questão?",
+   "opts": [
+    "Questão Romana",
+    "Questão de Fiume",
+    "Questão do Sarre",
+    "Questão Adriática"
+   ],
+   "ans": 0,
+   "exp": "Mussolini e a Santa Sé encerraram o conflito aberto desde a unificação italiana e criaram o Vaticano como Estado."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "Que instituição criada no regime de Mussolini controlou setores estratégicos da economia?",
+   "opts": [
+    "IRI (Instituto para a Reconstrução Industrial)",
+    "Frente Alemã do Trabalho",
+    "Comintern",
+    "Reichsbank"
+   ],
+   "ans": 0,
+   "exp": "O IRI (1933) é exemplo de Estado intervencionista e autárquico; a Frente Alemã do Trabalho é nazista."
+  },
+  {
+   "id": "m4",
+   "t": "m",
+   "q": "Quem dirigiu 'O Triunfo da Vontade', clássico da propaganda nazista?",
+   "opts": [
+    "Leni Riefenstahl",
+    "Fritz Lang",
+    "Sergei Eisenstein",
+    "Charlie Chaplin"
+   ],
+   "ans": 0,
+   "exp": "Riefenstahl filmou o congresso nazista de 1934 e depois as Olimpíadas de 1936."
+  },
+  {
+   "id": "m5",
+   "t": "m",
+   "q": "Segundo Hannah Arendt, qual destes regimes foi plenamente totalitário?",
+   "opts": [
+    "Alemanha nazista",
+    "Itália de Mussolini",
+    "Espanha de Franco",
+    "Portugal de Salazar"
+   ],
+   "ans": 0,
+   "exp": "Para Arendt, só o nazismo e o stalinismo alcançaram o totalitarismo pleno; a Itália ficou aquém."
+  },
+  {
+   "id": "m6",
+   "t": "m",
+   "q": "Como ficou conhecido o pogrom de 9–10 de novembro de 1938 contra judeus alemães?",
+   "opts": [
+    "Noite dos Cristais",
+    "Noite das Facas Longas",
+    "Putsch da Cervejaria",
+    "Anschluss"
+   ],
+   "ans": 0,
+   "exp": "A Noite das Facas Longas (1934) foi purga interna; o Putsch é de 1923; o Anschluss é a anexação da Áustria."
+  },
+  {
+   "id": "m7",
+   "t": "m",
+   "q": "Qual acordo de 1938 simboliza a política de apaziguamento diante de Hitler?",
+   "opts": [
+    "Conferência de Munique",
+    "Tratado de Rapallo",
+    "Acordos de Locarno",
+    "Tratado de Versalhes"
+   ],
+   "ans": 0,
+   "exp": "Em Munique, Reino Unido e França aceitaram a anexação dos Sudetos tchecos."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "Para Hannah Arendt, a Itália de Mussolini e a Alemanha nazista são exemplos igualmente plenos de Estado totalitário.",
+   "ans": "E",
+   "exp": "Arendt aponta a Alemanha nazista e a URSS stalinista como plenamente totalitárias; a Itália de Mussolini ficou aquém.",
+   "trap": 1
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "Mussolini criou o IRI para controlar setores estratégicos da economia, coerente com um Estado intervencionista e autárquico.",
+   "ans": "C",
+   "exp": "O IRI (1933) controlou setores como siderurgia e construção naval."
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "O Terceiro Reich manteve sindicatos autônomos integrados ao Estado, nos moldes do corporativismo italiano.",
+   "ans": "E",
+   "exp": "Na Alemanha os sindicatos livres foram dissolvidos e substituídos pela Frente Alemã do Trabalho; o corporativismo é característica especialmente italiana.",
+   "trap": 6
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "As Leis de Nuremberg (1935) instituíram a esterilização forçada de pessoas com doenças hereditárias.",
+   "ans": "E",
+   "exp": "As Leis de Nuremberg retiraram a cidadania dos judeus e proibiram casamentos mistos; a lei de esterilização é de 1933.",
+   "trap": 4
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "A Noite dos Cristais (1938) foi uma violência organizada pelo regime nazista contra a população judaica.",
+   "ans": "C",
+   "exp": "Lojas e sinagogas foram destruídas e milhares de judeus presos em 9–10 de novembro de 1938."
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "Leni Riefenstahl dirigiu filmes de propaganda do regime nazista, entre eles 'O Triunfo da Vontade' e o registro das Olimpíadas de 1936.",
+   "ans": "C",
+   "exp": "Os dois filmes são dela; o segundo é 'Olympia'."
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "Desde a chegada de Mussolini ao poder (1922), a Itália fascista adotou política de perseguição racial sistemática equivalente à nazista.",
+   "ans": "E",
+   "exp": "As leis raciais italianas só vieram em 1938, na aproximação com a Alemanha.",
+   "trap": 5
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "O Tratado de Latrão (1929) resolveu a Questão Romana e criou o Estado da Cidade do Vaticano.",
+   "ans": "C",
+   "exp": "Mussolini conseguiu o apoio da Igreja; o Vaticano obteve soberania e compensação financeira."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "Hitler declarou o catolicismo religião oficial do Reich e rompeu com os protestantes.",
+   "ans": "E",
+   "exp": "Hitler manteve equidistância entre católicos e protestantes para preservar apoio em todas as regiões.",
+   "trap": 1
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "A teoria do espaço vital fundamentou a justificativa da expansão territorial alemã.",
+   "ans": "C",
+   "exp": "Lebensraum: terra e recursos para o povo 'ariano' no leste europeu."
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "Parte dos líderes europeus aceitou o apaziguamento por acreditar que o expansionismo nazista se voltaria contra a União Soviética.",
+   "ans": "C",
+   "exp": "Chamberlain e outros esperavam evitar nova guerra e canalizar Hitler contra Moscou; Churchill criticou a política."
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "Os regimes fascistas se caracterizaram pelo pluripartidarismo, desde que respeitada a divisão de poderes.",
+   "ans": "E",
+   "exp": "O fascismo é unipartidário, centraliza o poder e viola a divisão de poderes.",
+   "trap": 2
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "A Copa do Mundo de 1934, sediada pela Itália, foi usada pelo regime fascista como instrumento de propaganda.",
+   "ans": "C",
+   "exp": "Mussolini quis mostrar a eficiência da organização política e social do regime."
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Como os fascismos controlaram Estado, economia e mentes."
+  },
+  {
+   "t": "Traços comuns",
+   "b": "Autoritarismo, antidemocracia, partido único, ultranacionalismo e anticomunismo, com culto ao líder.",
+   "l": [
+    "Fim da divisão de poderes",
+    "Irracionalismo: obedecer sem questionar",
+    "Crítica ao capitalismo liberal de 1929"
+   ]
+  },
+  {
+   "t": "Totalitarismo em Arendt",
+   "b": "Estado onipresente na economia e na cultura. Para ela, nazismo e stalinismo; a Itália ficou aquém.",
+   "l": [
+    "Alemanha nazista e URSS stalinista",
+    "Itália de Mussolini: menos total"
+   ]
+  },
+  {
+   "t": "Economia e Estado",
+   "b": "Intervenção estatal e busca de autossuficiência, com apoio de grandes empresas.",
+   "l": [
+    "Itália: IRI controla setores estratégicos",
+    "Empresas alemãs lucraram com trabalho forçado",
+    "Belicismo como motor do crescimento alemão"
+   ],
+   "n": "IRI 1933"
+  },
+  {
+   "t": "Corporativismo x repressão",
+   "b": "A Itália integrou capital, trabalho e Estado em corporações; a Alemanha dissolveu sindicatos.",
+   "l": [
+    "Itália: corporações sob tutela",
+    "Alemanha: Frente Alemã do Trabalho"
+   ]
+  },
+  {
+   "t": "Repressão e racismo",
+   "b": "Camisas negras, SA, SS e Gestapo controlavam a sociedade. O arianismo foi pilar do nazismo.",
+   "l": [
+    "Leis de Nuremberg (1935)",
+    "Noite dos Cristais (1938)",
+    "Itália: leis raciais só em 1938"
+   ],
+   "n": "9–10/11/1938"
+  },
+  {
+   "t": "Propaganda e cultura",
+   "b": "Censura, queima de livros e cinema de massas; o esporte virou vitrine do regime.",
+   "l": [
+    "Riefenstahl: O Triunfo da Vontade",
+    "Copa de 1934 na Itália",
+    "Olimpíadas de Berlim, em 1936"
+   ]
+  },
+  {
+   "t": "Religião",
+   "b": "Mussolini fez acordo com a Igreja; Hitler manteve distância igual de católicos e protestantes.",
+   "l": [
+    "Tratado de Latrão (1929)",
+    "Criação do Vaticano"
+   ],
+   "n": "1929"
+  },
+  {
+   "t": "Rumo à guerra",
+   "b": "Espaço vital alemão, império romano sonhado por Mussolini e expansão racial japonesa no Eixo.",
+   "l": [
+    "Lebensraum",
+    "Eixo Roma-Berlim-Tóquio",
+    "Apaziguamento em Munique (1938)"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Arendt: Itália não é totalitária plena",
+    "Esterilização forçada não é das Leis de Nuremberg",
+    "Itália não perseguiu judeus sistematicamente antes de 1938",
+    "Hitler não oficializou nenhuma Igreja",
+    "Fascismo é unipartidário"
+   ]
+  }
+ ]
+}

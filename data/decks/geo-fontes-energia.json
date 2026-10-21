@@ -1,0 +1,384 @@
+{
+ "kind": "deck",
+ "materia": "Geografia",
+ "assunto": "Fontes de energia no mundo",
+ "edital": "3.3",
+ "notionUrl": "https://app.notion.com/p/3f977560e5fa80489361dbe3f9c667ff",
+ "updatedAt": "2026-10-21",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Qual a diferença entre matriz energética e matriz elétrica?",
+   "a": "Matriz energética é tudo o que o país consome de energia (transporte, calor industrial, eletricidade); matriz elétrica são só as fontes que geram eletricidade.",
+   "exp": "Brasil: matriz elétrica muito renovável; matriz energética total ainda depende de fósseis, como diesel e gasolina."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "Qual o peso dos combustíveis fósseis na matriz energética mundial?",
+   "a": "Cerca de 80% da energia consumida, em torno de três quartos a quatro quintos.",
+   "exp": "Por isso se fala em transição energética."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "Que fatores definem a matriz energética de um país?",
+   "a": "Naturais, econômicos, geopolíticos, sociais (ambientalismo) e científicos (tecnologia).",
+   "exp": "Cada país combina recursos, capital, segurança energética, pressão social e capacidade tecnológica."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "Qual o papel dos choques do petróleo de 1973 e 1979 na matriz energética mundial?",
+   "a": "Impulsionaram a diversificação, incluindo a energia nuclear, e o planejamento da segurança energética.",
+   "exp": "Ambos ligados a embargos e crises da OPEP e do Oriente Médio."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "O que foi a 'Revolução do Xisto' e qual sua consequência?",
+   "a": "Uso de fraturamento hidráulico (fracking) para extrair gás e óleo de xisto, que transformou os EUA em grandes exportadores de energia.",
+   "exp": "Reduziu a dependência externa dos EUA e alterou a geopolítica do gás."
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Quem tem as maiores reservas provadas de petróleo?",
+   "a": "A Venezuela lidera (óleo extrapesado do Orinoco), seguida por Arábia Saudita, Irã e Iraque.",
+   "exp": "Maiores produtores: EUA, Arábia Saudita, Rússia, Canadá, Iraque e China."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "Quem tem as maiores reservas de gás natural?",
+   "a": "Rússia (campos como Urengoy), Irã e Catar (Campo Norte).",
+   "exp": "O gás depende de dutos ou de GNL, que exige liquefação e navios criogênicos."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "Por que o gás natural é visto como combustível de transição?",
+   "a": "Emite cerca de metade do CO2 do carvão, mas há vazamento de metano e impacto do fracking.",
+   "exp": "A UE o incluiu, com a nuclear, em sua taxonomia como atividade de transição, com polêmica."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Quais são os grandes produtores de carvão e quais países dependem dele?",
+   "a": "Produtores: China, Índia, Indonésia, Austrália e EUA. China, Índia e África do Sul seguem muito dependentes.",
+   "exp": "É o combustível fóssil de maior intensidade de carbono."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "Quais são as vantagens e os riscos da energia nuclear?",
+   "a": "Alta capacidade de geração contínua e zero emissão operacional de GEE; riscos: rejeitos radioativos, custo inicial alto e acidentes (Chernobyl, 1986; Fukushima, 2011).",
+   "exp": "É não renovável, mas de baixa emissão de carbono."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "Quem lidera o urânio no mundo?",
+   "a": "Cazaquistão é o maior produtor; Austrália tem as maiores reservas; Canadá e Namíbia também se destacam.",
+   "exp": "Não confunda produção com reserva."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Quais países lideram a hidroeletricidade?",
+   "a": "China (Três Gargantas), Brasil, Canadá e EUA. Itaipu é binacional, Brasil e Paraguai.",
+   "exp": "Hidrelétricas alteram rios, emitem metano nos reservatórios e sofrem com secas."
+  },
+  {
+   "id": "f13",
+   "t": "f",
+   "q": "Qual a posição da China em solar e eólica?",
+   "a": "Domina a cadeia de painéis fotovoltaicos e é líder em eólica, além de maior investidora em renováveis, mas ainda depende muito do carvão.",
+   "exp": "Contraste que cai em prova."
+  },
+  {
+   "id": "f14",
+   "t": "f",
+   "q": "Como é a matriz brasileira em eletricidade e nuclear?",
+   "a": "Matriz elétrica predominantemente renovável (hidro, eólica, solar, biomassa) e duas usinas nucleares em operação, Angra 1 e 2, com Angra 3 inacabada.",
+   "exp": "A hidráulica perde participação proporcional, com avanço de solar e eólica."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Qual país detém as maiores reservas provadas de petróleo do mundo?",
+   "opts": [
+    "Venezuela",
+    "Arábia Saudita",
+    "Rússia",
+    "Estados Unidos"
+   ],
+   "ans": 0,
+   "exp": "A Venezuela lidera por causa do óleo extrapesado do Orinoco; a Arábia Saudita vem logo atrás."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "Qual técnica impulsionou a 'Revolução do Xisto' nos EUA?",
+   "opts": [
+    "Fraturamento hidráulico (fracking)",
+    "Enriquecimento de urânio",
+    "Craqueamento catalítico",
+    "Captura de carbono (CCUS)"
+   ],
+   "ans": 0,
+   "exp": "O fracking viabilizou o gás e o óleo de xisto e tornou os EUA grandes exportadores."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "Qual país é o maior produtor mundial de urânio?",
+   "opts": [
+    "Cazaquistão",
+    "Canadá",
+    "Namíbia",
+    "Rússia"
+   ],
+   "ans": 0,
+   "exp": "O Cazaquistão lidera a mineração; as maiores reservas estão na Austrália."
+  },
+  {
+   "id": "m4",
+   "t": "m",
+   "q": "Qual combustível fóssil tem a maior intensidade de carbono?",
+   "opts": [
+    "Carvão mineral",
+    "Gás natural",
+    "Petróleo",
+    "Biomassa"
+   ],
+   "ans": 0,
+   "exp": "O carvão emite mais CO2 por unidade de energia e causa chuva ácida."
+  },
+  {
+   "id": "m5",
+   "t": "m",
+   "q": "Qual país domina a cadeia de suprimentos de painéis solares?",
+   "opts": [
+    "China",
+    "Alemanha",
+    "Índia",
+    "Estados Unidos"
+   ],
+   "ans": 0,
+   "exp": "A China controla o polissilício e a fabricação de módulos, exportados para o mundo."
+  },
+  {
+   "id": "m6",
+   "t": "m",
+   "q": "Qual acidente nuclear de 1986 freou a expansão da energia nuclear?",
+   "opts": [
+    "Chernobyl",
+    "Fukushima",
+    "Three Mile Island",
+    "Kyshtym"
+   ],
+   "ans": 0,
+   "exp": "Chernobyl ocorreu em 1986, na União Soviética; Fukushima é de 2011 e Three Mile Island, de 1979."
+  },
+  {
+   "id": "m7",
+   "t": "m",
+   "q": "Itaipu é uma hidrelétrica binacional entre quais países?",
+   "opts": [
+    "Brasil e Paraguai",
+    "Brasil e Argentina",
+    "Brasil e Uruguai",
+    "Paraguai e Argentina"
+   ],
+   "ans": 0,
+   "exp": "Itaipu, no rio Paraná, é compartilhada por Brasil e Paraguai."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "A energia nuclear é considerada fonte renovável, pois não emite gases de efeito estufa durante a operação.",
+   "ans": "E",
+   "exp": "A nuclear é de baixa emissão de carbono, mas não renovável: usa urânio e gera rejeitos radioativos.",
+   "trap": 6
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "O Brasil tem matriz elétrica mais renovável do que sua matriz energética total.",
+   "ans": "C",
+   "exp": "A matriz elétrica é majoritariamente renovável; a matriz energética inclui fósseis dos transportes."
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "O gás natural emite mais dióxido de carbono do que o carvão mineral na queima.",
+   "ans": "E",
+   "exp": "O gás emite cerca de metade do CO2 do carvão, apesar do problema do metano.",
+   "trap": 2
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "A tecnologia do fracking contribuiu para os EUA reduzirem a dependência externa de gás e petróleo.",
+   "ans": "C",
+   "exp": "A Revolução do Xisto fez dos EUA grandes produtores e exportadores."
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "A Venezuela lidera o ranking mundial de reservas provadas de petróleo.",
+   "ans": "C",
+   "exp": "Isso se deve ao óleo extrapesado do Orinoco."
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "O Cazaquistão, por ser o maior produtor de urânio, também possui as maiores reservas do mundo.",
+   "ans": "E",
+   "exp": "Cazaquistão é o maior produtor; as maiores reservas de urânio estão na Austrália.",
+   "trap": 6
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "A China é a maior investidora em energias renováveis e, ao mesmo tempo, ainda tem matriz fortemente dependente do carvão.",
+   "ans": "C",
+   "exp": "As duas afirmações coexistem no caso chinês."
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "As usinas hidrelétricas não geram emissão de gases de efeito estufa, pois são fonte 100% renovável.",
+   "ans": "E",
+   "exp": "Reservatórios tropicais podem emitir metano e CO2 pela decomposição de matéria orgânica.",
+   "trap": 1
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "Os acidentes de Chernobyl (1986) e Fukushima (2011) estão entre os fatores de retração da energia nuclear.",
+   "ans": "C",
+   "exp": "Os dois episódios elevaram a desconfiança e as exigências regulatórias."
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "A Alemanha ampliou sua matriz nuclear enquanto França e Reino Unido encerraram os reatores.",
+   "ans": "E",
+   "exp": "A relação está invertida: a Alemanha fechou as usinas, e França, Reino Unido, China e outros seguem investindo.",
+   "trap": 2
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "A intermitência da energia solar e da eólica exige investimentos em armazenamento e infraestrutura de rede.",
+   "ans": "C",
+   "exp": "Sol e vento variam; baterias e redes reforçadas reduzem o problema."
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "Os choques do petróleo da década de 1970 estimularam a diversificação da matriz, inclusive com a energia nuclear.",
+   "ans": "C",
+   "exp": "Os embargos de 1973 e 1979 mostraram a vulnerabilidade da dependência do petróleo."
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "A energia eólica é livre de impactos ambientais, pois não emite poluentes durante a operação.",
+   "ans": "E",
+   "exp": "Há impacto visual, ruído e risco para aves e morcegos.",
+   "trap": 1
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Quem tem energia manda no jogo: fósseis, nuclear e renováveis."
+  },
+  {
+   "t": "Energia x eletricidade",
+   "b": "Matriz energética é todo o consumo; matriz elétrica são só as fontes de geração.",
+   "l": [
+    "Brasil: elétrica muito renovável",
+    "Energética ainda depende de fósseis"
+   ]
+  },
+  {
+   "t": "Panorama mundial",
+   "b": "Fósseis seguem dominando e a transição é lenta e desigual.",
+   "l": [
+    "Cerca de 80% da energia mundial é fóssil",
+    "Renováveis crescem, sobretudo solar e eólica"
+   ],
+   "n": "~80%"
+  },
+  {
+   "t": "Fatores da matriz",
+   "b": "Cinco grupos definem a matriz de cada país.",
+   "l": [
+    "Naturais e econômicos",
+    "Geopolíticos e sociais",
+    "Científicos"
+   ]
+  },
+  {
+   "t": "Petróleo",
+   "b": "Base da petroquímica, mas volátil e poluente. A Venezuela tem as maiores reservas.",
+   "l": [
+    "Golfo Pérsico: reservas e exportações",
+    "Pré-sal, Orinoco, Guiana e Namíbia",
+    "Choques de 1973 e 1979"
+   ]
+  },
+  {
+   "t": "Gás natural",
+   "b": "Emite cerca de metade do CO2 do carvão, mas exige dutos ou GNL.",
+   "l": [
+    "Reservas: Rússia, Irã, Catar",
+    "EUA exportam após o fracking",
+    "Metano é o risco"
+   ]
+  },
+  {
+   "t": "Carvão",
+   "b": "Barato, porém o mais intenso em carbono. Sustenta China, Índia e África do Sul.",
+   "l": [
+    "Produtores: China, Índia, Indonésia",
+    "Rotas Austrália e Indonésia → Ásia"
+   ]
+  },
+  {
+   "t": "Nuclear",
+   "b": "Zero emissão operacional e alta capacidade, com rejeitos e custo inicial alto.",
+   "l": [
+    "Chernobyl 1986, Fukushima 2011",
+    "Cazaquistão produz; Austrália tem mais reservas",
+    "Alemanha fechou; França e China investem"
+   ],
+   "n": "1986 / 2011"
+  },
+  {
+   "t": "Hidro, solar e eólica",
+   "b": "Renováveis com limites: reservatórios emitem metano, sol e vento são intermitentes.",
+   "l": [
+    "Hidro: China, Brasil, Canadá, EUA",
+    "Solar: China domina a cadeia",
+    "Eólica: impacto sobre aves e paisagem"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Nuclear é limpa, não renovável",
+    "Gás emite menos CO2 que carvão",
+    "Cazaquistão: produção; Austrália: reservas",
+    "Hidrelétrica também emite metano",
+    "Alemanha desativou a nuclear"
+   ]
+  }
+ ]
+}

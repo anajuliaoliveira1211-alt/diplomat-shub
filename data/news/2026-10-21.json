@@ -1,0 +1,60 @@
+{
+ "kind": "news",
+ "date": "2026-10-21",
+ "cards": [
+  {
+   "id": "2026-10-21-1",
+   "materia": "Política Internacional",
+   "edital": "2",
+   "titulo": "Itamaraty rebate Milei e fala em ingerência na eleição brasileira",
+   "resumo": "Em 20/10, o Itamaraty divulgou nota de repúdio a declarações de Javier Milei, que insinuou fraude no segundo turno e chamou Lula de autoritário. O ministério classificou a manifestação como nova e inaceitável tentativa de ingerência externa e defendeu a segurança do voto eletrônico, confirmada por observadores internacionais no primeiro turno. As relações já estavam rebaixadas: desde agosto o Brasil não tem embaixador em Buenos Aires, e a representação é feita por encarregado de negócios.",
+   "porque": "Cobra princípios da política externa (não intervenção, autodeterminação, solução pacífica) e a relação Brasil–Argentina no Mercosul. Também mostra como a diplomacia reage a ingerência em processos eleitorais.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/itamaraty-acusa-milei-de-tentar-interferir-na-eleicao-brasileira",
+   "img": "https://imagens.ebc.com.br/rejiyi_9glElr7sxGgojg_axmkE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/fachada-ministerio_mcamgo_abr_100420231818-18.jpg?itok=jahOWzm1",
+   "imgCredit": "Foto: Marcelo Camargo/Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "Em nota divulgada em 20/10/2026, o Itamaraty classificou declarações de Milei sobre o voto eletrônico brasileiro como nova tentativa de ingerência externa no processo democrático do país.",
+    "ans": "C",
+    "exp": "A nota repudia a insinuação de fraude no segundo turno e afirma que a decisão cabe só aos brasileiros."
+   }
+  },
+  {
+   "id": "2026-10-21-2",
+   "materia": "Política Internacional",
+   "edital": "13",
+   "titulo": "Putin se diz pronto a retomar conversas trilaterais com a Ucrânia por volta de 10 de novembro",
+   "resumo": "Em São Petersburgo, Vladimir Putin recebeu o enviado americano Steve Witkoff e disse, segundo o assessor Yuri Ushakov, que a Rússia aceita retomar por volta de 10 de novembro as negociações trilaterais com EUA e Ucrânia, paradas desde fevereiro. Antes, Witkoff havia consultado Zelensky e europeus em Oslo. Zelensky disse que aceitaria um cessar-fogo que congele as linhas atuais como primeiro passo, mas pede garantias de segurança dos EUA e aliados.",
+   "porque": "Liga-se à agenda de paz e segurança e a conflitos armados contemporâneos. Cai em questões sobre mediação, cessar-fogo e garantias de segurança.",
+   "fonte": "Diário de Notícias (Portugal)",
+   "url": "https://www.dn.pt/internacional/putin-aceita-recomear-negociaes-com-a-ucrnia-e-zelensky-mostra-se-disposto-a-congelar-linha-da-frente",
+   "img": "https://media.assettype.com/dn%2F2026-10-21%2F7tg444ep%2FDOC.20261021.47980425.13319432.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "imgCredit": "Foto: Diário de Notícias",
+   "curso": false,
+   "ce": {
+    "s": "Segundo o Kremlin, Putin informou ao enviado Steve Witkoff que a Rússia está disposta a retomar, por volta de 10 de novembro, as negociações trilaterais com Ucrânia e EUA.",
+    "ans": "C",
+    "exp": "A informação foi dada por Yuri Ushakov, conselheiro de política internacional do Kremlin; as conversas estão paradas desde fevereiro."
+   }
+  },
+  {
+   "id": "2026-10-21-3",
+   "materia": "Economia",
+   "edital": "13.8",
+   "titulo": "Brent toca US$ 111,99, maior nível em cinco meses, com ataques a navios no Golfo",
+   "resumo": "O Brent chegou a US$ 111,99 por barril na terça (20/10), a máxima em cinco meses, e fechou a US$ 108,79. O mercado reage a ataques a petroleiros, a uma mina atingindo navio perto de Ormuz e a ofensivas houthis contra alvos sauditas, que ainda não foram confirmadas de forma independente. A queda no fim do pregão veio com a notícia de mediação paquistanesa em Teerã, sem desescalada confirmada.",
+   "porque": "Mostra como choques geopolíticos em rotas marítimas estratégicas afetam preços de energia, inflação e cadeias globais de suprimento.",
+   "fonte": "Discovery Alert",
+   "url": "https://discoveryalert.com/news/oil-prices-brent-iran-talks-october-2026/",
+   "img": "https://media.discoveryalert.com/oil-prices-hormuz-tanker-diesel-pump-spike.jpg",
+   "imgCredit": "Foto: Discovery Alert",
+   "curso": false,
+   "ce": {
+    "s": "Em 20/10/2026, o Brent atingiu US$ 111,99, maior nível em cinco meses, em meio a ataques à navegação perto do Estreito de Ormuz.",
+    "ans": "C",
+    "exp": "O barril fechou o dia em US$ 108,79, após recuo com a notícia de mediação paquistanesa."
+   }
+  }
+ ]
+}
