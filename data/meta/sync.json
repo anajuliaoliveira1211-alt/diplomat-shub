@@ -1,10 +1,11 @@
 {
  "enriched": [
   "hm-primeira-guerra",
-  "pi-nao-proliferacao"
+  "pi-nao-proliferacao",
+  "pi-onu-historia-estrutura"
  ],
  "kind": "sync",
- "lastRun": "2026-10-21",
+ "lastRun": "2026-10-22",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",

@@ -1,0 +1,124 @@
+{
+ "kind": "news",
+ "date": "2026-10-22",
+ "cards": [
+  {
+   "id": "2026-10-22-pj75908423",
+   "pj_guid": "75908423",
+   "podcast": "Petit Journal · BP 1165 · 31 min",
+   "materia": "Política Internacional",
+   "edital": "13",
+   "titulo": "Petit Journal: Ucrânia em negociação, CDS e bolha da IA, Milei e Espanha, Ormuz",
+   "resumo": "Episódio de 21/10 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Washington tenta retomar a negociação sobre a Ucrânia",
+     "b": "O enviado Steve Witkoff passou por Oslo, onde viu Zelensky, e seguiu a São Petersburgo para falar com Putin. Há uma reunião técnica trilateral prevista em Abu Dhabi. Para os apresentadores, a aproximação entre Trump e Moscou pressiona Kiev."
+    },
+    {
+     "t": "Zelensky admite congelar a linha de frente",
+     "b": "Pela primeira vez, o presidente ucraniano aceitou discutir cessar-fogo com as posições atuais, sem exigir antes a saída das tropas russas. Os apresentadores avaliam que a Rússia não recuaria e que o cenário provável sempre foi cada lado ficar com o que ocupa, sem reconhecimento formal."
+    },
+    {
+     "t": "Starshield e a disputa de versões",
+     "b": "Reportagem americana diz que Elon Musk mandou reduzir a velocidade do serviço militar Starshield usado pela Ucrânia; ele diz que seguiu uma ordem do governo Trump, e Trump nega. Os apresentadores veem a história mal explicada e mais um sinal de aproximação EUA–Rússia."
+    },
+    {
+     "t": "CDS e o medo de uma bolha de IA",
+     "b": "Cresceu a compra de credit default swaps, seguros contra calote, ligados a dívidas de gigantes como Oracle, Alphabet, Amazon, Meta e Nvidia: mais de US$ 9 bilhões por semana em setembro, contra menos de US$ 2 bilhões em julho, segundo o Morgan Stanley. Com juros em alta nos EUA, o risco é o retorno não cobrir o investimento em data centers e chips."
+    },
+    {
+     "t": "Milei provoca Sánchez e apoia o Vox",
+     "b": "Em Madri, o presidente argentino chamou o primeiro-ministro espanhol de ditador e ladrão e se reuniu com lideranças do Vox. A diplomacia espanhola condenou a visita como tentativa de polarizar. O PP lidera as pesquisas, mas pode depender do Vox para governar."
+    },
+    {
+     "t": "Ormuz: fluxo de petróleo se adapta",
+     "b": "Em setembro, cerca de 40% do petróleo não iraniano exportado do Golfo contornou o Estreito de Ormuz, contra 17% antes da guerra (Kepler), por dutos na Arábia Saudita e nos Emirados. O Irã ainda ataca navios (cerca de 30 no mês, segundo o Wall Street Journal), mas perde poder de bloqueio; as exportações iranianas estão sob bloqueio naval dos EUA."
+    }
+   ],
+   "porque": "Junta negociação de paz e mediação dos EUA na guerra Rússia–Ucrânia, segurança energética e Golfo Pérsico, risco financeiro global e política exterior de Milei, que afeta o Mercosul. Com o Brasil, o ponto de contato é o preço da energia e do crédito e o debate sobre ingerência em eleições.",
+   "ce": {
+    "s": "Segundo estimativa citada no episódio, em setembro de 2026 cerca de 40% do petróleo não iraniano exportado do Golfo contornou o Estreito de Ormuz, contra 17% antes da guerra, graças a rotas alternativas como dutos na Arábia Saudita e nos Emirados.",
+    "ans": "C",
+    "exp": "O dado é da Kepler, e mostra que o Golfo reduziu a dependência de Ormuz, enfraquecendo a influência do Irã."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/acabou-a-guerra-da-ucrania-bp-1165--75908423",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-10-22-1",
+   "materia": "Política Internacional",
+   "edital": "13.4",
+   "titulo": "PNUMA: mundo caminha para 2,8 °C; OMM alerta para El Niño possivelmente o mais forte em 40 anos",
+   "resumo": "Em 21/10, o Programa das Nações Unidas para o Meio Ambiente (Pnuma) divulgou relatório projetando aquecimento de 2,8 °C até 2100 com as políticas atuais (2,6 °C se todos os compromissos forem cumpridos), acima das estimativas do ano passado, em parte pela saída dos EUA do Acordo de Paris. Os planos climáticos apresentados desde 2024 quase não mudaram a trajetória, e o retorno a 1,5 °C dependeria de remoção de carbono em larga escala. No mesmo dia, a secretária-geral da Organização Meteorológica Mundial, Celeste Saulo, disse que o El Niño pode ter intensidade sem precedentes nas últimas quatro décadas, com ondas de calor, secas e inundações.",
+   "porque": "Liga meio ambiente e mudança do clima (Acordo de Paris, NDCs, COP31, papel da ONU e de suas agências) à governança global. O Brasil, anfitrião da COP30 e grande produtor agrícola, é afetado por El Niño (secas e chuvas extremas) e pela perda de tração do regime climático sem os EUA.",
+   "fonte": "Agência Brasil / Reuters",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/onu-el-nino-pode-ser-o-mais-forte-dos-ultimos-40-anos",
+   "img": "https://imagens.ebc.com.br/LT1u0IerfAssjEwL1lqm-zVzoec=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/21/2026-10-21t114852z_1_lynxmpem9k170_rtroptp_4_usa-weather_copy.jpg?itok=1ZSTItVI",
+   "imgCredit": "Foto: Reuters/David Swanson (via Agência Brasil)",
+   "curso": false,
+   "ce": {
+    "s": "Segundo relatório do Pnuma divulgado em 21/10/2026, as políticas climáticas atuais levam a um aquecimento de cerca de 2,8 °C até 2100, projeção superior à do ano anterior, em parte pela saída dos EUA do Acordo de Paris.",
+    "ans": "C",
+    "exp": "O relatório projeta 2,8 °C com as políticas atuais e 2,6 °C se os compromissos forem integralmente cumpridos; ambas as estimativas subiram em relação às do ano passado."
+   }
+  },
+  {
+   "id": "2026-10-22-2",
+   "materia": "Economia",
+   "edital": "13.8",
+   "titulo": "Brasil regulamenta cotas para exportar à Noruega com tarifa reduzida pelo acordo Mercosul–EFTA",
+   "resumo": "A Secex/MDIC publicou as regras de acesso às cotas tarifárias do acordo Mercosul–EFTA (bloco formado por Noruega, Islândia, Suíça e Liechtenstein) para o mercado norueguês, com benefícios a partir de 1º de novembro de 2026. Entre os produtos contemplados estão carne, mel, milho e maçãs. O mecanismo permite que volumes determinados entrem com tarifa reduzida, e a regulamentação define como os exportadores brasileiros disputam essas cotas.",
+   "porque": "É a fase de implementação de um acordo comercial do Mercosul com um bloco extrarregional, tema de integração regional, OMC e política comercial. Mostra a estratégia brasileira de diversificar parceiros em meio às sobretaxas dos EUA e dá efeito prático ao texto negociado.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/brasil-define-cotas-para-exportar-com-tarifas-reduzidas-para-noruega",
+   "img": "https://imagens.ebc.com.br/gR6mCtYz1HvZUxqAMSm3wo3ibAs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/16/54792148243_15d1dca07b_o.jpg?itok=1S2jCsH9",
+   "imgCredit": "Foto: Júlio César Silva/MDIC",
+   "curso": false,
+   "ce": {
+    "s": "Os benefícios tarifários do acordo Mercosul–EFTA para exportações brasileiras à Noruega, por meio de cotas, começam a valer em 1º de novembro de 2026.",
+    "ans": "C",
+    "exp": "A Secex regulamentou o acesso às cotas; carne, mel, milho e maçãs estão entre os produtos contemplados."
+   }
+  },
+  {
+   "id": "2026-10-22-3",
+   "materia": "Economia",
+   "edital": "13.8",
+   "titulo": "Governo abre crédito de R$ 6,49 bi para exportadores atingidos pelas sobretaxas dos EUA",
+   "resumo": "A Medida Provisória nº 1.397, publicada em 21/10, abre crédito extraordinário de R$ 6,49 bilhões, sob responsabilidade do Fundo de Garantia à Exportação (FGE, ligado à Fazenda), para financiar exportadores de bens e serviços no Plano Brasil Soberano. O plano apoia empresas e trabalhadores afetados pelas sobretaxas americanas. No campo externo, o Brasil já pediu consultas à OMC em 27/07 contra duas tarifas dos EUA baseadas na Seção 301 (25% e 12,5%).",
+   "porque": "Une política comercial, OMC (solução de controvérsias) e política externa: o Brasil responde às tarifas com apoio doméstico e com a via multilateral, enquanto estuda a Lei da Reciprocidade. Afeta diretamente a relação bilateral com os EUA e as cadeias exportadoras brasileiras.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-destina-r-649-bilhoes-setor-de-exportacao",
+   "img": "https://imagens.ebc.com.br/Xw7RISKC3WC4xVIxZEMafkEgGp8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/26/53679054583_f92988ea56_o.jpg?itok=7umDGxzv",
+   "imgCredit": "Foto: Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "A Medida Provisória nº 1.397 abriu crédito extraordinário de R$ 6,49 bilhões, via Fundo de Garantia à Exportação, para financiar exportadores no âmbito do Plano Brasil Soberano, criado em resposta às sobretaxas impostas pelos EUA.",
+    "ans": "C",
+    "exp": "O crédito extraordinário tem base nos arts. 62 e 167, §3º, da Constituição e financia operações do Plano Brasil Soberano."
+   }
+  },
+  {
+   "id": "2026-10-22-4",
+   "materia": "Política Internacional",
+   "edital": "2",
+   "titulo": "Senado debate efeitos do tarifaço e da política externa dos EUA sobre o Brasil",
+   "resumo": "Em 22/10, às 10h, a Comissão de Meio Ambiente do Senado realiza audiência pública, requerida pela senadora Leany Lemos, sobre os impactos do tarifaço e da política externa dos EUA nas agendas ambiental, climática e energética: minerais críticos e terras raras, desmatamento, biocombustíveis e cooperação climática. Foram convidados o ministro do Meio Ambiente, representantes do MDIC e do MRE, economistas, a CNI e a Amcham. O requerimento cita a investigação da Seção 301, as tarifas adicionais, a saída dos EUA do Acordo de Paris e a Lei de Reciprocidade Econômica.",
+   "porque": "Mostra o Legislativo entrando no debate da política externa brasileira e como comércio, clima e minerais críticos se conectam na relação com os EUA. Cobra PEB, Seção 301, Lei de Reciprocidade e meio ambiente na agenda internacional.",
+   "fonte": "Agência Senado",
+   "url": "https://www12.senado.leg.br/noticias/materias/2026/10/19/cma-debate-efeitos-da-politica-externa-dos-eua-sobre-o-brasil",
+   "img": "https://www12.senado.leg.br/noticias/materias/2026/10/19/cma-debate-efeitos-da-politica-externa-dos-eua-sobre-o-brasil/20261015_00017g.jpg",
+   "imgCredit": "Foto: Agência Senado",
+   "curso": false,
+   "ce": {
+    "s": "A audiência da Comissão de Meio Ambiente do Senado marcada para 22/10/2026 discute os efeitos do tarifaço e da política externa dos EUA apenas sobre o comércio de commodities agrícolas, sem tratar de clima ou energia.",
+    "ans": "E",
+    "exp": "A pauta inclui as agendas ambiental, climática e energética: minerais críticos, desmatamento, biocombustíveis e cooperação climática."
+   }
+  }
+ ]
+}

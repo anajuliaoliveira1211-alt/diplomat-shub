@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W43",
  "notionUrl": "",
- "updatedAt": "2026-10-21",
+ "updatedAt": "2026-10-22",
  "items": [
   {
    "id": "c1",
@@ -107,12 +107,87 @@
    "q": "Por que o México acusou de traição o ex-procurador de Chihuahua em 2026?",
    "a": "Por permitir que agentes dos EUA participassem de operação antidrogas sem aval federal, em afronta à soberania.",
    "exp": "Sheinbaum aceita cooperar, mas exige aval federal; o caso nasceu do acidente de 19/04 que matou dois agentes americanos."
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "Segundo estimativa citada no episódio, em setembro de 2026 cerca de 40% do petróleo não iraniano exportado do Golfo contornou o Estreito de Ormuz, contra 17% antes da guerra, graças a rotas alternativas como dutos na Arábia Saudita e nos Emirados.",
+   "ans": "C",
+   "exp": "O dado é da Kepler, e mostra que o Golfo reduziu a dependência de Ormuz, enfraquecendo a influência do Irã.",
+   "ctx": "Petit Journal: Ucrânia em negociação, CDS e bolha da IA, Milei e Espanha, Ormuz"
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "Segundo relatório do Pnuma divulgado em 21/10/2026, as políticas climáticas atuais levam a um aquecimento de cerca de 2,8 °C até 2100, projeção superior à do ano anterior, em parte pela saída dos EUA do Acordo de Paris.",
+   "ans": "C",
+   "exp": "O relatório projeta 2,8 °C com as políticas atuais e 2,6 °C se os compromissos forem integralmente cumpridos; ambas as estimativas subiram em relação às do ano passado.",
+   "ctx": "PNUMA: mundo caminha para 2,8 °C; OMM alerta para El Niño possivelmente o mais forte em 40 anos"
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "Os benefícios tarifários do acordo Mercosul–EFTA para exportações brasileiras à Noruega, por meio de cotas, começam a valer em 1º de novembro de 2026.",
+   "ans": "C",
+   "exp": "A Secex regulamentou o acesso às cotas; carne, mel, milho e maçãs estão entre os produtos contemplados.",
+   "ctx": "Brasil regulamenta cotas para exportar à Noruega com tarifa reduzida pelo acordo Mercosul–EFTA"
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "A Medida Provisória nº 1.397 abriu crédito extraordinário de R$ 6,49 bilhões, via Fundo de Garantia à Exportação, para financiar exportadores no âmbito do Plano Brasil Soberano, criado em resposta às sobretaxas impostas pelos EUA.",
+   "ans": "C",
+   "exp": "O crédito extraordinário tem base nos arts. 62 e 167, §3º, da Constituição e financia operações do Plano Brasil Soberano.",
+   "ctx": "Governo abre crédito de R$ 6,49 bi para exportadores atingidos pelas sobretaxas dos EUA"
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "A audiência da Comissão de Meio Ambiente do Senado marcada para 22/10/2026 discute os efeitos do tarifaço e da política externa dos EUA apenas sobre o comércio de commodities agrícolas, sem tratar de clima ou energia.",
+   "ans": "E",
+   "exp": "A pauta inclui as agendas ambiental, climática e energética: minerais críticos, desmatamento, biocombustíveis e cooperação climática.",
+   "ctx": "Senado debate efeitos do tarifaço e da política externa dos EUA sobre o Brasil"
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "O que o Pnuma projetou em 21/10/2026 e o que a OMM alertou?",
+   "a": "Aquecimento de 2,8 °C até 2100 com as políticas atuais (2,6 °C com os compromissos cumpridos); a OMM alertou para um El Niño possivelmente o mais forte em 40 anos.",
+   "exp": "Estimativas maiores que as do ano passado, em parte pela saída dos EUA do Acordo de Paris. Próxima rodada: COP31."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Quando começam os benefícios das cotas Mercosul–EFTA para a Noruega e quais produtos entram?",
+   "a": "1º de novembro de 2026; carne, mel, milho e maçãs, entre outros.",
+   "exp": "A EFTA reúne Noruega, Islândia, Suíça e Liechtenstein."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "O que é a MP 1.397 de 21/10/2026?",
+   "a": "Crédito extraordinário de R$ 6,49 bi, via Fundo de Garantia à Exportação, para o Plano Brasil Soberano.",
+   "exp": "Apoia exportadores afetados pelas sobretaxas dos EUA; o Brasil também pediu consultas à OMC em 27/07 (Seção 301)."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "Que temas a CMA do Senado debate em 22/10/2026 sobre os EUA?",
+   "a": "Efeitos do tarifaço e da política externa americana em clima, energia e meio ambiente: minerais críticos, desmatamento, biocombustíveis e cooperação climática.",
+   "exp": "Cita Seção 301, saída dos EUA do Acordo de Paris e Lei de Reciprocidade Econômica."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "O que Zelensky propôs de novo na negociação sobre a Ucrânia (ep. 21/10 do Petit Journal)?",
+   "a": "Aceitou discutir cessar-fogo congelando a linha de frente, sem exigir antes a retirada russa.",
+   "exp": "Há reunião técnica trilateral prevista em Abu Dhabi."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Milei, Putin, Ormuz, Alberta e a Europa em ebulição na semana."
+   "b": "Milei, Putin, Ormuz, clima e o tarifaço: a semana em resumo."
   },
   {
    "t": "Itamaraty × Milei",
@@ -151,30 +226,33 @@
    "n": "76%"
   },
   {
-   "t": "Índia–Nova Zelândia",
-   "b": "Acordo de livre comércio entra em vigor: 100% das exportações indianas sem tarifas.",
+   "t": "Tarifaço e resposta do Brasil",
+   "b": "MP 1.397 abre R$ 6,49 bi para exportadores; Senado debate efeitos dos EUA em clima e energia em 22/10.",
    "l": [
-    "US$ 20 bi em investimentos em 15 anos",
-    "Diversificação diante dos EUA"
-   ]
+    "Plano Brasil Soberano",
+    "Consultas à OMC (Seção 301)",
+    "Lei da Reciprocidade em estudo"
+   ],
+   "n": "R$ 6,49 bi"
   },
   {
-   "t": "IA e guerra autônoma",
-   "b": "Relatório da ONU defende decisão humana sobre vidas; EUA pedem cerca de US$ 200 bi para IA militar.",
+   "t": "Clima: Pnuma e El Niño",
+   "b": "Relatório projeta 2,8 °C até 2100; OMM alerta para El Niño possivelmente o mais forte em 40 anos.",
    "l": [
-    "Gasto militar acima de US$ 1 trilhão",
-    "Problema da responsabilização"
+    "Saída dos EUA do Acordo de Paris",
+    "1,5 °C depende de remover carbono",
+    "Próxima rodada: COP31"
    ],
-   "n": "US$ 200 bi"
+   "n": "2,8 °C"
   },
   {
-   "t": "China cresce 4,5%",
-   "b": "PIB do 3º trimestre sustentado por exportações; demanda interna segue fraca.",
+   "t": "Mercosul–EFTA na prática",
+   "b": "Cotas tarifárias para exportar à Noruega valem a partir de 1º/11: carne, mel, milho e maçãs.",
    "l": [
-    "Exportações +36% em setembro",
-    "Varejo +1,1%, investimento −7,2%"
+    "EFTA: Noruega, Islândia, Suíça e Liechtenstein",
+    "Diversificação de parceiros"
    ],
-   "n": "4,5%"
+   "n": "1º/11"
   },
   {
    "t": "Europa sob tensão",
@@ -190,10 +268,10 @@
    "t": "Pegadinhas que caem",
    "l": [
     "Referendo de Alberta é consultivo",
-    "Brent fechou abaixo da máxima do dia",
     "Ucrânia: retomada de conversas ainda é intenção",
     "Resolução da AGNU (embargo a Cuba) não é vinculante",
-    "Ingerência ≠ rompimento de relações"
+    "Ingerência ≠ rompimento de relações",
+    "Cota tarifária ≠ livre acesso sem limite"
    ]
   }
  ]
