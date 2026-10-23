@@ -1,0 +1,142 @@
+{
+ "kind": "news",
+ "date": "2026-10-23",
+ "cards": [
+  {
+   "id": "2026-10-23-pj75933225",
+   "pj_guid": "75933225",
+   "podcast": "Petit Journal · BP 1166 · 34 min",
+   "materia": "Política Internacional",
+   "edital": "13",
+   "titulo": "Petit Journal: petróleo iraniano e Arábia Saudita, Equador, Américas no mercado de óleo, espionagem na Alemanha",
+   "resumo": "Episódio de 22/10 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Brent a US$ 112 e ataques à Arábia Saudita",
+     "b": "O barril subiu cerca de 3% e chegou a US$ 112, o maior nível em cinco meses. Os houthis atacaram com drones e mísseis um aeroporto civil e um campo da Aramco, com mortos. Os EUA mandaram sair diplomatas e dependentes da Arábia Saudita, e a Aramco evacuou preventivamente uma sede."
+    },
+    {
+     "t": "Acabaram os estoques flutuantes do Irã",
+     "b": "Segundo a Kepler, os petroleiros que guardavam óleo iraniano em águas asiáticas para vender à China se esvaziaram. O bloqueio naval americano, que teria tirado ao menos US$ 25 bilhões de receita, impede a reposição. Os apresentadores veem uma aposta dos EUA no colapso econômico iraniano, enquanto Teerã tenta pesar nas eleições de meio de mandato americanas."
+    },
+    {
+     "t": "Equador prende a opositora Luisa González",
+     "b": "Líder da Revolução Cidadã, do ex-presidente Rafael Correa, ela foi presa sob acusação de lavagem de dinheiro ligada a repasses supostamente vindos da Venezuela na campanha. O partido foi suspenso por nove meses, e as eleições locais foram antecipadas para novembro, dentro dessa janela. Ela fala em perseguição de Daniel Noboa."
+    },
+    {
+     "t": "As Américas ganham com a crise do petróleo",
+     "b": "Análise do Financial Times citada no episódio diz que a produção das Américas cresce com a procura por oferta confiável. O Brasil passa de 4 milhões de barris por dia, a Argentina avança em Vaca Muerta, o Canadá e os EUA batem recordes, e Venezuela e Suriname devem ampliar a produção."
+    },
+    {
+     "t": "Alemanha prende suspeito de espionar para a Rússia",
+     "b": "Um ucraniano foi detido em Brandemburgo, acusado de repassar à inteligência russa dados sobre produção de blindados, munições e instalações do flanco oriental da OTAN, em contato desde meados de 2025. Para os apresentadores, é mais um capítulo da guerra híbrida russa na Europa."
+    },
+    {
+     "t": "África cresce mais que a China",
+     "b": "Segundo o FMI, na reunião anual em Bangcoc, o continente deve crescer cerca de 4,6% este ano, acima da China pela primeira vez em décadas. Pelo menos dez economias passam de 6%, e o setor industrial cresce acima do PIB. A África tem lidado melhor do que o esperado com a guerra no Irã."
+    }
+   ],
+   "porque": "Reúne petróleo e guerra no Oriente Médio, sanções e bloqueio naval, democracia e perseguição política na América Latina, segurança europeia e crescimento africano. O Brasil, com produção acima de 4 milhões de barris por dia, pode se beneficiar do reordenamento do mercado de petróleo.",
+   "ce": {
+    "s": "Segundo o Petit Journal de 22/10/2026, o Comando Central dos EUA afirmou que o bloqueio naval retirou ao menos US$ 25 bilhões das receitas de petróleo do Irã.",
+    "ans": "C",
+    "exp": "A informação foi citada no episódio; o bloqueio impede que o Irã reponha os estoques flutuantes vendidos a refinarias chinesas."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/acabou-o-petroleo-bp-1166--75933225",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-10-23-1",
+   "materia": "Política Internacional",
+   "edital": "13",
+   "titulo": "Guterres fala em \"El Niño da guerra\" e liga protestos de rua à desordem global",
+   "resumo": "Em 22/10, antes de viajar ao Egito, o secretário-geral da ONU, António Guterres, disse que conflitos no Oriente Médio, na Ucrânia e no Sudão estão não só se intensificando como se expandindo, e comparou o efeito ao do fenômeno El Niño: o que nasce numa região desorganiza energia, transporte marítimo, cadeias de suprimento e finanças longe dela. Ele condenou a violência vista nos protestos na França e na Itália, mas pediu que se reconheçam as queixas legítimas contra o custo de vida e os juros altos, e afirmou que os países pobres absorvem os maiores choques. Pediu ainda que o Egito seja palco de esforços para conter a ampliação da guerra e proteger civis.",
+   "porque": "Mostra o secretário-geral usando a tribuna da ONU para ligar guerra, energia, dívida e desigualdade, tema de governança global e de reforma da arquitetura financeira que o Brasil defende no G20 e na ONU. Efeito direto no Brasil: choques de preços de combustíveis e alimentos e juros altos pesam sobre economias emergentes e sobre o comércio exterior brasileiro.",
+   "fonte": "ONU News",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168646",
+   "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/22-10-2026-Adobe-Stock-protesters.jpg/image770x420cropped.jpg",
+   "imgCredit": "Foto: ONU News / Adobe Stock",
+   "curso": false,
+   "ce": {
+    "s": "Em 22/10/2026, Guterres disse que a ampliação dos conflitos pesa sobre energia, transporte marítimo, cadeias de suprimento e finanças, e que os países mais pobres absorvem os maiores choques, o que ele descreveu como um \"El Niño da guerra\".",
+    "ans": "C",
+    "exp": "A comparação com o El Niño serve para dizer que o conflito numa região desorganiza o mundo inteiro, e a desigualdade faz com que os mais pobres sofram mais."
+   }
+  },
+  {
+   "id": "2026-10-23-2",
+   "materia": "Política Internacional",
+   "edital": "13.6",
+   "titulo": "Ebola Bundibugyo chega a oito províncias do Congo e à Nigéria; OMS acompanha cinco países",
+   "resumo": "A OMS informou em 22/10 que o surto de Ebola causado pelo vírus Bundibugyo, declarado em meados de maio na República Democrática do Congo, já passa de 9,5 mil infecções confirmadas e 4,6 mil mortes, e chegou à oitava província (Nord Ubangi, na fronteira com a República Centro-Africana, onde há violência armada). A Nigéria confirmou o primeiro caso, de uma mulher que veio de Uganda, e se tornou o quinto país do ano com a doença, depois de RDC, França, Uganda e Quênia. A vacina Ervebo foi feita para a espécie Zaire e ainda se testa se protege contra a Bundibugyo. Cerca de seis em cada dez mortes ocorrem fora de unidades de saúde, o que indica transmissão comunitária difícil de conter.",
+   "porque": "Ilustra o papel da OMS, do Regulamento Sanitário Internacional e da cooperação em saúde global diante de uma emergência que cruza fronteiras e se mistura a conflitos armados. O Brasil integra a OMS e tem interesse em vigilância de viajantes, em acesso a vacinas e em cooperação humanitária.",
+   "fonte": "ONU News / OMS",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168647",
+   "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNOCHA-DR-Congo-ebola-01.jpg/image770x420cropped.jpg",
+   "imgCredit": "Foto: UNOCHA/Priscilla Lecomte",
+   "curso": false,
+   "ce": {
+    "s": "Segundo a OMS, a vacina Ervebo, desenvolvida contra a espécie Zaire do vírus Ebola, já tem eficácia comprovada contra a espécie Bundibugyo que causa o surto atual.",
+    "ans": "E",
+    "exp": "A OMS disse que ainda não há dados preliminares sobre proteção cruzada entre a Ervebo (espécie Zaire) e a Bundibugyo; o estudo está em andamento."
+   }
+  },
+  {
+   "id": "2026-10-23-3",
+   "materia": "Economia",
+   "edital": "13.9",
+   "titulo": "AIE: Europa entra no inverno com os menores estoques de gás já registrados",
+   "resumo": "Em entrevista em Berlim, divulgada em 23/10, o diretor-executivo da Agência Internacional de Energia (AIE), Fatih Birol, avisou que a Europa não suporta novos choques de oferta: os reservatórios de gás da UE estão com 72% da capacidade, contra cerca de 90% no normal, uma falta equivalente ao consumo de 10 a 12 milhões de residências. A causa é a guerra dos EUA e de Israel contra o Irã, que reduziu o tráfego pelo Estreito de Ormuz, por onde passava quase um décimo do GNL europeu, e jogou a Europa numa disputa por cargas com a Ásia, ainda mais dependente do Golfo. Ministros de energia da UE avaliam pedir racionamento a famílias e empresas.",
+   "porque": "Liga conflito no Oriente Médio, segurança energética, preço do GNL e do petróleo e papel da AIE na coordenação de estoques de emergência. O Brasil, exportador de petróleo e de produtos agrícolas, é afetado por preços de energia e fertilizantes e pelo ritmo de crescimento europeu.",
+   "fonte": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T102003Z_594774522_RC2MX4AEEI3V_RTRMADP_3_EU-ENERGY-IEA-RESERVES-1792688729.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera / Reuters",
+   "curso": false,
+   "ce": {
+    "s": "Segundo o diretor da AIE, em 23/10/2026, a Europa entra no inverno com estoques de gás abaixo da média histórica e pode enfrentar custos mais altos de GNL mesmo que haja cessar-fogo no Golfo.",
+    "ans": "C",
+    "exp": "Birol disse que os estoques da UE estão em 72%, ante cerca de 90% normalmente, e que os custos do GNL devem subir mesmo com a paz."
+   }
+  },
+  {
+   "id": "2026-10-23-4",
+   "materia": "Política Internacional",
+   "edital": "13.1",
+   "titulo": "Venezuelanos vão às ruas pedir eleições, sem data definida após a captura de Maduro",
+   "resumo": "Em 22/10, milhares de venezuelanos protestaram em Caracas, Valencia, Maracay, San Cristóbal e Maracaibo, na primeira manifestação nacional da oposição em quase dois anos, convocada pelo movimento Vente Venezuela, de María Corina Machado (Nobel da Paz, fora do país há quase um ano). Desde 3 de janeiro, o país é conduzido pela presidente interina Delcy Rodríguez, do PSUV, depois que forças americanas capturaram Nicolás Maduro numa operação militar. Trump e Rodríguez dizem que haverá eleições, mas não fixaram data; Machado exige que ocorram até julho de 2027. Os EUA mantêm papel ativo, com controle sobre os recursos petrolíferos e pressão por reformas.",
+   "porque": "Reúne intervenção militar de uma potência na América do Sul, legitimidade democrática, direitos humanos e o papel dos EUA na região, temas centrais da política externa brasileira para a vizinhança. O Brasil tem fronteira com a Venezuela, defende solução negociada e sem ingerência externa, e é afetado por fluxos migratórios e pela estabilidade regional.",
+   "fonte": "Al Jazeera / Reuters",
+   "url": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-23T000327Z_1427635973_RC2G8OASJQYC_RTRMADP_3_VENEZUELA-PROTEST-1792715608.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera / Reuters",
+   "curso": false,
+   "ce": {
+    "s": "Em outubro de 2026, a oposição venezuelana realizou protesto nacional para exigir eleições, depois que Trump e a presidente interina Delcy Rodríguez fixaram a data do pleito para julho de 2027.",
+    "ans": "E",
+    "exp": "Não há data marcada. Julho de 2027 é o prazo que María Corina Machado exige, não uma data fixada por Trump ou Rodríguez."
+   }
+  },
+  {
+   "id": "2026-10-23-5",
+   "materia": "Economia",
+   "edital": "13.8",
+   "titulo": "PIB da Argentina recua 1,7% em agosto e reacende risco de recessão no principal parceiro do Mercosul",
+   "resumo": "Segundo o Indec, a atividade econômica argentina caiu 1,74% em agosto na comparação com agosto de 2025, após queda de 2,8% em julho; na comparação com o mês anterior houve alta de 0,1%, depois de recuo de 1,5% em julho. No acumulado de 2026 até agosto, o crescimento é de 1,2%, ante 1,7% até julho. Pesca, intermediação financeira, comércio e indústria foram os setores que mais caíram; petróleo, gás e mineração seguraram o resultado. Para a economista Clara Brenck (UFMG), o corte de gastos do governo Milei contribui para o cenário e a Argentina pode estar entrando em recessão técnica.",
+   "porque": "A Argentina é a segunda maior economia da América do Sul e o principal destino industrial das exportações brasileiras no Mercosul, de modo que sua recessão afeta o comércio bilateral e a indústria brasileira, num momento de tensão diplomática entre Lula e Milei. Aborda o bloco, política econômica e comércio exterior.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/economia-da-argentina-recua-17-em-agosto-sob-risco-de-recessao",
+   "img": "https://imagens.ebc.com.br/5d3jb3YaFz-wYWMBQNIN0DQmCv0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024-01-30t185321z_1_lynxmpek0t0o9_rtroptp_4_holocaust-memorial-argentina.jpg?itok=sPlLhnRf",
+   "imgCredit": "Foto: Reuters (via Agência Brasil)",
+   "curso": false,
+   "ce": {
+    "s": "Segundo o Indec, a atividade econômica argentina recuou em agosto de 2026 na comparação com o mesmo mês do ano anterior e também teve queda em julho, o que levou economistas a apontar risco de recessão.",
+    "ans": "C",
+    "exp": "A atividade caiu 1,74% em agosto e 2,8% em julho, ambas na comparação anual; em relação a julho, houve alta de 0,1%."
+   }
+  }
+ ]
+}

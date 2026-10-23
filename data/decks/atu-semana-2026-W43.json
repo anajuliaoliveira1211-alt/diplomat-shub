@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W43",
  "notionUrl": "",
- "updatedAt": "2026-10-22",
+ "updatedAt": "2026-10-23",
  "items": [
   {
    "id": "c1",
@@ -182,12 +182,102 @@
    "q": "O que Zelensky propôs de novo na negociação sobre a Ucrânia (ep. 21/10 do Petit Journal)?",
    "a": "Aceitou discutir cessar-fogo congelando a linha de frente, sem exigir antes a retirada russa.",
    "exp": "Há reunião técnica trilateral prevista em Abu Dhabi."
+  },
+  {
+   "id": "f13",
+   "t": "f",
+   "q": "Segundo o Petit Journal de 22/10, o que aconteceu com os estoques flutuantes de petróleo do Irã?",
+   "a": "Esgotaram-se: o bloqueio naval americano impede a reposição do óleo que o Irã vendia a refinarias chinesas, com perda de ao menos US$ 25 bilhões em receita.",
+   "exp": "Notícia de 23/10/2026."
+  },
+  {
+   "id": "f14",
+   "t": "f",
+   "q": "O que Guterres quis dizer com \"El Niño da guerra\"?",
+   "a": "Que conflitos em uma região desorganizam energia, transporte marítimo, cadeias e finanças longe dela, e os países mais pobres absorvem o maior choque.",
+   "exp": "Notícia de 23/10/2026."
+  },
+  {
+   "id": "f15",
+   "t": "f",
+   "q": "Qual vírus causa o surto de Ebola de 2026 e por que a vacina Ervebo é incerta?",
+   "a": "O Bundibugyo. A Ervebo foi feita para a espécie Zaire e ainda não se sabe se protege contra ele.",
+   "exp": "Notícia de 23/10/2026."
+  },
+  {
+   "id": "f16",
+   "t": "f",
+   "q": "Quão cheios estão os estoques de gás da UE segundo a AIE (23/10)?",
+   "a": "Cerca de 72%, contra cerca de 90% normalmente; Fatih Birol diz que a Europa não suporta novos choques.",
+   "exp": "Notícia de 23/10/2026."
+  },
+  {
+   "id": "f17",
+   "t": "f",
+   "q": "Qual é o impasse eleitoral na Venezuela após a captura de Maduro?",
+   "a": "Trump e Delcy Rodríguez falam em eleições, mas sem data; María Corina Machado exige votação até julho de 2027.",
+   "exp": "Notícia de 23/10/2026."
+  },
+  {
+   "id": "f18",
+   "t": "f",
+   "q": "O que mostram os dados do Indec sobre a Argentina em agosto de 2026?",
+   "a": "Queda de 1,74% na comparação anual (julho: -2,8%), com risco de recessão; petróleo, gás e mineração seguraram o resultado.",
+   "exp": "Notícia de 23/10/2026."
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "Segundo o Petit Journal de 22/10/2026, o Comando Central dos EUA afirmou que o bloqueio naval retirou ao menos US$ 25 bilhões das receitas de petróleo do Irã.",
+   "ans": "C",
+   "exp": "A informação foi citada no episódio; o bloqueio impede que o Irã reponha os estoques flutuantes vendidos a refinarias chinesas.",
+   "ctx": "Petit Journal: petróleo iraniano e Arábia Saudita, Equador, Américas no mercado de óleo, espionagem na Alemanha"
+  },
+  {
+   "id": "c14",
+   "t": "c",
+   "s": "Em 22/10/2026, Guterres disse que a ampliação dos conflitos pesa sobre energia, transporte marítimo, cadeias de suprimento e finanças, e que os países mais pobres absorvem os maiores choques, o que ele descreveu como um \"El Niño da guerra\".",
+   "ans": "C",
+   "exp": "A comparação com o El Niño serve para dizer que o conflito numa região desorganiza o mundo inteiro, e a desigualdade faz com que os mais pobres sofram mais.",
+   "ctx": "Guterres fala em \"El Niño da guerra\" e liga protestos de rua à desordem global"
+  },
+  {
+   "id": "c15",
+   "t": "c",
+   "s": "Segundo a OMS, a vacina Ervebo, desenvolvida contra a espécie Zaire do vírus Ebola, já tem eficácia comprovada contra a espécie Bundibugyo que causa o surto atual.",
+   "ans": "E",
+   "exp": "A OMS disse que ainda não há dados preliminares sobre proteção cruzada entre a Ervebo (espécie Zaire) e a Bundibugyo; o estudo está em andamento.",
+   "ctx": "Ebola Bundibugyo chega a oito províncias do Congo e à Nigéria; OMS acompanha cinco países"
+  },
+  {
+   "id": "c16",
+   "t": "c",
+   "s": "Segundo o diretor da AIE, em 23/10/2026, a Europa entra no inverno com estoques de gás abaixo da média histórica e pode enfrentar custos mais altos de GNL mesmo que haja cessar-fogo no Golfo.",
+   "ans": "C",
+   "exp": "Birol disse que os estoques da UE estão em 72%, ante cerca de 90% normalmente, e que os custos do GNL devem subir mesmo com a paz.",
+   "ctx": "AIE: Europa entra no inverno com os menores estoques de gás já registrados"
+  },
+  {
+   "id": "c17",
+   "t": "c",
+   "s": "Em outubro de 2026, a oposição venezuelana realizou protesto nacional para exigir eleições, depois que Trump e a presidente interina Delcy Rodríguez fixaram a data do pleito para julho de 2027.",
+   "ans": "E",
+   "exp": "Não há data marcada. Julho de 2027 é o prazo que María Corina Machado exige, não uma data fixada por Trump ou Rodríguez.",
+   "ctx": "Venezuelanos vão às ruas pedir eleições, sem data definida após a captura de Maduro"
+  },
+  {
+   "id": "c18",
+   "t": "c",
+   "s": "Segundo o Indec, a atividade econômica argentina recuou em agosto de 2026 na comparação com o mesmo mês do ano anterior e também teve queda em julho, o que levou economistas a apontar risco de recessão.",
+   "ans": "C",
+   "exp": "A atividade caiu 1,74% em agosto e 2,8% em julho, ambas na comparação anual; em relação a julho, houve alta de 0,1%.",
+   "ctx": "PIB da Argentina recua 1,7% em agosto e reacende risco de recessão no principal parceiro do Mercosul"
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Milei, Putin, Ormuz, clima e o tarifaço: a semana em resumo."
+   "b": "Guerra, petróleo, Venezuela e tarifaço: a semana em resumo."
   },
   {
    "t": "Itamaraty × Milei",
@@ -203,27 +293,29 @@
    "b": "Putin diz a Witkoff que aceita retomar conversas trilaterais por volta de 10 de novembro.",
    "l": [
     "Zelensky aceita congelar a linha de frente",
-    "Pede garantias de segurança"
+    "Disputa de versões sobre o Starshield"
    ],
    "n": "10/11"
   },
   {
-   "t": "Brent e Ormuz",
-   "b": "Petróleo toca US$ 111,99, máxima em cinco meses, com ataques a navios e riscos no Golfo.",
+   "t": "Ormuz, Brent e gás",
+   "b": "Brent chegou a US$ 112; a AIE alerta que os estoques de gás da UE (72%) estão nos menores níveis registrados.",
    "l": [
-    "Fechou a US$ 108,79",
-    "Mediação do Paquistão em Teerã"
+    "Houthis atacam a Arábia Saudita",
+    "Bloqueio naval seca receita do Irã",
+    "UE avalia racionar consumo"
    ],
-   "n": "US$ 111,99"
+   "n": "US$ 112"
   },
   {
-   "t": "Alberta fica no Canadá",
-   "b": "Referendo consultivo: cerca de 76% votam por permanecer, 24% pela independência.",
+   "t": "Venezuela e Equador",
+   "b": "Oposição venezuelana volta às ruas por eleições sem data; no Equador, Luisa González foi presa por lavagem de dinheiro.",
    "l": [
-    "Convocado por Danielle Smith",
-    "Carney acelera oleoduto estratégico"
+    "Maduro foi capturado pelos EUA em janeiro",
+    "Machado exige votação até jul/2027",
+    "Noboa acusado de perseguir a oposição"
    ],
-   "n": "76%"
+   "n": "Jul/2027"
   },
   {
    "t": "Tarifaço e resposta do Brasil",
@@ -246,22 +338,23 @@
    "n": "2,8 °C"
   },
   {
-   "t": "Mercosul–EFTA na prática",
-   "b": "Cotas tarifárias para exportar à Noruega valem a partir de 1º/11: carne, mel, milho e maçãs.",
+   "t": "Mercosul: EFTA e Argentina",
+   "b": "Cotas para a Noruega valem desde 1º/11; já a economia argentina caiu 1,7% em agosto, com risco de recessão.",
    "l": [
-    "EFTA: Noruega, Islândia, Suíça e Liechtenstein",
-    "Diversificação de parceiros"
+    "EFTA: Noruega, Islândia, Suíça, Liechtenstein",
+    "Indec: -1,74% ante agosto de 2025"
    ],
    "n": "1º/11"
   },
   {
-   "t": "Europa sob tensão",
-   "b": "Toques de recolher na França, lei antiprotesto na Itália e OTAN reforçando o Mar Negro.",
+   "t": "ONU: guerra, Ebola e desigualdade",
+   "b": "Guterres fala em \"El Niño da guerra\"; o Ebola Bundibugyo chega à Nigéria, quinto país com casos em 2026.",
    "l": [
-    "Juro francês de 10 anos perto de 4,9%",
-    "Itália: até 5 anos de prisão",
-    "Nova greve na França em 5/11"
-   ]
+    "Protestos por custo de vida na Europa",
+    "OMS: 9,5 mil casos, 4,6 mil mortes",
+    "Vacina Ervebo ainda sem prova"
+   ],
+   "n": "5 países"
   },
   {
    "k": "fim",
@@ -269,9 +362,9 @@
    "l": [
     "Referendo de Alberta é consultivo",
     "Ucrânia: retomada de conversas ainda é intenção",
-    "Resolução da AGNU (embargo a Cuba) não é vinculante",
-    "Ingerência ≠ rompimento de relações",
-    "Cota tarifária ≠ livre acesso sem limite"
+    "Venezuela: eleição prometida, mas sem data",
+    "Ervebo é para Zaire, não confirmada para Bundibugyo",
+    "Resolução da AGNU (embargo a Cuba) não é vinculante"
    ]
   }
  ]

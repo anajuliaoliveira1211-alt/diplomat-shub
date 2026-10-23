@@ -1,0 +1,341 @@
+{
+ "kind": "deck",
+ "materia": "Geografia",
+ "assunto": "Fontes de energia no Brasil",
+ "edital": "3.3",
+ "notionUrl": "https://app.notion.com/p/40177560e5fa80cc9d8de6fa853df51f",
+ "updatedAt": "2026-10-23",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Qual é a principal fonte da matriz energética brasileira e por quê?",
+   "a": "O petróleo e derivados, por causa da dependência do transporte rodoviário (diesel, gasolina).",
+   "exp": "A biomassa (cana, lenha, biodiesel) vem logo atrás, com cerca de 28–29% da matriz."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "Quanto a cana-de-açúcar pesa na matriz energética brasileira?",
+   "a": "Cerca de 16,7%, a maior parte da biomassa, que soma 28–29% da matriz.",
+   "exp": "Etanol e bagaço (queimado em caldeiras para gerar eletricidade) são os usos centrais."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "Qual foi a última grande hidrelétrica construída no Brasil e o que isso implica?",
+   "a": "Belo Monte. Sem novas grandes usinas, a participação da hidráulica na matriz elétrica tende a cair.",
+   "exp": "A queda é relativa: as usinas existentes seguem operando; o que falta são novas grandes obras."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "Por que o potencial hidrelétrico brasileiro não está na Amazônia?",
+   "a": "Porque os melhores locais são rios de planalto (bacias do Paraná e do São Francisco); a Amazônia é plana, e represar exigiria alagar áreas enormes.",
+   "exp": "Belo Monte usa reservatório pequeno (fio d'água), mas por isso gera menos de forma contínua."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "O que foi o Proálcool?",
+   "a": "Programa lançado nos anos 1970 como resposta à crise do petróleo, para incentivar o álcool como combustível.",
+   "exp": "Os carros flex (anos 2000) superaram a desconfiança gerada pelas crises de abastecimento do passado."
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Para que serve o biodiesel e de que ele é feito no Brasil?",
+   "a": "Substitui parte do diesel em caminhões e ônibus; é produzido sobretudo a partir do óleo de soja.",
+   "exp": "Surgiu como programa no governo Lula. A soja é a matéria-prima dominante, mas há também sebo, algodão, babaçu."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "O que foi o PROINFA?",
+   "a": "Programa criado em 2002 para incentivar fontes alternativas: eólica, PCH (pequenas centrais hidrelétricas) e biomassa, como o bagaço de cana.",
+   "exp": "Foi a primeira política ampla de diversificação da matriz elétrica."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "Onde se concentra a geração eólica no Brasil e por quê?",
+   "a": "No Nordeste (e no Rio Grande do Sul), pelos ventos constantes ligados à circulação atmosférica e ao relevo plano do litoral.",
+   "exp": "O Nordeste reúne a maior parte da capacidade eólica instalada."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Por que o maior potencial solar está no Nordeste, mas a maior produção está no Sudeste?",
+   "a": "A geração solar é muito descentralizada (telhados residenciais e comércio) e se concentra onde há mais renda para instalar painéis.",
+   "exp": "O semiárido nordestino tem a melhor insolação; a Amazônia, apesar do calor, tem muita nebulosidade."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "Como a autossuficiência em petróleo foi alcançada pelo Brasil?",
+   "a": "Pela tecnologia de exploração em águas profundas, desenvolvida pela Petrobras, e depois pelo pré-sal; a autossuficiência veio em meados dos anos 2000.",
+   "exp": "A produção se deslocou para a Bacia de Santos; Maricá (RJ) ficou rica com royalties."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "Qual a importância do carvão mineral no Brasil?",
+   "a": "Pouca: é de baixa qualidade, usado sobretudo na siderurgia e pouco na geração elétrica, e é produzido no Sul do país.",
+   "exp": "Contraste com o mundo, onde o carvão ainda tem peso grande na eletricidade (China, Índia)."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Qual é a posição da energia nuclear na matriz brasileira?",
+   "a": "Tem pouca relevância, apesar das reservas de urânio e do domínio do ciclo de enriquecimento, e enfrenta resistência.",
+   "exp": "Aparece mais em debates geopolíticos (não proliferação, submarino nuclear)."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Sobre a matriz elétrica brasileira, é correto afirmar:",
+   "opts": [
+    "Cerca de 90% vem de fontes renováveis, com a hidráulica ainda como base, mas em queda relativa.",
+    "A energia nuclear é a segunda maior fonte de eletricidade.",
+    "O carvão mineral é a base da geração elétrica.",
+    "A energia solar já supera a hidráulica em participação."
+   ],
+   "ans": 0,
+   "exp": "A hidráulica segue como maior fonte; solar e eólica crescem rápido e podem ultrapassá-la no futuro."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "O motivo central de o petróleo liderar a matriz energética (e não a elétrica) é:",
+   "opts": [
+    "A dependência do transporte rodoviário, que consome diesel e gasolina.",
+    "O uso do petróleo na geração de eletricidade.",
+    "A inexistência de biocombustíveis.",
+    "A ausência de produção nacional."
+   ],
+   "ans": 0,
+   "exp": "Matriz energética inclui transporte e indústria; a elétrica considera só a geração de eletricidade."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "O PROINFA teve como objetivo:",
+   "opts": [
+    "Incentivar fontes alternativas como eólica, PCH e biomassa de cana na geração elétrica.",
+    "Criar o primeiro programa de álcool combustível.",
+    "Estatizar a produção de biodiesel.",
+    "Financiar a construção de Itaipu."
+   ],
+   "ans": 0,
+   "exp": "O Proálcool é dos anos 1970; o PROINFA é do início dos anos 2000."
+  },
+  {
+   "id": "m4",
+   "t": "m",
+   "q": "Sobre o biodiesel no Brasil, é correto afirmar:",
+   "opts": [
+    "É usado sobretudo em veículos pesados e é produzido majoritariamente a partir da soja.",
+    "É usado só em carros de passeio flex.",
+    "Depende de refinarias de petróleo próximas à lavoura.",
+    "Surgiu como resposta à crise do petróleo de 1973."
+   ],
+   "ans": 0,
+   "exp": "Quem responde à crise de 1973 é o etanol (Proálcool). O biodiesel não exige refinarias na área de produção."
+  },
+  {
+   "id": "m5",
+   "t": "m",
+   "q": "Em relação à energia solar no Brasil:",
+   "opts": [
+    "A geração distribuída residencial é importante, e o maior potencial está no semiárido nordestino.",
+    "O maior potencial está na Amazônia, pela alta insolação.",
+    "Concentra-se em grandes usinas no Sul.",
+    "Foi desestimulada por políticas de compensação."
+   ],
+   "ans": 0,
+   "exp": "A nebulosidade amazônica limita a geração fotovoltaica; a compensação de energia incentivou a geração em telhados."
+  },
+  {
+   "id": "m6",
+   "t": "m",
+   "q": "Qual afirmação sobre a exploração de petróleo no Brasil está correta?",
+   "opts": [
+    "O pré-sal deslocou a produção para a Bacia de Santos, e o petróleo se tornou grande item de exportação.",
+    "A produção continua concentrada no Espírito Santo.",
+    "A autossuficiência foi alcançada nos anos 1970.",
+    "A margem equatorial já é a principal área produtora."
+   ],
+   "ans": 0,
+   "exp": "A margem equatorial é fronteira de exploração em debate, com preocupações ambientais; ainda não é a principal área."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "O Brasil tem matriz elétrica com cerca de 90% de fontes renováveis, enquanto sua matriz energética total é bem menos renovável.",
+   "ans": "C",
+   "exp": "A matriz energética inclui transporte e indústria, onde petróleo e derivados pesam muito."
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "A participação da hidráulica na matriz elétrica tende a cair porque usinas estão sendo fechadas.",
+   "ans": "E",
+   "exp": "A queda relativa decorre da falta de novas grandes hidrelétricas, não do fechamento das existentes.",
+   "trap": 2
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "A biomassa, com destaque para a cana-de-açúcar, representa cerca de 28 a 29% da matriz energética brasileira.",
+   "ans": "C",
+   "exp": "A cana sozinha responde por cerca de 17% da matriz."
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "O potencial hidrelétrico brasileiro se concentra na Amazônia, por causa da abundância de rios.",
+   "ans": "E",
+   "exp": "O potencial maior está nos rios de planalto (Paraná, São Francisco); a Amazônia é plana, e represar alagaria áreas enormes.",
+   "trap": 2
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "O Proálcool foi lançado nos anos 1970 em resposta à crise do petróleo.",
+   "ans": "C",
+   "exp": "Os carros flex ampliaram o programa décadas depois."
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "A energia solar brasileira tem maior produção no Nordeste, onde também está seu maior potencial.",
+   "ans": "E",
+   "exp": "O maior potencial está no semiárido nordestino, mas a maior produção, por ser distribuída em residências, está no Sudeste.",
+   "trap": 5
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "A maior parte do biodiesel brasileiro é produzido a partir do óleo de soja.",
+   "ans": "C",
+   "exp": "Sebo bovino, algodão e outras matérias-primas têm peso menor."
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "A autossuficiência em petróleo foi alcançada pelo Brasil em meados dos anos 2000, graças à tecnologia de exploração em águas profundas.",
+   "ans": "C",
+   "exp": "A Petrobras desenvolveu a tecnologia; o pré-sal ampliou a produção depois."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "A energia nuclear tem grande peso na matriz elétrica brasileira, por causa das reservas de urânio.",
+   "ans": "E",
+   "exp": "Apesar das reservas e do domínio do enriquecimento, a participação é pequena.",
+   "trap": 1
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "O PROINFA, criado no início dos anos 2000, buscou diversificar a matriz elétrica com eólica, PCH e biomassa.",
+   "ans": "C",
+   "exp": "Foi a base da diversificação que depois levou ao crescimento da eólica e da solar."
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Matriz renovável, mas movida a petróleo: o paradoxo energético do Brasil"
+  },
+  {
+   "t": "Energética x elétrica",
+   "b": "A matriz elétrica é cerca de 90% renovável; a matriz energética total depende do petróleo por causa do transporte rodoviário.",
+   "l": [
+    "Elétrica: só geração de eletricidade",
+    "Energética: transporte, indústria, calor",
+    "Petróleo lidera a matriz total"
+   ],
+   "n": "~90% renovável (elétrica)"
+  },
+  {
+   "t": "Biomassa e cana",
+   "b": "A biomassa soma 28–29% da matriz e é quase tão grande quanto o petróleo; a cana responde por cerca de 17%.",
+   "l": [
+    "Etanol e bagaço de cana",
+    "Bagaço gera eletricidade",
+    "São Paulo lidera o setor sucroalcooleiro"
+   ],
+   "n": "Cana ≈ 16,7%"
+  },
+  {
+   "t": "Proálcool e flex",
+   "b": "O Proálcool nasceu nos anos 1970 em resposta à crise do petróleo. O carro flex superou a desconfiança com o abastecimento.",
+   "l": [
+    "Crise do petróleo de 1973",
+    "Álcool como combustível",
+    "Carros flex nos anos 2000"
+   ]
+  },
+  {
+   "t": "Biodiesel",
+   "b": "Surgiu no governo Lula como alternativa ao diesel de caminhões e ônibus. A soja é a principal matéria-prima.",
+   "l": [
+    "Uso em veículos pesados",
+    "Soja como base",
+    "Não exige refinarias na lavoura"
+   ],
+   "n": "Fronteira: Mato Grosso e Matopiba"
+  },
+  {
+   "t": "Hidrelétricas",
+   "b": "A hidráulica é a base da eletricidade, mas perde peso relativo porque não há novas grandes usinas. Belo Monte foi a última.",
+   "l": [
+    "Potencial em rios de planalto",
+    "Amazônia é plana",
+    "Itaipu e Belo Monte"
+   ],
+   "n": "Última grande: Belo Monte"
+  },
+  {
+   "t": "Eólica e solar",
+   "b": "A eólica se concentra no Nordeste e no RS. A solar tem potencial no semiárido, mas produz mais no Sudeste, via geração distribuída.",
+   "l": [
+    "Ventos do litoral nordestino",
+    "Painéis em telhados",
+    "Amazônia: muita nebulosidade"
+   ],
+   "n": "Podem superar a hidráulica"
+  },
+  {
+   "t": "Petróleo e pré-sal",
+   "b": "Tecnologia em águas profundas, desenvolvida pela Petrobras, deu autossuficiência nos anos 2000 e o pré-sal fez do petróleo um grande item de exportação.",
+   "l": [
+    "Bacia de Santos",
+    "Royalties: Maricá (RJ)",
+    "Margem equatorial em debate"
+   ],
+   "n": "Autossuficiência: anos 2000"
+  },
+  {
+   "t": "PROINFA e diversificação",
+   "b": "O PROINFA, de 2002, estimulou eólica, PCH e biomassa. O Plano Nacional de Energia 2030 reforça a diversificação das fontes.",
+   "l": [
+    "Dependência de uma ou duas fontes é risco",
+    "Mudança climática afeta as hidrelétricas",
+    "Nuclear: pouca relevância"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Hidráulica cai por falta de obras novas, não por fechamento",
+    "Elétrica renovável não é a mesma coisa que energética renovável",
+    "Maior potencial solar (NE) não é a maior produção (SE)",
+    "Amazônia: pouco potencial hidrelétrico e solar",
+    "Proálcool (anos 1970) não é PROINFA (2002)"
+   ]
+  }
+ ]
+}

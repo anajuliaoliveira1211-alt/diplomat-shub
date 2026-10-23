@@ -1,1 +1,301 @@
-{"assunto":"Direitos humanos","edital":"13.6","items":[{"a":"Direitos civis e políticos (voto, expressão, ir e vir, propriedade). São 'negativos': exigem abstenção do Estado e têm aplicação imediata. Origem iluminista e liberal.","id":"f1","q":"O que são direitos de primeira geração?","t":"f"},{"a":"Direitos econômicos, sociais e culturais (trabalho, saúde, educação, moradia). São 'positivos', exigem ação do Estado e têm realização progressiva. Inspiração socialista e social-democrata.","id":"f2","q":"O que são direitos de segunda geração?","t":"f"},{"a":"Direitos de solidariedade (paz, desenvolvimento, meio ambiente, autodeterminação), que dependem de cooperação internacional. Ganham força nos anos 1960–1970.","id":"f3","q":"O que são direitos de terceira geração?","t":"f"},{"a":"A Declaração Universal (1948), o Pacto Internacional sobre Direitos Civis e Políticos e o Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais (ambos de 1966, em vigor desde 1976).","id":"f4","q":"O que compõe a Carta Internacional dos Direitos Humanos?","t":"f"},{"a":"Pela divisão da Guerra Fria: o bloco ocidental priorizava direitos civis e políticos; o socialista, os econômicos e sociais. Os pactos foram adotados em 1966 e entraram em vigor em 1976.","id":"f5","q":"Por que houve dois pactos e não um?","t":"f"},{"a":"O primeiro admite comunicações individuais ao Comitê de Direitos Humanos. O segundo (1989) visa abolir a pena de morte. O Brasil ressalvou a pena de morte em caso de guerra declarada.","id":"f6","q":"O que preveem os protocolos facultativos do PIDCP?","t":"f"},{"a":"A 1235 permitiu à Comissão de Direitos Humanos examinar publicamente violações graves e sistemáticas. A 1503 criou procedimento confidencial de exame de comunicações sobre padrões de violação.","id":"f7","q":"O que mudaram as Resoluções 1235 (1967) e 1503 (1970) do ECOSOC?","t":"f"},{"a":"Universalidade, indivisibilidade e interdependência dos direitos humanos, além da criação do Alto Comissariado da ONU para os Direitos Humanos. O brasileiro Gilberto Saboia presidiu o comitê de redação.","id":"f8","q":"O que consagrou a Conferência de Viena (1993)?","t":"f"},{"a":"Pela presença de Estados violadores, seletividade e politização. O Conselho de Direitos Humanos tem 47 membros eleitos pela AGNU, por maioria absoluta, com distribuição regional.","id":"f9","q":"Por que a Comissão de Direitos Humanos foi substituída em 2006?","t":"f"},{"a":"Mecanismo do Conselho de Direitos Humanos, com apoio do Brasil, pelo qual todos os Estados são examinados por seus pares em ciclos regulares, para combater a seletividade.","id":"f10","q":"O que é a Revisão Periódica Universal (RPU)?","t":"f"},{"a":"Na ditadura, buscou vaga na Comissão (1977) para se defender e foi examinado sob o procedimento 1503. Com a redemocratização, ratificou os pactos (1992), a Convenção Americana e a convenção contra a tortura, e teve papel central em Viena.","id":"f11","q":"Como o Brasil passou de defensivo a ativo em direitos humanos?","t":"f"},{"a":"Sérgio Vieira de Mello (2002–2003), morto no atentado de Bagdá em 2003. O primeiro Alto Comissário foi o equatoriano José Ayala-Lasso (1994).","id":"f12","q":"Quem foi o primeiro brasileiro Alto Comissário da ONU para os Direitos Humanos?","t":"f"},{"ans":0,"exp":"53 era a antiga Comissão; 54 é o ECOSOC.","id":"m1","opts":["47","53","54","15"],"q":"Quantos membros tem o Conselho de Direitos Humanos?","t":"m"},{"ans":0,"exp":"A 60/251 é a resolução da AGNU que criou o Conselho.","id":"m2","opts":["1503 (1970)","1235 (1967)","377 (1950)","60/251 (2006)"],"q":"Qual resolução do ECOSOC criou o procedimento confidencial de comunicações?","t":"m"},{"ans":0,"exp":"1948 é a Declaração Universal; 1993, Viena.","id":"m3","opts":["1976","1966","1948","1993"],"q":"Quando os Pactos de 1966 entraram em vigor?","t":"m"},{"ans":0,"exp":"Viena afirmou universalidade, indivisibilidade e interdependência.","id":"m4","opts":["Indivisibilidade dos direitos humanos","Primazia dos direitos civis e políticos","Relativismo cultural","Não intervenção absoluta"],"q":"Qual princípio Viena (1993) consagrou?","t":"m"},{"ans":0,"exp":"Paz, desenvolvimento e meio ambiente não se realizam isoladamente.","id":"m5","opts":["Terceira","Primeira","Segunda","Nenhuma"],"q":"Qual geração de direitos depende sobretudo de cooperação internacional?","t":"m"},{"ans":"E","exp":"É resolução da Assembleia Geral (1948), sem força de tratado, embora muitos de seus preceitos sejam hoje costumeiros.","id":"c1","s":"A Declaração Universal dos Direitos Humanos é tratado internacional ratificado pelos Estados.","t":"c","trap":6},{"ans":"E","exp":"Foi criada pelo ECOSOC.","id":"c2","s":"A Comissão de Direitos Humanos foi criada pela Assembleia Geral em 1946.","t":"c","trap":3},{"ans":"C","exp":"Há cotas regionais: por exemplo, 8 vagas para América Latina e Caribe.","id":"c3","s":"No Conselho de Direitos Humanos, os membros são eleitos pela Assembleia Geral, por maioria absoluta, observada a distribuição geográfica equitativa.","t":"c"},{"ans":"E","exp":"Viena admitiu considerar particularidades, mas afirmou o dever de promover todos os direitos.","id":"c4","s":"A Conferência de Viena de 1993 afirmou que as particularidades culturais podem justificar a não aplicação dos direitos humanos.","t":"c","trap":2},{"ans":"C","exp":"O PIDESC fala em realização progressiva, até o máximo dos recursos disponíveis.","id":"c5","s":"Os direitos econômicos, sociais e culturais são, em regra, de realização progressiva.","t":"c"},{"ans":"C","exp":"Entre 1974 e 1976.","id":"c6","s":"O Brasil foi examinado sob o procedimento confidencial 1503 durante o regime militar.","t":"c"},{"ans":"E","exp":"Todos os Estados-membros são examinados.","id":"c7","s":"A Revisão Periódica Universal examina apenas os Estados acusados de violações graves.","t":"c","trap":1},{"ans":"E","exp":"Entraram em vigor em 1976.","id":"c8","s":"Os dois pactos internacionais de 1966 entraram em vigor no mesmo ano de sua adoção.","t":"c","trap":5}],"kind":"deck","materia":"Política Internacional","notionUrl":"https://app.notion.com/p/39277560e5fa80c082aac89d913e86a2","resumo":[{"b":"Gerações, pactos e o caminho do Brasil nos direitos humanos.","k":"capa"},{"l":["1ª: civis e políticos (abstenção do Estado)","2ª: econômicos, sociais e culturais (ação, progressiva)","3ª: solidariedade (paz, meio ambiente, desenvolvimento)"],"t":"As três gerações"},{"b":"Declaração Universal (1948) + PIDCP + PIDESC (ambos de 1966, em vigor em 1976). Dois pactos por causa da Guerra Fria.","n":"1966","t":"Carta Internacional"},{"b":"É resolução da AGNU. Muitos preceitos, porém, viraram costume internacional.","t":"A DUDH não é tratado"},{"b":"A Comissão de DH foi criada pelo ECOSOC. A Res. 1235 (1967) abriu exame público de violações; a 1503 (1970), procedimento confidencial.","t":"ECOSOC e a Comissão"},{"b":"Universalidade, indivisibilidade e interdependência. Criou o Alto Comissariado. Gilberto Saboia presidiu o comitê de redação.","n":"1993","t":"Viena 1993"},{"b":"Substituiu a Comissão, criticada por seletividade. 47 membros eleitos pela AGNU por maioria absoluta, com cotas regionais.","t":"Conselho de DH (2006)"},{"b":"Todos os Estados são examinados pelos pares em ciclos regulares. O Brasil apoiou o mecanismo contra a seletividade.","t":"Revisão Periódica Universal"},{"b":"Na ditadura, o Brasil se defendia (procedimento 1503). Redemocratizado, ratificou os pactos em 1992. Sérgio Vieira de Mello foi Alto Comissário (2002–03).","t":"De defensivo a ativo"},{"k":"fim","l":["DUDH não é tratado","Comissão de DH foi criada pelo ECOSOC","Pactos: adotados em 1966, vigentes em 1976","RPU examina todos os Estados","Viena não aceitou particularismo como desculpa"],"t":"Pegadinhas que caem"}],"updatedAt":"2026-10-13"}
+{
+ "assunto": "Direitos humanos",
+ "edital": "13.6",
+ "items": [
+  {
+   "a": "Direitos civis e políticos (voto, expressão, ir e vir, propriedade). São 'negativos': exigem abstenção do Estado e têm aplicação imediata. Origem iluminista e liberal.",
+   "id": "f1",
+   "q": "O que são direitos de primeira geração?",
+   "t": "f"
+  },
+  {
+   "a": "Direitos econômicos, sociais e culturais (trabalho, saúde, educação, moradia). São 'positivos', exigem ação do Estado e têm realização progressiva. Inspiração socialista e social-democrata.",
+   "id": "f2",
+   "q": "O que são direitos de segunda geração?",
+   "t": "f"
+  },
+  {
+   "a": "Direitos de solidariedade (paz, desenvolvimento, meio ambiente, autodeterminação), que dependem de cooperação internacional. Ganham força nos anos 1960–1970.",
+   "id": "f3",
+   "q": "O que são direitos de terceira geração?",
+   "t": "f"
+  },
+  {
+   "a": "A Declaração Universal (1948), o Pacto Internacional sobre Direitos Civis e Políticos e o Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais (ambos de 1966, em vigor desde 1976).",
+   "id": "f4",
+   "q": "O que compõe a Carta Internacional dos Direitos Humanos?",
+   "t": "f"
+  },
+  {
+   "a": "Pela divisão da Guerra Fria: o bloco ocidental priorizava direitos civis e políticos; o socialista, os econômicos e sociais. Os pactos foram adotados em 1966 e entraram em vigor em 1976.",
+   "id": "f5",
+   "q": "Por que houve dois pactos e não um?",
+   "t": "f"
+  },
+  {
+   "a": "O primeiro admite comunicações individuais ao Comitê de Direitos Humanos. O segundo (1989) visa abolir a pena de morte. O Brasil ressalvou a pena de morte em caso de guerra declarada.",
+   "id": "f6",
+   "q": "O que preveem os protocolos facultativos do PIDCP?",
+   "t": "f"
+  },
+  {
+   "a": "A 1235 permitiu à Comissão de Direitos Humanos examinar publicamente violações graves e sistemáticas. A 1503 criou procedimento confidencial de exame de comunicações sobre padrões de violação.",
+   "id": "f7",
+   "q": "O que mudaram as Resoluções 1235 (1967) e 1503 (1970) do ECOSOC?",
+   "t": "f"
+  },
+  {
+   "a": "Universalidade, indivisibilidade e interdependência dos direitos humanos, além da criação do Alto Comissariado da ONU para os Direitos Humanos. O brasileiro Gilberto Saboia presidiu o comitê de redação.",
+   "id": "f8",
+   "q": "O que consagrou a Conferência de Viena (1993)?",
+   "t": "f"
+  },
+  {
+   "a": "Pela presença de Estados violadores, seletividade e politização. O Conselho de Direitos Humanos tem 47 membros eleitos pela AGNU, por maioria absoluta, com distribuição regional.",
+   "id": "f9",
+   "q": "Por que a Comissão de Direitos Humanos foi substituída em 2006?",
+   "t": "f"
+  },
+  {
+   "a": "Mecanismo do Conselho de Direitos Humanos, com apoio do Brasil, pelo qual todos os Estados são examinados por seus pares em ciclos regulares, para combater a seletividade.",
+   "id": "f10",
+   "q": "O que é a Revisão Periódica Universal (RPU)?",
+   "t": "f"
+  },
+  {
+   "a": "Na ditadura, buscou vaga na Comissão (1977) para se defender e foi examinado sob o procedimento 1503. Com a redemocratização, ratificou os pactos (1992), a Convenção Americana e a convenção contra a tortura, e teve papel central em Viena.",
+   "id": "f11",
+   "q": "Como o Brasil passou de defensivo a ativo em direitos humanos?",
+   "t": "f"
+  },
+  {
+   "a": "Sérgio Vieira de Mello (2002–2003), morto no atentado de Bagdá em 2003. O primeiro Alto Comissário foi o equatoriano José Ayala-Lasso (1994).",
+   "id": "f12",
+   "q": "Quem foi o primeiro brasileiro Alto Comissário da ONU para os Direitos Humanos?",
+   "t": "f"
+  },
+  {
+   "ans": 0,
+   "exp": "53 era a antiga Comissão; 54 é o ECOSOC.",
+   "id": "m1",
+   "opts": [
+    "47",
+    "53",
+    "54",
+    "15"
+   ],
+   "q": "Quantos membros tem o Conselho de Direitos Humanos?",
+   "t": "m"
+  },
+  {
+   "ans": 0,
+   "exp": "A 60/251 é a resolução da AGNU que criou o Conselho.",
+   "id": "m2",
+   "opts": [
+    "1503 (1970)",
+    "1235 (1967)",
+    "377 (1950)",
+    "60/251 (2006)"
+   ],
+   "q": "Qual resolução do ECOSOC criou o procedimento confidencial de comunicações?",
+   "t": "m"
+  },
+  {
+   "ans": 0,
+   "exp": "1948 é a Declaração Universal; 1993, Viena.",
+   "id": "m3",
+   "opts": [
+    "1976",
+    "1966",
+    "1948",
+    "1993"
+   ],
+   "q": "Quando os Pactos de 1966 entraram em vigor?",
+   "t": "m"
+  },
+  {
+   "ans": 0,
+   "exp": "Viena afirmou universalidade, indivisibilidade e interdependência.",
+   "id": "m4",
+   "opts": [
+    "Indivisibilidade dos direitos humanos",
+    "Primazia dos direitos civis e políticos",
+    "Relativismo cultural",
+    "Não intervenção absoluta"
+   ],
+   "q": "Qual princípio Viena (1993) consagrou?",
+   "t": "m"
+  },
+  {
+   "ans": 0,
+   "exp": "Paz, desenvolvimento e meio ambiente não se realizam isoladamente.",
+   "id": "m5",
+   "opts": [
+    "Terceira",
+    "Primeira",
+    "Segunda",
+    "Nenhuma"
+   ],
+   "q": "Qual geração de direitos depende sobretudo de cooperação internacional?",
+   "t": "m"
+  },
+  {
+   "ans": "E",
+   "exp": "É resolução da Assembleia Geral (1948), sem força de tratado, embora muitos de seus preceitos sejam hoje costumeiros.",
+   "id": "c1",
+   "s": "A Declaração Universal dos Direitos Humanos é tratado internacional ratificado pelos Estados.",
+   "t": "c",
+   "trap": 6
+  },
+  {
+   "ans": "E",
+   "exp": "Foi criada pelo ECOSOC.",
+   "id": "c2",
+   "s": "A Comissão de Direitos Humanos foi criada pela Assembleia Geral em 1946.",
+   "t": "c",
+   "trap": 3
+  },
+  {
+   "ans": "C",
+   "exp": "Há cotas regionais: por exemplo, 8 vagas para América Latina e Caribe.",
+   "id": "c3",
+   "s": "No Conselho de Direitos Humanos, os membros são eleitos pela Assembleia Geral, por maioria absoluta, observada a distribuição geográfica equitativa.",
+   "t": "c"
+  },
+  {
+   "ans": "E",
+   "exp": "Viena admitiu considerar particularidades, mas afirmou o dever de promover todos os direitos.",
+   "id": "c4",
+   "s": "A Conferência de Viena de 1993 afirmou que as particularidades culturais podem justificar a não aplicação dos direitos humanos.",
+   "t": "c",
+   "trap": 2
+  },
+  {
+   "ans": "C",
+   "exp": "O PIDESC fala em realização progressiva, até o máximo dos recursos disponíveis.",
+   "id": "c5",
+   "s": "Os direitos econômicos, sociais e culturais são, em regra, de realização progressiva.",
+   "t": "c"
+  },
+  {
+   "ans": "C",
+   "exp": "Entre 1974 e 1976.",
+   "id": "c6",
+   "s": "O Brasil foi examinado sob o procedimento confidencial 1503 durante o regime militar.",
+   "t": "c"
+  },
+  {
+   "ans": "E",
+   "exp": "Todos os Estados-membros são examinados.",
+   "id": "c7",
+   "s": "A Revisão Periódica Universal examina apenas os Estados acusados de violações graves.",
+   "t": "c",
+   "trap": 1
+  },
+  {
+   "ans": "E",
+   "exp": "Entraram em vigor em 1976.",
+   "id": "c8",
+   "s": "Os dois pactos internacionais de 1966 entraram em vigor no mesmo ano de sua adoção.",
+   "t": "c",
+   "trap": 5
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "A jurisprudência da Corte Interamericana de Direitos Humanos reconhece a responsabilidade do Estado por violações de direitos humanos não apenas como resultado de ação ou omissão diretamente imputável a ele, mas também em virtude da falta de devida diligência em prevenir violação cometida por particulares.",
+   "ans": "C",
+   "exp": "Gabarito definitivo: certo. É a doutrina da devida diligência (Velásquez Rodríguez, 1988): o Estado responde quando não previne, investiga ou pune violações entre particulares.",
+   "ano": "2018",
+   "prova": "Manhã · Q34 item 1"
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "A Corte Internacional de Justiça reconhece que o início de um conflito armado marca o fim automático da vigência do direito internacional dos direitos humanos no território em conflito, dando lugar ao direito internacional humanitário.",
+   "ans": "E",
+   "exp": "Gabarito definitivo: errado. Para a CIJ (Muro, 2004; Congo v. Uganda, 2005), os direitos humanos continuam valendo em conflitos, aplicados em conjunto com o DIH, que é lex specialis.",
+   "trap": 4,
+   "ano": "2018",
+   "prova": "Manhã · Q34 item 2"
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "A proteção a civis em conflitos armados é regra absoluta de direito internacional humanitário e deve prevalecer mesmo nos períodos em que civis venham a engajar-se diretamente em hostilidades.",
+   "ans": "E",
+   "exp": "Gabarito definitivo: errado. O civil perde a proteção contra ataques enquanto participar diretamente das hostilidades (art. 51.3 do Protocolo I).",
+   "trap": 1,
+   "ano": "2018",
+   "prova": "Manhã · Q34 item 3"
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "Se em conflitos armados internacionais um combatente capturado pelo inimigo tem a proteção do status de prisioneiro de guerra, essa mesma proteção não é prevista em caso de conflitos armados não internacionais.",
+   "ans": "C",
+   "exp": "Gabarito definitivo: certo. O status de prisioneiro de guerra (III Convenção de Genebra) só existe em conflitos internacionais; nos não internacionais valem o art. 3º comum e o Protocolo II.",
+   "ano": "2018",
+   "prova": "Manhã · Q34 item 4"
+  }
+ ],
+ "kind": "deck",
+ "materia": "Política Internacional",
+ "notionUrl": "https://app.notion.com/p/39277560e5fa80c082aac89d913e86a2",
+ "resumo": [
+  {
+   "b": "Gerações, pactos e o caminho do Brasil nos direitos humanos.",
+   "k": "capa"
+  },
+  {
+   "l": [
+    "1ª: civis e políticos (abstenção do Estado)",
+    "2ª: econômicos, sociais e culturais (ação, progressiva)",
+    "3ª: solidariedade (paz, meio ambiente, desenvolvimento)"
+   ],
+   "t": "As três gerações"
+  },
+  {
+   "b": "Declaração Universal (1948) + PIDCP + PIDESC (ambos de 1966, em vigor em 1976). Dois pactos por causa da Guerra Fria.",
+   "n": "1966",
+   "t": "Carta Internacional"
+  },
+  {
+   "b": "É resolução da AGNU. Muitos preceitos, porém, viraram costume internacional.",
+   "t": "A DUDH não é tratado"
+  },
+  {
+   "b": "A Comissão de DH foi criada pelo ECOSOC. A Res. 1235 (1967) abriu exame público de violações; a 1503 (1970), procedimento confidencial.",
+   "t": "ECOSOC e a Comissão"
+  },
+  {
+   "b": "Universalidade, indivisibilidade e interdependência. Criou o Alto Comissariado. Gilberto Saboia presidiu o comitê de redação.",
+   "n": "1993",
+   "t": "Viena 1993"
+  },
+  {
+   "b": "Substituiu a Comissão, criticada por seletividade. 47 membros eleitos pela AGNU por maioria absoluta, com cotas regionais.",
+   "t": "Conselho de DH (2006)"
+  },
+  {
+   "b": "Todos os Estados são examinados pelos pares em ciclos regulares. O Brasil apoiou o mecanismo contra a seletividade.",
+   "t": "Revisão Periódica Universal"
+  },
+  {
+   "b": "Na ditadura, o Brasil se defendia (procedimento 1503). Redemocratizado, ratificou os pactos em 1992. Sérgio Vieira de Mello foi Alto Comissário (2002–03).",
+   "t": "De defensivo a ativo"
+  },
+  {
+   "k": "fim",
+   "l": [
+    "DUDH não é tratado",
+    "Comissão de DH foi criada pelo ECOSOC",
+    "Pactos: adotados em 1966, vigentes em 1976",
+    "RPU examina todos os Estados",
+    "Viena não aceitou particularismo como desculpa"
+   ],
+   "t": "Pegadinhas que caem"
+  }
+ ],
+ "updatedAt": "2026-10-23"
+}

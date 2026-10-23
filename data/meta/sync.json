@@ -2,10 +2,11 @@
  "enriched": [
   "hm-primeira-guerra",
   "pi-nao-proliferacao",
-  "pi-onu-historia-estrutura"
+  "pi-onu-historia-estrutura",
+  "pi-direitos-humanos"
  ],
  "kind": "sync",
- "lastRun": "2026-10-22",
+ "lastRun": "2026-10-23",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",
@@ -178,6 +179,10 @@
   "40077560e5fa804982a8f0bcfdfc855e": {
    "deck": "hm-fascismos-consolidacao",
    "edited": "2026-10-21T21:05:16.347Z"
+  },
+  "40177560e5fa80cc9d8de6fa853df51f": {
+   "deck": "geo-fontes-energia-brasil",
+   "edited": "2026-10-23T00:08:19.787Z"
   }
  }
 }
