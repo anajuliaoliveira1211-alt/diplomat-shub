@@ -1,0 +1,245 @@
+{
+ "kind": "deck",
+ "materia": "Política Internacional",
+ "assunto": "Relações Brasil–Argentina",
+ "edital": "2",
+ "notionUrl": "https://app.notion.com/p/40177560e5fa8069b6f4f65019672154",
+ "updatedAt": "2026-10-24",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Como Alessandro Candeas caracteriza o período 1810–1898 nas relações Brasil–Argentina?",
+   "a": "Instabilidade estrutural, com predomínio de rivalidade.",
+   "exp": "Disputas no Prata e herança da rivalidade entre Portugal e Espanha."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "E o período 1898–1961?",
+   "a": "Instabilidade conjuntural, com busca de cooperação e momentos de rivalidade.",
+   "exp": "Alternância entre aproximação e desconfiança, sem rivalidade estrutural."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "E o período 1962–1979?",
+   "a": "Instabilidade conjuntural com predomínio de rivalidade.",
+   "exp": "O ponto central foi a disputa sobre o aproveitamento hidrelétrico do rio Paraná (Itaipu)."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "Que acordo de 1979 pôs fim à disputa Itaipu–Corpus?",
+   "a": "O Acordo Tripartite Itaipu–Corpus, entre Brasil, Argentina e Paraguai.",
+   "exp": "Abriu caminho para a cooperação bilateral."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "Como Candeas descreve 1979–1988?",
+   "a": "Construção da estabilidade estrutural pela cooperação.",
+   "exp": "Inclui a Declaração de Iguaçu (1985) e o PICE (1986), de Sarney e Alfonsín."
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "E 1989–2005?",
+   "a": "Construção da estabilidade estrutural pela integração.",
+   "exp": "Tratado de Assunção (1991), criação do Mercosul e da ABACC (1991)."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "O que é a ABACC?",
+   "a": "Agência Brasileiro-Argentina de Contabilidade e Controle de Materiais Nucleares, criada em 1991.",
+   "exp": "Fiscaliza reciprocamente os programas nucleares pacíficos dos dois países."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "Qual a diferença entre instabilidade estrutural e conjuntural, na leitura de Candeas?",
+   "a": "Estrutural: a rivalidade é a base da relação. Conjuntural: há rivalidades pontuais, mas sem comprometer a relação de fundo.",
+   "exp": "A partir de 1979–88 passa-se à estabilidade estrutural."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Segundo a periodização de Candeas, o período 1979–1988 foi marcado por:",
+   "opts": [
+    "Construção da estabilidade estrutural pela cooperação.",
+    "Instabilidade estrutural com predomínio de rivalidade.",
+    "Integração consolidada pelo Mercosul.",
+    "Instabilidade conjuntural com predomínio de rivalidade."
+   ],
+   "ans": 0,
+   "exp": "O Mercosul vem depois, com o Tratado de Assunção em 1991."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "O Acordo Tripartite Itaipu–Corpus (1979) resolveu:",
+   "opts": [
+    "O impasse sobre o aproveitamento hidrelétrico do rio Paraná entre Brasil, Argentina e Paraguai.",
+    "A disputa de fronteira da Guerra do Paraguai.",
+    "A questão das Malvinas.",
+    "A criação da ABACC."
+   ],
+   "ans": 0,
+   "exp": "É o marco da distensão bilateral."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "Qual é a sequência correta da aproximação bilateral nos anos 1980–1990?",
+   "opts": [
+    "Declaração de Iguaçu (1985), PICE (1986) e Tratado de Assunção (1991).",
+    "Tratado de Assunção, Declaração de Iguaçu e PICE.",
+    "PICE, Tratado de Assunção e Declaração de Iguaçu.",
+    "Tratado de Assunção, PICE e Declaração de Iguaçu."
+   ],
+   "ans": 0,
+   "exp": "A cooperação precede a integração mercosulina."
+  },
+  {
+   "id": "m4",
+   "t": "m",
+   "q": "A ABACC foi criada para:",
+   "opts": [
+    "Aplicar salvaguardas mútuas aos programas nucleares civis de Brasil e Argentina.",
+    "Fiscalizar a produção de armas nucleares em ambos os países.",
+    "Administrar a usina de Itaipu.",
+    "Coordenar o comércio do Mercosul."
+   ],
+   "ans": 0,
+   "exp": "Foi criada em 1991, junto ao acordo quadripartite com a AIEA."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "Para Candeas, a relação Brasil–Argentina entre 1810 e 1898 foi de cooperação estrutural.",
+   "ans": "E",
+   "exp": "O período foi de instabilidade estrutural, com predomínio de rivalidade.",
+   "trap": 2
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "No período 1962–1979, a rivalidade predominou, com a disputa sobre a utilização hidrelétrica do rio Paraná como ponto central.",
+   "ans": "C",
+   "exp": "A rivalidade foi superada com o Acordo Tripartite de 1979."
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "A estabilidade estrutural nas relações bilaterais começou a ser construída a partir de 1979, primeiro pela cooperação e depois pela integração.",
+   "ans": "C",
+   "exp": "1979–88 é cooperação; 1989–2005 é integração."
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "A ABACC permite que Brasil e Argentina fiscalizem uns aos outros em matéria nuclear.",
+   "ans": "C",
+   "exp": "É um mecanismo bilateral de verificação mútua, que funciona junto com a AIEA."
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "O Mercosul surgiu antes da Declaração de Iguaçu.",
+   "ans": "E",
+   "exp": "Declaração de Iguaçu é de 1985; o Tratado de Assunção, de 1991.",
+   "trap": 2
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "A distensão bilateral foi consolidada exclusivamente pela integração comercial dos anos 1990, sem relação com a cooperação anterior.",
+   "ans": "E",
+   "exp": "A integração foi construída sobre a cooperação dos anos 1979–88.",
+   "trap": 1
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Brasil–Argentina: da rivalidade à estabilidade estrutural"
+  },
+  {
+   "t": "Leitura de Candeas",
+   "b": "O artigo de Alessandro Candeas divide a história bilateral em fases de instabilidade e estabilidade, estrutural ou conjuntural.",
+   "l": [
+    "Estrutural: base da relação",
+    "Conjuntural: episódios pontuais",
+    "Cinco fases entre 1810 e 2005"
+   ]
+  },
+  {
+   "t": "1810–1898: rivalidade estrutural",
+   "b": "Após as independências, a relação foi marcada por disputas no Prata e por desconfiança mútua.",
+   "l": [
+    "Instabilidade estrutural",
+    "Predomínio da rivalidade",
+    "Herança da rivalidade ibérica"
+   ]
+  },
+  {
+   "t": "1898–1961: busca de cooperação",
+   "b": "A rivalidade deixa de ser estrutural. Há tentativas de aproximação, alternadas com momentos de tensão.",
+   "l": [
+    "Instabilidade conjuntural",
+    "Busca de cooperação",
+    "Rivalidade episódica"
+   ]
+  },
+  {
+   "t": "1962–1979: rivalidade volta",
+   "b": "Predomina de novo a rivalidade, em torno do aproveitamento hidrelétrico do rio Paraná e da construção de Itaipu.",
+   "l": [
+    "Instabilidade conjuntural",
+    "Disputa Itaipu–Corpus",
+    "Regimes militares rivais"
+   ]
+  },
+  {
+   "t": "1979–1988: cooperação",
+   "b": "O Acordo Tripartite (1979) abre caminho para a cooperação. Sarney e Alfonsín dão o passo político.",
+   "l": [
+    "Acordo Tripartite (1979)",
+    "Declaração de Iguaçu (1985)",
+    "PICE (1986)",
+    "Tratado de 1988"
+   ],
+   "n": "Estabilidade estrutural pela cooperação."
+  },
+  {
+   "t": "1989–2005: integração",
+   "b": "A cooperação é aprofundada com o Mercosul e com a verificação nuclear mútua.",
+   "l": [
+    "Tratado de Assunção (1991)",
+    "ABACC e acordo com a AIEA",
+    "Mercosul como projeto comum"
+   ],
+   "n": "Estabilidade estrutural pela integração."
+  },
+  {
+   "t": "Como cai na prova",
+   "b": "Questões costumam cobrar a ordem dos marcos e a diferença entre estrutural e conjuntural.",
+   "l": [
+    "Ordem: 1979, 1985, 1986, 1991",
+    "Estrutural ≠ conjuntural",
+    "Itaipu: do conflito à cooperação"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Estrutural e conjuntural não são sinônimos",
+    "A rivalidade de 1962–79 girava em torno do rio Paraná",
+    "O Mercosul (1991) vem depois de Iguaçu (1985)",
+    "Cooperação (1979–88) precede integração (1989–2005)"
+   ]
+  }
+ ]
+}

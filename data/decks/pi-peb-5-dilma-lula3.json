@@ -1,0 +1,346 @@
+{
+ "kind": "deck",
+ "materia": "Política Internacional",
+ "assunto": "PEB V: Dilma, Temer, Bolsonaro e Lula 3",
+ "edital": "2",
+ "notionUrl": "https://app.notion.com/p/40177560e5fa807fa672f902d738985a",
+ "updatedAt": "2026-10-24",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Qual foi a linha geral da política externa de Dilma Rousseff (2011–2016) em relação à de Lula?",
+   "a": "Manteve as bases da política externa de Lula, mas com menor intensidade, por causa da crise econômica e política interna.",
+   "exp": "Menos viagens e menos ativismo presidencial; foco em temas como gênero e integração latino-americana."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "Que organização regional foi criada em 2011, em meio à prioridade de Dilma à integração latino-americana?",
+   "a": "A CELAC (Comunidade de Estados Latino-Americanos e Caribenhos).",
+   "exp": "Reúne os 33 países da América Latina e do Caribe, sem EUA e Canadá."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "O que causou a crise Brasil–EUA de 2013?",
+   "a": "As revelações de Edward Snowden sobre a espionagem da NSA, que incluía Dilma e Angela Merkel.",
+   "exp": "Dilma cancelou a visita de Estado a Washington, prevista para outubro de 2013."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "Que resolução Brasil e Alemanha levaram à ONU após o caso de espionagem?",
+   "a": "'O direito à privacidade na era digital', que afirma que os direitos offline valem também online.",
+   "exp": "Aprovada na Assembleia Geral em dezembro de 2013."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "O que é a 'Responsabilidade ao Proteger' (RwP)?",
+   "a": "Conceito brasileiro de 2011 que busca disciplinar o uso da força em intervenções humanitárias, com critérios de prudência e monitoramento.",
+   "exp": "Surgiu como reação aos desdobramentos da intervenção na Líbia; não foi adotado formalmente pela ONU."
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Como o Brasil votou a Resolução 1973 (2011) do CSNU sobre a Líbia?",
+   "a": "Absteve-se, junto com Rússia, China, Índia e Alemanha.",
+   "exp": "A resolução autorizou 'todas as medidas necessárias' para proteger civis e criou zona de exclusão aérea."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "Qual foi o principal ponto de política externa do início do governo Temer (2016)?",
+   "a": "Buscar restaurar a credibilidade internacional do Brasil e priorizar a candidatura à OCDE.",
+   "exp": "Também retomou o foco comercial no Mercosul e as negociações com a UE."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "Que país foi suspenso do Mercosul em 2016–2017 no governo Temer?",
+   "a": "A Venezuela.",
+   "exp": "A suspensão deu ênfase à agenda comercial do bloco."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Quais eram os três grupos de influência na política externa de Bolsonaro?",
+   "a": "Olavistas (ideológicos), militares e liberais (Paulo Guedes).",
+   "exp": "Todos concordavam na prioridade da parceria com os EUA, por razões diferentes."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "O que significou o status de 'aliado extra-OTAN' concedido ao Brasil pelos EUA?",
+   "a": "É uma designação do governo dos EUA que facilita acesso a armamentos e cooperação em defesa; não tem relação com ser membro da OTAN.",
+   "exp": "Concedido em 2019, no governo Bolsonaro."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "De que organismos regionais Bolsonaro retirou o Brasil e que alternativa apoiou?",
+   "a": "Saiu da Unasul e da CELAC e apoiou o Prosul, de governos de direita.",
+   "exp": "Lula reativou a participação do Brasil nesses foros em 2023."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Que grandes eventos multilaterais o Brasil sediou no terceiro governo Lula?",
+   "a": "A Cúpula do G20 (2024), a dos BRICS (2025) e a COP-30 em Belém (2025).",
+   "exp": "Reforçam o papel do Brasil na governança global e na agenda ambiental."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Sobre a postura do Brasil na intervenção na Líbia em 2011, é correto afirmar que:",
+   "opts": [
+    "O Brasil se absteve na votação do Conselho de Segurança e criticou depois os efeitos da intervenção, propondo a RwP.",
+    "O Brasil votou a favor da Resolução 1973 e enviou tropas à Líbia.",
+    "O Brasil vetou a Resolução 1973 no Conselho de Segurança.",
+    "O Brasil liderou a coalizão militar autorizada pela ONU."
+   ],
+   "ans": 0,
+   "exp": "Brasil abstenção; não enviou tropas. A RwP foi apresentada em seguida."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "O principal efeito do caso Snowden sobre a agenda externa de Dilma foi:",
+   "opts": [
+    "Cancelamento da visita de Estado aos EUA e iniciativa na ONU sobre privacidade digital com a Alemanha.",
+    "Rompimento de relações diplomáticas com os EUA.",
+    "Saída do Brasil da Organização dos Estados Americanos.",
+    "Adesão do Brasil ao acordo Five Eyes."
+   ],
+   "ans": 0,
+   "exp": "A resposta foi diplomática e multilateral, sem ruptura."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "A respeito da política externa de Michel Temer, é correto afirmar que:",
+   "opts": [
+    "Priorizou a OCDE, retomou negociações Mercosul–UE e apoiou a suspensão da Venezuela no Mercosul.",
+    "Retirou o Brasil do Mercosul e priorizou a Unasul.",
+    "Rompeu as negociações com a UE e aprofundou a relação com os BRICS.",
+    "Ratificou o Tratado de Proibição de Armas Nucleares (TPAN)."
+   ],
+   "ans": 0,
+   "exp": "O Brasil assinou o TPAN em 2017, mas o tratado segue pendente de apreciação no Congresso."
+  },
+  {
+   "id": "m4",
+   "t": "m",
+   "q": "No governo Bolsonaro, a relação do Brasil com os EUA incluiu:",
+   "opts": [
+    "Status de aliado extra-OTAN, acordo de salvaguardas tecnológicas para Alcântara e fim do visto para turistas americanos.",
+    "Adesão do Brasil à OTAN como membro pleno.",
+    "Rompimento do acordo sobre Alcântara.",
+    "Criação da CELAC com os EUA."
+   ],
+   "ans": 0,
+   "exp": "O alinhamento aos EUA era a convergência entre os três grupos do governo."
+  },
+  {
+   "id": "m5",
+   "t": "m",
+   "q": "Qual alternativa descreve corretamente a integração regional entre 2019 e 2023?",
+   "opts": [
+    "Bolsonaro saiu da Unasul e da CELAC e apoiou o Prosul; Lula tentou reativar esses foros a partir de 2023.",
+    "Bolsonaro criou a CELAC; Lula a extinguiu.",
+    "Unasul e Prosul foram fundidas em 2019.",
+    "Lula retirou o Brasil do Mercosul em 2023."
+   ],
+   "ans": 0,
+   "exp": "Unasul e CELAC são associadas a governos de esquerda; Prosul, a governos de direita."
+  },
+  {
+   "id": "m6",
+   "t": "m",
+   "q": "A Responsabilidade ao Proteger (RwP) é:",
+   "opts": [
+    "Uma proposta brasileira de 2011 de critérios para a ação humanitária, não adotada formalmente pela ONU.",
+    "Uma resolução do Conselho de Segurança aprovada em 2011.",
+    "O nome brasileiro para a Doutrina Monroe.",
+    "Um tratado assinado por Brasil, Rússia, Índia e China."
+   ],
+   "ans": 0,
+   "exp": "É uma contribuição conceitual, sem status normativo na ONU."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "O governo Dilma Rousseff rompeu com as bases da política externa de Lula e passou a priorizar a aproximação com os EUA.",
+   "ans": "E",
+   "exp": "Dilma manteve as bases da política externa de Lula, com menor intensidade; a crise com os EUA veio em 2013.",
+   "trap": 5
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "A CELAC foi criada em 2011, em contexto de prioridade à integração latino-americana.",
+   "ans": "C",
+   "exp": "Foi formalizada em 2011 e reúne os países latino-americanos e caribenhos, sem EUA e Canadá."
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "A revelação de que Dilma Rousseff e Angela Merkel teriam sido espionadas pela NSA levou ao cancelamento da visita de Estado de Dilma aos EUA em 2013.",
+   "ans": "C",
+   "exp": "Dilma cancelou a visita a Washington e levou o tema à ONU."
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "O Brasil enviou tropas para a intervenção na Líbia em 2011, aprovada pelo Conselho de Segurança.",
+   "ans": "E",
+   "exp": "O Brasil se absteve na Resolução 1973 e não participou da intervenção; já no Haiti participou da Minustah.",
+   "trap": 4
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "A Responsabilidade ao Proteger foi oficialmente adotada pela ONU como evolução da Responsabilidade de Proteger (R2P).",
+   "ans": "E",
+   "exp": "A RwP foi apenas uma proposta brasileira, não adotada formalmente; a R2P é que foi endossada em 2005.",
+   "trap": 6
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "O governo Temer entregou o Itamaraty a um partido político, o PSDB, na distribuição de cargos de apoio.",
+   "ans": "C",
+   "exp": "José Serra foi o chanceler, o que quebrou a tradição de ministros diplomatas ou independentes."
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "O Brasil ratificou o Tratado de Proibição de Armas Nucleares (2017), do qual foi protagonista, ainda no governo Temer.",
+   "ans": "E",
+   "exp": "O Brasil foi o primeiro a assinar o TPAN em 2017, mas ele não foi aprovado pelo Congresso.",
+   "trap": 4
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "Os olavistas, os militares e os liberais divergiam sobre o papel do Estado e da cooperação internacional, mas concordavam na importância da parceria com os EUA.",
+   "ans": "C",
+   "exp": "A convergência no alinhamento aos EUA mantinha a coalizão de Bolsonaro."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "Os EUA concederam ao Brasil o status de aliado extra-OTAN, o que o tornou membro da aliança.",
+   "ans": "E",
+   "exp": "O status é uma categoria do direito norte-americano e não confere filiação à OTAN.",
+   "trap": 6
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "Bolsonaro retirou o Brasil da Unasul e da CELAC e aderiu ao Prosul, de governos de direita.",
+   "ans": "C",
+   "exp": "Os foros foram retomados no governo Lula; Prosul reúne governos alinhados ideologicamente."
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "PEB V: de Dilma a Lula 3, passando por Temer e Bolsonaro"
+  },
+  {
+   "t": "Dilma: continuidade com menos fôlego",
+   "b": "Mantém as bases da política externa de Lula, mas a crise econômica e o impeachment reduzem a intensidade. Prioriza gênero e integração latino-americana.",
+   "l": [
+    "CELAC criada em 2011",
+    "Perdão de dívidas africanas",
+    "Crise econômica limita agenda",
+    "Impeachment em 2016"
+   ]
+  },
+  {
+   "t": "Caso Snowden e privacidade digital",
+   "b": "A espionagem da NSA a Dilma e a Merkel abalou a relação com Obama, no auge do Ciência sem Fronteiras. O Brasil levou o tema à ONU.",
+   "l": [
+    "Visita de Estado cancelada (2013)",
+    "Resolução com a Alemanha na AGNU",
+    "Privacidade como direito humano"
+   ],
+   "n": "Resposta diplomática e multilateral, sem ruptura."
+  },
+  {
+   "t": "Líbia e Responsabilidade ao Proteger",
+   "b": "O Brasil se absteve na Resolução 1973 (2011) e, diante dos efeitos da intervenção, Dilma apresentou a RwP na ONU.",
+   "l": [
+    "Abstenção com BRICS e Alemanha",
+    "RwP: critérios de prudência",
+    "Não adotada pela ONU",
+    "R2P (2005) é outro conceito"
+   ],
+   "n": "Não confundir R2P e RwP."
+  },
+  {
+   "t": "Temer: credibilidade e agenda comercial",
+   "b": "Após o impeachment, Temer busca restaurar a credibilidade externa, prioriza a OCDE e retoma a pauta comercial do Mercosul.",
+   "l": [
+    "Itamaraty entregue ao PSDB",
+    "Venezuela suspensa do Mercosul",
+    "Negociação Mercosul–UE retomada",
+    "TPAN assinado, sem aprovação"
+   ]
+  },
+  {
+   "t": "Bolsonaro: três grupos",
+   "b": "A política externa combinava olavistas, militares e liberais. A divergência era grande, mas todos valorizavam a parceria com os EUA.",
+   "l": [
+    "Olavistas: ruptura ideológica",
+    "Militares: soberania e defesa",
+    "Liberais: abertura comercial",
+    "Convergência: aliança com EUA"
+   ]
+  },
+  {
+   "t": "Bolsonaro e os EUA",
+   "b": "A proximidade com Washington rendeu o status de aliado extra-OTAN e o acordo de salvaguardas tecnológicas para Alcântara.",
+   "l": [
+    "Aliado extra-OTAN (2019)",
+    "Alcântara: salvaguardas",
+    "Fim do visto para americanos",
+    "Tentativa de entrar na OCDE"
+   ],
+   "n": "Extra-OTAN não é membro da OTAN."
+  },
+  {
+   "t": "Bolsonaro e a América do Sul",
+   "b": "O governo saiu da Unasul e da CELAC, apoiou o Prosul e isolou a Venezuela. As relações com a Argentina esfriaram com Alberto Fernández.",
+   "l": [
+    "Saída de Unasul e CELAC",
+    "Criação do Prosul",
+    "Venezuela isolada",
+    "Tensão com a Argentina"
+   ]
+  },
+  {
+   "t": "Lula 3 (2023–): retomada",
+   "b": "Lula tenta reativar a integração regional, apesar da fragmentação política, e fortalece o Mercosul, com a Bolívia como membro pleno.",
+   "l": [
+    "Reativação de Unasul e CELAC",
+    "Venezuela segue suspensa",
+    "Brasil sedia G20, BRICS e COP-30",
+    "Diversificação de parceiros na Ásia"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "O Brasil se absteve na Líbia: não enviou tropas",
+    "RwP é brasileira e não foi adotada pela ONU",
+    "Extra-OTAN não faz o Brasil membro da OTAN",
+    "TPAN foi assinado em 2017, mas segue sem aprovação do Congresso",
+    "Dilma manteve as bases de Lula, mas com menos intensidade"
+   ]
+  }
+ ]
+}

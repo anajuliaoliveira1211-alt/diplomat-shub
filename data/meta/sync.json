@@ -3,10 +3,11 @@
   "hm-primeira-guerra",
   "pi-nao-proliferacao",
   "pi-onu-historia-estrutura",
-  "pi-direitos-humanos"
+  "pi-direitos-humanos",
+  "pi-comercio-omc"
  ],
  "kind": "sync",
- "lastRun": "2026-10-23",
+ "lastRun": "2026-10-24",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",
@@ -183,6 +184,14 @@
   "40177560e5fa80cc9d8de6fa853df51f": {
    "deck": "geo-fontes-energia-brasil",
    "edited": "2026-10-23T00:08:19.787Z"
+  },
+  "40177560e5fa807fa672f902d738985a": {
+   "deck": "pi-peb-5-dilma-lula3",
+   "edited": "2026-10-22T23:43:16.665Z"
+  },
+  "40177560e5fa8069b6f4f65019672154": {
+   "deck": "pi-brasil-argentina",
+   "edited": "2026-10-22T23:50:00.689Z"
   }
  }
 }

@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W43",
  "notionUrl": "",
- "updatedAt": "2026-10-23",
+ "updatedAt": "2026-10-24",
  "items": [
   {
    "id": "c1",
@@ -272,6 +272,96 @@
    "ans": "C",
    "exp": "A atividade caiu 1,74% em agosto e 2,8% em julho, ambas na comparação anual; em relação a julho, houve alta de 0,1%.",
    "ctx": "PIB da Argentina recua 1,7% em agosto e reacende risco de recessão no principal parceiro do Mercosul"
+  },
+  {
+   "id": "c19",
+   "t": "c",
+   "s": "Segundo o Petit Journal de 23/10/2026, os juros altos são um fenômeno global e os países emergentes, como o Brasil, têm menos espaço para reduzi-los porque o diferencial de juros ajuda a atrair os dólares que financiam o déficit em transações correntes.",
+   "ans": "C",
+   "exp": "É a relação apresentada no episódio: juros altos nos países ricos reduzem a folga dos emergentes, que precisam atrair capital externo.",
+   "ctx": "Petit Journal: juros altos no mundo, inflação, bancos centrais e crescimento"
+  },
+  {
+   "id": "f19",
+   "t": "f",
+   "q": "Por que os juros altos tendem a persistir no mundo, segundo o Petit Journal de 23/10?",
+   "a": "Inflação acima das metas e governos muito endividados, que pagam prêmio de risco; isso reduz o espaço de corte também nos emergentes.",
+   "exp": "Notícia de 23/10/2026."
+  },
+  {
+   "id": "c20",
+   "t": "c",
+   "s": "A Licença Geral 135 do Tesouro dos EUA autoriza a importação de diesel russo, mas não altera as sanções da União Europeia e do Reino Unido.",
+   "ans": "C",
+   "exp": "A licença vale só para a legislação americana de sanções; as restrições europeias, inclusive o teto de preço, seguem em vigor.",
+   "ctx": "Primeiro navio com diesel russo rumo aos EUA testa o alívio de sanções acertado entre Trump e Putin"
+  },
+  {
+   "id": "f20",
+   "t": "f",
+   "q": "O que autoriza a Licença Geral 135 do Tesouro dos EUA?",
+   "a": "A venda e a importação de diesel russo, inclusive para os EUA, até 7/4/2027; sanções da UE e do Reino Unido seguem em vigor.",
+   "exp": "Notícia de 23/10/2026."
+  },
+  {
+   "id": "c21",
+   "t": "c",
+   "s": "Em 22/10/2026, Putin disse que a paz na Ucrânia deve ser alcançada em sua 'forma final', e não por um cessar-fogo temporário, e deve incluir garantias de segurança e um marco de segurança para toda a Europa.",
+   "ans": "C",
+   "exp": "É a posição declarada pelo presidente russo, segundo a Reuters; a reunião trilateral com Trump e Xi segue como possibilidade, sem confirmação.",
+   "ctx": "Putin diz que a paz na Ucrânia exige garantias de segurança e um arranjo para toda a Europa"
+  },
+  {
+   "id": "f21",
+   "t": "f",
+   "q": "Qual foi a posição de Putin em 22/10/2026 sobre a paz na Ucrânia?",
+   "a": "Paz em 'forma final', sem cessar-fogo temporário, com garantias de segurança para os dois países e um marco de segurança para a Europa.",
+   "exp": "Notícia de 23/10/2026."
+  },
+  {
+   "id": "c22",
+   "t": "c",
+   "s": "Segundo a Reuters, embaixadores estrangeiros no Brasil discutem reconhecer rapidamente o vencedor do segundo turno de 25/10/2026, para impedir que o resultado seja declarado prematuramente por atores externos.",
+   "ans": "C",
+   "exp": "A iniciativa é informal e ainda não tem plano definido, segundo os diplomatas citados pela agência.",
+   "ctx": "Embaixadores em Brasília discutem reconhecer rapidamente o vencedor do 2º turno de domingo"
+  },
+  {
+   "id": "f22",
+   "t": "f",
+   "q": "Por que embaixadores em Brasília discutem reconhecer rápido o vencedor do 2º turno de 25/10?",
+   "a": "Para impedir que atores externos declarem a vitória de um candidato antes da hora; ainda não há plano formal (Reuters).",
+   "exp": "Notícia de 23/10/2026."
+  },
+  {
+   "id": "c23",
+   "t": "c",
+   "s": "Em 22/10/2026, o Tesouro dos EUA propôs ampliar as restrições a investimentos americanos em países de preocupação para incluir inteligência artificial, supercomputação, biotecnologia e sistemas hipersônicos.",
+   "ans": "C",
+   "exp": "É uma proposta de regra, ainda sujeita a comentários; ela mira China, Rússia, Coreia do Norte e outros países considerados adversários.",
+   "ctx": "EUA propõem regra para barrar investimentos em IA, supercomputação e hipersônicos na China e na Rússia"
+  },
+  {
+   "id": "f23",
+   "t": "f",
+   "q": "O que prevê a regra proposta pelo Tesouro dos EUA em 22/10/2026?",
+   "a": "Restringir investimentos americanos em IA, supercomputação, biotecnologia e hipersônicos em países de preocupação, como China, Rússia e Coreia do Norte.",
+   "exp": "Notícia de 23/10/2026."
+  },
+  {
+   "id": "c24",
+   "t": "c",
+   "s": "O Alto Comissário da ONU para os Direitos Humanos disse que os ataques das RSF à infraestrutura civil em El Fasher são violações graves do direito internacional humanitário que podem configurar crimes de guerra.",
+   "ans": "C",
+   "exp": "Türk reagiu a uma investigação da BBC; as RSF rejeitam as conclusões, e a qualificação de crime de guerra depende de apuração judicial.",
+   "ctx": "Investigação da BBC aponta destruição sistemática da saúde em El Fasher; ONU fala em possíveis crimes de guerra"
+  },
+  {
+   "id": "f24",
+   "t": "f",
+   "q": "O que o Alto Comissário da ONU disse sobre El Fasher (Sudão)?",
+   "a": "Que os ataques das RSF à infraestrutura civil são violações graves do direito humanitário e podem configurar crimes de guerra.",
+   "exp": "Notícia de 23/10/2026."
   }
  ],
  "resumo": [
@@ -280,22 +370,24 @@
    "b": "Guerra, petróleo, Venezuela e tarifaço: a semana em resumo."
   },
   {
-   "t": "Itamaraty × Milei",
-   "b": "Nota de 20/10 repudia insinuações de fraude no segundo turno e fala em ingerência externa.",
+   "t": "Itamaraty × Milei; 2º turno",
+   "b": "Nota de 20/10 repudia insinuações de fraude. Embaixadores em Brasília discutem reconhecer rápido o vencedor de 25/10.",
    "l": [
     "Voto eletrônico seguro, diz o MRE",
-    "Brasil sem embaixador em Buenos Aires"
+    "Brasil sem embaixador em Buenos Aires",
+    "Reconhecimento ainda sem plano formal"
    ],
    "n": "25/10"
   },
   {
-   "t": "Ucrânia: janela de diálogo",
-   "b": "Putin diz a Witkoff que aceita retomar conversas trilaterais por volta de 10 de novembro.",
+   "t": "Ucrânia: garantias e trilateral",
+   "b": "Putin quer paz 'final' com garantias de segurança e marco europeu; Kremlin fala em reunião com Trump e Xi na APEC (18–19/11).",
    "l": [
     "Zelensky aceita congelar a linha de frente",
-    "Disputa de versões sobre o Starshield"
+    "Kiev exige estar à mesa",
+    "Reunião trilateral ainda sem confirmação"
    ],
-   "n": "10/11"
+   "n": "18–19/11"
   },
   {
    "t": "Ormuz, Brent e gás",
@@ -328,14 +420,14 @@
    "n": "R$ 6,49 bi"
   },
   {
-   "t": "Clima: Pnuma e El Niño",
-   "b": "Relatório projeta 2,8 °C até 2100; OMM alerta para El Niño possivelmente o mais forte em 40 anos.",
+   "t": "Diesel russo e sanções dos EUA",
+   "b": "Licença Geral 135 libera diesel russo nos EUA até 7/4/2027; primeiro navio vai a Nova York. UE e Reino Unido mantêm sanções.",
    "l": [
-    "Saída dos EUA do Acordo de Paris",
-    "1,5 °C depende de remover carbono",
-    "Próxima rodada: COP31"
+    "Trump quer baixar preço do combustível",
+    "Europa critica quebra de unidade",
+    "Tesouro propõe barrar investimentos em IA na China"
    ],
-   "n": "2,8 °C"
+   "n": "7/4/2027"
   },
   {
    "t": "Mercosul: EFTA e Argentina",
@@ -347,11 +439,12 @@
    "n": "1º/11"
   },
   {
-   "t": "ONU: guerra, Ebola e desigualdade",
-   "b": "Guterres fala em \"El Niño da guerra\"; o Ebola Bundibugyo chega à Nigéria, quinto país com casos em 2026.",
+   "t": "ONU: guerra, Ebola e Sudão",
+   "b": "Guterres fala em \"El Niño da guerra\"; o Ebola Bundibugyo chega à Nigéria; a ONU vê possíveis crimes de guerra em El Fasher.",
    "l": [
     "Protestos por custo de vida na Europa",
     "OMS: 9,5 mil casos, 4,6 mil mortes",
+    "Türk: ataques das RSF à saúde",
     "Vacina Ervebo ainda sem prova"
    ],
    "n": "5 países"
@@ -361,10 +454,10 @@
    "t": "Pegadinhas que caem",
    "l": [
     "Referendo de Alberta é consultivo",
-    "Ucrânia: retomada de conversas ainda é intenção",
+    "Ucrânia: trilateral com Xi ainda é possibilidade",
+    "Licença 135 não muda sanções da UE",
     "Venezuela: eleição prometida, mas sem data",
-    "Ervebo é para Zaire, não confirmada para Bundibugyo",
-    "Resolução da AGNU (embargo a Cuba) não é vinculante"
+    "Ervebo é para Zaire, não confirmada para Bundibugyo"
    ]
   }
  ]

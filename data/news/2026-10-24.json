@@ -1,0 +1,138 @@
+{
+ "kind": "news",
+ "date": "2026-10-24",
+ "cards": [
+  {
+   "id": "2026-10-24-pj75939131",
+   "pj_guid": "75939131",
+   "podcast": "Petit Journal · Invest 134 · 18 min",
+   "materia": "Economia",
+   "edital": "13.9",
+   "titulo": "Petit Journal: juros altos no mundo, inflação, bancos centrais e crescimento",
+   "resumo": "Episódio de 23/10 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Juros altos são um fenômeno global",
+     "b": "Segundo Daniel Sousa, as taxas de juros estão mais altas no mundo e a expectativa é que sigam elevadas por bastante tempo. Os dois motivos principais citados são a inflação acima das metas, em especial nos países desenvolvidos, e o endividamento dos governos, que paga prêmio de risco."
+    },
+    {
+     "t": "Menos espaço para emergentes como o Brasil",
+     "b": "Com juros altos nos países ricos, os emergentes têm menos folga para cortar a taxa básica. O diferencial de juros ajuda a atrair dólares, necessários para financiar o déficit em transações correntes do Brasil."
+    },
+    {
+     "t": "Inflação já pesa na política",
+     "b": "O episódio cita França, países europeus e EUA, onde a inflação corrói a popularidade dos governos. Fala-se em 'maldição do incumbente': governos têm dificuldade de se reeleger quando o poder de compra cai."
+    },
+    {
+     "t": "Fim da era do dinheiro barato",
+     "b": "Durante a globalização, a China 'exportava deflação' e os bancos centrais fizeram afrouxamento quantitativo nos anos 2010. Esse cenário ficou para trás com a fragmentação econômica e os problemas geopolíticos na energia."
+    },
+    {
+     "t": "Bancos centrais autônomos",
+     "b": "Os apresentadores lembram que BCE, Banco do Japão, Banco da Inglaterra, Fed e o Banco Central do Brasil têm autonomia e compromisso com a meta de inflação, o que costuma levar a juros mais altos."
+    },
+    {
+     "t": "Crescimento assimétrico",
+     "b": "A previsão é de crescimento mundial menor e desigual: Ásia e África com taxas médias acima de 4%, a Europa com mais dificuldade e os EUA mais resilientes."
+    },
+    {
+     "t": "Sustentabilidade perde prioridade",
+     "b": "Com o foco em crescimento, inflação, indústria e defesa, governos tratam o tema ambiental como prioridade menor. A insegurança energética torna a segurança de curto prazo mais urgente que projetos de longo prazo."
+    }
+   ],
+   "porque": "Explica por que juros e inflação são variáveis de política internacional: afetam o espaço de política monetária dos emergentes, o financiamento externo do Brasil, a governança econômica e a agenda ambiental. Conecta Economia (balanço de pagamentos, bancos centrais) com Política Internacional (fragmentação, energia).",
+   "ce": {
+    "s": "Segundo o Petit Journal de 23/10/2026, os juros altos são um fenômeno global e os países emergentes, como o Brasil, têm menos espaço para reduzi-los porque o diferencial de juros ajuda a atrair os dólares que financiam o déficit em transações correntes.",
+    "ans": "C",
+    "exp": "É a relação apresentada no episódio: juros altos nos países ricos reduzem a folga dos emergentes, que precisam atrair capital externo."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/os-juros-altos-vieram-pra-ficar-invest-134--75939131",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-10-24-1",
+   "materia": "Economia",
+   "edital": "13.8",
+   "titulo": "Primeiro navio com diesel russo rumo aos EUA testa o alívio de sanções acertado entre Trump e Putin",
+   "resumo": "Segundo a Reuters, um petroleiro com 40 mil toneladas de diesel russo segue para Nova York, o primeiro embarque desde o anúncio do acordo de Trump com Putin. O Tesouro dos EUA emitiu a Licença Geral 135, que autoriza a venda e a importação de diesel russo até 7 de abril de 2027. As sanções da União Europeia e do Reino Unido não mudaram, e ministros europeus criticaram o acerto por enfraquecer a unidade transatlântica. Os EUA tentam baixar o preço do combustível em meio à crise no Golfo.",
+   "porque": "Mostra uma grande potência usando o afrouxamento de sanções como moeda de negociação, em choque com aliados e com a lei americana de 2022 que proíbe importar petróleo russo. O Brasil, que importa diesel, aparece entre os destinos tradicionais dos carregamentos russos e é afetado pelo preço do combustível. Liga sanções, comércio de energia e reordenamento entre EUA, Rússia e Europa.",
+   "fonte": "Ship & Bunker; Just Security (com dados da Reuters)",
+   "url": "https://shipandbunker.com/news/world/445068-us-lifts-sanctions-on-russian-diesel-for-six-months-after-trump-putin-call",
+   "img": "https://shipandbunker.cdn.speedyrails.net/a/img/_mt_58dd2f3073012b01e92815d76b19b905.jpg",
+   "imgCredit": "Foto: Ship & Bunker",
+   "curso": false,
+   "ce": {
+    "s": "A Licença Geral 135 do Tesouro dos EUA autoriza a importação de diesel russo, mas não altera as sanções da União Europeia e do Reino Unido.",
+    "ans": "C",
+    "exp": "A licença vale só para a legislação americana de sanções; as restrições europeias, inclusive o teto de preço, seguem em vigor."
+   }
+  },
+  {
+   "id": "2026-10-24-2",
+   "materia": "Política Internacional",
+   "edital": "13.1",
+   "titulo": "Putin diz que a paz na Ucrânia exige garantias de segurança e um arranjo para toda a Europa",
+   "resumo": "Em 22/10, Vladimir Putin afirmou que as próximas conversas devem tratar de garantias de segurança para os dois países e de um marco geral de segurança europeia, com paz em sua 'forma final' e não por um cessar-fogo temporário. Dias antes, o Kremlin disse que a China já prepara uma possível reunião de Putin, Trump e Xi Jinping à margem da cúpula da APEC em Shenzhen, em 18 e 19 de novembro, ainda não confirmada. Kiev afirma que a Ucrânia precisa estar à mesa.",
+   "porque": "A proposta de discutir a arquitetura de segurança da Europa, e não só a Ucrânia, põe em jogo o papel da OTAN e das grandes potências, e a ideia de um encontro a três recoloca a China como mediadora na ordem internacional. O Brasil defende a solução negociada e já propôs mediar com outros países do Sul Global. Liga conflitos, ordem multipolar e política externa brasileira.",
+   "fonte": "Just Security (Early Edition, com dados da Reuters); Kyiv Independent",
+   "url": "https://www.justsecurity.org/161891/early-edition-october-23-2026/",
+   "curso": false,
+   "ce": {
+    "s": "Em 22/10/2026, Putin disse que a paz na Ucrânia deve ser alcançada em sua 'forma final', e não por um cessar-fogo temporário, e deve incluir garantias de segurança e um marco de segurança para toda a Europa.",
+    "ans": "C",
+    "exp": "É a posição declarada pelo presidente russo, segundo a Reuters; a reunião trilateral com Trump e Xi segue como possibilidade, sem confirmação."
+   }
+  },
+  {
+   "id": "2026-10-24-3",
+   "materia": "Política Internacional",
+   "edital": "2",
+   "titulo": "Embaixadores em Brasília discutem reconhecer rapidamente o vencedor do 2º turno de domingo",
+   "resumo": "Segundo quatro embaixadores ouvidos pela Reuters, diplomatas estrangeiros no Brasil discutem reconhecer com rapidez quem vencer o segundo turno presidencial de 25/10, para evitar que atores de fora declarem a vitória de um dos candidatos antes da hora. Ainda não há plano formal. O segundo turno é entre o presidente Lula e o filho de Jair Bolsonaro, depois de o primeiro turno, em 4/10, não dar maioria a nenhum dos dois.",
+   "porque": "Mostra como o reconhecimento de resultados eleitorais se tornou questão de diplomacia e de soberania: o princípio da não intervenção nos assuntos internos, a tradição brasileira de respeito às instituições e o peso das grandes potências na região. Afeta a política externa brasileira nos próximos anos, em temas como EUA, China, Mercosul e Venezuela.",
+   "fonte": "Just Security (Early Edition, com dados da Reuters)",
+   "url": "https://www.justsecurity.org/161891/early-edition-october-23-2026/",
+   "curso": false,
+   "ce": {
+    "s": "Segundo a Reuters, embaixadores estrangeiros no Brasil discutem reconhecer rapidamente o vencedor do segundo turno de 25/10/2026, para impedir que o resultado seja declarado prematuramente por atores externos.",
+    "ans": "C",
+    "exp": "A iniciativa é informal e ainda não tem plano definido, segundo os diplomatas citados pela agência."
+   }
+  },
+  {
+   "id": "2026-10-24-4",
+   "materia": "Economia",
+   "edital": "13.8",
+   "titulo": "EUA propõem regra para barrar investimentos em IA, supercomputação e hipersônicos na China e na Rússia",
+   "resumo": "Em 22/10, o Tesouro dos EUA propôs uma regra para restringir investimentos americanos em tecnologias de ponta em países considerados 'de preocupação', como China, Rússia e Coreia do Norte. O texto amplia as restrições hoje existentes para incluir sistemas hipersônicos, supercomputação, biotecnologia e inteligência artificial, com o argumento de que esses aportes podem reforçar o poder militar de adversários.",
+   "porque": "Faz parte da disputa tecnológica e comercial entre EUA e China, que fragmenta cadeias de valor e testa as regras da OMC sobre comércio e investimento. Países como o Brasil, que negociam parcerias tecnológicas com os dois lados, enfrentam pressão para escolher, e o tema se liga à reforma da governança econômica global.",
+   "fonte": "Just Security (Early Edition, com dados da AP)",
+   "url": "https://www.justsecurity.org/161891/early-edition-october-23-2026/",
+   "curso": false,
+   "ce": {
+    "s": "Em 22/10/2026, o Tesouro dos EUA propôs ampliar as restrições a investimentos americanos em países de preocupação para incluir inteligência artificial, supercomputação, biotecnologia e sistemas hipersônicos.",
+    "ans": "C",
+    "exp": "É uma proposta de regra, ainda sujeita a comentários; ela mira China, Rússia, Coreia do Norte e outros países considerados adversários."
+   }
+  },
+  {
+   "id": "2026-10-24-5",
+   "materia": "Política Internacional",
+   "edital": "13.11",
+   "titulo": "Investigação da BBC aponta destruição sistemática da saúde em El Fasher; ONU fala em possíveis crimes de guerra",
+   "resumo": "Uma investigação da BBC concluiu que as Forças de Apoio Rápido (RSF) do Sudão destruíram de forma sistemática o sistema de saúde de El Fasher durante o cerco e a tomada da cidade, no ano passado. O Alto Comissário da ONU para os Direitos Humanos, Volker Türk, chamou os achados de 'profundamente perturbadores' e disse que os ataques a infraestrutura civil são violações graves do direito internacional humanitário que podem configurar crimes de guerra. As RSF rejeitam as conclusões.",
+   "porque": "Retoma o tema dos crimes de guerra e da responsabilização internacional, ligado ao Tribunal Penal Internacional e às Convenções de Genebra, e testa a capacidade da ONU de proteger civis. O Brasil, Estado parte do Estatuto de Roma e integrante do Conselho de Direitos Humanos, tem posição tradicional de defesa do direito humanitário e da proteção de civis.",
+   "fonte": "Just Security (Early Edition, com dados da BBC News)",
+   "url": "https://www.justsecurity.org/161891/early-edition-october-23-2026/",
+   "curso": false,
+   "ce": {
+    "s": "O Alto Comissário da ONU para os Direitos Humanos disse que os ataques das RSF à infraestrutura civil em El Fasher são violações graves do direito internacional humanitário que podem configurar crimes de guerra.",
+    "ans": "C",
+    "exp": "Türk reagiu a uma investigação da BBC; as RSF rejeitam as conclusões, e a qualificação de crime de guerra depende de apuração judicial."
+   }
+  }
+ ]
+}
