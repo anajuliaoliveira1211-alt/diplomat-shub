@@ -1,0 +1,56 @@
+{
+ "kind": "news",
+ "date": "2026-10-25",
+ "cards": [
+  {
+   "id": "2026-10-25-1",
+   "materia": "Política Internacional",
+   "edital": "2",
+   "titulo": "Reuters: funcionários do Departamento de Estado dos EUA teriam atuado para devolver o poder aos Bolsonaro, com sanções e tarifas como instrumentos",
+   "resumo": "Uma investigação da Reuters, publicada em 24/10 e baseada em dez atuais e ex-integrantes do governo americano, diz que dois funcionários do Departamento de Estado, Darren Beattie e Ricardo Pita, defenderam medidas para favorecer o grupo de Jair Bolsonaro: as sanções Magnitsky ao ministro Alexandre de Moraes, do STF, e a designação de duas facções brasileiras como terroristas. Segundo a reportagem, o tarifaço de 50% de 2025 também foi ligado ao julgamento de Bolsonaro. As sanções a Moraes foram suspensas em dezembro, e o Itamaraty renegociou isenções de produtos. O Departamento de Estado afirmou que os brasileiros têm direito de escolher seus líderes em eleições livres.",
+   "porque": "Mostra como sanções unilaterais, tarifas e listas de terrorismo podem virar instrumentos de pressão política sobre um país, e põe à prova a soberania e a autonomia da política externa brasileira (PEB) às vésperas do 2º turno. Liga Política Internacional (relações Brasil–EUA), Direito (não intervenção, imunidade de jurisdição) e Economia (tarifas). Afeta o Brasil diretamente, com efeito bilateral e sobre exportadores.",
+   "fonte": "Reuters (via Investing.com)",
+   "url": "https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
+   "curso": false,
+   "ce": {
+    "s": "Segundo a Reuters, funcionários do Departamento de Estado dos EUA defenderam sanções contra o ministro Alexandre de Moraes e a designação de duas facções brasileiras como terroristas.",
+    "ans": "C",
+    "exp": "A reportagem de 24/10 cita Darren Beattie e Ricardo Pita; o Departamento de Estado disse apenas que os brasileiros têm direito a eleições livres e justas."
+   }
+  },
+  {
+   "id": "2026-10-25-2",
+   "materia": "Política Internacional",
+   "edital": "13.1",
+   "titulo": "Irã diz que não admitirá navios de guerra dos EUA no Golfo, mas aceita reabrir Ormuz se o bloqueio naval for suspenso",
+   "resumo": "Em 24/10, o chefe do Estado-Maior iraniano, Ali Abdollahi, afirmou que navios militares dos EUA não entrarão no Golfo Pérsico \"em nenhuma circunstância\". No mesmo dia, o embaixador do Irã em Islamabad disse que Teerã reabre o Estreito de Ormuz se Washington suspender o bloqueio naval aos portos iranianos, e que ainda está aberto a conversar com base no acordo interino de junho, mediado por Paquistão e Catar. O embaixador americano na Turquia, Tom Barrack, não descartou um ataque no fim de semana; Trump indicou que ações maiores ficariam para depois das eleições de 3/11. O Brent passou de US$ 117 na sexta-feira.",
+   "porque": "É uma crise de segurança coletiva e de comércio marítimo: o fechamento de Ormuz pressiona o petróleo, a inflação e as cadeias de suprimento globais, e a mediação de Paquistão e Catar mostra a diplomacia de potências médias. O Brasil, produtor de petróleo e importador de diesel e fertilizantes, sente os efeitos no preço dos combustíveis e na pauta do Conselho de Segurança e da AIEA. Tem relação com ONU, não proliferação e energia.",
+   "fonte": "CBS News (cobertura ao vivo)",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+   "img": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/23/176267f9-4669-4664-8c40-90339f1a292e/thumbnail/1200x630/9f8a235af2eb1b59c3834331034cb91e/growler.jpg",
+   "imgCredit": "Foto: CBS News",
+   "curso": false,
+   "ce": {
+    "s": "Segundo o embaixador iraniano em Islamabad, o Irã aceita reabrir o Estreito de Ormuz se os EUA suspenderem o bloqueio naval aos portos iranianos.",
+    "ans": "C",
+    "exp": "A declaração foi feita em 24/10; ele também disse que o Irã segue aberto a negociar com base no acordo interino de junho, mediado por Paquistão e Catar."
+   }
+  },
+  {
+   "id": "2026-10-25-3",
+   "materia": "Política Internacional",
+   "edital": "13.8",
+   "titulo": "Parlamentares europeus ligam a eleição brasileira ao futuro do acordo Mercosul–UE e à agenda ambiental",
+   "resumo": "Reportagem da DW, publicada em 25/10, ouviu integrantes do Parlamento Europeu e do Bundestag, que veem o 2º turno como decisivo para a parceria com o Brasil e defendem diálogo com qualquer vencedor. O acordo interino Mercosul–UE está em aplicação provisória desde maio, e o tratado mais amplo aguarda ratificação; para o eurodeputado Hélder Sousa Silva, o comércio só traz oportunidades se vier com compromissos reais de sustentabilidade. Em 22/10, o MDIC estimou tarifa zero para 94% das exportações brasileiras à UE em até quatro anos. Também entraram na conversa Amazônia, Brics, terras raras e regulação de plataformas digitais.",
+   "porque": "Mostra que acordos comerciais dependem de ratificação e de cláusulas ambientais, e que a política externa brasileira (autonomia, Brics, Mercosul) é observada por parceiros. Liga integração regional, comércio internacional e meio ambiente. O Brasil é diretamente afetado: exportações, cadeias de minerais críticos e a imagem ambiental dependem do rumo do novo governo.",
+   "fonte": "DW (republicada por O Povo)",
+   "url": "https://opovo.com.br/noticias/mundo/2026/10/25/parlamentares-europeus-veem-eleicao-como-decisiva-para-relacoes-com-o-brasil.html",
+   "curso": false,
+   "ce": {
+    "s": "O acordo interino entre Mercosul e União Europeia está em aplicação provisória desde maio de 2026, enquanto o tratado mais amplo ainda aguarda ratificação.",
+    "ans": "C",
+    "exp": "Segundo a DW, a parte interina já vale provisoriamente, mas o acordo completo depende de aprovação e ratificação."
+   }
+  }
+ ]
+}

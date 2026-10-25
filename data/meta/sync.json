@@ -4,10 +4,11 @@
   "pi-nao-proliferacao",
   "pi-onu-historia-estrutura",
   "pi-direitos-humanos",
-  "pi-comercio-omc"
+  "pi-comercio-omc",
+  "pi-terrorismo"
  ],
  "kind": "sync",
- "lastRun": "2026-10-24",
+ "lastRun": "2026-10-25",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",

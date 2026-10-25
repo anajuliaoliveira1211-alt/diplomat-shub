@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W43",
  "notionUrl": "",
- "updatedAt": "2026-10-24",
+ "updatedAt": "2026-10-25",
  "items": [
   {
    "id": "c1",
@@ -362,20 +362,104 @@
    "q": "O que o Alto Comissário da ONU disse sobre El Fasher (Sudão)?",
    "a": "Que os ataques das RSF à infraestrutura civil são violações graves do direito humanitário e podem configurar crimes de guerra.",
    "exp": "Notícia de 23/10/2026."
+  },
+  {
+   "id": "c25",
+   "t": "c",
+   "s": "Segundo a Reuters, funcionários do Departamento de Estado dos EUA defenderam sanções contra o ministro Alexandre de Moraes e a designação de duas facções brasileiras como terroristas.",
+   "ans": "C",
+   "exp": "A reportagem de 24/10 cita Darren Beattie e Ricardo Pita; o Departamento de Estado disse apenas que os brasileiros têm direito a eleições livres e justas.",
+   "ctx": "Reuters: funcionários do Departamento de Estado e as sanções ligadas à eleição no Brasil"
+  },
+  {
+   "id": "f25",
+   "t": "f",
+   "q": "Segundo a Reuters (24/10), que medidas dois funcionários do Departamento de Estado defenderam para favorecer os Bolsonaro?",
+   "a": "As sanções Magnitsky ao ministro Alexandre de Moraes e a designação de duas facções brasileiras como terroristas.",
+   "exp": "Notícia de 24–25/10/2026."
+  },
+  {
+   "id": "c26",
+   "t": "c",
+   "s": "Segundo o embaixador iraniano em Islamabad, o Irã aceita reabrir o Estreito de Ormuz se os EUA suspenderem o bloqueio naval aos portos iranianos.",
+   "ans": "C",
+   "exp": "A declaração foi feita em 24/10; ele também disse que o Irã segue aberto a negociar com base no acordo interino de junho, mediado por Paquistão e Catar.",
+   "ctx": "Irã diz que não admitirá navios dos EUA no Golfo e propõe reabrir Ormuz"
+  },
+  {
+   "id": "f26",
+   "t": "f",
+   "q": "Que condição o Irã apresentou em 24/10 para reabrir o Estreito de Ormuz?",
+   "a": "A suspensão do bloqueio naval dos EUA aos portos iranianos.",
+   "exp": "Notícia de 24–25/10/2026."
+  },
+  {
+   "id": "c27",
+   "t": "c",
+   "s": "O acordo interino entre Mercosul e União Europeia está em aplicação provisória desde maio de 2026, enquanto o tratado mais amplo ainda aguarda ratificação.",
+   "ans": "C",
+   "exp": "Segundo a DW, a parte interina já vale provisoriamente, mas o acordo completo depende de aprovação e ratificação.",
+   "ctx": "Parlamentares europeus ligam a eleição brasileira ao acordo Mercosul–UE"
+  },
+  {
+   "id": "f27",
+   "t": "f",
+   "q": "Qual é a situação do acordo Mercosul–UE em out/2026?",
+   "a": "O acordo interino está em aplicação provisória desde maio; o tratado mais amplo aguarda ratificação.",
+   "exp": "Notícia de 24–25/10/2026."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Na semana, a Reuters noticiou que funcionários do Departamento de Estado dos EUA defenderam, no contexto da eleição brasileira, qual instrumento contra uma autoridade do Brasil?",
+   "opts": [
+    "Sanções Magnitsky contra o ministro Alexandre de Moraes",
+    "Suspensão do Brasil do Mercosul",
+    "Expulsão do Brasil do Brics",
+    "Veto americano ao ingresso do Brasil na OCDE"
+   ],
+   "ans": 0,
+   "exp": "A Reuters cita as sanções Magnitsky a Moraes e a designação de duas facções como terroristas; é tema de PEB e de relações Brasil–EUA (edital 2)."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "Sobre o acordo Mercosul–União Europeia em outubro de 2026, é correto afirmar que:",
+   "opts": [
+    "a parte interina está em aplicação provisória desde maio, e o tratado mais amplo aguarda ratificação",
+    "o tratado foi ratificado por todos os parlamentos e vale integralmente",
+    "o acordo foi suspenso por veto da França no Conselho",
+    "o acordo foi substituído pelo acordo Mercosul–EFTA"
+   ],
+   "ans": 0,
+   "exp": "A DW lembra a aplicação provisória desde maio; a ratificação do tratado completo ainda é necessária (edital 13.8)."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "Qual condição o Irã apresentou em 24/10 para reabrir o Estreito de Ormuz?",
+   "opts": [
+    "Suspensão do bloqueio naval dos EUA aos portos iranianos",
+    "Fim das sanções multilaterais da ONU de 2006",
+    "Retirada de Israel da Cisjordânia",
+    "Entrega do material nuclear à AIEA"
+   ],
+   "ans": 0,
+   "exp": "A declaração foi do embaixador iraniano em Islamabad; o acordo interino de junho tem mediação de Paquistão e Catar."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Guerra, petróleo, Venezuela e tarifaço: a semana em resumo."
+   "b": "Guerra, petróleo, eleição no Brasil e tarifaço: a semana em resumo."
   },
   {
-   "t": "Itamaraty × Milei; 2º turno",
-   "b": "Nota de 20/10 repudia insinuações de fraude. Embaixadores em Brasília discutem reconhecer rápido o vencedor de 25/10.",
+   "t": "2º turno, Milei e sanções dos EUA",
+   "b": "Itamaraty repudiou Milei em 20/10. A Reuters (24/10) diz que o Departamento de Estado defendeu sanções para favorecer os Bolsonaro.",
    "l": [
     "Voto eletrônico seguro, diz o MRE",
-    "Brasil sem embaixador em Buenos Aires",
-    "Reconhecimento ainda sem plano formal"
+    "Magnitsky a Moraes, suspensas em dez/2025",
+    "Facções brasileiras como terroristas"
    ],
    "n": "25/10"
   },
@@ -390,14 +474,14 @@
    "n": "18–19/11"
   },
   {
-   "t": "Ormuz, Brent e gás",
-   "b": "Brent chegou a US$ 112; a AIE alerta que os estoques de gás da UE (72%) estão nos menores níveis registrados.",
+   "t": "Ormuz, Brent e Irã–EUA",
+   "b": "Irã veta navios dos EUA no Golfo, mas aceita reabrir Ormuz se o bloqueio naval cair. Brent passou de US$ 117 em 23/10.",
    "l": [
+    "Acordo interino de junho (Paquistão e Catar)",
     "Houthis atacam a Arábia Saudita",
-    "Bloqueio naval seca receita do Irã",
-    "UE avalia racionar consumo"
+    "AIE: menores estoques de gás da UE"
    ],
-   "n": "US$ 112"
+   "n": "US$ 117"
   },
   {
    "t": "Venezuela e Equador",
@@ -430,13 +514,14 @@
    "n": "7/4/2027"
   },
   {
-   "t": "Mercosul: EFTA e Argentina",
-   "b": "Cotas para a Noruega valem desde 1º/11; já a economia argentina caiu 1,7% em agosto, com risco de recessão.",
+   "t": "Mercosul: UE, EFTA e Argentina",
+   "b": "Acordo interino com a UE vale desde maio e o tratado aguarda ratificação; a economia argentina caiu 1,7% em agosto.",
    "l": [
-    "EFTA: Noruega, Islândia, Suíça, Liechtenstein",
+    "MDIC: tarifa zero a 94% em até 4 anos",
+    "Eurodeputados: sustentabilidade em jogo",
     "Indec: -1,74% ante agosto de 2025"
    ],
-   "n": "1º/11"
+   "n": "94%"
   },
   {
    "t": "ONU: guerra, Ebola e Sudão",
@@ -453,11 +538,11 @@
    "k": "fim",
    "t": "Pegadinhas que caem",
    "l": [
-    "Referendo de Alberta é consultivo",
-    "Ucrânia: trilateral com Xi ainda é possibilidade",
+    "Reuters: é relato de funcionários, não decisão do Departamento",
+    "Mercosul–UE: provisório não é ratificação completa",
+    "Irã condiciona Ormuz ao bloqueio naval, não ao nuclear",
     "Licença 135 não muda sanções da UE",
-    "Venezuela: eleição prometida, mas sem data",
-    "Ervebo é para Zaire, não confirmada para Bundibugyo"
+    "Venezuela: eleição prometida, mas sem data"
    ]
   }
  ]
