@@ -1,0 +1,74 @@
+{
+ "kind": "news",
+ "date": "2026-10-26",
+ "cards": [
+  {
+   "id": "2026-10-26-1",
+   "materia": "Política Internacional",
+   "edital": "2",
+   "titulo": "Lula é reeleito no 2º turno; vizinhos felicitam e Flávio Bolsonaro não reconhece o resultado",
+   "resumo": "Em 25/10, o 2º turno deu a Lula (PT) cerca de 52% dos votos válidos, contra cerca de 48% de Flávio Bolsonaro (PL), segundo a contagem do TSE divulgada pela imprensa. Logo após a confirmação, presidentes vizinhos o felicitaram: Orsi (Uruguai), Sheinbaum (México), Rodrigo Paz (Bolívia), Mulino (Panamá) e Peña (Paraguai). Flávio disse que não reconhece o resultado e que pedirá a anulação na Justiça; o presidente do TSE afirmou ter segurança no processo. O novo mandato começa em 5 de janeiro.",
+   "porque": "A eleição define a orientação da política externa brasileira a partir de 2027 (Mercosul, Brics, relação com EUA e China, acordo Mercosul–UE) e a reação dos vizinhos mostra a rede de apoio regional do Brasil. Liga PEB, integração regional e democracia como valor da política externa. O Brasil é o ator central: seus parceiros já tratam o resultado como legítimo, o que pesa em futuros acordos e foros multilaterais.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/nas-redes-sociais-lideres-latino-americanos-saudam-lula-pela-vitoria",
+   "img": "https://imagens.ebc.com.br/ppT8LptwVsK16Ac9sS8Q4HMVC6o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/25/_int0023.jpg_0.jpeg?itok=WiqiwLzY",
+   "imgCredit": "Foto: Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "No 2º turno de 25/10, Lula obteve cerca de 52% dos votos válidos e Flávio Bolsonaro cerca de 48%, e o derrotado reconheceu o resultado.",
+    "ans": "E",
+    "exp": "A primeira parte está certa, mas Flávio Bolsonaro disse não reconhecer o resultado e que pedirá a anulação na Justiça. É um erro escondido no meio de texto certo."
+   }
+  },
+  {
+   "id": "2026-10-26-2",
+   "materia": "Política Internacional",
+   "edital": "2",
+   "titulo": "China e União Europeia felicitam Lula e sinalizam continuidade das parcerias; Trump ainda não se manifestou",
+   "resumo": "Em 26/10, o porta-voz do Ministério das Relações Exteriores da China, Guo Jiakun, felicitou Lula e disse que Pequim quer seguir construindo uma 'comunidade de futuro compartilhado' com o Brasil; sobre a recusa de Flávio em reconhecer a derrota, afirmou que a China respeita a escolha do povo brasileiro. Analistas chineses ouvidos pela imprensa dizem que a vitória consolida a aproximação política e econômica e o ritmo da cooperação nos Brics. A União Europeia também felicitou Lula, segundo a imprensa portuguesa. Os relatos consultados não registravam manifestação de Donald Trump.",
+   "porque": "Mostra como grandes potências e blocos tratam o resultado: a China é o maior parceiro comercial do Brasil e a UE aplica provisoriamente o acordo com o Mercosul desde maio. O silêncio de Washington é relevante porque os EUA aplicam tarifas ao Brasil e há pendências diplomáticas. Conecta PEB, ordem internacional (EUA, China, Brics) e comércio. O Brasil é afetado diretamente: parcerias e negociações tarifárias dependem desse alinhamento.",
+   "fonte": "Diário de Notícias (Portugal)",
+   "url": "https://www.dn.pt/internacional/china-felicita-lula-pela-reeleio-e-promete-reforar-cooperao-com-brasil",
+   "img": "https://media.assettype.com/dn%2F2026-10-26%2Fu5qdlebs%2FDOC.20261026.48009518.13332078.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "imgCredit": "Foto: Sebastião Moreira / EPA, via DN",
+   "curso": false,
+   "ce": {
+    "s": "Ao felicitar Lula, o porta-voz do Ministério das Relações Exteriores da China disse que Pequim respeita a escolha do povo brasileiro e quer construir com o Brasil uma 'comunidade de futuro compartilhado'.",
+    "ans": "C",
+    "exp": "Foi a posição de Guo Jiakun em 26/10, inclusive ao ser perguntado sobre Flávio Bolsonaro não reconhecer a derrota."
+   }
+  },
+  {
+   "id": "2026-10-26-3",
+   "materia": "Política Internacional",
+   "edital": "13",
+   "titulo": "Nova rodada de paz para a Ucrânia em Abu Dhabi será trilateral; UE quer assento nas conversas",
+   "resumo": "O Kremlin confirmou em 23/10, pelo porta-voz Dmitri Peskov, uma nova rodada de negociações entre Rússia, Ucrânia e Estados Unidos em Abu Dhabi, na primeira quinzena de novembro, sem data exata. A primeira etapa fica restrita aos três países, mas Moscou admite que a arquitetura de segurança europeia não pode ser discutida sem outros participantes. Em Bruxelas, a porta-voz da Comissão Europeia, Arianna Podestà, disse que Conselho e Comissão devem participar das próximas conversas, sem definir formato. As divergências centrais são as exigências territoriais russas e as garantias de segurança para Kiev.",
+   "porque": "O formato da mesa (trilateral ou com a Europa) decide quem define a segurança do continente depois da guerra: é um caso de distribuição de poder entre EUA, Rússia e UE e de mediação nos Emirados. Liga conflitos, ordem internacional e organismos regionais. O Brasil não é parte, mas defende solução negociada e seria afetado por preços de energia, alimentos e fertilizantes.",
+   "fonte": "O Mundo Diplomático",
+   "url": "https://omundodiplomatico.com.br/2026/10/25/abu-dhabi-sera-palco-de-novas-conversas-entre-russia-ucrania-e-eua-sobre-o-fim-da-guerra/",
+   "curso": false,
+   "ce": {
+    "s": "A nova rodada de negociações sobre a Ucrânia, prevista para Abu Dhabi, terá desde o início a União Europeia como participante pleno ao lado de Rússia, Ucrânia e EUA.",
+    "ans": "E",
+    "exp": "O Kremlin diz que a primeira etapa será trilateral (Rússia, Ucrânia e EUA); a UE busca participar, mas formato e composição ainda não foram definidos."
+   }
+  },
+  {
+   "id": "2026-10-26-4",
+   "materia": "Economia",
+   "edital": "13.8",
+   "titulo": "Vietnã pede apoio de empresas brasileiras a um acordo de comércio preferencial com o Mercosul",
+   "resumo": "O embaixador do Vietnã no Brasil, Bui Van Nghi, fez visita a São Paulo e pediu a entidades como Fiesp e Fecomércio-SP que apoiem as negociações de um acordo comercial entre o Vietnã e o Mercosul, além de ampliar importações de frutos do mar, alimentos processados e frutas tropicais. A JBS, que exportou a primeira carga de carne bovina ao Vietnã em julho de 2025, anunciou US$ 100 milhões em unidades de processamento no país. Brasil e Vietnã são parceiros estratégicos desde novembro de 2024. O texto, da agência vietnamita VNA, não detalha o estágio da negociação.",
+   "porque": "Mostra o Mercosul buscando diversificar parceiros na Ásia, em paralelo ao acordo com a UE, e o setor privado como ator da diplomacia comercial. Liga integração regional, comércio internacional e inserção asiática do Brasil. O Brasil é afetado: o acordo é negociado pelo bloco, exigiria consenso dos sócios e abriria mercado para o agro brasileiro.",
+   "fonte": "O Mundo Diplomático (com VNA)",
+   "url": "https://omundodiplomatico.com.br/2026/10/25/o-vietna-convoca-empresas-brasileiras-a-apoiarem-as-negociacoes-do-acordo-de-comercio-preferencial-pta-com-o-mercosul/",
+   "curso": false,
+   "ce": {
+    "s": "O Vietnã busca com o Mercosul um acordo de comércio preferencial, e seu embaixador no Brasil pediu apoio de entidades empresariais brasileiras às negociações.",
+    "ans": "C",
+    "exp": "O pedido foi feito em visita a São Paulo (Fiesp, Fecomércio-SP); a matéria não informa o estágio da negociação."
+   }
+  }
+ ]
+}

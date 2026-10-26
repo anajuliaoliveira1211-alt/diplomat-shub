@@ -1,0 +1,163 @@
+{
+ "kind": "deck",
+ "materia": "Atualidades",
+ "assunto": "Semana de 26/out a 1/nov",
+ "edital": "13",
+ "week": "2026-W44",
+ "notionUrl": "",
+ "updatedAt": "2026-10-26",
+ "items": [
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "No 2º turno de 25/10, Lula obteve cerca de 52% dos votos válidos e Flávio Bolsonaro cerca de 48%, e o derrotado reconheceu o resultado.",
+   "ans": "E",
+   "exp": "A primeira parte está certa, mas Flávio Bolsonaro disse não reconhecer o resultado e que pedirá a anulação na Justiça. É um erro escondido no meio de texto certo.",
+   "ctx": "Lula é reeleito no 2º turno; vizinhos felicitam e Flávio Bolsonaro não reconhece o resultado"
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "Ao felicitar Lula, o porta-voz do Ministério das Relações Exteriores da China disse que Pequim respeita a escolha do povo brasileiro e quer construir com o Brasil uma 'comunidade de futuro compartilhado'.",
+   "ans": "C",
+   "exp": "Foi a posição de Guo Jiakun em 26/10, inclusive ao ser perguntado sobre Flávio Bolsonaro não reconhecer a derrota.",
+   "ctx": "China e União Europeia felicitam Lula e sinalizam continuidade das parcerias; Trump ainda não se manifestou"
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "A nova rodada de negociações sobre a Ucrânia, prevista para Abu Dhabi, terá desde o início a União Europeia como participante pleno ao lado de Rússia, Ucrânia e EUA.",
+   "ans": "E",
+   "exp": "O Kremlin diz que a primeira etapa será trilateral (Rússia, Ucrânia e EUA); a UE busca participar, mas formato e composição ainda não foram definidos.",
+   "ctx": "Nova rodada de paz para a Ucrânia em Abu Dhabi será trilateral; UE quer assento nas conversas"
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "O Vietnã busca com o Mercosul um acordo de comércio preferencial, e seu embaixador no Brasil pediu apoio de entidades empresariais brasileiras às negociações.",
+   "ans": "C",
+   "exp": "O pedido foi feito em visita a São Paulo (Fiesp, Fecomércio-SP); a matéria não informa o estágio da negociação.",
+   "ctx": "Vietnã pede apoio de empresas brasileiras a um acordo de comércio preferencial com o Mercosul"
+  },
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Quem fez a pergunta de que a China 'respeita a escolha do povo brasileiro'? Quem respondeu?",
+   "a": "O porta-voz do Ministério das Relações Exteriores chinês, Guo Jiakun, em 26/10, ao ser perguntado sobre Flávio Bolsonaro não reconhecer a derrota.",
+   "exp": "Pequim sinaliza continuidade da parceria com o Brasil."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "Qual foi o resultado do 2º turno de 25/10/2026 e quando começa o novo mandato?",
+   "a": "Lula teve cerca de 52% dos votos válidos e Flávio Bolsonaro cerca de 48%. O mandato começa em 5 de janeiro de 2027.",
+   "exp": "Flávio disse não reconhecer o resultado e prometeu pedir a anulação."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "Que formato terá a primeira etapa da nova rodada de paz da Ucrânia em Abu Dhabi, segundo o Kremlin?",
+   "a": "Trilateral: Rússia, Ucrânia e EUA, na primeira quinzena de novembro. A UE busca participar.",
+   "exp": "Moscou admite que a segurança europeia não se discute sem outros atores."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "O que o embaixador do Vietnã pediu a empresas brasileiras em outubro de 2026?",
+   "a": "Apoio às negociações de um acordo de comércio preferencial Vietnã–Mercosul e mais importações de frutos do mar, alimentos processados e frutas tropicais.",
+   "exp": "Brasil e Vietnã são parceiros estratégicos desde nov/2024."
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Eleição de Lula, reações externas, Ucrânia e Mercosul: a semana começa."
+  },
+  {
+   "t": "Lula reeleito",
+   "b": "2º turno de 25/10: cerca de 52% a 48% sobre Flávio Bolsonaro, segundo o TSE. Novo mandato em 5/1.",
+   "l": [
+    "Quarto mandato de Lula",
+    "Virada depois do 1º turno",
+    "Posse em Brasília"
+   ],
+   "n": "25/10"
+  },
+  {
+   "t": "Vizinhos felicitam",
+   "b": "Orsi, Sheinbaum, Rodrigo Paz, Mulino e Peña saudaram Lula logo após a confirmação.",
+   "l": [
+    "Uruguai, México, Bolívia",
+    "Panamá e Paraguai",
+    "Sinal de apoio regional"
+   ]
+  },
+  {
+   "t": "China e UE",
+   "b": "Guo Jiakun: a China respeita a escolha do povo brasileiro e quer uma comunidade de futuro compartilhado.",
+   "l": [
+    "UE também felicitou Lula",
+    "Trump sem manifestação nos relatos",
+    "China: maior parceiro comercial"
+   ],
+   "n": "26/10"
+  },
+  {
+   "t": "Contestação",
+   "b": "Flávio Bolsonaro não reconhece o resultado e pedirá anulação; o presidente do TSE diz ter segurança no processo.",
+   "l": [
+    "Anúncio não anula a eleição",
+    "Itamaraty diz ser instituição de Estado"
+   ]
+  },
+  {
+   "t": "Ucrânia: Abu Dhabi",
+   "b": "Kremlin confirmou nova rodada entre Rússia, Ucrânia e EUA na 1ª quinzena de novembro.",
+   "l": [
+    "Formato inicial trilateral",
+    "Divergências: território e garantias",
+    "Mediação nos Emirados"
+   ],
+   "n": "23/10"
+  },
+  {
+   "t": "UE quer assento",
+   "b": "Comissão e Conselho Europeu devem participar das próximas conversas, sem formato definido.",
+   "l": [
+    "Porta-voz Arianna Podestà",
+    "Segurança europeia em jogo",
+    "Moscou admite ampliar o formato"
+   ]
+  },
+  {
+   "t": "Vietnã–Mercosul",
+   "b": "Embaixador pede apoio de empresas brasileiras a um acordo de comércio preferencial com o Mercosul.",
+   "l": [
+    "Fiesp e Fecomércio-SP",
+    "JBS: US$ 100 mi no Vietnã",
+    "Parceria estratégica desde 2024"
+   ],
+   "n": "25/10"
+  },
+  {
+   "t": "Mercosul–UE em vigor",
+   "b": "Aplicação provisória desde 1/5/2026; o MDIC projeta tarifa zero para 94% das exportações em até quatro anos.",
+   "l": [
+    "Exportações à UE +30% (mai–set)",
+    "Ratificação plena ainda pendente"
+   ],
+   "n": "22/10"
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Anúncio de contestação não anula eleição",
+    "Rodada em Abu Dhabi é trilateral, não a quatro",
+    "Mercosul–UE: aplicação provisória não é ratificação",
+    "Vietnã–Mercosul: negociação, não acordo assinado",
+    "Reação chinesa: respeita a escolha, não opina sobre a contestação"
+   ]
+  }
+ ]
+}

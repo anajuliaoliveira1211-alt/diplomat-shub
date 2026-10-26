@@ -4,7 +4,7 @@
  "assunto": "PEB V: Dilma, Temer, Bolsonaro e Lula 3",
  "edital": "2",
  "notionUrl": "https://app.notion.com/p/40177560e5fa807fa672f902d738985a",
- "updatedAt": "2026-10-24",
+ "updatedAt": "2026-10-26",
  "items": [
   {
    "id": "f1",
@@ -242,6 +242,83 @@
    "s": "Bolsonaro retirou o Brasil da Unasul e da CELAC e aderiu ao Prosul, de governos de direita.",
    "ans": "C",
    "exp": "Os foros foram retomados no governo Lula; Prosul reúne governos alinhados ideologicamente."
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "A integração sul-americana entrou na agenda da política externa brasileira com a proposta comercial dos anos 90, a Primeira Reunião de Presidentes da América do Sul, a CASA e a UNASUL.",
+   "ans": "C",
+   "exp": "A proposta comercial foi a ALCSA (1993); a reunião de presidentes foi em Brasília, em 2000; a CASA surgiu em 2004 e a UNASUL em 2008. A sequência descrita está correta (gabarito definitivo: C).",
+   "trap": 1,
+   "ano": 2018,
+   "prova": "Manhã · Q11 item 1"
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "A IIRSA, criada por iniciativa brasileira em 2000, segue como principal mecanismo para a infraestrutura regional no COSIPLAN da UNASUL.",
+   "ans": "C",
+   "exp": "A IIRSA nasceu na Cúpula de Brasília (2000) e foi incorporada ao COSIPLAN, conselho da UNASUL (gabarito definitivo: C).",
+   "ano": 2018,
+   "prova": "Manhã · Q11 item 2"
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "O Mercosul, concebido para ser um mercado comum, incorporou em seu período de transição uma ampla agenda não econômica, o que dificultou sua consolidação como união aduaneira.",
+   "ans": "E",
+   "exp": "Gabarito definitivo: E. A agenda social e política complementou o bloco; as dificuldades da união aduaneira vêm sobretudo das exceções à TEC e das barreiras não tarifárias, não da ampliação de temas.",
+   "trap": 6,
+   "ano": 2018,
+   "prova": "Manhã · Q11 item 3"
+  },
+  {
+   "id": "c14",
+   "t": "c",
+   "s": "A segurança só entrou na agenda da política externa brasileira no século XXI, por causa do ativismo do país em operações de paz, segurança humana e reforma do Conselho de Segurança.",
+   "ans": "E",
+   "exp": "Gabarito definitivo: E. A dimensão de segurança já estava na agenda desde os anos 1990 (por exemplo, a adesão ao TNP em 1998 e a atuação em operações de paz); o item erra ao datar a entrada no século XXI.",
+   "trap": 5,
+   "ano": 2018,
+   "prova": "Manhã · Q12 item 1"
+  },
+  {
+   "id": "c15",
+   "t": "c",
+   "s": "Apesar da centralidade dos foros multilaterais globais contra o narcotráfico, o sistema interamericano oferece espaços para o Brasil compartilhar boas práticas e realizar projetos.",
+   "ans": "C",
+   "exp": "A OEA e seus órgãos (como a CICAD) são foro hemisférico de cooperação antidrogas (gabarito definitivo: C).",
+   "ano": 2018,
+   "prova": "Manhã · Q12 item 3"
+  },
+  {
+   "id": "c16",
+   "t": "c",
+   "s": "Na ótica dos EUA, a relação com o Brasil está assentada em interesses puramente econômico-comerciais.",
+   "ans": "E",
+   "exp": "Gabarito definitivo: E. 'Puramente' é a generalização: a agenda inclui temas políticos, de defesa e hemisféricos, como o Acordo de Cooperação em Defesa, em vigor desde 2015.",
+   "trap": 1,
+   "ano": 2018,
+   "prova": "Manhã · Q13 item 1"
+  },
+  {
+   "id": "c17",
+   "t": "c",
+   "s": "O esforço diplomático brasileiro a partir de 2009 para impulsionar as relações com o Caribe não produziu resultados comerciais expressivos, com queda de exportações e importações nos últimos cinco anos.",
+   "ans": "C",
+   "exp": "Gabarito definitivo: C. A aproximação (como a Cúpula Brasil–CARICOM de 2010) não se traduziu em ganho comercial no período do item.",
+   "ano": 2018,
+   "prova": "Manhã · Q13 item 3"
+  },
+  {
+   "id": "c18",
+   "t": "c",
+   "s": "A participação brasileira no sistema interamericano pós-Guerra Fria é heterogênea: apoio à institucionalidade democrática, reticência na agenda de segurança hemisférica nos anos 90 e crítica ao Sistema Interamericano de Direitos Humanos no início da década de 2010.",
+   "ans": "C",
+   "exp": "Gabarito definitivo: C. Exemplos: apoio à Carta Democrática Interamericana (2001) e o atrito com a CIDH em 2011, por Belo Monte.",
+   "trap": 4,
+   "ano": 2018,
+   "prova": "Manhã · Q13 item 4"
   }
  ],
  "resumo": [
