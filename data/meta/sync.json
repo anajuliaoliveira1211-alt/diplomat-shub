@@ -6,10 +6,11 @@
   "pi-direitos-humanos",
   "pi-comercio-omc",
   "pi-terrorismo",
-  "pi-peb-5-dilma-lula3"
+  "pi-peb-5-dilma-lula3",
+  "pi-meio-ambiente"
  ],
  "kind": "sync",
- "lastRun": "2026-10-26",
+ "lastRun": "2026-10-27",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",
@@ -169,7 +170,7 @@
   },
   "3f877560e5fa8007be53ee252b764a85": {
    "deck": "pi-peb-4-anos-90-dilma",
-   "edited": "2026-10-13T22:11:07.520Z"
+   "edited": "2026-10-14T20:26:02.960Z"
   },
   "3f877560e5fa80f9bffcf220597bf857": {
    "deck": "hm-fascismos",

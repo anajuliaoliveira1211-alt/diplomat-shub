@@ -1,0 +1,128 @@
+{
+ "kind": "news",
+ "date": "2026-10-27",
+ "cards": [
+  {
+   "id": "2026-10-27-pj76016490",
+   "pj_guid": "76016490",
+   "podcast": "Petit Journal · BP 1167 · 33 min",
+   "materia": "Política Internacional",
+   "edital": "2; 13",
+   "titulo": "Petit Journal: reação à reeleição de Lula, Irã, eleição em Israel, Texas e Orbán",
+   "resumo": "Episódio de 26/10 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Como o mundo reagiu à reeleição de Lula",
+     "b": "Os apresentadores comentam o 2º turno de 25/10 e a rapidez com que governos reconheceram o resultado, inclusive os de direita da América do Sul, como Chile e Colômbia. A leitura é que, qualquer que fosse o presidente, o tamanho do Brasil obriga os vizinhos a manter o diálogo. A Argentina foi citada como caso de silêncio."
+    },
+    {
+     "t": "Trump: sem reconhecimento formal, sem ruptura",
+     "b": "Segundo o episódio, Trump disse que não governa o Brasil, que gosta de Lula e criticou a prorrogação da votação, sem repudiar o resultado. Para os apresentadores, um reconhecimento tácito é o mais provável, já que Lula já é presidente e a relação continua."
+    },
+    {
+     "t": "Por que Washington não ganha com uma briga aberta",
+     "b": "O argumento é que o Brasil não é Panamá, México, Venezuela, Colômbia ou Argentina: tem terras raras e minerais críticos, agro, energia e petróleo, e não depende dos EUA como esses países. Além disso, Trump já enfrenta Irã, preço do diesel e eleições legislativas. Também se observa que o confronto direto costuma vir de Marco Rubio, e Lula briga com Rubio para preservar a ponte com Trump."
+    },
+    {
+     "t": "Irã se prepara para novos ataques",
+     "b": "A população iraniana estaria estocando comida e combustível, esperando novos ataques depois das eleições legislativas dos EUA e das eleições em Israel. A tese dos apresentadores é que Trump e Netanyahu evitam agir antes das urnas por razões políticas, entre elas o preço do petróleo e dos combustíveis."
+    },
+    {
+     "t": "Eleição em Israel (27/10)",
+     "b": "É a primeira eleição israelense desde o 7 de outubro de 2023. O Knesset tem 120 cadeiras, e a maioria para governar é de 61. Pelas pesquisas citadas, o bloco de Netanyahu ficaria perto de 59 cadeiras, o do ex-chefe do Estado-Maior Gadi Eisenkot, perto de 47, e os partidos árabes em torno de 14. O cenário é de impasse, como em eleições anteriores. Eisenkot é descrito como mais moderado que Netanyahu, mas contrário a um Estado palestino."
+    },
+    {
+     "t": "Texas e as eleições de meio de mandato",
+     "b": "A disputa pelo Senado no Texas, entre o republicano Ken Paxton e o democrata James Talarico, virou uma das mais caras da história. Os temas citados são preço dos combustíveis, imigração e o custo de energia dos data centers. O episódio liga isso ao Brasil, que busca atrair data centers e aprovou um marco regulatório em setembro."
+    },
+    {
+     "t": "Orbán e a ONU",
+     "b": "Depois de perder o cargo de primeiro-ministro da Hungria, Orbán foi sugerido por Trump como possível secretário-geral da ONU. O primeiro-ministro polonês Donald Tusk riu da ideia. Os apresentadores tratam o caso como piada e lembram que o próprio Orbán já havia criticado a ONU."
+    }
+   ],
+   "porque": "Reúne, numa só conversa, a recepção externa à reeleição de Lula (política externa brasileira e relação com os EUA), o risco de nova escalada contra o Irã, a eleição israelense e a política interna americana, que afeta as decisões de Trump. Liga os temas de Política Internacional do edital (Oriente Médio, ordem mundial, governança global) ao contexto do Brasil, que é afetado pela relação bilateral com Washington e pelas tarifas.",
+   "ce": {
+    "s": "O Parlamento israelense (Knesset) tem 120 cadeiras, e a formação de governo exige o apoio de pelo menos 61 deputados.",
+    "ans": "C",
+    "exp": "O Knesset tem 120 assentos e a maioria é de 61. Por isso, quando nenhum bloco chega a 61, ocorrem impasses e novas eleições."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/trump-reconheceu-as-eleicoes-bp-1167--76016490",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-10-27-1",
+   "materia": "Política Internacional",
+   "edital": "2; 13.8",
+   "titulo": "Tarifa americana de 25% e disputa na OMC: o que Lula herda de relação com os EUA no 4º mandato",
+   "resumo": "Análise publicada em 26/10 resume o impasse entre Brasil e Estados Unidos: após a tarifa de 50% de 2025, em parte retirada, os EUA anunciaram em 15/7/2026 uma tarifa adicional de 25% com base na Seção 301 da lei de comércio de 1974, em vigor desde 22/7, ao final de uma investigação sobre comércio digital, pagamentos eletrônicos, etanol, propriedade intelectual, corrupção e desmatamento ilegal. Em 27/7 o Brasil pediu consultas na OMC. O texto, de um colunista, aponta ainda que o embaixador indicado por Trump ainda não recebeu o agrément do governo brasileiro.",
+   "porque": "O caso mostra o conflito entre uma medida unilateral (Seção 301) e o sistema multilateral da OMC: consultas são a primeira etapa, e o Brasil poderá pedir um painel se não houver solução em 60 dias. Liga política externa brasileira, comércio internacional e organismos internacionais. O Brasil é afetado diretamente: o MDIC estima que as novas tarifas atinjam US$ 6,6 bilhões em exportações, e a reeleição de Lula reabre a negociação com Washington. Atenção: o texto é de opinião; os fatos de datas e valores foram conferidos em outras fontes.",
+   "fonte": "ND Mais (análise); fatos conferidos em Correio Braziliense e Jornal de Brasília",
+   "url": "https://ndmais.com.br/mundo/lula-vence-e-leva-ao-quarto-mandato-um-impasse-com-os-eua-tarifa-de-25-embaixador-sem-aval-e-dialogo-travado-com-o-departamento-de-estado/",
+   "img": "https://static.ndmais.com.br/2026/10/55609423083-ac713122fc-o-1200x675.jpg",
+   "imgCredit": "Foto: ND Mais",
+   "curso": false,
+   "ce": {
+    "s": "Em julho de 2026, o Brasil pediu consultas na OMC contra tarifas adicionais dos EUA baseadas na Seção 301 da lei de comércio de 1974.",
+    "ans": "C",
+    "exp": "O pedido foi apresentado em 27/7/2026. Consultas são a fase prévia do sistema de solução de controvérsias, e um painel só pode ser pedido se elas não resolverem a disputa em 60 dias."
+   }
+  },
+  {
+   "id": "2026-10-27-2",
+   "materia": "Economia",
+   "edital": "13.8",
+   "titulo": "Primeira carne bovina do Nordeste embarca para a China, via porto de Suape",
+   "resumo": "O ministro da Agricultura, André de Paula, acompanhou em 23/10, em Canhotinho (PE), o embarque do primeiro contêiner de carne bovina do Nordeste destinado à China, com 27 toneladas que seguem de Suape para Xangai. A unidade da Masterboi é a única habilitada para exportar carne bovina à China na região, segundo o Ministério da Agricultura. A empresa inaugurou um túnel de congelamento e prevê superar mil bovinos abatidos por dia até o fim de 2026. A notícia foi publicada em 26/10.",
+   "porque": "A habilitação de frigoríficos pelas autoridades chinesas é a forma pela qual a China controla o acesso ao seu mercado, e é por isso que cada nova planta habilitada é notícia de comércio exterior. A China é o maior parceiro comercial do Brasil e destino central do agro, e o caso mostra a diversificação regional das exportações. Liga Economia, geografia econômica e política externa comercial. O Brasil é diretamente envolvido: o dado reforça sua inserção no mercado asiático em um momento de tarifas americanas.",
+   "fonte": "Ministério da Agricultura e Pecuária, via O Mundo Diplomático",
+   "url": "https://omundodiplomatico.com.br/2026/10/26/ministro-andre-de-paula-acompanha-primeiro-embarque-de-carne-bovina-do-nordeste-para-a-china/",
+   "img": "https://omundodiplomatico.com.br/wp-content/uploads/2026/10/086db7a2-d360-41fc-b7ef-5b9dbeff1ad8.png",
+   "imgCredit": "Foto: Mapa / O Mundo Diplomático",
+   "curso": false,
+   "ce": {
+    "s": "O primeiro contêiner de carne bovina do Nordeste exportado à China, com 27 toneladas, partiu do porto de Suape (PE) em outubro de 2026.",
+    "ans": "C",
+    "exp": "O embarque foi acompanhado pelo ministro André de Paula em Canhotinho (PE) em 23/10; a carga segue de Suape para Xangai."
+   }
+  },
+  {
+   "id": "2026-10-27-3",
+   "materia": "Política Internacional",
+   "edital": "13.6; 13.1",
+   "titulo": "ONU completa 30 anos do mandato sobre crianças e conflitos armados e pede financiamento previsível",
+   "resumo": "Em sessão do Conselho de Segurança, a Representante Especial do Secretário-Geral para Crianças e Conflitos Armados, Vanessa Frazier, marcou os 30 anos do mandato, criado pela resolução 51/77 da Assembleia Geral, em 1996. Mais de 220 mil crianças foram libertadas de grupos armados e mais de 40 planos de ação foram assinados com partes em conflito. Frazier pediu financiamento previsível, flexível e plurianual. O cargo nasceu do relatório de Graça Machel, de 1996, e em 2005 o Conselho criou um mecanismo de monitoramento e relato.",
+   "porque": "É um exemplo de como a ONU institucionaliza a proteção de direitos humanos em conflitos: a Assembleia Geral cria o mandato, o Conselho de Segurança cria mecanismos de monitoramento e as operações de paz incorporam a proteção infantil. Liga direitos humanos, governança global e o sistema ONU. O Brasil é envolvido de forma indireta, como membro da ONU e contribuinte de operações de paz, e porque a questão do financiamento da ONU afeta mandatos como este.",
+   "fonte": "ONU News",
+   "url": "https://news.un.org/pt/story/2026/10/1854750",
+   "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/04/2018_04_18-South_Sudan-Child_Soldiers.jpg/image770x420cropped.jpg",
+   "imgCredit": "Foto: ONU (arquivo, 2018)",
+   "curso": false,
+   "ce": {
+    "s": "O mandato do Representante Especial do Secretário-Geral para Crianças e Conflitos Armados foi criado por resolução da Assembleia Geral, em 1996, a partir de estudo coordenado por Graça Machel.",
+    "ans": "C",
+    "exp": "A resolução 51/77 da Assembleia Geral criou o cargo, que completou 30 anos em 2026. O Conselho de Segurança só criou o mecanismo de monitoramento e relato em 2005."
+   }
+  },
+  {
+   "id": "2026-10-27-4",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.9",
+   "titulo": "Guterres, no Egito, pede diplomacia aberta, ajuda a Gaza e liberdade de navegação em Ormuz",
+   "resumo": "No último dia de visita de três dias ao Cairo, em 26/10, o secretário-geral da ONU, António Guterres, agradeceu ao Egito pela mediação em Gaza e pediu a retirada das restrições israelenses à entrada de ajuda e a implementação do plano para o fim do conflito, aprovado pelo Conselho de Segurança. Alertou que a escalada regional pode sair do controle e defendeu o restabelecimento da navegação em Ormuz e Bab el-Mandeb, conforme o direito internacional. Também falou do Sudão e da Líbia. Segundo agências citadas pela ONU News, Turquia, Paquistão e Egito apoiam o retorno do diálogo direto entre EUA e Irã.",
+   "porque": "Mostra o papel do secretário-geral como mediador político em meio à paralisia do Conselho de Segurança, e a importância de rotas marítimas estratégicas para o comércio e a energia, tema recorrente de direito do mar e de segurança internacional. Liga Oriente Médio, ONU e direito internacional. O Brasil é afetado de forma indireta: preço do petróleo e fretes, comércio com o Oriente Médio e posição do país sobre Gaza e sobre a reforma da ONU.",
+   "fonte": "ONU News",
+   "url": "https://news.un.org/pt/story/2026/10/1854746",
+   "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/26-10-2026-UN-Egypt-Guterres.jpg/image770x420cropped.jpg",
+   "imgCredit": "Foto: ONU News",
+   "curso": false,
+   "ce": {
+    "s": "Em visita ao Egito em outubro de 2026, o secretário-geral da ONU pediu o restabelecimento da navegação e das liberdades marítimas em Ormuz e em Bab el-Mandeb, conforme o direito internacional.",
+    "ans": "C",
+    "exp": "O pedido foi feito em 26/10, último dia da visita ao Cairo. Ormuz liga o Golfo ao oceano Índico e Bab el-Mandeb, o mar Vermelho ao golfo de Áden."
+   }
+  }
+ ]
+}
