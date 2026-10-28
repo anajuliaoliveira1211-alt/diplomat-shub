@@ -1,0 +1,116 @@
+{
+ "kind": "news",
+ "date": "2026-10-28",
+ "cards": [
+  {
+   "id": "2026-10-28-pj76040699",
+   "pj_guid": "76040699",
+   "podcast": "Petit Journal · BP 1168 · 31 min",
+   "materia": "Política Internacional",
+   "edital": "2; 13",
+   "titulo": "Petit Journal: eleição em Israel, IA chinesa, Sérvia, Arábia Saudita e Rússia–Europa",
+   "resumo": "Episódio de 27/10 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Eleição em Israel: alta participação e tensão",
+     "b": "No dia da votação, os apresentadores destacam o comparecimento muito alto e o pedido da coalizão de Netanyahu para prorrogar o horário, negado (quem estivesse na fila às 22h poderia votar). A oposição viu no pedido uma brecha para contestar o resultado. As pesquisas indicam empate técnico, com partidos árabes possivelmente decisivos e risco de nova paralisia."
+    },
+    {
+     "t": "China propõe controle de exportação de IA",
+     "b": "O Ministério do Comércio chinês apresentou regras preliminares que exigiriam licença para exportar tecnologia central de modelos avançados, com vedações ligadas a ciberataques e a dados de segurança nacional. Modelos já lançados não seriam afetados. A leitura do episódio é que isso mexe com empresas que dependem de modelos chineses abertos e gratuitos, e que Pequim justifica a medida por segurança e controle humano da IA."
+    },
+    {
+     "t": "Sérvia: estudantes derrotam o partido de Vučić",
+     "b": "Com quase todas as urnas apuradas, a Lista dos Estudantes, surgida após a tragédia da estação ferroviária de Novi Sad e os protestos que se seguiram, teria cerca de 140 das 250 cadeiras, com perto de 53% dos votos. O partido governista ficou abaixo de 40% e a derrota foi reconhecida. O primeiro-ministro ainda não foi definido; vários países, inclusive a Rússia, já falam em dialogar com o novo grupo."
+    },
+    {
+     "t": "Arábia Saudita aumenta tarifas de água e energia",
+     "b": "O reino anunciou reajuste de tarifas de serviços públicos, com contas de água podendo dobrar ou triplicar para muitos usuários, dentro de uma consolidação fiscal. O rei ordenou compensações e o salário mínimo do setor privado deve subir. O cenário é de economia pressionada pela guerra no Oriente Médio, pelo fechamento de Ormuz e por ataques houthis."
+    },
+    {
+     "t": "Finlândia e Noruega ligam para Putin; Dinamarca critica",
+     "b": "O presidente finlandês e o primeiro-ministro norueguês falaram por cerca de 90 minutos com Putin, primeiro contato desse tipo de líderes europeus desde julho de 2025. A primeira-ministra dinamarquesa criticou a falta de coordenação com a União Europeia, enquanto a Polônia disse ter sido avisada antes. Os apresentadores comentam que a proximidade da fronteira russa pesa na posição de cada país."
+    }
+   ],
+   "porque": "Reúne temas que o CACD cobra em conjunto: eleições e crise de legitimidade (Israel e Sérvia), controles de exportação de tecnologia como instrumento de poder (China), vulnerabilidade fiscal de exportadores de petróleo diante de conflito e bloqueio de rotas (Arábia Saudita) e fragmentação da posição europeia diante da Rússia. Ajuda a ligar Política Internacional, Economia e a ordem internacional contemporânea.",
+   "ce": {
+    "s": "Segundo o episódio, a Lista dos Estudantes, que venceu as eleições legislativas da Sérvia, surgiu dos protestos que se seguiram à tragédia na estação ferroviária de Novi Sad, e o partido de Vučić reconheceu a derrota.",
+    "ans": "C",
+    "exp": "A lista nasceu do movimento estudantil após o desabamento de 2024 em Novi Sad (16 mortos) e obteve maioria no Parlamento; o próprio Vučić admitiu a derrota."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/a-crise-mbappe-china-bp-1168--76040699",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-10-28-1",
+   "materia": "Política Internacional",
+   "edital": "2; 13.8",
+   "titulo": "Argentina de Milei não parabeniza Lula e diz que só \"tomou nota\" da reeleição",
+   "resumo": "Em 27/10, o porta-voz da Presidência argentina, Adrián Ravier, afirmou que o governo apenas \"tomou nota\" do resultado e não emitirá nota formal da chancelaria sobre a eleição brasileira. Justificou o silêncio dizendo que Lula não cumprimentou Milei em 2023, mas afirmou que o comércio e o trabalho conjunto no Mercosul seguem normais. Ravier também negou rumores de que Flávio Bolsonaro teria pedido asilo na Argentina.",
+   "porque": "O gesto rompe o padrão de reconhecimento rápido pelos vizinhos e se soma ao desgaste do último mês, em que o Itamaraty repudiou declarações de Milei sobre as urnas e o Brasil mantém só um encarregado de negócios em Buenos Aires. A Argentina é o principal sócio do Brasil no Mercosul, e a divergência sobre flexibilizar a tarifa externa comum e negociar acordos separados pesa no bloco. Liga política externa brasileira, integração regional e comércio. O Brasil é diretamente envolvido.",
+   "fonte": "Revista Oeste",
+   "url": "https://revistaoeste.com/mundo/argentina-nao-parabeniza-lula-e-diz-que-so-tomou-nota-do-resultado/",
+   "img": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/14_ed334-1.jpg.webp",
+   "imgCredit": "Foto: Revista Oeste",
+   "curso": false,
+   "ce": {
+    "s": "O governo argentino informou, em 27/10/2026, que apenas \"tomou nota\" da reeleição de Lula e não divulgará nota formal da chancelaria, mas afirmou que o comércio e o Mercosul não deveriam ser afetados.",
+    "ans": "C",
+    "exp": "O porta-voz Adrián Ravier fez a declaração e manteve que as relações comerciais seguem normais."
+   }
+  },
+  {
+   "id": "2026-10-28-2",
+   "materia": "Política Internacional",
+   "edital": "2; 13.8",
+   "titulo": "Xi Jinping telefona a Lula e fala em \"comunidade de futuro compartilhado\"",
+   "resumo": "Em 27/10, Xi Jinping ligou a Lula para felicitá-lo pela reeleição, segundo a agência EFE. Xi disse que Pequim dá grande importância às relações e quer levá-las a \"novos níveis\", como modelo de unidade entre países do Sul Global. O vice-presidente Han Zheng enviou mensagem a Geraldo Alckmin. A China respondeu às críticas americanas ao pleito dizendo respeitar a eleição soberana do povo brasileiro.",
+   "porque": "A ligação direta é um gesto de alto nível que sinaliza continuidade da parceria com o maior parceiro comercial do Brasil, num momento em que Washington mantém tarifas de 25% sobre produtos brasileiros. Para a China, o Brasil é peça no BRICS e no Sul Global; para o Brasil, é mercado do agro e fonte de investimentos. Liga política externa brasileira, ordem internacional (disputa EUA–China pela influência regional), BRICS e comércio.",
+   "fonte": "EFE, via Infobae",
+   "url": "https://www.infobae.com/america/agencias/2026/10/27/xi-jinping-felicita-por-telefono-a-lula-por-su-reeleccion/",
+   "curso": false,
+   "ce": {
+    "s": "Segundo a EFE, Xi Jinping telefonou a Lula em 27/10/2026 e defendeu a construção de uma \"comunidade de futuro compartilhado\" entre China e Brasil.",
+    "ans": "C",
+    "exp": "A expressão é recorrente na diplomacia chinesa; Xi destacou as relações como modelo de cooperação entre países do Sul Global."
+   }
+  },
+  {
+   "id": "2026-10-28-3",
+   "materia": "Política Internacional",
+   "edital": "2; 13.8",
+   "titulo": "Trump diz que os EUA receberão 1 milhão de barris de petróleo da Venezuela como \"presente\"",
+   "resumo": "Em 27/10, antes de viajar a um comício no Texas, Trump afirmou que os EUA receberão 1 milhão de barris de petróleo venezuelano, que chamou de \"presente\" e ligou à intervenção americana que resultou na prisão de Nicolás Maduro. A reportagem é do Estadão Conteúdo. O texto não detalha quem enviou o carregamento nem a reação de Caracas.",
+   "porque": "O anúncio mostra o petróleo venezuelano reaproveitado como instrumento da política externa americana no hemisfério, depois da operação militar contra Maduro, e ocorre com o petróleo próximo de US$ 100 e eleições de meio de mandato nos EUA em 3/11. Para o Brasil, vizinho da Venezuela, importam a estabilidade regional, a posição brasileira de rejeitar intervenções e o efeito sobre o mercado de petróleo, no qual o país é exportador relevante. Liga relações hemisféricas, energia e ordem internacional.",
+   "fonte": "Estadão Conteúdo, via O Liberal",
+   "url": "https://www.oliberal.com/mundo/trump-diz-que-aceitara-1-milhao-de-barris-de-petroleo-da-venezuela-como-presente-1.1187470",
+   "img": "https://www.oliberal.com/image/policy:1.1187479:1793120971/850185087_2402220283855390_7803149445724365048_n.png?f=187:100",
+   "imgCredit": "Foto: O Liberal",
+   "curso": false,
+   "ce": {
+    "s": "Trump afirmou que os EUA receberão 1 milhão de barris de petróleo venezuelano, que atribuiu à intervenção americana que levou à prisão de Maduro.",
+    "ans": "C",
+    "exp": "A declaração foi dada em 27/10/2026, antes de um comício no Texas, segundo o Estadão Conteúdo."
+   }
+  },
+  {
+   "id": "2026-10-28-4",
+   "materia": "Economia",
+   "edital": "13.8",
+   "titulo": "Petróleo cai com sinais de diálogo EUA–Irã sobre Ormuz; Opep+ deve manter metas de dezembro",
+   "resumo": "Em 27/10, o Brent (janeiro) fechou em queda de 1,20%, a US$ 109,41, e o WTI (dezembro) recuou 1,83%, a US$ 99,90. Investidores reagiram a sinais de que o Irã aceita negociar a reabertura do Estreito de Ormuz e a fontes da Reuters segundo as quais a Opep+ manterá as metas de produção para dezembro. Houthis voltaram a atacar a Arábia Saudita, e analistas temem novos bombardeios americanos ao Irã depois das eleições de meio de mandato nos EUA.",
+   "porque": "Ormuz concentra cerca de um quinto do petróleo comercializado no mundo, e seu fechamento transmite a crise geopolítica a preços, inflação e crescimento. Opep+ e produtores do Golfo são atores centrais da oferta. Para o Brasil, exportador de petróleo e importador de diesel e fertilizantes, o preço alto beneficia a receita petroleira mas pressiona custos e a inflação. Liga comércio de commodities, organismos de produtores, segurança energética e Oriente Médio.",
+   "fonte": "O Povo (Estadão Conteúdo); CNN Brasil (Reuters)",
+   "url": "https://www.opovo.com.br/noticias/economia/2026/10/27/petroleo-fecha-em-queda-diante-de-possiveis-avancos-diplomaticos-com-o-ira.html",
+   "curso": false,
+   "ce": {
+    "s": "Em 27/10/2026, o petróleo fechou em queda em meio a sinais de diálogo entre EUA e Irã e à expectativa de que a Opep+ mantenha inalteradas as metas de produção de dezembro.",
+    "ans": "C",
+    "exp": "O Brent recuou 1,20%, a US$ 109,41, e o WTI caiu 1,83%, a US$ 99,90, segundo o Estadão Conteúdo."
+   }
+  }
+ ]
+}
