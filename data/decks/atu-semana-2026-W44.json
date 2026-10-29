@@ -223,6 +223,70 @@
    "a": "A Lista dos Estudantes ficou com cerca de 140 das 250 cadeiras (~53% dos votos) e o partido de Vučić admitiu a derrota.",
    "exp": "A lista nasceu dos protestos após a tragédia da estação de Novi Sad, em 2024.",
    "ctx": "Petit Journal: eleição em Israel, IA chinesa, Sérvia, Arábia Saudita e Rússia–Europa"
+  },
+  {
+   "id": "c15",
+   "t": "c",
+   "s": "Segundo o Petit Journal de 28/10/2026, o contrato de referência do gás natural europeu superou 100 euros por megawatt-hora, o maior nível desde dezembro de 2022.",
+   "ans": "C",
+   "exp": "O preço foi atribuído à interrupção do GNL do Catar e à dependência de fornecedores como os EUA, em meio à guerra envolvendo o Irã.",
+   "ctx": "Petit Journal: Flávio nos EUA, gás na Europa, eleição em Israel, Albânia e Rússia–África"
+  },
+  {
+   "id": "c16",
+   "t": "c",
+   "s": "Segundo reportagem de 28/10/2026, o governo Lula reeleito pretende negociar terras raras e tarifas com os EUA, mas não aderir ao Escudo das Américas, bloco de segurança lançado por Trump.",
+   "ans": "C",
+   "exp": "O Planalto busca relação pragmática com Washington, mas descarta a adesão ao Escudo das Américas, do qual o Brasil é uma das exceções na região.",
+   "ctx": "Lula reeleito quer pragmatismo com Trump, mas recusa o Escudo das Américas"
+  },
+  {
+   "id": "c17",
+   "t": "c",
+   "s": "Segundo o Brasil de Fato, o Departamento de Estado dos EUA confirmou que concederá vistos a Flávio Bolsonaro e à família após a derrota dele para Lula em 25/10/2026.",
+   "ans": "C",
+   "exp": "A reportagem de 28/10 cita a confirmação dos vistos e o apoio público de Trump à entrada de Flávio nos EUA.",
+   "ctx": "Flávio Bolsonaro chega aos EUA com apoio de Trump ao visto e se diz \"presidente eleito\""
+  },
+  {
+   "id": "c18",
+   "t": "c",
+   "s": "O acordo de trégua em Oleshky, na região de Kherson, é um cessar-fogo geral entre Rússia e Ucrânia em toda a linha de frente.",
+   "ans": "E",
+   "exp": "É uma trégua temporária e local, para ajuda humanitária e retirada de civis, com início em 29/10/2026.",
+   "ctx": "Rússia e Ucrânia fazem trégua local em Oleshky para retirar civis, com mediação anunciada pela Casa Branca"
+  },
+  {
+   "id": "f15",
+   "t": "f",
+   "q": "O que Lula admite negociar com os EUA e o que descarta, segundo o Planalto em 28/10?",
+   "a": "Admite negociar terras raras, minerais críticos e tarifas; descarta aderir ao Escudo das Américas.",
+   "exp": "O Brasil é uma das exceções ao bloco de segurança criado por Trump. Liga PEB e relações com os EUA.",
+   "ctx": "Lula reeleito quer pragmatismo com Trump, mas recusa o Escudo das Américas"
+  },
+  {
+   "id": "f16",
+   "t": "f",
+   "q": "Quais fatos sobre Flávio Bolsonaro nos EUA são confirmados por mais de uma fonte?",
+   "a": "Trump apoiou a entrada dele; o Departamento de Estado deu vistos à família; ele publicou carta dizendo-se presidente eleito.",
+   "exp": "A articulação atribuída a Rubio não foi confirmada. Liga soberania e não intervenção.",
+   "ctx": "Flávio Bolsonaro chega aos EUA com apoio de Trump ao visto e se diz \"presidente eleito\""
+  },
+  {
+   "id": "f17",
+   "t": "f",
+   "q": "O que é a trégua de Oleshky, em vigor desde 29/10?",
+   "a": "Pausa local e temporária, na região de Kherson, para ajuda humanitária e retirada de civis; não é cessar-fogo geral.",
+   "exp": "A Casa Branca anunciou o acordo e atribuiu a mediação a Melania Trump; o Kremlin confirmou.",
+   "ctx": "Rússia e Ucrânia fazem trégua local em Oleshky para retirar civis, com mediação anunciada pela Casa Branca"
+  },
+  {
+   "id": "f18",
+   "t": "f",
+   "q": "Qual o recorde do gás natural europeu em 28/10/2026?",
+   "a": "Mais de 100 euros por MWh, maior nível desde dezembro de 2022.",
+   "exp": "Antes da guerra no Irã custava cerca de 32 euros; o GNL do Catar foi interrompido.",
+   "ctx": "Petit Journal: Flávio nos EUA, gás na Europa, eleição em Israel, Albânia e Rússia–África"
   }
  ],
  "kind": "deck",
@@ -230,7 +294,7 @@
  "notionUrl": "",
  "resumo": [
   {
-   "b": "Eleição de Lula, tarifas, OMC, Ucrânia, Mercosul e ONU.",
+   "b": "Eleição de Lula, Flávio nos EUA, tarifas, OMC, Ucrânia e Mercosul.",
    "k": "capa"
   },
   {
@@ -265,12 +329,15 @@
    "n": "27/10"
   },
   {
-   "b": "Flávio Bolsonaro não reconhece o resultado e pedirá anulação; o presidente do TSE diz ter segurança no processo.",
+   "t": "Flávio nos EUA",
+   "b": "Derrotado, Flávio Bolsonaro foi a Miami e se disse \"presidente eleito\". Trump apoiou a entrada e os vistos saíram. PL e outros aliados reconheceram a vitória de Lula.",
    "l": [
-    "Anúncio não anula a eleição",
-    "Itamaraty diz ser instituição de Estado"
+    "Vistos confirmados pelo Departamento de Estado",
+    "Rubio: papel não confirmado",
+    "Comparação com Guaidó é frágil",
+    "Trump: \"não quer se envolver\""
    ],
-   "t": "Contestação"
+   "n": "28/10"
   },
   {
    "b": "Tarifa adicional de 25% (Seção 301) em vigor desde 22/7; o Brasil pediu consultas na OMC em 27/7.",
@@ -288,7 +355,8 @@
    "l": [
     "Formato inicial trilateral",
     "Divergências: território e garantias",
-    "Mediação nos Emirados"
+    "Mediação nos Emirados",
+    "Trégua local em Oleshky (29/10)"
    ],
    "n": "23/10",
    "t": "Ucrânia: Abu Dhabi"
@@ -317,15 +385,15 @@
   {
    "k": "fim",
    "l": [
-    "Anúncio de contestação não anula eleição",
+    "Contestação anunciada não anula eleição",
     "Rodada em Abu Dhabi é trilateral",
     "Mercosul–UE: aplicação provisória não é ratificação",
     "Consultas na OMC não são painel",
-    "\"Tomou nota\" não é rompimento nem reconhecimento formal"
+    "Escudo das Américas: Brasil não aderiu"
    ],
    "t": "Pegadinhas que caem"
   }
  ],
- "updatedAt": "2026-10-28",
+ "updatedAt": "2026-10-29",
  "week": "2026-W44"
 }
