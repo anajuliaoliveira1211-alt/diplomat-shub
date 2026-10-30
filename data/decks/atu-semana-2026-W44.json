@@ -287,6 +287,79 @@
    "a": "Mais de 100 euros por MWh, maior nível desde dezembro de 2022.",
    "exp": "Antes da guerra no Irã custava cerca de 32 euros; o GNL do Catar foi interrompido.",
    "ctx": "Petit Journal: Flávio nos EUA, gás na Europa, eleição em Israel, Albânia e Rússia–África"
+  },
+  {
+   "id": "c19",
+   "t": "c",
+   "s": "A oferta pública inicial da refinaria Dangote, na Nigéria, levantou mais de US$ 4 bilhões, acima da meta inicial de cerca de US$ 1,6 bilhão, e foi realizada no mercado nigeriano, não em Nova York ou Londres.",
+   "ans": "C",
+   "exp": "Segundo o episódio, a oferta foi encerrada em 28/10, superou a meta e foi feita na própria Nigéria. Cuidado com generalizações sobre mercados africanos.",
+   "ctx": "Petit Journal: Flávio e a Casa Branca, IPO da Dangote, espionagem Nvidia–China, orçamento da Itália e briga no parlamento armênio"
+  },
+  {
+   "id": "c20",
+   "t": "c",
+   "s": "A proclamação de 28/10/2026 sobre robótica e máquinas industriais foi baseada na Seção 232 e determinou que Comércio e USTR negociem acordos com parceiros, em vez de fixar de imediato uma alíquota na ficha informativa.",
+   "ans": "C",
+   "exp": "A ficha cita justificativa de segurança nacional e a diretriz de negociar acordos, sem alíquotas ou prazos.",
+   "ctx": "Trump declara robôs e máquinas industriais ameaça à segurança nacional e manda negociar com parceiros"
+  },
+  {
+   "id": "c21",
+   "t": "c",
+   "s": "Segundo o boletim da OMM divulgado em outubro de 2026, a concentração média global de CO₂ em 2025 foi de 426,8 ppm, novo recorde, o que mostra que as emissões anuais caíram.",
+   "ans": "E",
+   "exp": "O boletim mede concentração acumulada, que seguiu subindo. Concentração recorde não significa que as emissões do ano caíram. Pegadinha de relação invertida.",
+   "ctx": "OMM: concentração de CO₂ bate recorde em 2025 às vésperas da COP31 na Turquia",
+   "trap": 2
+  },
+  {
+   "id": "c22",
+   "t": "c",
+   "s": "A reunião de chanceleres do G20 de outubro de 2026 ocorre em Atlanta sob presidência dos EUA, que priorizam segurança econômica, liberdade de navegação e energia na pauta.",
+   "ans": "C",
+   "exp": "Segundo o Departamento de Estado citado na reportagem, o encontro prepara a cúpula de Miami, em dezembro.",
+   "ctx": "Chanceleres do G20 se reúnem em Atlanta sob presidência americana, com foco em navegação, energia e cadeias de suprimento"
+  },
+  {
+   "id": "f19",
+   "t": "f",
+   "q": "Qual a base legal da proclamação de 28/10/2026 sobre robótica e máquinas industriais?",
+   "a": "Seção 232 (segurança nacional): Trump mandou Comércio e USTR negociarem acordos com parceiros, sem alíquotas na ficha.",
+   "exp": "Diferente da Seção 301, que trata de práticas comerciais desleais.",
+   "ctx": "Trump declara robôs e máquinas industriais ameaça à segurança nacional e manda negociar com parceiros"
+  },
+  {
+   "id": "f20",
+   "t": "f",
+   "q": "Qual foi o CO₂ médio global em 2025, segundo a OMM?",
+   "a": "426,8 ppm, cerca de 153% do nível pré-industrial; novo recorde.",
+   "exp": "Boletim divulgado em 27/10 como base científica para a COP31.",
+   "ctx": "OMM: concentração de CO₂ bate recorde em 2025 às vésperas da COP31 na Turquia"
+  },
+  {
+   "id": "f21",
+   "t": "f",
+   "q": "Onde e quando é a COP31?",
+   "a": "Antalya, Turquia, de 9 a 20 de novembro de 2026.",
+   "exp": "O Brasil presidiu a COP30, em Belém.",
+   "ctx": "OMM: concentração de CO₂ bate recorde em 2025 às vésperas da COP31 na Turquia"
+  },
+  {
+   "id": "f22",
+   "t": "f",
+   "q": "Qual o foco do G20 sob presidência dos EUA em 2026?",
+   "a": "Segurança econômica: navegação, energia, segurança alimentar e cadeias de suprimento; cúpula em Miami, 14–15/12.",
+   "exp": "Chanceleres se reúnem em Atlanta em 30 e 31/10.",
+   "ctx": "Chanceleres do G20 se reúnem em Atlanta sob presidência americana, com foco em navegação, energia e cadeias de suprimento"
+  },
+  {
+   "id": "f23",
+   "t": "f",
+   "q": "Quanto levantou a oferta pública da refinaria Dangote?",
+   "a": "Mais de US$ 4 bilhões, contra meta de US$ 1,6 bilhão, no mercado nigeriano.",
+   "exp": "Listagem prevista para dezembro.",
+   "ctx": "Petit Journal: Flávio e a Casa Branca, IPO da Dangote, espionagem Nvidia–China, orçamento da Itália e briga no parlamento armênio"
   }
  ],
  "kind": "deck",
@@ -294,7 +367,7 @@
  "notionUrl": "",
  "resumo": [
   {
-   "b": "Eleição de Lula, Flávio nos EUA, tarifas, OMC, Ucrânia e Mercosul.",
+   "b": "Lula, Flávio nos EUA, tarifas, G20, clima e Mercosul.",
    "k": "capa"
   },
   {
@@ -388,12 +461,12 @@
     "Contestação anunciada não anula eleição",
     "Rodada em Abu Dhabi é trilateral",
     "Mercosul–UE: aplicação provisória não é ratificação",
-    "Consultas na OMC não são painel",
-    "Escudo das Américas: Brasil não aderiu"
+    "Concentração de CO₂ recorde não é emissão anual",
+    "Seção 232 não fixa tarifa por si só"
    ],
    "t": "Pegadinhas que caem"
   }
  ],
- "updatedAt": "2026-10-29",
+ "updatedAt": "2026-10-30",
  "week": "2026-W44"
 }

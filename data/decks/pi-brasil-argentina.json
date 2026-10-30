@@ -4,7 +4,7 @@
  "assunto": "Relações Brasil–Argentina",
  "edital": "2",
  "notionUrl": "https://app.notion.com/p/40177560e5fa8069b6f4f65019672154",
- "updatedAt": "2026-10-24",
+ "updatedAt": "2026-10-30",
  "items": [
   {
    "id": "f1",
@@ -158,6 +158,69 @@
    "ans": "E",
    "exp": "A integração foi construída sobre a cooperação dos anos 1979–88.",
    "trap": 1
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "Durante o período de Carlos Menem na presidência argentina (1989-1999), sua política externa alinhou-se com as posições dos Estados Unidos da América no contexto internacional, enquanto surgiram críticas, de fontes oficiais e privadas, sobre uma “Brasil dependência” por parte da Argentina.",
+   "ans": "C",
+   "exp": "Menem adotou o chamado “realismo periférico”, com alinhamento automático a Washington, e houve críticas internas à excessiva atenção ao Brasil.",
+   "ano": "2017",
+   "prova": "Manhã · Q19 item 1",
+   "ctx": "A Argentina é, historicamente, uma prioridade para a política externa brasileira. Em seu estágio atual, as relações entre os dois países caracterizam-se pela busca da integração econômica e da cooperação política."
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "Durante o primeiro período de Perón na presidência argentina (1946-1955), a diplomacia do país resolveu o problema dos limites nos Andes Patagônicos, aceitou a reivindicação uruguaia sobre o limite no estuário do Prata e propôs coordenação política entre Argentina, Brasil e Chile.",
+   "ans": "E",
+   "exp": "Gabarito oficial: errado. Perón de fato propôs um bloco ABC (Argentina, Brasil e Chile), mas os limites nos Andes Patagônicos não foram resolvidos no período (as disputas, como Laguna del Desierto, seguiram por décadas). Um erro escondido em texto longo.",
+   "trap": 4,
+   "ano": "2017",
+   "prova": "Manhã · Q19 item 2",
+   "ctx": "A Argentina é, historicamente, uma prioridade para a política externa brasileira. Em seu estágio atual, as relações entre os dois países caracterizam-se pela busca da integração econômica e da cooperação política."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "As relações entre Brasil e Argentina, entre 1955 e 1964, caracterizaram-se pela crescente cordialidade, como demonstram o apoio de Frondizi à Operação Pan-Americana e o acordo de cooperação militar assinado entre Frondizi e Jânio Quadros em Uruguaiana, em 1961.",
+   "ans": "E",
+   "exp": "Frondizi apoiou a Operação Pan-Americana, de JK. Mas o encontro de Uruguaiana (1961) produziu o Convênio de Amizade e Consulta, não um acordo de cooperação militar.",
+   "trap": 4,
+   "ano": "2017",
+   "prova": "Manhã · Q19 item 3",
+   "ctx": "A Argentina é, historicamente, uma prioridade para a política externa brasileira. Em seu estágio atual, as relações entre os dois países caracterizam-se pela busca da integração econômica e da cooperação política."
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "Em 1990, os governos brasileiro e argentino criaram o grupo de trabalho binacional denominado Grupo Mercado Comum, para propor medidas que levassem à criação do mercado comum Brasil–Argentina até 1994.",
+   "ans": "C",
+   "exp": "A Ata de Buenos Aires (1990), entre Collor e Menem, antecipou para 31/12/1994 o prazo do mercado comum e criou o Grupo Mercado Comum bilateral, embrião do Mercosul (Tratado de Assunção, 1991).",
+   "ano": "2017",
+   "prova": "Manhã · Q19 item 4",
+   "ctx": "A Argentina é, historicamente, uma prioridade para a política externa brasileira. Em seu estágio atual, as relações entre os dois países caracterizam-se pela busca da integração econômica e da cooperação política."
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "A Venezuela foi suspensa do MERCOSUL em dezembro de 2016 em razão da aplicação da cláusula democrática do Protocolo de Ushuaia.",
+   "ans": "E",
+   "exp": "Em dezembro de 2016 a suspensão se deu por descumprimento das obrigações do Protocolo de Adesão (normas não incorporadas). A cláusula democrática de Ushuaia só foi aplicada em agosto de 2017.",
+   "trap": 6,
+   "ano": "2017",
+   "prova": "Manhã · Q12 item 1",
+   "ctx": "Com referência à evolução recente do Mercado Comum do Sul (MERCOSUL), que já conta com vinte e cinco anos de existência."
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "O MERCOSUL tem buscado ampliar o número de acordos com outros países e blocos, o que pode ser exemplificado pela retomada das negociações para um acordo com a União Europeia e pela busca de maior cooperação com a Aliança do Pacífico.",
+   "ans": "C",
+   "exp": "Em 2016-2017 o bloco retomou as negociações com a UE (acordo de princípio só em 2019) e aproximou-se da Aliança do Pacífico.",
+   "ano": "2017",
+   "prova": "Manhã · Q12 item 4",
+   "ctx": "Com referência à evolução recente do Mercado Comum do Sul (MERCOSUL), que já conta com vinte e cinco anos de existência."
   }
  ],
  "resumo": [

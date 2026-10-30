@@ -1,0 +1,111 @@
+{
+ "kind": "news",
+ "date": "2026-10-30",
+ "cards": [
+  {
+   "id": "2026-10-30-pj76078819",
+   "pj_guid": "76078819",
+   "podcast": "Petit Journal · BP 1170 · 33 min",
+   "materia": "Política Internacional",
+   "edital": "2; 13",
+   "titulo": "Petit Journal: Flávio e a Casa Branca, IPO da Dangote, espionagem Nvidia–China, orçamento da Itália e briga no parlamento armênio",
+   "resumo": "Episódio de 29/10 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Flávio Bolsonaro e o apoio da Casa Branca",
+     "b": "Segundo o New York Times, a viagem de Flávio aos EUA teve apoio logístico de um assessor da Casa Branca, que contratou o jato. Os apresentadores veem Trump tratando o Brasil de forma pragmática e criticado pelos democratas por acelerar visto e residência."
+    },
+    {
+     "t": "Trump e a reeleição de Lula",
+     "b": "Trump disse que pretende cumprimentar Lula e que evitou intervir na reta final da eleição a pedido dele. Para os apresentadores, a Casa Branca já tratou a disputa como página virada: o Brasil é peso demais (terras raras, petróleo, economia) para uma briga."
+    },
+    {
+     "t": "IPO da refinaria Dangote",
+     "b": "A oferta pública da refinaria nigeriana, encerrada em 28/10, levantou mais de US$ 4 bilhões contra meta de US$ 1,6 bilhão, com listagem prevista para dezembro. Foi apresentada como sinal de maturidade do mercado de capitais africano e de busca por refino próprio, já que o continente importa mais de 70% do combustível que consome."
+    },
+    {
+     "t": "Gás natural na Tanzânia",
+     "b": "O país anunciou sua primeira descoberta de gás em uma década, estimada em cerca de 223 bilhões de pés cúbicos. Entra no pano de fundo de uma África que cresce acima da média mundial."
+    },
+    {
+     "t": "Espionagem: Megaspeed, Nvidia e China",
+     "b": "Reportagem do New York Times diz que uma executiva da Megaspeed, intermediária na compra de chips da Nvidia, teria repassado informações a Pequim. A China nega. Os apresentadores notam que o governo americano teria sido informado há cerca de um ano e não agiu, o que pesa a poucos dias das eleições de meio de mandato."
+    },
+    {
+     "t": "Itália: orçamento de 2027 e contágio francês",
+     "b": "A coalizão de Meloni aprovou o orçamento de 2027 dentro do limite de 3% do PIB para o déficit, com mais impostos sobre bancos, seguradoras e energia. A dívida italiana ronda 140% do PIB e os juros subiram por efeito de contágio da crise fiscal francesa."
+    },
+    {
+     "t": "Briga no parlamento da Armênia",
+     "b": "Deputados governistas e da oposição pró-Rússia trocaram socos e cadeiras após ataques à família de um parlamentar. É o assunto leve do episódio, ligado à tensão entre aproximação do Ocidente e influência russa."
+    }
+   ],
+   "porque": "Cruza PEB e relação Brasil–EUA (item 2 do edital), economia política internacional (comércio de tecnologia, restrições a chips, finanças públicas na UE) e energia na África. O fio comum é como política doméstica (eleições nos EUA e no Brasil) condiciona decisões de política externa.",
+   "ce": {
+    "s": "A oferta pública inicial da refinaria Dangote, na Nigéria, levantou mais de US$ 4 bilhões, acima da meta inicial de cerca de US$ 1,6 bilhão, e foi realizada no mercado nigeriano, não em Nova York ou Londres.",
+    "ans": "C",
+    "exp": "Segundo o episódio, a oferta foi encerrada em 28/10, superou a meta e foi feita na própria Nigéria. Cuidado com generalizações sobre mercados africanos."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/os-eua-sabiam-de-tudo-bp-1170--76078819",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-10-30-1",
+   "materia": "Economia",
+   "edital": "13.8; 13.9",
+   "titulo": "Trump declara robôs e máquinas industriais ameaça à segurança nacional e manda negociar com parceiros",
+   "resumo": "Em 28/10, Trump assinou proclamação na Seção 232 que reconhece que importações de robótica, máquinas industriais e suas peças ameaçam a segurança nacional dos EUA. A Casa Branca justifica que o país produz menos do que consome e depende de importações. A ordem é negociar acordos com parceiros comerciais, sem alíquotas definidas na ficha, e o Comércio deve avisar se faltarem novas medidas.",
+   "porque": "É mais um uso da segurança nacional como base legal para tarifas, tema recorrente de comércio internacional e OMC (cadeias globais de suprimento). Atores: Trump, Comércio e USTR. Abre negociação com qualquer país exportador, o que pode alcançar fornecedores como China, Alemanha e Japão; para o Brasil, o efeito direto é pequeno, mas reforça a incerteza sobre tarifas.",
+   "fonte": "Casa Branca (fact sheet)",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-adjusts-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/",
+   "img": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+   "imgCredit": "Foto: Casa Branca",
+   "ce": {
+    "s": "A proclamação de 28/10/2026 sobre robótica e máquinas industriais foi baseada na Seção 232 e determinou que Comércio e USTR negociem acordos com parceiros, em vez de fixar de imediato uma alíquota na ficha informativa.",
+    "ans": "C",
+    "exp": "A ficha cita justificativa de segurança nacional e a diretriz de negociar acordos, sem alíquotas ou prazos."
+   },
+   "curso": false
+  },
+  {
+   "id": "2026-10-30-2",
+   "materia": "Política Internacional",
+   "edital": "13.4; 13.1",
+   "titulo": "OMM: concentração de CO₂ bate recorde em 2025 às vésperas da COP31 na Turquia",
+   "resumo": "O Boletim de Gases de Efeito Estufa da Organização Meteorológica Mundial, divulgado em 27/10, aponta CO₂ médio global de 426,8 ppm em 2025, cerca de 153% do nível pré-industrial. Metano e óxido nitroso também bateram recordes. O boletim serve de base científica à COP31, em Antalya, de 9 a 20 de novembro.",
+   "porque": "Mostra a distância entre metas do Acordo de Paris e a realidade, pressionando a negociação de financiamento e mitigação. O Brasil chega à COP31 como ex-presidente da COP30 em Belém, com agenda de florestas e roteiros. Liga meio ambiente, governança global e ONU.",
+   "fonte": "Organização Meteorológica Mundial (OMM)",
+   "url": "https://wmo.int/node/39150",
+   "img": "https://wmo.int/sites/default/files/2026-10/GreenhouseGas_Canva_0.jpg",
+   "imgCredit": "Imagem: OMM",
+   "ce": {
+    "s": "Segundo o boletim da OMM divulgado em outubro de 2026, a concentração média global de CO₂ em 2025 foi de 426,8 ppm, novo recorde, o que mostra que as emissões anuais caíram.",
+    "ans": "E",
+    "exp": "O boletim mede concentração acumulada, que seguiu subindo. Concentração recorde não significa que as emissões do ano caíram. Pegadinha de relação invertida.",
+    "trap": 2
+   },
+   "curso": false
+  },
+  {
+   "id": "2026-10-30-3",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.8",
+   "titulo": "Chanceleres do G20 se reúnem em Atlanta sob presidência americana, com foco em navegação, energia e cadeias de suprimento",
+   "resumo": "Em 30 e 31/10, o secretário de Estado Marco Rubio recebe em Atlanta os chanceleres do G20, que preparam a cúpula de líderes em Miami, em 14 e 15/12. A pauta americana é segurança econômica: liberdade de navegação, segurança energética e alimentar e cadeias globais. A imprensa brasileira noticia que o chanceler Mauro Vieira participa, em meio à tensão pós-eleição.",
+   "porque": "O G20 é fórum de governança econômica global de que o Brasil faz parte, e a presidência de Trump quer reduzi-lo a menos temas, tirando ênfase de clima e desenvolvimento, que o Brasil defendeu em 2024. A presença de Vieira e o clima com Washington medem o peso da relação bilateral para o PEB.",
+   "fonte": "The Rio Times",
+   "url": "https://www.riotimesonline.com/g20-foreign-ministers-meet-atlanta-2026/",
+   "img": "https://www.riotimesonline.com/wp-content/uploads/2026/10/img-g20.jpg",
+   "imgCredit": "Foto: The Rio Times",
+   "ce": {
+    "s": "A reunião de chanceleres do G20 de outubro de 2026 ocorre em Atlanta sob presidência dos EUA, que priorizam segurança econômica, liberdade de navegação e energia na pauta.",
+    "ans": "C",
+    "exp": "Segundo o Departamento de Estado citado na reportagem, o encontro prepara a cúpula de Miami, em dezembro."
+   },
+   "curso": false
+  }
+ ]
+}
