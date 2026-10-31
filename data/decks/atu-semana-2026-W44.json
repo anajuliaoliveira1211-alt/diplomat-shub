@@ -360,6 +360,70 @@
    "a": "Mais de US$ 4 bilhões, contra meta de US$ 1,6 bilhão, no mercado nigeriano.",
    "exp": "Listagem prevista para dezembro.",
    "ctx": "Petit Journal: Flávio e a Casa Branca, IPO da Dangote, espionagem Nvidia–China, orçamento da Itália e briga no parlamento armênio"
+  },
+  {
+   "id": "c23",
+   "t": "c",
+   "s": "Na votação da Assembleia-Geral da ONU de outubro de 2026 sobre o embargo dos EUA a Cuba, o Brasil votou a favor da resolução, como fez na maioria das votações desde 1992.",
+   "ans": "C",
+   "exp": "O Brasil votou pelo fim do embargo em quase todas as votações; as exceções foram o voto contrário em 2019 e as abstenções em 2021 e 2022, no governo Bolsonaro.",
+   "ctx": "ONU aprova resolução contra o embargo dos EUA a Cuba com o menor apoio em 30 anos"
+  },
+  {
+   "id": "f24",
+   "t": "f",
+   "q": "Quantos votos teve a resolução da ONU contra o embargo dos EUA a Cuba em 2026?",
+   "a": "130 a favor (incluindo o Brasil), 17 contra e 25 abstenções: o menor apoio em 30 anos.",
+   "exp": "Resoluções da Assembleia-Geral não são vinculantes.",
+   "ctx": "ONU aprova resolução contra o embargo dos EUA a Cuba com o menor apoio em 30 anos"
+  },
+  {
+   "id": "c24",
+   "t": "c",
+   "s": "Christine Lagarde, ex-diretora-geral do FMI, anunciou que deixará a presidência do Banco Central Europeu em fevereiro, abrindo o processo de escolha do sucessor pelos líderes da União Europeia.",
+   "ans": "C",
+   "exp": "Lagarde presidiu o FMI antes de ir ao BCE e anunciou a saída em 29/10, com data em 7 de fevereiro; o presidente do Conselho Europeu, António Costa, disse que a busca pelo sucessor começa de imediato.",
+   "ctx": "Lagarde anuncia saída da presidência do BCE em fevereiro, com a Europa sob choque de petróleo e risco político na França"
+  },
+  {
+   "id": "f25",
+   "t": "f",
+   "q": "Quando Lagarde deixa a presidência do BCE e por que o momento importa?",
+   "a": "Em 7 de fevereiro; a saída antecipada dá tempo de escolher o sucessor antes da eleição presidencial francesa.",
+   "exp": "Choque de petróleo e juros dos títulos franceses aumentam a pressão sobre o BCE.",
+   "ctx": "Lagarde anuncia saída da presidência do BCE em fevereiro, com a Europa sob choque de petróleo e risco político na França"
+  },
+  {
+   "id": "c25",
+   "t": "c",
+   "s": "O acordo comercial atualizado entre China e Suíça, celebrado por Xi Jinping e Guy Parmelin, foi apresentado como contraponto às barreiras comerciais impostas pelos EUA e pela União Europeia.",
+   "ans": "C",
+   "exp": "A reportagem da Reuters contrasta o acesso amplo da Suíça ao mercado chinês com as barreiras adotadas pelo governo Trump e pela UE, um ano depois de a Suíça receber as tarifas americanas mais altas da Europa.",
+   "ctx": "China e Suíça assinam acordo comercial ampliado, na contramão do protecionismo de EUA e UE"
+  },
+  {
+   "id": "f26",
+   "t": "f",
+   "q": "Qual a leitura política do acordo comercial ampliado entre China e Suíça?",
+   "a": "Contraponto ao protecionismo de EUA e UE: a Suíça ganha acesso amplo ao mercado chinês um ano após receber tarifas americanas altas.",
+   "exp": "Assinatura celebrada por Xi e Parmelin em 30/10.",
+   "ctx": "China e Suíça assinam acordo comercial ampliado, na contramão do protecionismo de EUA e UE"
+  },
+  {
+   "id": "c26",
+   "t": "c",
+   "s": "Segundo Serguei Lavrov, em 30/10, uma eventual reunião entre Zelensky e Putin só ocorreria em Moscou, e a Rússia apoia o objetivo dos EUA de despolitizar ao máximo as discussões do G20.",
+   "ans": "C",
+   "exp": "Lavrov deu as declarações durante a reunião de chanceleres do G20 em Atlanta, preparatória para a cúpula de líderes prevista para Miami, em dezembro.",
+   "ctx": "Lavrov diz que Zelensky terá de ir a Moscou para se reunir com Putin e conversa com Rubio à margem do G20"
+  },
+  {
+   "id": "f27",
+   "t": "f",
+   "q": "O que Lavrov disse sobre uma reunião Zelensky–Putin?",
+   "a": "Que Zelensky teria de ir a Moscou; também acusou europeus de interferir no processo de paz.",
+   "exp": "Declaração em 30/10, em Atlanta, na reunião de chanceleres do G20.",
+   "ctx": "Lavrov diz que Zelensky terá de ir a Moscou para se reunir com Putin e conversa com Rubio à margem do G20"
   }
  ],
  "kind": "deck",
@@ -467,6 +531,6 @@
    "t": "Pegadinhas que caem"
   }
  ],
- "updatedAt": "2026-10-30",
+ "updatedAt": "2026-10-31",
  "week": "2026-W44"
 }

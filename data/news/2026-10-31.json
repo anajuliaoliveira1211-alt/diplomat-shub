@@ -1,0 +1,78 @@
+{
+ "kind": "news",
+ "date": "2026-10-31",
+ "cards": [
+  {
+   "id": "2026-10-31-1",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.6",
+   "titulo": "ONU aprova resolução contra o embargo dos EUA a Cuba com o menor apoio em 30 anos",
+   "resumo": "A Assembleia-Geral da ONU aprovou em 28/10 a resolução que pede o fim do embargo norte-americano a Cuba: 130 votos a favor (incluindo o do Brasil), 17 contra e 25 abstenções. É o menor apoio em três décadas, e a queda é associada a uma campanha dos EUA para que aliados rejeitassem o texto. O embargo existe desde 1960, em reação à revolução de 1959, e o governo Trump endureceu as sanções neste ano, o que agravou a escassez de energia e a inflação na ilha. As resoluções da Assembleia-Geral não são vinculantes: têm peso político, não obrigam os EUA a levantar as sanções.",
+   "porque": "Mostra como as grandes potências pressionam votos em foros multilaterais e como a Assembleia-Geral funciona como termômetro político (13.1). Para o Brasil, que votou a favor, é continuidade da defesa histórica do fim do embargo, interrompida só em 2019 (voto contra) e em 2021–2022 (abstenções) no governo Bolsonaro. Também conecta a política dos EUA para o Caribe e a América Latina ao tema de direitos humanos e soberania.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/sob-pressao-de-trump-cuba-comemora-aprovacao-na-onu-contra-bloqueio",
+   "img": "https://imagens.ebc.com.br/l1o7E1h9DkC79oqo3l0RelCju3Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/29/pzzb9137_0.jpg?itok=TpTRiCP9",
+   "imgCredit": "Foto: Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "Na votação da Assembleia-Geral da ONU de outubro de 2026 sobre o embargo dos EUA a Cuba, o Brasil votou a favor da resolução, como fez na maioria das votações desde 1992.",
+    "ans": "C",
+    "exp": "O Brasil votou pelo fim do embargo em quase todas as votações; as exceções foram o voto contrário em 2019 e as abstenções em 2021 e 2022, no governo Bolsonaro."
+   }
+  },
+  {
+   "id": "2026-10-31-2",
+   "materia": "Economia",
+   "edital": "13.9; 13.3",
+   "titulo": "Lagarde anuncia saída da presidência do BCE em fevereiro, com a Europa sob choque de petróleo e risco político na França",
+   "resumo": "A presidente do Banco Central Europeu, Christine Lagarde, anunciou em 29/10 que deixará o cargo em 7 de fevereiro, antes do fim do mandato. A saída dá tempo para os governos da União Europeia escolherem o sucessor antes da eleição presidencial francesa, na qual as pesquisas apontam Marine Le Pen como favorita. O BCE enfrenta risco de inflação por causa da alta do petróleo ligada à guerra no Irã e juros crescentes dos títulos, sobretudo franceses. Críticos dizem que a renúncia antecipada enfraquece a percepção de independência da instituição.",
+   "porque": "O BCE define a política monetária da zona do euro e influencia câmbio, juros e fluxos de capital globais, o que toca o sistema financeiro internacional (13.9). A discussão sobre independência de bancos centrais e a escolha do sucessor, um cargo disputado entre Estados-membros, mostram a política interna da integração europeia. Para o Brasil, o impacto é indireto: juros e câmbio globais, comércio com a UE (acordo Mercosul–UE) e preço de commodities.",
+   "fonte": "Agência Brasil (com Reuters)",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/christine-lagarde-renuncia-presidencia-do-banco-central-europeu",
+   "img": "https://imagens.ebc.com.br/F0Wmn8O832XBzcEAg5T4S17AVJI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/636740216833271671.jpg?itok=CbW4NdYu",
+   "imgCredit": "Foto: Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "Christine Lagarde, ex-diretora-geral do FMI, anunciou que deixará a presidência do Banco Central Europeu em fevereiro, abrindo o processo de escolha do sucessor pelos líderes da União Europeia.",
+    "ans": "C",
+    "exp": "Lagarde presidiu o FMI antes de ir ao BCE e anunciou a saída em 29/10, com data em 7 de fevereiro; o presidente do Conselho Europeu, António Costa, disse que a busca pelo sucessor começa de imediato."
+   }
+  },
+  {
+   "id": "2026-10-31-3",
+   "materia": "Economia",
+   "edital": "13.8; 13.3",
+   "titulo": "China e Suíça assinam acordo comercial ampliado, na contramão do protecionismo de EUA e UE",
+   "resumo": "Em Pequim, o presidente chinês Xi Jinping e o presidente suíço Guy Parmelin celebraram em 30/10 a assinatura de um acordo comercial atualizado entre os dois países, anunciado em agosto. Ele dá à Suíça acesso a mercados chineses descrito como incomum por sua amplitude, um ano depois de Donald Trump impor à Suíça as tarifas mais altas dos EUA entre os países europeus. Xi disse que o pacto traz mais previsibilidade ao comércio China–Europa. Os dois lados querem realizar o próximo diálogo estratégico entre chanceleres ainda este ano.",
+   "porque": "É um exemplo de como tarifas dos EUA empurram países a diversificar parceiros e acordos de livre comércio, e de como a China usa acordos para ampliar influência na Europa (ordem internacional e comércio, 13.8). O Brasil, que enfrenta tarifas americanas e busca ampliar acordos (Mercosul–UE), pode tirar daí uma referência de estratégia de diversificação; a China já é seu maior parceiro comercial.",
+   "fonte": "Free Malaysia Today (Reuters)",
+   "url": "https://www.freemalaysiatoday.com/category/business/2026/10/30/china-s-xi-swiss-president-praise-trade-deal-that-boosts-access",
+   "img": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/10/8d9dc411-9e0a-4871-82da-af4c993da018-Guy-Parmelin-EPA-30102026-.webp",
+   "imgCredit": "Foto: EPA / Free Malaysia Today",
+   "curso": false,
+   "ce": {
+    "s": "O acordo comercial atualizado entre China e Suíça, celebrado por Xi Jinping e Guy Parmelin, foi apresentado como contraponto às barreiras comerciais impostas pelos EUA e pela União Europeia.",
+    "ans": "C",
+    "exp": "A reportagem da Reuters contrasta o acesso amplo da Suíça ao mercado chinês com as barreiras adotadas pelo governo Trump e pela UE, um ano depois de a Suíça receber as tarifas americanas mais altas da Europa."
+   }
+  },
+  {
+   "id": "2026-10-31-4",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.10",
+   "titulo": "Lavrov diz que Zelensky terá de ir a Moscou para se reunir com Putin e conversa com Rubio à margem do G20",
+   "resumo": "Falando durante a reunião de chanceleres do G20 em Atlanta, em 30/10, o chanceler russo Serguei Lavrov afirmou que Zelensky precisará ir a Moscou se quiser se encontrar com Putin. Lavrov acusou países europeus de interferirem no processo de paz e disse ter conversado com o secretário de Estado dos EUA, Marco Rubio, sobre cooperação na ONU, no G20 e na cúpula da APEC em Shenzhen, em novembro. Também disse apoiar o objetivo americano de despolitizar o G20 e teve o primeiro encontro em cinco anos com o chanceler japonês. A cúpula de chefes de Estado do G20 está prevista para dezembro, em Miami.",
+   "porque": "Mostra o impasse sobre o local e as condições de uma negociação de paz na Ucrânia e o uso de foros multilaterais (G20, ONU, APEC) como canais de diálogo entre Rússia e EUA, o que mexe na distribuição de poder e na segurança europeia. O Brasil, membro do G20 e dos BRICS e defensor de solução negociada, acompanha o tema pelo impacto em energia, alimentos e fertilizantes.",
+   "fonte": "Brasil de Fato",
+   "url": "https://www.brasildefato.com.br/2026/10/30/chanceler-da-russia-diz-que-zelensky-precisara-ir-a-moscou-se-quiser-se-reunir-com-putin/",
+   "img": "https://www.brasildefato.com.br/wp-content/uploads/2026/07/photo2026-07-2308-50-07-90886ab2.webp",
+   "imgCredit": "Foto: Ministério das Relações Exteriores da Rússia",
+   "curso": false,
+   "ce": {
+    "s": "Segundo Serguei Lavrov, em 30/10, uma eventual reunião entre Zelensky e Putin só ocorreria em Moscou, e a Rússia apoia o objetivo dos EUA de despolitizar ao máximo as discussões do G20.",
+    "ans": "C",
+    "exp": "Lavrov deu as declarações durante a reunião de chanceleres do G20 em Atlanta, preparatória para a cúpula de líderes prevista para Miami, em dezembro."
+   }
+  }
+ ]
+}
