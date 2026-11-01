@@ -424,6 +424,125 @@
    "a": "Que Zelensky teria de ir a Moscou; também acusou europeus de interferir no processo de paz.",
    "exp": "Declaração em 30/10, em Atlanta, na reunião de chanceleres do G20.",
    "ctx": "Lavrov diz que Zelensky terá de ir a Moscou para se reunir com Putin e conversa com Rubio à margem do G20"
+  },
+  {
+   "id": "c27",
+   "t": "c",
+   "s": "A convocação de um representante diplomático para dar explicações é prática usual para um Estado registrar desagrado com ações de outro governo, e não equivale, por si só, ao rompimento de relações diplomáticas.",
+   "ans": "C",
+   "exp": "Convocar o encarregado de negócios é um gesto de protesto; o rompimento de relações é um ato distinto e mais grave. No caso, o Brasil havia rebaixado as relações com a Argentina ao retirar o embaixador em julho.",
+   "ctx": "Itamaraty convoca representante argentina por ajuda do governo Milei à fuga de Flávio Bolsonaro"
+  },
+  {
+   "id": "f28",
+   "t": "f",
+   "q": "O que significa o Itamaraty convocar o encarregado de negócios de outro país?",
+   "a": "Chamá-lo para dar explicações e registrar desagrado, sem romper relações. Em 29/10 o alvo foi a representante argentina, pela ajuda do governo Milei à saída de Flávio Bolsonaro.",
+   "exp": "Mostra um Estado usando o canal diplomático para registrar desagrado com ação de outro, tema clássico de relações bilaterais e de prática diplomática (convocação, rebaixamento de relações). Atinge a.",
+   "ctx": "Itamaraty convoca representante argentina por ajuda do governo Milei à fuga de Flávio Bolsonaro"
+  },
+  {
+   "id": "c28",
+   "t": "c",
+   "s": "Segundo o MDIC, de maio a setembro de 2026, as exportações brasileiras de produtos beneficiados por redução ou eliminação de tarifas no acordo Mercosul–UE cresceram 21% em relação ao mesmo período de 2025.",
+   "ans": "C",
+   "exp": "Os dados foram divulgados em 29/10; as preferências tarifárias entraram em aplicação provisória em 1º de maio de 2026.",
+   "ctx": "Acordo Mercosul–UE: exportações brasileiras beneficiadas por tarifas menores crescem 21% em cinco meses"
+  },
+  {
+   "id": "f29",
+   "t": "f",
+   "q": "Quanto cresceram as exportações brasileiras com tarifa reduzida na UE entre maio e setembro de 2026?",
+   "a": "21% sobre 2025 (dados do MDIC), com destaque para abacate, mel e óleo de milho. O acordo Mercosul–UE está em aplicação provisória desde 1/5.",
+   "exp": "Mostra o efeito concreto de um acordo de livre comércio entre blocos, ligado à integração regional e à diversificação de parceiros num momento de tarifas americanas e protecionismo. Para a PEB, é.",
+   "ctx": "Acordo Mercosul–UE: exportações brasileiras beneficiadas por tarifas menores crescem 21% em cinco meses"
+  },
+  {
+   "id": "c29",
+   "t": "c",
+   "s": "O primeiro-ministro britânico anunciou, em 31/10, que seu governo ponderará pedir desculpas pelo tráfico de escravizados, mas continuará rejeitando o pagamento de reparações financeiras.",
+   "ans": "C",
+   "exp": "Burnham defendeu um diálogo estruturado e o alívio de dívidas de países vulneráveis, sem aceitar reparações financeiras; a reunião da Commonwealth será em Antígua e Barbuda.",
+   "ctx": "Reino Unido admite pedir desculpas pelo tráfico negreiro para reforçar laços com a Commonwealth"
+  },
+  {
+   "id": "f30",
+   "t": "f",
+   "q": "Qual a posição do Reino Unido, em 31/10/2026, sobre o tráfico negreiro e a Commonwealth?",
+   "a": "Considera pedir desculpas formais pela primeira vez, mas rejeita reparações financeiras; propõe diálogo e alívio de dívidas.",
+   "exp": "Liga memória histórica da escravidão, direitos humanos e a disputa sobre reparações a uma recomposição de influência britânica no Sul Global, via Commonwealth (56 membros). É um exemplo de política.",
+   "ctx": "Reino Unido admite pedir desculpas pelo tráfico negreiro para reforçar laços com a Commonwealth"
+  },
+  {
+   "id": "c30",
+   "t": "c",
+   "s": "Para formar governo em Israel, são necessários ao menos 61 das 120 cadeiras do Knesset; na eleição de 2026, a coalizão de Netanyahu ficou com 53 e a oposição só alcança maioria se contar com partidos árabes.",
+   "ans": "C",
+   "exp": "A oposição somou 67 cadeiras, 19 delas de Raam e Lista Conjunta; os partidos judeus opositores mais votados dizem rejeitar aliança com eles.",
+   "ctx": "Eleição em Israel termina sem maioria: oposição a Netanyahu depende de partidos árabes"
+  },
+  {
+   "id": "f31",
+   "t": "f",
+   "q": "Quantas cadeiras são necessárias para formar governo em Israel e qual o impasse em 2026?",
+   "a": "61 de 120. A coalizão de Netanyahu fez 53; a oposição (67) depende de 19 cadeiras de partidos árabes, que os maiores opositores rejeitam.",
+   "exp": "Define a orientação do governo israelense num cenário de guerra regional e de tensão com o Irã, o que afeta negociações, o conflito israelo-palestino e a posição de potências e do Brasil. A exclusão.",
+   "ctx": "Eleição em Israel termina sem maioria: oposição a Netanyahu depende de partidos árabes"
+  },
+  {
+   "id": "c31",
+   "t": "c",
+   "s": "Em 30/10/2026, o governo brasileiro anunciou a abertura dos mercados de Bangladesh, para material genético bovino e bubalino, e da Colômbia, para alimentos de animais de estimação, fruto de negociações do Ministério da Agricultura com o Itamaraty.",
+   "ans": "C",
+   "exp": "Com essas autorizações, o agro brasileiro chegou a 721 aberturas de mercado desde janeiro de 2023.",
+   "ctx": "Brasil abre mercados de Bangladesh e Colômbia para produtos agropecuários e chega a 721 aberturas desde 2023"
+  },
+  {
+   "id": "f32",
+   "t": "f",
+   "q": "O que são as 'aberturas de mercado' do agro brasileiro e quantas houve desde 2023?",
+   "a": "Autorizações de acesso a mercados externos obtidas por negociações sanitárias do Mapa com o Itamaraty; são 721 desde janeiro de 2023.",
+   "exp": "Mostra a diplomacia comercial e sanitária do Itamaraty trabalhando com o Ministério da Agricultura: acordos de requisitos sanitários são barreiras não tarifárias que decidem o acesso a mercados. Num.",
+   "ctx": "Brasil abre mercados de Bangladesh e Colômbia para produtos agropecuários e chega a 721 aberturas desde 2023"
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Qual é a leitura mais adequada da convocação da encarregada de negócios argentina pelo Itamaraty, em 29/10, diante do histórico recente da relação bilateral?",
+   "opts": [
+    "Protesto diplomático dentro de relações já rebaixadas desde a retirada dos embaixadores em julho",
+    "Rompimento formal das relações diplomáticas entre Brasil e Argentina",
+    "Retaliação comercial no âmbito do Mercosul, com suspensão da tarifa externa comum",
+    "Pedido de extradição de Flávio Bolsonaro com base em tratado do Mercosul"
+   ],
+   "ans": 0,
+   "exp": "A convocação é praxe para registrar desagrado; as relações já haviam sido rebaixadas em julho, sem ruptura formal."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "Sobre os efeitos iniciais do acordo Mercosul–UE e do esforço de abertura de mercados do agro, é correto afirmar que:",
+   "opts": [
+    "As exportações brasileiras com tarifa reduzida na UE cresceram 21% de maio a setembro, e o Mapa e o Itamaraty somam 721 aberturas de mercado desde 2023",
+    "O acordo Mercosul–UE entrou em vigor definitivo em maio de 2026, dispensando regras de origem",
+    "A abertura dos mercados de Bangladesh e da Colômbia eliminou tarifas de importação sobre a soja",
+    "Os dados do MDIC mostram queda nas exportações de etanol e alumínio para a UE"
+   ],
+   "ans": 0,
+   "exp": "MDIC: +21% entre maio e setembro (aplicação provisória desde 1/5); Mapa e Itamaraty chegaram a 721 aberturas desde 2023."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "Em 30–31/10, o Reino Unido admitiu pedir desculpas pelo tráfico negreiro e Israel apurou resultados sem maioria definida. Em comum, os dois casos:",
+   "opts": [
+    "Ilustram como política interna e memória histórica condicionam a política externa e as alianças (Commonwealth; partidos árabes e governo)",
+    "Resultaram em sanções do Conselho de Segurança da ONU",
+    "Foram decididos por votação na Assembleia Geral da ONU",
+    "Trataram de reparações financeiras já pagas pelos Estados"
+   ],
+   "ans": 0,
+   "exp": "Burnham rejeita reparações financeiras; em Israel, o impasse decorre da recusa de partidos opositores a governar com partidos árabes."
   }
  ],
  "kind": "deck",
@@ -446,14 +565,14 @@
   },
   {
    "t": "Vizinhos e Argentina",
-   "b": "Uruguai, México, Bolívia, Panamá e Paraguai saudaram Lula. A Argentina de Milei só \"tomou nota\" em 27/10, sem nota formal, e disse que o Mercosul não deve ser afetado.",
+   "b": "Uruguai, México, Bolívia, Panamá e Paraguai saudaram Lula. A Argentina de Milei só \"tomou nota\"; em 29/10 o Itamaraty convocou sua encarregada de negócios por ajudar a fuga de Flávio.",
    "l": [
     "Orsi, Sheinbaum, Rodrigo Paz",
-    "Mulino e Peña",
     "Milei: sem parabéns",
-    "Comércio segue normal"
+    "Convocação em 29/10",
+    "Embaixadores recolhidos desde julho"
    ],
-   "n": "27/10"
+   "n": "27–30/10"
   },
   {
    "t": "China e UE",
@@ -499,14 +618,14 @@
    "t": "Ucrânia: Abu Dhabi"
   },
   {
-   "b": "Mercosul–UE em aplicação provisória desde 1/5; China e Suíça ampliam acordo; Vietnã busca PTA com o Mercosul.",
+   "b": "Mercosul–UE em aplicação provisória desde 1/5: exportações beneficiadas +21% (MDIC). Mapa e Itamaraty chegam a 721 aberturas de mercado; China–Suíça ampliam acordo.",
    "l": [
-    "Exportações à UE +30% (mai–set)",
-    "China–Suíça: acesso amplo (30/10)",
-    "Vietnã–Mercosul: negociação",
-    "Habilitação de plantas pela China"
+    "Abacate +421%, mel +367%",
+    "Bangladesh e Colômbia abertos (30/10)",
+    "China–Suíça: acesso amplo",
+    "Vietnã–Mercosul: negociação"
    ],
-   "n": "22–30/10",
+   "n": "29–31/10",
    "t": "Comércio: UE, Suíça, China"
   },
   {
@@ -531,6 +650,6 @@
    "t": "Pegadinhas que caem"
   }
  ],
- "updatedAt": "2026-10-31",
+ "updatedAt": "2026-11-01",
  "week": "2026-W44"
 }

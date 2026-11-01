@@ -1,0 +1,96 @@
+{
+ "kind": "news",
+ "date": "2026-11-01",
+ "cards": [
+  {
+   "id": "2026-11-01-1",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.4",
+   "titulo": "Itamaraty convoca representante argentina por ajuda do governo Milei à fuga de Flávio Bolsonaro",
+   "resumo": "Em 29/10, o Itamaraty convocou a encarregada de negócios da Argentina em Brasília, Maria Emília Cortés, para explicar a participação do governo Milei na saída de Flávio Bolsonaro do país. Ele embarcou em Puerto Iguazu, com escolta da polícia aeroportuária argentina, rumo aos EUA, descumprindo ordem judicial de entregar os passaportes. A convocação é um instrumento diplomático de protesto e ocorre com as relações já rebaixadas: o Brasil retirou seu embaixador em Buenos Aires após ofensas de Milei a Lula, em julho, e o embaixador argentino também deixou Brasília.",
+   "porque": "Mostra um Estado usando o canal diplomático para registrar desagrado com ação de outro, tema clássico de relações bilaterais e de prática diplomática (convocação, rebaixamento de relações). Atinge a PEB para a América do Sul e a relação com a Argentina, parceira central do Mercosul, e se soma à tensão com os EUA, que facilitaram a viagem. Pode afetar a agenda do Mercosul e a cooperação na fronteira.",
+   "fonte": "Agência Brasil (com Reuters)",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/itamaraty-quer-que-diplomata-argentina-explique-ajuda-a-flavio-em-fuga",
+   "img": "https://imagens.ebc.com.br/WZ-vPC-ITFODfBD4sH3CHbNlzrk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/30/2026-10-30t175429z_1_lynxnpem9t1tp_rtroptp_4_brazil-election.jpg?itok=IyPb8bP6",
+   "imgCredit": "Foto: Agência Brasil / Reuters",
+   "curso": false,
+   "ce": {
+    "s": "A convocação de um representante diplomático para dar explicações é prática usual para um Estado registrar desagrado com ações de outro governo, e não equivale, por si só, ao rompimento de relações diplomáticas.",
+    "ans": "C",
+    "exp": "Convocar o encarregado de negócios é um gesto de protesto; o rompimento de relações é um ato distinto e mais grave. No caso, o Brasil havia rebaixado as relações com a Argentina ao retirar o embaixador em julho."
+   }
+  },
+  {
+   "id": "2026-11-01-2",
+   "materia": "Economia",
+   "edital": "13.8; 13.3",
+   "titulo": "Acordo Mercosul–UE: exportações brasileiras beneficiadas por tarifas menores crescem 21% em cinco meses",
+   "resumo": "O MDIC informou em 29/10 que, de maio a setembro, os primeiros cinco meses de aplicação provisória do acordo Mercosul–União Europeia, as vendas ao mercado europeu de produtos com tarifa reduzida ou zerada cresceram 21% sobre o mesmo período de 2025. Destacam-se abacate (+421%), mel (+367%), óleo de milho (+266%), alumínio em bruto (+107%) e etanol (+95%). As preferências valem desde 1º de maio. O governo orienta exportadores pelo Portal Siscomex para cumprir as regras de origem e aproveitar as cotas.",
+   "porque": "Mostra o efeito concreto de um acordo de livre comércio entre blocos, ligado à integração regional e à diversificação de parceiros num momento de tarifas americanas e protecionismo. Para a PEB, é argumento a favor da inserção via Mercosul. Para a prova, vale lembrar que a aplicação é provisória e que o ganho depende de regras de origem e de cotas.",
+   "fonte": "Agência Brasil (dados do MDIC)",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/acordo-mercosul-ue-eleva-exportacoes-brasileiras-em-21",
+   "img": "https://imagens.ebc.com.br/udD5nZ4qoZcdJQkxG7mMr7iDgXc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/09/91724c38-2279-47f5-91e4-9b4596b7d190_copy.jpg?itok=MX6NOuE-",
+   "imgCredit": "Foto: União Europeia/Mercosul (Agência Brasil)",
+   "curso": false,
+   "ce": {
+    "s": "Segundo o MDIC, de maio a setembro de 2026, as exportações brasileiras de produtos beneficiados por redução ou eliminação de tarifas no acordo Mercosul–UE cresceram 21% em relação ao mesmo período de 2025.",
+    "ans": "C",
+    "exp": "Os dados foram divulgados em 29/10; as preferências tarifárias entraram em aplicação provisória em 1º de maio de 2026."
+   }
+  },
+  {
+   "id": "2026-11-01-3",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.6",
+   "titulo": "Reino Unido admite pedir desculpas pelo tráfico negreiro para reforçar laços com a Commonwealth",
+   "resumo": "O primeiro-ministro britânico, Andy Burnham, escreveu no Guardian, em 31/10, que seu governo ponderará pedir desculpas formais, pela primeira vez, pelo papel do país no tráfico transatlântico de escravizados. A iniciativa antecede a reunião da Commonwealth em Antígua e Barbuda e busca aproximar Londres de países africanos e caribenhos. Burnham rejeita pagar reparações financeiras, mas propõe um diálogo estruturado e ajuda para alongar prazos e reduzir juros das dívidas de países vulneráveis, com apoio de Gordon Brown.",
+   "porque": "Liga memória histórica da escravidão, direitos humanos e a disputa sobre reparações a uma recomposição de influência britânica no Sul Global, via Commonwealth (56 membros). É um exemplo de política externa usando o passado e a dívida como instrumentos. Para o Brasil, maior país com população afrodescendente fora da África, o debate sobre reparações e a agenda de dívida do Sul Global (G20, ONU) são temas de interesse.",
+   "fonte": "Agência Brasil (com Reuters)",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/reino-unido-considera-pedir-desculpa-por-seu-papel-no-trafico-negreiro",
+   "img": "https://imagens.ebc.com.br/eVzc7lnJBcX698fsaS6NNqc3qhc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/31/2026-10-31t100609z_128435128_rc2mdoa7k8gw_rtrmadp_3_britain-slavery.jpg?itok=Uj0B4JiK",
+   "imgCredit": "Foto: Agência Brasil / Reuters",
+   "curso": false,
+   "ce": {
+    "s": "O primeiro-ministro britânico anunciou, em 31/10, que seu governo ponderará pedir desculpas pelo tráfico de escravizados, mas continuará rejeitando o pagamento de reparações financeiras.",
+    "ans": "C",
+    "exp": "Burnham defendeu um diálogo estruturado e o alívio de dívidas de países vulneráveis, sem aceitar reparações financeiras; a reunião da Commonwealth será em Antígua e Barbuda."
+   }
+  },
+  {
+   "id": "2026-11-01-4",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.10",
+   "titulo": "Eleição em Israel termina sem maioria: oposição a Netanyahu depende de partidos árabes",
+   "resumo": "A Comissão Eleitoral Central de Israel publicou em 30/10 os resultados definitivos do Knesset, de 120 cadeiras. O Likud, de Netanyahu, foi o mais votado (27 cadeiras), mas sua coalizão fez 53, oito a menos que as 61 necessárias. A oposição somou 67, dos quais 19 são de partidos árabes (Raam e Lista Conjunta), e os maiores partidos opositores, Yashar e B'Yachad, rejeitam governar com eles. O impasse mantém Netanyahu no cargo enquanto não houver acordo.",
+   "porque": "Define a orientação do governo israelense num cenário de guerra regional e de tensão com o Irã, o que afeta negociações, o conflito israelo-palestino e a posição de potências e do Brasil. A exclusão de partidos árabes da formação de governo toca o debate sobre cidadania e direitos da minoria palestina em Israel. O Brasil acompanha por sua política para o Oriente Médio e pelas votações na ONU.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/oposicao-em-israel-depende-dos-arabes-para-tirar-netanyahu-do-poder",
+   "img": "https://imagens.ebc.com.br/4i9Nf4MMrwUS5p0PqmA5ZhAPPjk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/eleicao_israel.jpg?itok=qcYI0TjB",
+   "imgCredit": "Foto: Agência Brasil / Reuters",
+   "curso": false,
+   "ce": {
+    "s": "Para formar governo em Israel, são necessários ao menos 61 das 120 cadeiras do Knesset; na eleição de 2026, a coalizão de Netanyahu ficou com 53 e a oposição só alcança maioria se contar com partidos árabes.",
+    "ans": "C",
+    "exp": "A oposição somou 67 cadeiras, 19 delas de Raam e Lista Conjunta; os partidos judeus opositores mais votados dizem rejeitar aliança com eles."
+   }
+  },
+  {
+   "id": "2026-11-01-5",
+   "materia": "Economia",
+   "edital": "13.8; 13.2",
+   "titulo": "Brasil abre mercados de Bangladesh e Colômbia para produtos agropecuários e chega a 721 aberturas desde 2023",
+   "resumo": "Mapa e Itamaraty anunciaram em 30/10 a conclusão de negociações sanitárias que liberam a entrada de material genético bovino e bubalino em Bangladesh e de alimentos para animais de companhia na Colômbia. Com isso, o agronegócio soma 721 aberturas de mercado desde janeiro de 2023. Bangladesh importou US$ 2,66 bilhões em produtos agropecuários brasileiros em 2025 e a Colômbia, mais de US$ 873 milhões. O governo trata as aberturas como estratégia de diversificar destinos das exportações.",
+   "porque": "Mostra a diplomacia comercial e sanitária do Itamaraty trabalhando com o Ministério da Agricultura: acordos de requisitos sanitários são barreiras não tarifárias que decidem o acesso a mercados. Num cenário de tarifas dos EUA, ampliar destinos reduz a dependência. Relaciona-se a comércio internacional, OMC (acordo SPS) e à inserção do agronegócio brasileiro.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/brasil-abre-mercados-de-bangladesh-e-colombia",
+   "img": "https://imagens.ebc.com.br/DUbywJNE44KVcDny8W00DS80dUs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/agenciabrasil260712_abr9887.jpg?itok=SgX4M0Oy",
+   "imgCredit": "Foto: Tânia Rêgo/Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "Em 30/10/2026, o governo brasileiro anunciou a abertura dos mercados de Bangladesh, para material genético bovino e bubalino, e da Colômbia, para alimentos de animais de estimação, fruto de negociações do Ministério da Agricultura com o Itamaraty.",
+    "ans": "C",
+    "exp": "Com essas autorizações, o agro brasileiro chegou a 721 aberturas de mercado desde janeiro de 2023."
+   }
+  }
+ ]
+}
