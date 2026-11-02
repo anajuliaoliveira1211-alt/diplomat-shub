@@ -1,0 +1,96 @@
+{
+ "kind": "news",
+ "date": "2026-11-02",
+ "cards": [
+  {
+   "id": "2026-11-02-1",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.4",
+   "titulo": "Eleições de meio de mandato nos EUA (3/11) podem tirar de Trump o controle do Congresso, com efeitos sobre o Brasil",
+   "resumo": "Os EUA votam em 3 de novembro para renovar os 435 deputados e 35 das 100 cadeiras do Senado, além de 36 governos estaduais. As pesquisas apontam vantagem democrata, sobretudo na Câmara, com a desaprovação de Trump em torno de 61% e a inflação pressionada pela guerra contra o Irã e pelas restrições em Ormuz. Uma Câmara democrata ampliaria a fiscalização do Executivo e dificultaria a agenda legislativa. Para o Brasil, o resultado pesa porque a oposição americana questiona supostas interferências de Trump no país e o dólar e os juros reagem a mudanças no equilíbrio de poder em Washington.",
+   "porque": "Mostra como a divisão de poderes nos EUA condiciona a política externa e econômica da maior potência, tema de Política Internacional e de Economia (câmbio, juros, tarifas). Responde às seis perguntas: o que (eleição legislativa), quem (republicanos, democratas, Trump), por quê (custo de vida, guerra no Irã), o que muda (controle do Congresso sobre tarifas e gastos), edital (poder dos EUA, relações bilaterais) e Brasil (câmbio, investigações sobre interferência). Para a prova, lembre que a Presidência não está em disputa e que o Congresso participa da política externa americana.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/eleicao-nos-estados-unidos-define-futuro-de-trump-nesta-terca-feira",
+   "img": "https://imagens.ebc.com.br/8JHotBWU4y4DlEhkLWAPcXT8sLw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/03/2026-01-03t191712z_1_lynxmpem020h8_rtroptp_4_eua-venezuela-congresso-democratas.jpg?itok=o_8e_31x",
+   "imgCredit": "Foto: Reuters (Agência Brasil)",
+   "curso": false,
+   "ce": {
+    "s": "Nas eleições de meio de mandato de 3/11/2026 nos EUA, estão em jogo todas as 435 cadeiras da Câmara dos Representantes e cerca de um terço do Senado, mas não a Presidência da República.",
+    "ans": "C",
+    "exp": "Os deputados têm mandato de dois anos e os senadores de seis, com renovação de 35 das 100 cadeiras; o resultado altera o equilíbrio no Congresso sem mudar o comando do Executivo."
+   }
+  },
+  {
+   "id": "2026-11-02-2",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.6",
+   "titulo": "Vieira e Rubio se encontram no G20 em Atlanta e combinam bilateral antes da cúpula de Miami",
+   "resumo": "O chanceler Mauro Vieira e o secretário de Estado Marco Rubio conversaram na noite de 30/10, na recepção da reunião de chanceleres do G20, em Atlanta, e acertaram um encontro bilateral antes da cúpula de 14 e 15 de dezembro, em Miami. O G20 é presidido pelos EUA em 2026, e a pauta inclui geopolítica, mercado de energia e cadeias de suprimentos. O contato é o primeiro depois da reeleição de Lula e da saída de Flávio Bolsonaro do Brasil, em meio a um clima delicado porque Trump evitou reconhecer a vitória de Lula. Vieira também se reuniu com os chanceleres da Índia, do Reino Unido e da Polônia.",
+   "porque": "É um caso de diplomacia multilateral usada para manter canais bilaterais abertos num momento de tensão entre Brasília e Washington. Liga o G20, foro do qual o Brasil participa, à política externa brasileira (pragmatismo com os EUA) e a temas econômicos (energia, cadeias de suprimentos). Quem: Vieira, Rubio, chanceleres de Índia, Reino Unido e Polônia. O que muda: abre-se espaço para negociar antes da cúpula. Para a prova, note que a presidência rotativa do G20 em 2026 é americana.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vieira-encontra-rubio-nos-eua-apos-vitoria-de-lula-e-fuga-de-flavio",
+   "img": "https://imagens.ebc.com.br/klEN_sG2uJkfDNnoPJaTEoDHV-w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/01/lula8581.jpg?itok=FTLtR9E_",
+   "imgCredit": "Foto: Lula Marques/Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "Em 2026, a presidência do G20 cabe aos EUA, que sediaram em Atlanta a reunião de chanceleres, na qual Mauro Vieira e Marco Rubio combinaram um encontro bilateral antes da cúpula de dezembro.",
+    "ans": "C",
+    "exp": "A cúpula está marcada para 14 e 15 de dezembro, em Miami; o encontro de ministros ocorreu em 30 e 31/10."
+   }
+  },
+  {
+   "id": "2026-11-02-3",
+   "materia": "Política Internacional",
+   "edital": "13.12; 13.8",
+   "titulo": "COP17 da Biodiversidade termina em Yerevan com o 'Caminho de Yerevan', mas deixa o financiamento em aberto",
+   "resumo": "A 17ª Conferência das Partes da Convenção sobre Diversidade Biológica (CDB) terminou em Yerevan, na Armênia, com consenso na madrugada de 31/10 sobre o documento 'Caminho de Yerevan'. O texto responde à primeira revisão do Marco Global de Kunming-Montreal, que considerou insuficientes os esforços para cumprir as 23 metas até 2030. Os países aceitaram ampliar voluntariamente a base de doadores, incluindo China, Arábia Saudita e Emirados, e rever os fundos GBFF e GEF; os compromissos anunciados passaram de US$ 1,8 bilhão. Ficaram em aberto o volume de recursos, o funcionamento do Fundo Cali e a reforma de subsídios nocivos. O Brasil teve participação estratégica nas decisões.",
+   "porque": "Ilustra a governança ambiental global e o conflito norte-sul sobre quem paga a proteção da biodiversidade, tema recorrente em Política Internacional (meio ambiente, organismos e convenções) e de interesse direto do Brasil, megadiverso e sede da COP30. Mostra que as metas de Kunming-Montreal estão atrasadas e que a ampliação da base de doadores sinaliza uma mudança na divisão de responsabilidades entre desenvolvidos e emergentes. Conecta Geografia, Direito internacional e Economia.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/brasil-contribui-para-avancos-das-acoes-de-protecao-da-biodiversidade",
+   "img": "https://imagens.ebc.com.br/v3EsSI55djUATa9ofAyD2qXLYhY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/31/_rbr6543.jpg?itok=plGYys8H",
+   "imgCredit": "Foto: Tânia Rêgo/Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "A COP17 da Convenção sobre Diversidade Biológica, em Yerevan, aprovou por consenso o 'Caminho de Yerevan', resolvendo todas as divergências sobre financiamento e a reforma de subsídios prejudiciais à biodiversidade.",
+    "ans": "E",
+    "exp": "O consenso existiu, mas o volume de financiamento, o funcionamento do Fundo Cali e a reforma de subsídios ficaram parcialmente em aberto; criou-se apenas um grupo de trabalho sobre subsídios."
+   }
+  },
+  {
+   "id": "2026-11-02-4",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.5",
+   "titulo": "Irã avisa que 'nova guerra pode ser mais longa' após Trump não descartar novos ataques a alvos nucleares",
+   "resumo": "Em 31/10, Trump não descartou atacar de novo o Irã, citando a montanha Kolang, perto de Natanz, suspeita de abrigar um complexo nuclear subterrâneo. O Irã respondeu em 1º/11 que uma nova guerra pode durar mais que a anterior, enquanto o líder supremo Mojtaba Khamenei, que sucedeu o pai em março, ameaçou resposta sem limites geográficos. A ofensiva de EUA e Israel de 28/2 matou Ali Khamenei; houve cessar-fogo em abril e protocolo de entendimento em 12/6, mas os ataques foram retomados e a região está estável desde setembro. Teerã nega buscar armas nucleares, e Netanyahu também fala em eliminar a ameaça iraniana.",
+   "porque": "Envolve não proliferação, uso de força, direito de legítima defesa e o papel do TNP e da AIEA, temas clássicos do edital. A tensão no Estreito de Ormuz afeta petróleo, inflação e cadeias de suprimentos, o que chega ao Brasil por combustíveis e câmbio. Atores: EUA, Israel, Irã. O que muda: risco de nova campanha militar depois das eleições americanas. Para o Brasil, que defende solução negociada e o multilateralismo, o episódio testa sua posição em foros como ONU e BRICS.",
+   "fonte": "g1",
+   "url": "https://g1.globo.com/mundo/noticia/2026/11/01/nova-guerra-pode-ser-mais-longa-alerta-ira-apos-novas-ameacas-de-trump.ghtml",
+   "img": "https://s2-g1.glbimg.com/8AnQVL35_bjnzdjPv76-5QC_9mk=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/D/QBTSkMRqq2A7jIC50daw/trump.jpg",
+   "imgCredit": "Foto: g1",
+   "curso": false,
+   "ce": {
+    "s": "Segundo o g1, o Irã nega buscar armas nucleares e defende seu direito ao uso civil da energia atômica, ao rebater as suspeitas dos EUA de que a montanha Kolang abrigue um complexo nuclear subterrâneo.",
+    "ans": "C",
+    "exp": "A defesa do uso civil da energia nuclear é direito reconhecido no TNP, desde que sob salvaguardas da AIEA; as suspeitas americanas vêm de serviços de inteligência."
+   }
+  },
+  {
+   "id": "2026-11-02-5",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.2",
+   "titulo": "Reeleição de Lula frustra a guinada à direita na América Latina e deve levar os EUA a reforçar a Doutrina Monroe nos aliados",
+   "resumo": "Segundo analistas ouvidos pelo g1, a vitória de Lula foi o primeiro revés eleitoral da direita na região desde a volta de Trump, em janeiro de 2025, depois de Colômbia, Peru, Costa Rica e Chile se juntarem a El Salvador e Argentina. Washington reivindica a Doutrina Monroe para 'proteger' o continente da China e, nesse período, apoiou candidatos, mobilizou forças no Caribe, capturou Maduro na Venezuela e lançou o 'Escudo das Américas', visto por Brasília como tentativa de cerco. Especialistas avaliam que os EUA devem concentrar esforços em Argentina, Chile, Paraguai e Peru e tentar contornar o Brasil, rico em minerais e terras raras.",
+   "porque": "Mostra a disputa de influência entre EUA e China na América Latina e o lugar do Brasil nela, tema central da política externa brasileira, do regionalismo e da ordem internacional. Atores: Trump, Lula, governos de direita da região. O que muda: possível ofensiva em países vizinhos e pressão sobre Mercosul e Unasul. Liga História (Doutrina Monroe, de 1823), Política Internacional e Economia (minerais críticos e terras raras).",
+   "fonte": "g1 (com analistas de Chatham House e Evidencity)",
+   "url": "https://g1.globo.com/mundo/noticia/2026/10/31/reeleicao-de-lula-frusta-planos-de-trump-que-deve-acelerar-pressao-sobre-a-america-latina.ghtml",
+   "img": "https://s2-g1.glbimg.com/5oHGL86z65Kk1HhWMkvCiqJ675I=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/41/26/14862641",
+   "imgCredit": "Foto: g1",
+   "curso": false,
+   "ce": {
+    "s": "A Doutrina Monroe, criada pelos EUA há cerca de 200 anos, foi retomada pelo governo Trump como justificativa para ampliar a influência de Washington na América Latina diante da China.",
+    "ans": "C",
+    "exp": "Formulada em 1823, resume a ideia de 'América para os americanos' e é hoje reivindicada para conter a presença chinesa."
+   }
+  }
+ ]
+}

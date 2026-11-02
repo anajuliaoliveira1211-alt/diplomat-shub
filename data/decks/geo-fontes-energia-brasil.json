@@ -4,7 +4,7 @@
  "assunto": "Fontes de energia no Brasil",
  "edital": "3.3",
  "notionUrl": "https://app.notion.com/p/40177560e5fa80cc9d8de6fa853df51f",
- "updatedAt": "2026-10-23",
+ "updatedAt": "2026-11-02",
  "items": [
   {
    "id": "f1",
@@ -241,6 +241,125 @@
    "s": "O PROINFA, criado no início dos anos 2000, buscou diversificar a matriz elétrica com eólica, PCH e biomassa.",
    "ans": "C",
    "exp": "Foi a base da diversificação que depois levou ao crescimento da eólica e da solar."
+  },
+  {
+   "id": "f13",
+   "t": "f",
+   "q": "Qual a diferença entre pós-sal e pré-sal?",
+   "a": "Pós-sal: campos acima da camada de sal, em águas menos profundas e tecnologia convencional (Campos, Espírito Santo). Pré-sal: reservas abaixo de espessa camada de sal, a mais de 5.000 m, na Bacia de Santos.",
+   "exp": "O pré-sal, anunciado em 2006, exigiu tecnologia inédita da Petrobras."
+  },
+  {
+   "id": "f14",
+   "t": "f",
+   "q": "Como os royalties do petróleo transformaram Maricá (RJ)?",
+   "a": "O município usa os royalties para transporte público gratuito e para a moeda social 'mumbuca', que só circula dentro dele.",
+   "exp": "Exemplo da mudança geográfica da riqueza do petróleo, que migrou para a Bacia de Santos."
+  },
+  {
+   "id": "f15",
+   "t": "f",
+   "q": "PROINFA x RenovaBio: qual o foco de cada um?",
+   "a": "PROINFA (Lei 10.438/2002): matriz elétrica, com compra garantida por 20 anos de energia de PCH, eólica e biomassa. RenovaBio (Lei 13.576/2017): biocombustíveis nos transportes, com metas de descarbonização e CBIOs.",
+   "exp": "PROINFA é eletricidade; RenovaBio é combustível. Ambos ligados a sustentabilidade, mas em matrizes diferentes."
+  },
+  {
+   "id": "f16",
+   "t": "f",
+   "q": "O que são os CBIOs?",
+   "a": "Créditos de Descarbonização do RenovaBio, emitidos por produtores certificados de biocombustíveis e comprados pelas distribuidoras para cumprir metas anuais.",
+   "exp": "Mecanismo de mercado ligado ao cumprimento do Acordo de Paris."
+  },
+  {
+   "id": "f17",
+   "t": "f",
+   "q": "Itaipu x Belo Monte: qual a diferença de reservatório?",
+   "a": "Itaipu tem grande lago e foi construída na ditadura. Belo Monte é a fio d'água: lago cerca de 3 vezes menor, mas geração menos constante.",
+   "exp": "Belo Monte foi a última grande hidrelétrica do país."
+  },
+  {
+   "id": "f18",
+   "t": "f",
+   "q": "Por que o biodiesel pode crescer em Mato Grosso, Goiás e Matopiba?",
+   "a": "Porque a produção não exige refinarias na região e acompanha a oferta de soja, principal matéria-prima.",
+   "exp": "A soja responde pela maior parte do biodiesel brasileiro."
+  },
+  {
+   "id": "m7",
+   "t": "m",
+   "q": "Sobre o pré-sal brasileiro, é correto afirmar:",
+   "opts": [
+    "Concentra-se principalmente na Bacia de Santos e exigiu tecnologia de exploração em águas ultraprofundas.",
+    "Corresponde aos campos acima da camada de sal, em águas rasas.",
+    "Foi a primeira área de exploração petrolífera do Brasil, ainda nos anos 1950.",
+    "Está localizado sobretudo na Bacia de Campos, e não na de Santos."
+   ],
+   "ans": 0,
+   "exp": "Os campos acima do sal são o pós-sal; o pré-sal foi descoberto em 2005/2006."
+  },
+  {
+   "id": "m8",
+   "t": "m",
+   "q": "O RenovaBio distingue-se do PROINFA porque:",
+   "opts": [
+    "atua na matriz de transportes, com metas de descarbonização e créditos CBIO.",
+    "garante contratos de longo prazo de compra de eletricidade.",
+    "foi criado em 2002 após o apagão.",
+    "incentiva exclusivamente pequenas centrais hidrelétricas."
+   ],
+   "ans": 0,
+   "exp": "As alternativas erradas descrevem o PROINFA."
+  },
+  {
+   "id": "m9",
+   "t": "m",
+   "q": "A usina de Belo Monte se caracteriza por:",
+   "opts": [
+    "operar a fio d'água, com reservatório bem menor que o de Itaipu.",
+    "ter sido construída durante a ditadura militar.",
+    "ser a maior usina nuclear do país.",
+    "ter reservatório maior que o de Itaipu."
+   ],
+   "ans": 0,
+   "exp": "Menor alagamento significa geração menos contínua."
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "O PROINFA e o RenovaBio são programas equivalentes, ambos voltados à matriz de transportes.",
+   "ans": "E",
+   "exp": "O PROINFA trata da matriz elétrica; o RenovaBio, dos biocombustíveis nos transportes.",
+   "trap": 6
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "O pré-sal localiza-se abaixo de uma espessa camada de sal, a mais de 5.000 metros de profundidade total, principalmente na Bacia de Santos.",
+   "ans": "C",
+   "exp": "Descoberto a partir de 2005/2006, exigiu avanços tecnológicos da Petrobras."
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "Belo Monte, por operar a fio d'água, tem reservatório maior que o de Itaipu.",
+   "ans": "E",
+   "exp": "Belo Monte tem lago cerca de 3 vezes menor, ao custo de geração menos contínua.",
+   "trap": 2
+  },
+  {
+   "id": "c14",
+   "t": "c",
+   "s": "As distribuidoras de combustíveis cumprem metas do RenovaBio comprando CBIOs de produtores certificados de biocombustíveis.",
+   "ans": "C",
+   "exp": "Os CBIOs são os créditos de descarbonização do programa."
+  },
+  {
+   "id": "c15",
+   "t": "c",
+   "s": "A produção de biodiesel só pode crescer onde houver refinarias de petróleo.",
+   "ans": "E",
+   "exp": "Não exige refinarias na região; depende da oferta de matéria-prima, sobretudo a soja.",
+   "trap": 1
   }
  ],
  "resumo": [
@@ -309,22 +428,23 @@
   },
   {
    "t": "Petróleo e pré-sal",
-   "b": "Tecnologia em águas profundas, desenvolvida pela Petrobras, deu autossuficiência nos anos 2000 e o pré-sal fez do petróleo um grande item de exportação.",
+   "b": "Pós-sal fica acima do sal; pré-sal, abaixo, a mais de 5.000 m na Bacia de Santos. Royalties enriqueceram Maricá.",
    "l": [
-    "Bacia de Santos",
-    "Royalties: Maricá (RJ)",
-    "Margem equatorial em debate"
+    "Petrobras domina águas profundas",
+    "Autossuficiência em meados dos anos 2000",
+    "Maricá: mumbuca e tarifa zero"
    ],
-   "n": "Autossuficiência: anos 2000"
+   "n": "Pré-sal: 2005/2006"
   },
   {
-   "t": "PROINFA e diversificação",
-   "b": "O PROINFA, de 2002, estimulou eólica, PCH e biomassa. O Plano Nacional de Energia 2030 reforça a diversificação das fontes.",
+   "t": "PROINFA e RenovaBio",
+   "b": "PROINFA (2002) incentivou eólica, PCH e biomassa na eletricidade. RenovaBio (2017) fixa metas de descarbonização para combustíveis.",
    "l": [
-    "Dependência de uma ou duas fontes é risco",
-    "Mudança climática afeta as hidrelétricas",
-    "Nuclear: pouca relevância"
-   ]
+    "PROINFA: compra garantida por 20 anos",
+    "RenovaBio: créditos CBIO",
+    "Plano Nacional de Energia 2030: diversificar"
+   ],
+   "n": "Elétrica x transportes"
   },
   {
    "k": "fim",

@@ -11,10 +11,11 @@
   "pi-sistema-financeiro",
   "pi-brasil-argentina",
   "pi-onu-operacoes-paz",
-  "pi-peb-1-vargas-jk"
+  "pi-peb-1-vargas-jk",
+  "hm-revolucao-industrial-inglesa"
  ],
  "kind": "sync",
- "lastRun": "2026-11-01",
+ "lastRun": "2026-11-02",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",
@@ -190,7 +191,7 @@
   },
   "40177560e5fa80cc9d8de6fa853df51f": {
    "deck": "geo-fontes-energia-brasil",
-   "edited": "2026-10-23T00:08:19.787Z"
+   "edited": "2026-10-29T13:37:26.691Z"
   },
   "40177560e5fa807fa672f902d738985a": {
    "deck": "pi-peb-5-dilma-lula3",

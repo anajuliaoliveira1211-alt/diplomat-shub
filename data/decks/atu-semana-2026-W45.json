@@ -1,0 +1,181 @@
+{
+ "kind": "deck",
+ "materia": "Atualidades",
+ "assunto": "Semana de 2 a 8/nov",
+ "edital": "13",
+ "week": "2026-W45",
+ "notionUrl": "",
+ "updatedAt": "2026-11-02",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Quem escolhe os EUA nas eleições de meio de mandato de 3/11/2026?",
+   "a": "Todas as 435 cadeiras da Câmara, 35 das 100 do Senado e governadores de 36 estados; a Presidência não está em jogo.",
+   "exp": "Pesquisas apontam vantagem democrata, sobretudo na Câmara."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "O que Vieira e Rubio combinaram em Atlanta (30/10)?",
+   "a": "Uma reunião bilateral antes da cúpula do G20 de 14 e 15/12, em Miami; os EUA presidem o G20 em 2026.",
+   "exp": "Primeiro contato após a reeleição de Lula."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "O que é o 'Caminho de Yerevan'?",
+   "a": "Documento final da COP17 da Convenção sobre Diversidade Biológica, aprovado por consenso em 31/10, que responde à revisão do Marco de Kunming-Montreal.",
+   "exp": "Financiamento e subsídios nocivos ficaram em aberto."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "Por que a montanha Kolang está no centro da tensão EUA–Irã?",
+   "a": "Fica perto de Natanz e, segundo a inteligência americana, abrigaria um complexo nuclear subterrâneo; o Irã nega.",
+   "exp": "Trump não descartou novos ataques após as midterms."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "O que a reeleição de Lula muda para a estratégia dos EUA na região?",
+   "a": "Frustra a guinada à direita e deve levar Washington, que reivindica a Doutrina Monroe, a concentrar esforços em aliados como Argentina, Chile, Paraguai e Peru.",
+   "exp": "Brasil tem minerais e terras raras de interesse americano."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "Nas eleições de meio de mandato de 3/11/2026 nos EUA, estão em jogo todas as 435 cadeiras da Câmara dos Representantes e cerca de um terço do Senado, mas não a Presidência da República.",
+   "ans": "C",
+   "exp": "Os deputados têm mandato de dois anos e os senadores de seis, com renovação de 35 das 100 cadeiras; o resultado altera o equilíbrio no Congresso sem mudar o comando do Executivo.",
+   "ctx": "Eleições de meio de mandato nos EUA (3/11) podem tirar de Trump o controle do Congresso, com efeitos sobre o Brasil"
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "Em 2026, a presidência do G20 cabe aos EUA, que sediaram em Atlanta a reunião de chanceleres, na qual Mauro Vieira e Marco Rubio combinaram um encontro bilateral antes da cúpula de dezembro.",
+   "ans": "C",
+   "exp": "A cúpula está marcada para 14 e 15 de dezembro, em Miami; o encontro de ministros ocorreu em 30 e 31/10.",
+   "ctx": "Vieira e Rubio se encontram no G20 em Atlanta e combinam bilateral antes da cúpula de Miami"
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "A COP17 da Convenção sobre Diversidade Biológica, em Yerevan, aprovou por consenso o 'Caminho de Yerevan', resolvendo todas as divergências sobre financiamento e a reforma de subsídios prejudiciais à biodiversidade.",
+   "ans": "E",
+   "exp": "O consenso existiu, mas o volume de financiamento, o funcionamento do Fundo Cali e a reforma de subsídios ficaram parcialmente em aberto; criou-se apenas um grupo de trabalho sobre subsídios.",
+   "ctx": "COP17 da Biodiversidade termina em Yerevan com o 'Caminho de Yerevan', mas deixa o financiamento em aberto"
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "Segundo o g1, o Irã nega buscar armas nucleares e defende seu direito ao uso civil da energia atômica, ao rebater as suspeitas dos EUA de que a montanha Kolang abrigue um complexo nuclear subterrâneo.",
+   "ans": "C",
+   "exp": "A defesa do uso civil da energia nuclear é direito reconhecido no TNP, desde que sob salvaguardas da AIEA; as suspeitas americanas vêm de serviços de inteligência.",
+   "ctx": "Irã avisa que 'nova guerra pode ser mais longa' após Trump não descartar novos ataques a alvos nucleares"
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "A Doutrina Monroe, criada pelos EUA há cerca de 200 anos, foi retomada pelo governo Trump como justificativa para ampliar a influência de Washington na América Latina diante da China.",
+   "ans": "C",
+   "exp": "Formulada em 1823, resume a ideia de 'América para os americanos' e é hoje reivindicada para conter a presença chinesa.",
+   "ctx": "Reeleição de Lula frustra a guinada à direita na América Latina e deve levar os EUA a reforçar a Doutrina Monroe nos aliados"
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Midterms nos EUA, G20 em Atlanta, COP17 e Irã: a semana começa"
+  },
+  {
+   "t": "Midterms nos EUA",
+   "b": "Em 3/11 renovam-se a Câmara, 35 cadeiras do Senado e 36 governos. Democratas lideram, com Trump em baixa.",
+   "l": [
+    "Presidência não está em jogo",
+    "Custo de vida e guerra no Irã",
+    "Efeitos sobre dólar e juros"
+   ],
+   "n": "3/11"
+  },
+  {
+   "t": "Vieira e Rubio no G20",
+   "b": "Chanceleres se encontram em Atlanta e combinam bilateral antes da cúpula de Miami (14–15/12).",
+   "l": [
+    "EUA presidem o G20 em 2026",
+    "Pauta: energia e cadeias",
+    "Clima delicado com Trump"
+   ],
+   "n": "Miami, 14–15/12"
+  },
+  {
+   "t": "COP17 da Biodiversidade",
+   "b": "Yerevan aprova o 'Caminho de Yerevan' por consenso, mas financiamento e subsídios seguem em aberto.",
+   "l": [
+    "Revisão do Marco de Kunming-Montreal",
+    "Doadores ampliados: China, Arábia, Emirados",
+    "US$ 1,8 bi anunciados"
+   ],
+   "n": "23 metas até 2030"
+  },
+  {
+   "t": "Tensão EUA–Irã",
+   "b": "Trump não descarta atacar a montanha Kolang; Teerã diz que nova guerra pode ser mais longa.",
+   "l": [
+    "Ofensiva de 28/2 matou Ali Khamenei",
+    "Cessar-fogo em abril",
+    "Ormuz pressiona petróleo"
+   ],
+   "n": "Mojtaba Khamenei"
+  },
+  {
+   "t": "Lula e a América Latina",
+   "b": "A reeleição de Lula freia a guinada à direita e testa a Doutrina Monroe reivindicada por Trump.",
+   "l": [
+    "Escudo das Américas",
+    "Disputa EUA–China",
+    "Terras raras brasileiras"
+   ],
+   "n": "Doutrina Monroe, 1823"
+  },
+  {
+   "t": "Semana anterior em retrospecto",
+   "b": "Lula reeleito em 25/10; Itamaraty convoca representante argentina após a saída de Flávio Bolsonaro.",
+   "l": [
+    "Mercosul–UE: exportações +21%",
+    "ONU contra o embargo a Cuba",
+    "Lagarde deixa o BCE"
+   ],
+   "n": "Ver deck W44"
+  },
+  {
+   "t": "Foros e organismos",
+   "b": "G20, CDB, ONU e AIEA aparecem juntos nesta semana: cada foro tem composição e papel diferentes.",
+   "l": [
+    "G20: grandes economias",
+    "CDB: biodiversidade",
+    "AIEA: salvaguardas nucleares"
+   ]
+  },
+  {
+   "t": "Como estudar",
+   "b": "Ligue cada fato a um item do edital: poder dos EUA, PEB, meio ambiente e não proliferação.",
+   "l": [
+    "Quem, por quê, o que muda",
+    "Brasil envolvido?",
+    "Pegadinha: o que é consenso"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Midterms não elegem o presidente",
+    "G20 2026 é presidido pelos EUA",
+    "COP17 aprovou por consenso, mas deixou lacunas",
+    "Irã nega armas; TNP admite uso civil",
+    "Doutrina Monroe é de 1823"
+   ]
+  }
+ ]
+}
