@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W45",
  "notionUrl": "",
- "updatedAt": "2026-11-02",
+ "updatedAt": "2026-11-03",
  "items": [
   {
    "id": "f1",
@@ -81,6 +81,36 @@
    "ans": "C",
    "exp": "Formulada em 1823, resume a ideia de 'América para os americanos' e é hoje reivindicada para conter a presença chinesa.",
    "ctx": "Reeleição de Lula frustra a guinada à direita na América Latina e deve levar os EUA a reforçar a Doutrina Monroe nos aliados"
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "A Minurso foi criada em 1991 para organizar um referendo no Saara Ocidental, mas seu mandato terminou em 31/10/2026 sem que a consulta tenha sido realizada, após veto russo a uma proposta dos EUA no Conselho de Segurança.",
+   "ans": "C",
+   "exp": "A Resolução 690 (1991) criou a missão para um referendo entre independência e integração a Marrocos; ele nunca ocorreu e a renovação fracassou no Conselho.",
+   "ctx": "Minurso chega ao fim: veto russo derruba renovação e a ONU encerra a missão no Saara Ocidental"
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "O El Niño é um fenômeno climático natural caracterizado pelo aquecimento das águas superficiais do Pacífico equatorial central e oriental, que altera ventos, pressão e chuvas em escala mundial.",
+   "ans": "C",
+   "exp": "Ocorre a cada dois a sete anos e redistribui as chuvas: seca em partes da América do Sul e chuvas intensas em outras, como no Chile em 2026.",
+   "ctx": "'Super El Niño': Bolívia decreta emergência nacional e ONU alerta para o evento mais intenso em 40 anos"
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "O que aconteceu com a Minurso em 31/10/2026 e por quê?",
+   "a": "Seu mandato terminou: a proposta de renovação dos EUA foi vetada pela Rússia e a contraproposta russa não teve nove votos.",
+   "exp": "Criada em 1991 (Res. 690) para um referendo no Saara Ocidental que nunca ocorreu; a ONU segue mediando via Staffan de Mistura."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "O que é o El Niño e por que a Bolívia decretou emergência em 2026?",
+   "a": "Aquecimento das águas do Pacífico equatorial que altera chuvas e ventos; causou secas e inundações, com 78 mil famílias afetadas na Bolívia.",
+   "exp": "A ONU alertou para o evento mais intenso em 40 anos."
   }
  ],
  "resumo": [
@@ -150,11 +180,12 @@
   },
   {
    "t": "Foros e organismos",
-   "b": "G20, CDB, ONU e AIEA aparecem juntos nesta semana: cada foro tem composição e papel diferentes.",
+   "b": "G20, CDB, ONU e AIEA aparecem juntos nesta semana; a Minurso mostra o veto no Conselho de Segurança.",
    "l": [
     "G20: grandes economias",
     "CDB: biodiversidade",
-    "AIEA: salvaguardas nucleares"
+    "AIEA: salvaguardas nucleares",
+    "Minurso: fim por veto russo"
    ]
   },
   {
