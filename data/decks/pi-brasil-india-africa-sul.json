@@ -1,0 +1,335 @@
+{
+ "kind": "deck",
+ "materia": "Política Internacional",
+ "assunto": "Relações Brasil–Índia e Brasil–África do Sul",
+ "edital": "10.1",
+ "notionUrl": "https://app.notion.com/p/40f77560e5fa80a6a13fd2f4c305464c",
+ "updatedAt": "2026-11-06",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Que reunião da UNCTAD, em 1968, aproximou Brasil e Índia?",
+   "a": "A UNCTAD II, realizada em Nova Délhi.",
+   "exp": "Os dois países lideraram a agenda do desenvolvimento pelo comércio."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "Por que Brasil e Índia se aproximaram nos anos 1960–70 em temas nucleares?",
+   "a": "Resistiam ao Tratado de Não Proliferação (TNP), visto como discriminatório.",
+   "exp": "Eram críticos do 'congelamento do poder mundial' e não assinaram o TNP na época."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "O que ocorreu em 1974 e 1998 nas relações nucleares Brasil–Índia?",
+   "a": "Testes nucleares indianos; o Brasil esfriou as relações em 1974 e, em 1998, reagiu com o reforço da posição não proliferadora (adesão ao TNP no mesmo ano).",
+   "exp": "O Brasil aderiu ao TNP em 1998, no governo FHC."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "Quais áreas marcaram a cooperação Brasil–Índia nos anos 1980?",
+   "a": "Etanol (energia) e agricultura, com acordo EMBRAPA–centro de pesquisa agrícola indiano.",
+   "exp": "Cooperação Sul-Sul técnica."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "Em que fóruns Brasil e Índia atuam juntos?",
+   "a": "IBAS, G4, BRICS, BASIC e G20.",
+   "exp": "G4: Brasil, Índia, Alemanha e Japão, pela reforma do Conselho de Segurança."
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Que satélite brasileiro foi lançado pela Índia em 2021?",
+   "a": "O Amazônia-1.",
+   "exp": "Marco da cooperação espacial bilateral."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "Como o Brasil se relacionou com o apartheid sul-africano?",
+   "a": "Mantinha comércio com a África do Sul, mas aderiu a embargos (como o de armas, 1985).",
+   "exp": "Contradição da política africana brasileira nos anos 1970–80."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "Quando a África do Sul aderiu ao TNP e qual o simbolismo?",
+   "a": "1991, no processo de fim do apartheid.",
+   "exp": "A África do Sul desmantelou seu programa nuclear antes de aderir."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Que líderes sul-africanos e brasileiros marcam a reaproximação dos anos 1990?",
+   "a": "Mandela visitou o Brasil (1991 e 1998) e FHC visitou a África do Sul (1996).",
+   "exp": "Fim do apartheid abriu caminho à parceria."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "O que é o IBAS?",
+   "a": "Fórum de diálogo entre Índia, Brasil e África do Sul, criado em 2003.",
+   "exp": "Reúne três democracias multiétnicas do Sul Global."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "O que é a SACU e qual acordo o Mercosul tem com ela?",
+   "a": "União Aduaneira da África Austral; acordo de comércio preferencial Mercosul–SACU (assinado em 2008).",
+   "exp": "África do Sul integra a SACU."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Quando começou a Parceria Estratégica Brasil–África do Sul?",
+   "a": "Em 2010, com foco em multilateralismo e desenvolvimento.",
+   "exp": "Acordo de cooperação em defesa já existia desde 2003."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "A UNCTAD II (1968), que aproximou Brasil e Índia, ocorreu em:",
+   "opts": [
+    "Nova Délhi",
+    "Genebra",
+    "Nova York",
+    "Brasília"
+   ],
+   "ans": 0,
+   "exp": "Foi sediada na capital indiana."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "O Brasil aderiu ao TNP em:",
+   "opts": [
+    "1998",
+    "1968",
+    "1974",
+    "2003"
+   ],
+   "ans": 0,
+   "exp": "Adesão no governo FHC, no mesmo ano dos novos testes nucleares indianos."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "O G4 é composto por:",
+   "opts": [
+    "Brasil, Índia, Alemanha e Japão",
+    "Brasil, Índia, China e Rússia",
+    "Brasil, Índia, África do Sul e China",
+    "Brasil, Alemanha, França e Japão"
+   ],
+   "ans": 0,
+   "exp": "Busca assentos permanentes no Conselho de Segurança."
+  },
+  {
+   "id": "m4",
+   "t": "m",
+   "q": "O IBAS reúne:",
+   "opts": [
+    "Índia, Brasil e África do Sul",
+    "Índia, Brasil e Argentina",
+    "Indonésia, Brasil e Arábia Saudita",
+    "Índia, Bolívia e Angola"
+   ],
+   "ans": 0,
+   "exp": "Fórum criado em 2003."
+  },
+  {
+   "id": "m5",
+   "t": "m",
+   "q": "O satélite brasileiro lançado pela Índia em 2021 foi o:",
+   "opts": [
+    "Amazônia-1",
+    "CBERS-4A",
+    "SGDC-1",
+    "Lattes"
+   ],
+   "ans": 0,
+   "exp": "Amazônia-1, primeiro satélite de observação totalmente projetado no Brasil."
+  },
+  {
+   "id": "m6",
+   "t": "m",
+   "q": "A África do Sul aderiu ao TNP em:",
+   "opts": [
+    "1991",
+    "1975",
+    "2003",
+    "1968"
+   ],
+   "ans": 0,
+   "exp": "No processo de transição pós-apartheid."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "Brasil e Índia compartilharam, nos anos 1960–70, a crítica ao TNP por considerá-lo discriminatório.",
+   "ans": "C",
+   "exp": "Ambos resistiam ao regime de não proliferação."
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "O Brasil aderiu ao TNP em 1998, mesmo ano dos novos testes nucleares da Índia.",
+   "ans": "C",
+   "exp": "Adesão no governo FHC."
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "O G4 reúne Brasil, Índia, África do Sul e Japão na defesa da reforma do Conselho de Segurança.",
+   "ans": "E",
+   "exp": "O G4 é Brasil, Índia, Alemanha e Japão.",
+   "trap": 3
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "A cooperação Brasil–Índia nos anos 1980 incluiu etanol e agricultura.",
+   "ans": "C",
+   "exp": "Acordos como o da EMBRAPA."
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "O Brasil nunca manteve comércio com a África do Sul durante o apartheid.",
+   "ans": "E",
+   "exp": "Havia comércio, o que gerava contradição com a política africana do Brasil.",
+   "trap": 1
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "Mandela visitou o Brasil em 1991 e 1998, e FHC visitou a África do Sul em 1996.",
+   "ans": "C",
+   "exp": "Marcos da reaproximação."
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "A Parceria Estratégica Brasil–África do Sul foi estabelecida em 2010, com ênfase em multilateralismo e desenvolvimento.",
+   "ans": "C",
+   "exp": "Acordo de defesa já fora assinado em 2003."
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "O acordo Mercosul–SACU foi assinado em 2008 e prevê preferências comerciais com a União Aduaneira da África Austral.",
+   "ans": "C",
+   "exp": "Primeiro acordo comercial do Mercosul com bloco africano."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "O IBAS é um mecanismo de coordenação entre Índia, Brasil e África do Sul, criado em 2003.",
+   "ans": "C",
+   "exp": "Reúne democracias do Sul Global."
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "Os testes nucleares indianos de 1974 levaram o Brasil a ampliar a cooperação nuclear com a Índia.",
+   "ans": "E",
+   "exp": "Levaram ao esfriamento das relações e à denúncia do acordo.",
+   "trap": 2
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Brasil–Índia e Brasil–África do Sul: a cooperação Sul-Sul"
+  },
+  {
+   "t": "Brasil–Índia: origens",
+   "b": "Relações desde 1947–48, limitadas por distância e baixa complementaridade; ambos eram protecionistas.",
+   "l": [
+    "Contatos iniciais: 1947–48",
+    "Pautas econômicas similares",
+    "Cana-de-açúcar em comum"
+   ]
+  },
+  {
+   "t": "Anos 1960–70",
+   "b": "Indira Gandhi busca resistência conjunta ao TNP; UNCTAD II em Nova Délhi (1968) une os dois no tema do desenvolvimento.",
+   "l": [
+    "Crítica ao TNP",
+    "UNCTAD II: 1968",
+    "Acordo nuclear: 1970"
+   ],
+   "n": "Teste indiano de 1974 esfria as relações"
+  },
+  {
+   "t": "Anos 1980–90",
+   "b": "Cooperação em etanol e agricultura; reformas econômicas indianas e visitas de alto nível aproximam os países.",
+   "l": [
+    "Acordo EMBRAPA",
+    "Rao ao Brasil: 1992",
+    "FHC à Índia: 1996"
+   ]
+  },
+  {
+   "t": "Testes de 1998",
+   "b": "Novos testes nucleares indianos levam o Brasil a reforçar sua posição não proliferadora e a aderir ao TNP.",
+   "l": [
+    "Adesão ao TNP: 1998",
+    "Denúncia do acordo",
+    "Perfil não proliferador"
+   ]
+  },
+  {
+   "t": "Fóruns conjuntos",
+   "b": "Comissão mista criada em 2012; atuação em IBAS, G4, BRICS, BASIC e G20.",
+   "l": [
+    "IBAS: 2003",
+    "G4: reforma do CSNU",
+    "BASIC: clima"
+   ]
+  },
+  {
+   "t": "Aprofundamento recente",
+   "b": "Visita de Bolsonaro (2020) e acordos de investimentos; Amazônia-1 lançado pela Índia (2021).",
+   "l": [
+    "Acordo de Facilitação de Investimentos",
+    "Cooperação espacial",
+    "G20 em Nova Délhi: 2023"
+   ]
+  },
+  {
+   "t": "Brasil–África do Sul",
+   "b": "Consulado no Cabo (1918), legação em Pretória (1947) e comércio sob o apartheid, em contradição com a política africana.",
+   "l": [
+    "Embargo de armas: 1985",
+    "Apoio sul-africano à UNITA",
+    "Aproximação com a África"
+   ]
+  },
+  {
+   "t": "Pós-apartheid",
+   "b": "A África do Sul adere ao TNP (1991); Mandela visita o Brasil; surgem acordo de defesa, IBAS e Mercosul–SACU.",
+   "l": [
+    "Mandela: 1991 e 1998",
+    "Defesa: 2003",
+    "Parceria Estratégica: 2010"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "G4 = Brasil, Índia, Alemanha, Japão (não África do Sul)",
+    "TNP: Brasil 1998; África do Sul 1991",
+    "Testes indianos esfriaram, não aprofundaram, a cooperação nuclear",
+    "IBAS (2003) ≠ BRICS",
+    "Brasil teve comércio com o apartheid"
+   ]
+  }
+ ]
+}

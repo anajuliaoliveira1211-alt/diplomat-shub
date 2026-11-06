@@ -1,0 +1,338 @@
+{
+ "kind": "deck",
+ "materia": "Política Internacional",
+ "assunto": "Relações Brasil–China",
+ "edital": "10.1",
+ "notionUrl": "https://app.notion.com/p/40e77560e5fa8015ae51f6b525c19628",
+ "updatedAt": "2026-11-06",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Quando o Brasil reconheceu oficialmente a República Popular da China e rompeu com Taiwan?",
+   "a": "1974, no governo Geisel.",
+   "exp": "Dentro do Pragmatismo Responsável: prioridade ao comércio e à diversificação de parceiros."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "Que acordo de 1988 marcou a cooperação tecnológica Brasil–China?",
+   "a": "O programa CBERS (satélites sino-brasileiros de recursos terrestres), assinado no governo Sarney.",
+   "exp": "Os lançamentos ocorreram entre 1999 e 2019; é exemplo clássico de cooperação Sul-Sul de alta tecnologia."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "O que foi a 'faixa de convergência' citada na visita de Figueiredo a Pequim (1984)?",
+   "a": "A área de interesses comuns: soberania, não intervenção, solução pacífica de controvérsias e autonomia terceiro-mundista.",
+   "exp": "Primeira visita presidencial brasileira à China; abriu caminho à cooperação dos anos 1980."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "Em que ano Brasil e China criaram a Parceria Estratégica e quando ela virou 'Global'?",
+   "a": "1993 (Parceria Estratégica) e 2012 (Parceria Estratégica Global).",
+   "exp": "O Brasil foi o primeiro país do mundo a firmar parceria estratégica com a China (1993) e o primeiro da América Latina a elevá-la a global (2012)."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "O que é a COSBAN?",
+   "a": "Comissão Sino-Brasileira de Alto Nível de Concertação e Cooperação, criada em 2004 e presidida pelos vice-presidentes.",
+   "exp": "É o principal mecanismo bilateral de coordenação, com subcomissões setoriais."
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "O que é o Diálogo Estratégico Global (DEG)?",
+   "a": "Mecanismo de 2012 entre os chanceleres dos dois países.",
+   "exp": "Complementa a COSBAN, que reúne vice-presidentes."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "Como a entrada da China na OMC (2001) afetou o comércio com o Brasil?",
+   "a": "Impulsionou o comércio bilateral, que cresceu de forma exponencial.",
+   "exp": "O padrão se manteve: Brasil exporta soja, minério de ferro e petróleo (cerca de 80% da pauta) e importa manufaturados."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "Qual a posição do Brasil sobre Taiwan?",
+   "a": "Adere ao princípio de 'Uma Só China', reconhecendo Taiwan como parte do território chinês.",
+   "exp": "Reiterado na Declaração Conjunta de 2024 sobre a Comunidade de Futuro Compartilhado."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "O que foi o 'caso dos 9 chineses' (1964)?",
+   "a": "Prisão de nove chineses sob suspeita de espionagem comunista após o golpe de 1964.",
+   "exp": "Deteriorou as relações com a China no início do regime militar."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "Qual foi o resultado da Declaração Conjunta de 2024 entre Brasil e China?",
+   "a": "Elevou as relações à 'Comunidade de Futuro Compartilhado por um Mundo mais Justo e um Planeta mais Sustentável' e previu sinergia entre a Iniciativa Cinturão e Rota e planos brasileiros (PAC, NIB, Transformação Ecológica).",
+   "exp": "O Brasil não aderiu formalmente à Cinturão e Rota; buscou 'sinergias' entre ela e suas políticas."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "Quem substituiu Taiwan na ONU em 1971 e qual foi o voto do Brasil?",
+   "a": "A República Popular da China; o Brasil votou contra.",
+   "exp": "Resolução 2758 da Assembleia Geral. O Brasil de Médici ainda mantinha o alinhamento anticomunista."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Para o Brasil, qual a principal vulnerabilidade na relação comercial com a China?",
+   "a": "Dependência de poucas commodities de preços voláteis (soja, minério, petróleo).",
+   "exp": "Há superávit com a China, mas com reprimarização da pauta exportadora."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Qual governo brasileiro reconheceu a República Popular da China em 1974?",
+   "opts": [
+    "Geisel",
+    "Médici",
+    "Figueiredo",
+    "Sarney"
+   ],
+   "ans": 0,
+   "exp": "O reconhecimento ocorreu no governo Geisel, no Pragmatismo Responsável e Ecumênico."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "O CBERS foi assinado em 1988 durante o governo de:",
+   "opts": [
+    "Sarney",
+    "Figueiredo",
+    "Collor",
+    "Itamar Franco"
+   ],
+   "ans": 0,
+   "exp": "Sarney visitou a China em 1988 e assinou o projeto de satélites."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "A COSBAN, criada em 2004, reúne:",
+   "opts": [
+    "Os vice-presidentes dos dois países",
+    "Os chanceleres dos dois países",
+    "Os presidentes dos bancos centrais",
+    "Os ministros de Defesa"
+   ],
+   "ans": 0,
+   "exp": "O DEG (2012) é que reúne os chanceleres."
+  },
+  {
+   "id": "m4",
+   "t": "m",
+   "q": "Que presidente chinês visitou o Brasil em 1993, ano da Parceria Estratégica?",
+   "opts": [
+    "Jiang Zemin",
+    "Deng Xiaoping",
+    "Hu Jintao",
+    "Xi Jinping"
+   ],
+   "ans": 0,
+   "exp": "A visita de Jiang Zemin consolidou a Parceria Estratégica."
+  },
+  {
+   "id": "m5",
+   "t": "m",
+   "q": "Qual destas é característica do comércio Brasil–China no século XXI?",
+   "opts": [
+    "Cerca de 80% das exportações brasileiras concentradas em soja, minério de ferro e petróleo",
+    "Predomínio de manufaturados brasileiros na pauta exportadora",
+    "Déficit comercial crônico do Brasil com a China",
+    "Comércio bilateral estagnado após a entrada da China na OMC"
+   ],
+   "ans": 0,
+   "exp": "A pauta é primário-exportadora e o Brasil tem superávit."
+  },
+  {
+   "id": "m6",
+   "t": "m",
+   "q": "A teoria dos 'Três Mundos' associada a Deng Xiaoping colocava a China:",
+   "opts": [
+    "No terceiro mundo, em aproximação com Brasil, Índia e África",
+    "Entre as superpotências nucleares",
+    "Como parte do bloco soviético",
+    "Como país não alinhado neutro sem agenda de desenvolvimento"
+   ],
+   "ans": 0,
+   "exp": "A China se via como país em desenvolvimento e buscou parceiros do Sul."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "O Brasil reconheceu a República Popular da China em 1974, no governo Geisel.",
+   "ans": "C",
+   "exp": "Correto: rompeu com Taiwan no Pragmatismo Responsável."
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "Em 1971, ao ser aprovada a entrada da República Popular da China na ONU, o Brasil votou a favor.",
+   "ans": "E",
+   "exp": "O Brasil votou contra, ainda sob o governo Médici.",
+   "trap": 3
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "A Parceria Estratégica Global Brasil–China, de 2012, foi a primeira do Brasil com a China, pois a relação anterior era apenas comercial.",
+   "ans": "E",
+   "exp": "A Parceria Estratégica data de 1993; em 2012 foi elevada a Global.",
+   "trap": 5
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "A COSBAN e o DEG são mecanismos bilaterais de diálogo, o primeiro entre vice-presidentes e o segundo entre chanceleres.",
+   "ans": "C",
+   "exp": "COSBAN (2004) e DEG (2012) têm esses níveis.",
+   "trap": 6
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "O Brasil aderiu formalmente à Iniciativa Cinturão e Rota na Declaração Conjunta de 2024.",
+   "ans": "E",
+   "exp": "A declaração prevê sinergia entre a Iniciativa e os planos brasileiros, sem adesão formal.",
+   "trap": 5
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "A visita de Figueiredo a Pequim (1984) foi marcada pelo discurso de convergência em soberania, não intervenção e solução pacífica de controvérsias.",
+   "ans": "C",
+   "exp": "Primeira visita presidencial brasileira à China."
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "A entrada da China na OMC, em 2001, reduziu a participação de commodities nas exportações brasileiras para o país.",
+   "ans": "E",
+   "exp": "Ocorreu o oposto: a pauta ficou ainda mais concentrada em commodities.",
+   "trap": 2
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "O Brasil mantém superávit comercial com a China, mas com vulnerabilidade pela dependência de poucas commodities de preços voláteis.",
+   "ans": "C",
+   "exp": "Característica estrutural da relação."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "O projeto CBERS foi assinado por Sarney em 1988 para desenvolver conjuntamente satélites de recursos terrestres.",
+   "ans": "C",
+   "exp": "Cooperação Sul-Sul de alta tecnologia, com lançamentos entre 1999 e 2019."
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "Na Declaração de 2024, o Brasil reiterou o princípio de 'Uma Só China', reconhecendo Taiwan como parte do território chinês.",
+   "ans": "C",
+   "exp": "Posição mantida desde 1974."
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Brasil–China: de Taiwan à parceria estratégica global"
+  },
+  {
+   "t": "Primeiros contatos",
+   "b": "Consulado em Cantão (1843), imigração a partir de 1859 e tratado de amizade, comércio e navegação em fins do século XIX.",
+   "l": [
+    "Consulado em Cantão: 1843",
+    "Imigração chinesa: 1859",
+    "Consulado em Xangai: 1883"
+   ]
+  },
+  {
+   "t": "Guerra Fria e Taiwan",
+   "b": "Após 1949, o Brasil de Dutra manteve relações com Taiwan; só em 1974 reconheceu a República Popular.",
+   "l": [
+    "Embaixada em Taipei: 1952",
+    "Caso dos 9 chineses: 1964",
+    "Voto contra Pequim na ONU: 1971"
+   ],
+   "n": "1974, Geisel: reconhecimento da RPC"
+  },
+  {
+   "t": "Deng e o Sul Global",
+   "b": "As Quatro Modernizações e a teoria dos Três Mundos aproximaram a China do Brasil, visto como parceiro do terceiro mundo.",
+   "l": [
+    "Socialismo de mercado",
+    "Quatro Modernizações",
+    "China no terceiro mundo"
+   ]
+  },
+  {
+   "t": "Anos 1980: tecnologia",
+   "b": "Figueiredo visita Pequim (1984) e Sarney assina o CBERS (1988), satélites desenvolvidos em conjunto.",
+   "l": [
+    "Faixa de convergência",
+    "Consulados em Xangai e São Paulo",
+    "Lançamentos CBERS 1999–2019"
+   ]
+  },
+  {
+   "t": "Parceria Estratégica",
+   "b": "Em 1993 nasce a Parceria Estratégica, elevada a Global em 2012; o Brasil foi pioneiro nos dois casos.",
+   "l": [
+    "Visita de Jiang Zemin: 1993",
+    "Global: 2012",
+    "Reconhecimento de economia de mercado: 2004"
+   ]
+  },
+  {
+   "t": "Comércio no século XXI",
+   "b": "A entrada da China na OMC (2001) multiplicou o comércio; o Brasil exporta commodities e importa manufaturados.",
+   "l": [
+    "~80% da pauta: soja, minério, petróleo",
+    "Superávit brasileiro",
+    "Segundo destino de investimentos em infraestrutura"
+   ],
+   "n": "Risco: dependência de commodities voláteis"
+  },
+  {
+   "t": "Mecanismos de diálogo",
+   "b": "A COSBAN (2004) reúne vice-presidentes; o DEG (2012), os chanceleres.",
+   "l": [
+    "COSBAN: 2004",
+    "DEG: 2012",
+    "Cooperação multilateral: BRICS, G20"
+   ]
+  },
+  {
+   "t": "Declaração de 2024",
+   "b": "Eleva o vínculo a Comunidade de Futuro Compartilhado, com sinergia entre a Cinturão e Rota e PAC, NIB e Transformação Ecológica.",
+   "l": [
+    "Uma Só China",
+    "Apoio ao G20 brasileiro",
+    "Ano Cultural Brasil–China em 2026"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Reconhecimento da RPC: 1974 (Geisel), não 1971",
+    "Em 1971 o Brasil votou contra a RPC na ONU",
+    "Parceria Estratégica: 1993; Global: 2012",
+    "COSBAN = vice-presidentes; DEG = chanceleres",
+    "Cinturão e Rota: sinergia, não adesão formal"
+   ]
+  }
+ ]
+}

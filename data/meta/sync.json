@@ -16,7 +16,7 @@
   "hb-america-portuguesa"
  ],
  "kind": "sync",
- "lastRun": "2026-11-03",
+ "lastRun": "2026-11-06",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",
@@ -201,6 +201,14 @@
   "40177560e5fa8069b6f4f65019672154": {
    "deck": "pi-brasil-argentina",
    "edited": "2026-10-22T23:50:00.689Z"
+  },
+  "40e77560e5fa8015ae51f6b525c19628": {
+   "deck": "pi-brasil-china",
+   "edited": "2026-11-05T16:37:05.463Z"
+  },
+  "40f77560e5fa80a6a13fd2f4c305464c": {
+   "deck": "pi-brasil-india-africa-sul",
+   "edited": "2026-11-05T17:48:00.655Z"
   }
  }
 }

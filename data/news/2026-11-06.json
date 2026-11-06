@@ -1,0 +1,196 @@
+{
+ "kind": "news",
+ "date": "2026-11-06",
+ "cards": [
+  {
+   "id": "2026-11-06-pj76201600",
+   "pj_guid": "76201600",
+   "podcast": "Petit Journal · BP 1173 · 33 min",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.9; 2",
+   "titulo": "Petit Journal: crise bancária e queda de Peña no Paraguai, juiz boliviano, alarmes de bomba na Europa e Rubio",
+   "resumo": "Episódio de 05/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Paraguai: banco digital em crise",
+     "b": "Um banco digital com milhões de clientes entrou em resolução decretada pelo Banco Central. Segundo o episódio, houve empréstimos a ligados aos controladores e balanço que não cobria os passivos. Cerca de 3 milhões de correntistas ficaram sem acesso ao dinheiro."
+    },
+    {
+     "t": "Fundo garantidor e efeitos no Brasil",
+     "b": "O fundo de garantia de depósitos cobriria a maior parte dos correntistas, até um teto de pouco mais de 200 mil reais. Para o Brasil, os apresentadores veem impacto limitado, salvo para quem tem dinheiro ou negócios no Paraguai. Também havia recursos da previdência paraguaia e de Itaipu no banco."
+    },
+    {
+     "t": "Queda do presidente Santiago Peña",
+     "b": "O presidente renunciou em meio ao escândalo, já que fora sócio da controladora do banco. O Congresso abriu processo de impeachment mesmo assim, o que evitaria o cargo vitalício de senador e suas imunidades. O vice, Pedro Alliana, deve assumir."
+    },
+    {
+     "t": "Racha no Partido Colorado",
+     "b": "Para os apresentadores, o isolamento de Peña vinha antes do banco, com o ex-presidente Horacio Cartes o afastando. Quando o partido e o presidente do Congresso o abandonaram, a queda ficou inevitável."
+    },
+    {
+     "t": "Bolívia: presidente da Corte Suprema foragido",
+     "b": "Contra o presidente do Tribunal Supremo de Justiça foi expedida ordem de prisão por tráfico e associação criminosa, e a Interpol emitiu alerta. Ele deixou o país acusando perseguição política. O episódio liga a investigação a uma apuração americana sobre crime organizado na região."
+    },
+    {
+     "t": "Alarmes de bomba em voos na Europa",
+     "b": "Ao menos 27 voos comerciais foram afetados em rotas de vários países europeus, com desvios e pousos de emergência. Autoridades evitaram apontar culpados, mas o padrão lembra ataques híbridos atribuídos à Rússia: baixo custo, impacto psicológico e abaixo do limiar de resposta militar da Otan."
+    },
+    {
+     "t": "Rubio, Cuba e o pós-Trump",
+     "b": "Os apresentadores comentam que Marco Rubio calcularia deixar o governo, em parte por temer investigações do novo Congresso sobre ataques a barcos no Caribe. Ele voltou a anunciar sanções a entidades ligadas ao regime cubano. J. D. Vance também se descola de Trump para 2028."
+    }
+   ],
+   "porque": "Mostra como crises financeiras viram crises institucionais (Paraguai, parceiro do Mercosul e de Itaipu), como o crime organizado e a ofensiva dos EUA reconfiguram a América do Sul e como a guerra híbrida russa pressiona a Europa. Para o Brasil: possíveis efeitos sobre brasileiros no Paraguai, sobre Itaipu e sobre a agenda regional de segurança (edital: Mercosul, PEB e segurança internacional).",
+   "ce": {
+    "s": "Em novembro de 2026, o presidente do Paraguai, Santiago Peña, renunciou em meio à crise de um banco digital, e o vice-presidente deve assumir.",
+    "ans": "C",
+    "exp": "A renúncia ocorreu em 5/11/2026, ligada ao colapso do banco; o vice assume o cargo."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/a-crise-no-paraguai-bp-1173--76201600",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-06-pj76191602",
+   "pj_guid": "76191602",
+   "podcast": "Petit Journal · BP 1172 · 33 min",
+   "materia": "Política Internacional",
+   "edital": "6; 13.1",
+   "titulo": "Petit Journal: onda azul nas midterms, derrota de Trump e governadores democratas",
+   "resumo": "Episódio de 05/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Senado e Câmara mudam de mãos",
+     "b": "Segundo o episódio, os democratas ultrapassaram a maioria no Senado, com 54 cadeiras contra 44 e duas indefinidas, e já somavam cerca de 240 deputados, bem acima dos 218 necessários. Hakeem Jeffries deve presidir a Câmara."
+    },
+    {
+     "t": "Por que Trump perdeu",
+     "b": "Os apresentadores apontam o custo de vida como fator central, citando pesquisa em que cerca de 9 em cada 10 eleitores o consideraram importante. Eles culpam as tarifas e a guerra com o Irã, que fechou o estreito de Ormuz e encareceu combustíveis."
+    },
+    {
+     "t": "Vance se descola e republicanos pressionam",
+     "b": "O vice-presidente J. D. Vance publicou um balanço do tipo 'eu avisei', defendendo fim da guerra, foco na inflação e revisão da relação com Israel. Republicanos pedem um partido menos refém de Trump."
+    },
+    {
+     "t": "Gestos imediatos de Trump",
+     "b": "Logo após a derrota, Trump falou em cortar ajuda militar a Israel e em acordo com o Canadá, o que os apresentadores leem como recuo diante da irritação com tarifas e guerra."
+    },
+    {
+     "t": "Governadores e estados-chave",
+     "b": "Dos 36 governos em disputa, 22 foram para democratas, com cinco viradas, entre elas o Texas, que não elegia democrata para o governo desde 1990. A Geórgia terá a primeira governadora negra do país."
+    },
+    {
+     "t": "Pato manco e sucessão",
+     "b": "Para os apresentadores, Trump entra em fase de 'pato manco', com menos poder de projetar força externa. Vance e Marco Rubio já se posicionam para 2028, e a Casa Branca chegou a postar que 'Trump continua sendo seu presidente'."
+    }
+   ],
+   "porque": "As midterms redesenham o equilíbrio de poder em Washington e, com isso, a margem de Trump para tarifas, guerra e política externa. Para o Brasil, o resultado afeta a negociação tarifária, a relação com a China e a cúpula do G20 em Miami (edital: EUA e política externa brasileira).",
+   "ce": {
+    "s": "Nas eleições de meio de mandato de 2026, a Presidência dos EUA estava em disputa, e o resultado definirá se Trump pode concorrer a um novo mandato.",
+    "ans": "E",
+    "exp": "As midterms renovam o Congresso, governos estaduais e parte do Senado; a Presidência não está em jogo. Trump já cumpre o segundo mandato e não pode ser reeleito.",
+    "trap": 5
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/onda-azul-nos-eua-bp-1172--76191602",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-06-1",
+   "materia": "Política Internacional",
+   "edital": "13.1; 10.1; 7",
+   "titulo": "Rússia propõe cúpula com EUA e China sobre a Ucrânia, sem Kiev e sem a UE, à margem da Apec em Shenzhen",
+   "resumo": "Enquanto Trump tenta reativar as negociações de paz, Moscou articula uma reunião entre Rússia, EUA e China à margem da cúpula da Apec, em 18 e 19/11, em Shenzhen, sem Ucrânia e União Europeia, segundo o Wall Street Journal citado pela DW. Antes, o Kremlin confirmou nova rodada trilateral técnica em Abu Dhabi (10 e 11/11) com Ucrânia e EUA. Putin condiciona o avanço a concessões territoriais de Kiev e veria o encontro como uma possível 'nova Yalta'. Pequim, por sua vez, avalia seus interesses estratégicos e o impacto para a Europa.",
+   "porque": "Revela uma disputa sobre quem decide a ordem pós-guerra: grandes potências negociando sem os países diretamente envolvidos, o que desafia o multilateralismo e o princípio da integridade territorial. Liga-se a conflitos, ordem internacional e China (edital 13 e 10.1). O Brasil não é parte, mas defende a solução negociada e pode ser afetado por sanções, energia e cadeias de alimentos e fertilizantes.",
+   "fonte": "DW Brasil",
+   "url": "https://www.dw.com/pt-br/o-que-a-china-espera-de-cúpula-com-trump-e-putin-sobre-a-ucrânia/a-79855250",
+   "img": "https://static.dw.com/image/78582192_6.jpg",
+   "imgCredit": "Foto: DW / Sputnik via Reuters",
+   "curso": false,
+   "ce": {
+    "s": "A proposta de Moscou de uma cúpula à margem da Apec, em Shenzhen, reuniria Rússia, EUA e China com participação da Ucrânia e da União Europeia.",
+    "ans": "E",
+    "exp": "A proposta, segundo o WSJ, exclui Ucrânia e União Europeia."
+   }
+  },
+  {
+   "id": "2026-11-06-2",
+   "materia": "Política Internacional",
+   "edital": "6; 2; 10.1",
+   "titulo": "Vitória democrata nas midterms não deve aliviar a pressão de Trump sobre o Brasil, dizem analistas",
+   "resumo": "Com os democratas à frente no Senado (54 a 44) e na Câmara (237 a 139 até agora), Trump enfrentará mais obstáculos internos a partir de 3/1/2027. Mas analistas ouvidos pela BBC News Brasil dizem que isso não muda a postura em relação ao Brasil: as tarifas ficam, a pressão para o país se afastar da China (parceira comercial número 1 desde 2009) continua, e a classificação de CV e PCC como terroristas, que abre brecha para incursões militares dos EUA, também. O Congresso tem pouco poder sobre a política comercial e externa.",
+   "porque": "Mostra que o equilíbrio de poderes nos EUA tem limites na política externa e comercial, que ficam com o Executivo. Para o Brasil, significa seguir negociando tarifas, China e segurança com Washington, e não esperar alívio automático. Liga-se à PEB, às relações Brasil–EUA e Brasil–China e ao comércio (edital 2, 6 e 10.1).",
+   "fonte": "BBC News Brasil",
+   "url": "https://www.bbc.com/portuguese/articles/cm78p04n78zno",
+   "img": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/43d6/live/5ca66210-d913-11f1-a81d-35e942472442.jpg",
+   "imgCredit": "Foto: Reuters / BBC News Brasil",
+   "curso": false,
+   "ce": {
+    "s": "Segundo analistas, a vitória democrata nas midterms tende a suspender as tarifas impostas por Trump ao Brasil, pois o Congresso controla a política comercial externa.",
+    "ans": "E",
+    "exp": "Analistas dizem que o Congresso tem pouca margem sobre a política comercial de Trump e que as tarifas seguem.",
+    "trap": 5
+   }
+  },
+  {
+   "id": "2026-11-06-3",
+   "materia": "Economia",
+   "edital": "13.8; 2",
+   "titulo": "Doença de Newcastle em Santa Catarina leva 37 países a restringir compras de carne de aves do Brasil",
+   "resumo": "Entre 18/10 e 3/11, quatro focos da doença de Newcastle foram confirmados em granjas comerciais de perus no Oeste de Santa Catarina, a segunda vez em pouco mais de dois anos, após quase duas décadas sem registros. O Ministério da Agricultura declarou emergência zoossanitária por 60 dias em quatro municípios, e 37 países restringiram compras do Brasil, segundo a DW. Os focos foram detectados por vigilância ativa, em aves não vacinadas e sem sintomas. As notificações globais da doença bateram recorde em 2025.",
+   "porque": "Barreiras sanitárias são instrumento de política comercial: mesmo regionalizadas, restrições de importadores afetam o exportador, e o tema é regulado na OMC (acordo sobre medidas sanitárias e fitossanitárias). O Brasil é grande exportador de proteína animal, então o caso pressiona a diplomacia comercial para obter regionalização e reabertura (edital 13.8 e comércio exterior).",
+   "fonte": "DW Brasil",
+   "url": "https://www.dw.com/pt-br/por-que-a-doença-de-newcastle-voltou-a-preocupar-a-avicultura-no-brasil-e-no-mundo/a-79867131",
+   "img": "https://static.dw.com/image/79866471_6.jpg",
+   "imgCredit": "Foto: Cidasc / DW",
+   "curso": false,
+   "ce": {
+    "s": "Os quatro focos de Newcastle de 2026 em Santa Catarina ocorreram em granjas de suínos, o que levou 37 países a restringir importações brasileiras.",
+    "ans": "E",
+    "exp": "A doença atinge aves: os focos foram em granjas de perus. O número de países com restrições (37) está correto.",
+    "trap": 4
+   }
+  },
+  {
+   "id": "2026-11-06-4",
+   "materia": "Política Internacional",
+   "edital": "13.4; 13.2; 13.1",
+   "titulo": "COP31 começa em 9/11 em Antália: Brasil levará ao evento seu modelo de saúde e clima e Lula confirma presença",
+   "resumo": "A COP31 será realizada de 9 a 20/11 em Antália, na Turquia, que detém a presidência formal, enquanto a Austrália conduz as negociações. O ministro Alexandre Padilha apresentará o modelo brasileiro de adaptação do SUS (AdaptaSUS, R$ 9,8 bilhões até 2035) e o Plano de Ação em Saúde de Belém, lançado na COP30 e já endossado por 40 países. Lula participa da conferência em viagem que termina em 15/11, com compromissos nas Filipinas. Segundo análises, a transição para longe dos combustíveis fósseis, que não avançou em Belém, deve voltar à mesa.",
+   "porque": "Mostra o Brasil usando a presidência anterior (COP30) para manter liderança em adaptação e financiamento climático, tema central da governança global e do meio ambiente no edital. A COP31 testa se as decisões adiadas em Belém avançam, com impacto sobre a posição brasileira como produtor de petróleo e potência florestal.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/modelo-do-sus-de-resposta-mudancas-climaticas-sera-levado-cop31",
+   "img": "https://imagens.ebc.com.br/KEBaQWkpcDzcaYoGGAem-qm6iv0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/21/_mg_2547.jpg?itok=uBx6vKj7",
+   "imgCredit": "Foto: Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "A COP31 será sediada na Austrália, que também detém a presidência formal da conferência.",
+    "ans": "E",
+    "exp": "A COP31 ocorre em Antália, na Turquia, que tem a presidência formal; a Austrália conduz as negociações.",
+    "trap": 3
+   }
+  },
+  {
+   "id": "2026-11-06-5",
+   "materia": "Política Internacional",
+   "edital": "13.6; 10.1",
+   "titulo": "Hong Kong: ativista Joshua Wong é condenado a mais 10 anos por 'conspirar com forças estrangeiras'",
+   "resumo": "Em 5/11, um tribunal de Hong Kong condenou Joshua Wong, líder da Revolução dos Guarda-Chuvas (2014), a mais dez anos de prisão por conspirar com forças estrangeiras para colocar em risco a segurança nacional, com base na lei imposta por Pequim. Ele seria libertado em janeiro após cumprir quatro anos e oito meses por subversão; agora a soltura é prevista para fins de 2036. A acusação cita o trabalho de Wong em projeto que permitiria ao presidente dos EUA impor sanções a Hong Kong.",
+   "porque": "Mostra o enfraquecimento do modelo 'um país, dois sistemas' e liga direitos humanos, soberania chinesa e sanções americanas, temas de governança global. O Brasil não é parte, mas seu discurso de não intervenção e a parceria estratégica com a China condicionam a resposta (edital 13.6 e 10.1).",
+   "fonte": "DW Brasil",
+   "url": "https://www.dw.com/pt-br/ativista-pró-democracia-de-hong-kong-condenado-a-mais-10-anos-de-prisão/a-79863270",
+   "img": "https://static.dw.com/image/79859897_6.jpg",
+   "imgCredit": "Foto: Olivier Douliery / AFP via DW",
+   "curso": false,
+   "ce": {
+    "s": "A condenação de Joshua Wong em novembro de 2026 teve como base a lei de segurança nacional que Pequim impôs a Hong Kong.",
+    "ans": "C",
+    "exp": "Wong foi condenado por 'conspirar com forças estrangeiras' sob essa lei, com libertação prevista para o fim de 2036."
+   }
+  }
+ ]
+}

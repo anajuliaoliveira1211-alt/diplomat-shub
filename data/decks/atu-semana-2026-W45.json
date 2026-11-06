@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W45",
  "notionUrl": "",
- "updatedAt": "2026-11-03",
+ "updatedAt": "2026-11-06",
  "items": [
   {
    "id": "f1",
@@ -111,90 +111,195 @@
    "q": "O que é o El Niño e por que a Bolívia decretou emergência em 2026?",
    "a": "Aquecimento das águas do Pacífico equatorial que altera chuvas e ventos; causou secas e inundações, com 78 mil famílias afetadas na Bolívia.",
    "exp": "A ONU alertou para o evento mais intenso em 40 anos."
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "Em novembro de 2026, o presidente do Paraguai, Santiago Peña, renunciou em meio à crise de um banco digital, e o vice-presidente deve assumir.",
+   "ans": "C",
+   "exp": "A renúncia ocorreu em 5/11/2026, ligada ao colapso do banco; o vice assume o cargo.",
+   "ctx": "Petit Journal: crise bancária e queda de Peña no Paraguai, juiz boliviano, alarmes de bomba na Europa e Rubio"
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "Nas eleições de meio de mandato de 2026, a Presidência dos EUA estava em disputa, e o resultado definirá se Trump pode concorrer a um novo mandato.",
+   "ans": "E",
+   "exp": "As midterms renovam o Congresso, governos estaduais e parte do Senado; a Presidência não está em jogo. Trump já cumpre o segundo mandato e não pode ser reeleito.",
+   "ctx": "Petit Journal: onda azul nas midterms, derrota de Trump e governadores democratas",
+   "trap": 5
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "A proposta de Moscou de uma cúpula à margem da Apec, em Shenzhen, reuniria Rússia, EUA e China com participação da Ucrânia e da União Europeia.",
+   "ans": "E",
+   "exp": "A proposta, segundo o WSJ, exclui Ucrânia e União Europeia.",
+   "ctx": "Rússia propõe cúpula com EUA e China sobre a Ucrânia, sem Kiev e sem a UE, à margem da Apec em Shenzhen"
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "Segundo analistas, a vitória democrata nas midterms tende a suspender as tarifas impostas por Trump ao Brasil, pois o Congresso controla a política comercial externa.",
+   "ans": "E",
+   "exp": "Analistas dizem que o Congresso tem pouca margem sobre a política comercial de Trump e que as tarifas seguem.",
+   "ctx": "Vitória democrata nas midterms não deve aliviar a pressão de Trump sobre o Brasil, dizem analistas",
+   "trap": 5
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "Os quatro focos de Newcastle de 2026 em Santa Catarina ocorreram em granjas de suínos, o que levou 37 países a restringir importações brasileiras.",
+   "ans": "E",
+   "exp": "A doença atinge aves: os focos foram em granjas de perus. O número de países com restrições (37) está correto.",
+   "ctx": "Doença de Newcastle em Santa Catarina leva 37 países a restringir compras de carne de aves do Brasil",
+   "trap": 4
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "A COP31 será sediada na Austrália, que também detém a presidência formal da conferência.",
+   "ans": "E",
+   "exp": "A COP31 ocorre em Antália, na Turquia, que tem a presidência formal; a Austrália conduz as negociações.",
+   "ctx": "COP31 começa em 9/11 em Antália: Brasil levará ao evento seu modelo de saúde e clima e Lula confirma presença",
+   "trap": 3
+  },
+  {
+   "id": "c14",
+   "t": "c",
+   "s": "A condenação de Joshua Wong em novembro de 2026 teve como base a lei de segurança nacional que Pequim impôs a Hong Kong.",
+   "ans": "C",
+   "exp": "Wong foi condenado por 'conspirar com forças estrangeiras' sob essa lei, com libertação prevista para o fim de 2036.",
+   "ctx": "Hong Kong: ativista Joshua Wong é condenado a mais 10 anos por 'conspirar com forças estrangeiras'"
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Quem renunciou no Paraguai em 5/11/2026 e por que?",
+   "a": "O presidente Santiago Peña, após o colapso de um banco digital ligado a seus ex-sócios; o vice Pedro Alliana assume.",
+   "exp": "Crise bancária virou crise institucional; Paraguai é parceiro do Mercosul e de Itaipu."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "O que as midterms de 2026 mudaram nos EUA?",
+   "a": "Democratas passaram a controlar Senado e Câmara a partir de 3/1/2027, com Trump sem maioria no Congresso.",
+   "exp": "A Presidência não estava em disputa; Trump segue no cargo até 2029."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "Que cúpula a Rússia propõe à margem da Apec em Shenzhen?",
+   "a": "Reunião tripartite Rússia–EUA–China, sem Ucrânia e UE (18–19/11).",
+   "exp": "Putin a veria como possível 'nova Yalta'; paralelamente haverá rodada técnica em Abu Dhabi (10–11/11)."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Por que a vitória democrata não alivia a pressão dos EUA sobre o Brasil?",
+   "a": "Tarifas, pressão contra a China e classificação de CV e PCC como terroristas dependem do Executivo, que o Congresso controla pouco.",
+   "exp": "Segundo analistas ouvidos pela BBC News Brasil."
+  },
+  {
+   "id": "f13",
+   "t": "f",
+   "q": "Qual o impacto da doença de Newcastle em SC para o comércio exterior?",
+   "a": "Quatro focos em perus (18/10 a 3/11) e 37 países restringindo compras; emergência de 60 dias.",
+   "exp": "Barreiras sanitárias são tema da OMC (acordo SPS)."
+  },
+  {
+   "id": "f14",
+   "t": "f",
+   "q": "Quem preside formalmente a COP31 e quem conduz as negociações?",
+   "a": "Turquia (sede em Antália, 9–20/11) tem a presidência formal; a Austrália conduz as negociações.",
+   "exp": "O Brasil leva o modelo de saúde e clima (AdaptaSUS) e o Plano de Ação em Saúde de Belém."
+  },
+  {
+   "id": "f15",
+   "t": "f",
+   "q": "Por que Joshua Wong foi condenado em 5/11/2026?",
+   "a": "Por conspirar com forças estrangeiras contra a segurança nacional, sob a lei imposta por Pequim a Hong Kong; soltura prevista para 2036.",
+   "exp": "Caso emblemático do enfraquecimento do 'um país, dois sistemas'."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Midterms nos EUA, G20 em Atlanta, COP17 e Irã: a semana começa"
+   "b": "Midterms, COP31, Ucrânia e Paraguai: a semana de 2 a 8/nov"
   },
   {
    "t": "Midterms nos EUA",
-   "b": "Em 3/11 renovam-se a Câmara, 35 cadeiras do Senado e 36 governos. Democratas lideram, com Trump em baixa.",
+   "b": "Democratas retomam Senado e Câmara; Trump perde margem interna, mas segue com tarifas e política externa.",
    "l": [
-    "Presidência não está em jogo",
-    "Custo de vida e guerra no Irã",
-    "Efeitos sobre dólar e juros"
+    "Senado: 54 a 44 até agora",
+    "Texas elege governador democrata",
+    "Presidência não estava em jogo"
    ],
-   "n": "3/11"
+   "n": "Posse do novo Congresso: 3/1/2027"
   },
   {
-   "t": "Vieira e Rubio no G20",
-   "b": "Chanceleres se encontram em Atlanta e combinam bilateral antes da cúpula de Miami (14–15/12).",
+   "t": "Brasil–EUA após as urnas",
+   "b": "Analistas veem tarifas, pressão sobre a China e rótulo de terroristas a CV e PCC mantidos.",
    "l": [
-    "EUA presidem o G20 em 2026",
-    "Pauta: energia e cadeias",
-    "Clima delicado com Trump"
-   ],
-   "n": "Miami, 14–15/12"
-  },
-  {
-   "t": "COP17 da Biodiversidade",
-   "b": "Yerevan aprova o 'Caminho de Yerevan' por consenso, mas financiamento e subsídios seguem em aberto.",
-   "l": [
-    "Revisão do Marco de Kunming-Montreal",
-    "Doadores ampliados: China, Arábia, Emirados",
-    "US$ 1,8 bi anunciados"
-   ],
-   "n": "23 metas até 2030"
-  },
-  {
-   "t": "Tensão EUA–Irã",
-   "b": "Trump não descarta atacar a montanha Kolang; Teerã diz que nova guerra pode ser mais longa.",
-   "l": [
-    "Ofensiva de 28/2 matou Ali Khamenei",
-    "Cessar-fogo em abril",
-    "Ormuz pressiona petróleo"
-   ],
-   "n": "Mojtaba Khamenei"
-  },
-  {
-   "t": "Lula e a América Latina",
-   "b": "A reeleição de Lula freia a guinada à direita e testa a Doutrina Monroe reivindicada por Trump.",
-   "l": [
-    "Escudo das Américas",
-    "Disputa EUA–China",
-    "Terras raras brasileiras"
-   ],
-   "n": "Doutrina Monroe, 1823"
-  },
-  {
-   "t": "Semana anterior em retrospecto",
-   "b": "Lula reeleito em 25/10; Itamaraty convoca representante argentina após a saída de Flávio Bolsonaro.",
-   "l": [
-    "Mercosul–UE: exportações +21%",
-    "ONU contra o embargo a Cuba",
-    "Lagarde deixa o BCE"
-   ],
-   "n": "Ver deck W44"
-  },
-  {
-   "t": "Foros e organismos",
-   "b": "G20, CDB, ONU e AIEA aparecem juntos nesta semana; a Minurso mostra o veto no Conselho de Segurança.",
-   "l": [
-    "G20: grandes economias",
-    "CDB: biodiversidade",
-    "AIEA: salvaguardas nucleares",
-    "Minurso: fim por veto russo"
+    "Congresso pouco influi no comércio",
+    "China: parceira nº 1 desde 2009",
+    "G20 de Miami: 14–15/12"
    ]
   },
   {
-   "t": "Como estudar",
-   "b": "Ligue cada fato a um item do edital: poder dos EUA, PEB, meio ambiente e não proliferação.",
+   "t": "Ucrânia e a 'nova Yalta'",
+   "b": "Rússia propõe cúpula com EUA e China na Apec (18–19/11), sem Kiev e UE; rodada técnica em Abu Dhabi.",
    "l": [
-    "Quem, por quê, o que muda",
-    "Brasil envolvido?",
-    "Pegadinha: o que é consenso"
+    "Abu Dhabi: 10–11/11",
+    "Putin exige concessões territoriais",
+    "Ordem pós-guerra em disputa"
+   ]
+  },
+  {
+   "t": "Paraguai em crise",
+   "b": "Peña renuncia após o colapso de um banco digital; vice assume e o Colorado racha.",
+   "l": [
+    "Fundo garante depósitos",
+    "Itaipu e previdência expostas",
+    "Efeito limitado no Brasil"
+   ],
+   "n": "Parceiro do Mercosul"
+  },
+  {
+   "t": "COP31 em Antália",
+   "b": "De 9 a 20/11, com Turquia na presidência formal e Austrália nas negociações; Lula participa.",
+   "l": [
+    "Brasil leva AdaptaSUS",
+    "Plano de Saúde de Belém",
+    "Fósseis voltam à mesa"
+   ],
+   "n": "Herança da COP30"
+  },
+  {
+   "t": "Newcastle e o comércio",
+   "b": "Focos em perus de SC levam 37 países a restringir compras; emergência de 60 dias.",
+   "l": [
+    "Barreira sanitária",
+    "OMC e regionalização",
+    "Exportação de proteína"
+   ]
+  },
+  {
+   "t": "Segurança e guerra híbrida",
+   "b": "Alarmes de bomba afetam 27 voos na Europa; juiz boliviano foge sob acusação de tráfico.",
+   "l": [
+    "Ataques híbridos abaixo do Art. 5",
+    "Escudo das Américas",
+    "Investigação dos EUA"
+   ]
+  },
+  {
+   "t": "Direitos humanos em Hong Kong",
+   "b": "Joshua Wong ganha mais 10 anos de prisão pela lei de segurança nacional de Pequim.",
+   "l": [
+    "Revolução dos Guarda-Chuvas",
+    "Um país, dois sistemas",
+    "Soltura em 2036"
    ]
   },
   {
@@ -202,10 +307,10 @@
    "t": "Pegadinhas que caem",
    "l": [
     "Midterms não elegem o presidente",
-    "G20 2026 é presidido pelos EUA",
-    "COP17 aprovou por consenso, mas deixou lacunas",
-    "Irã nega armas; TNP admite uso civil",
-    "Doutrina Monroe é de 1823"
+    "COP31: Turquia preside, Austrália conduz",
+    "Newcastle atinge aves, não suínos",
+    "Moscou propõe cúpula sem Ucrânia e UE",
+    "Congresso dos EUA pouco muda a política comercial"
    ]
   }
  ]
