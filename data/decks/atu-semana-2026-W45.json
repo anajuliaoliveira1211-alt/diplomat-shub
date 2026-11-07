@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W45",
  "notionUrl": "",
- "updatedAt": "2026-11-06",
+ "updatedAt": "2026-11-07",
  "items": [
   {
    "id": "f1",
@@ -220,6 +220,96 @@
    "q": "Por que Joshua Wong foi condenado em 5/11/2026?",
    "a": "Por conspirar com forças estrangeiras contra a segurança nacional, sob a lei imposta por Pequim a Hong Kong; soltura prevista para 2036.",
    "exp": "Caso emblemático do enfraquecimento do 'um país, dois sistemas'."
+  },
+  {
+   "id": "c15",
+   "t": "c",
+   "s": "O Brasil já é Parceiro de Diálogo pleno da Asean, nível mais alto de engajamento com o bloco.",
+   "ans": "E",
+   "exp": "Em janeiro de 2026 o Brasil pediu para passar de Parceiro de Diálogo Setorial a Parceiro de Diálogo, e o pedido ainda depende de aceitação.",
+   "ctx": "Lula viaja às Filipinas e discursa na abertura da Cúpula da Asean, com o Brasil pleiteando status de Parceiro de Diálogo"
+  },
+  {
+   "id": "f16",
+   "t": "f",
+   "q": "Quem pediu em janeiro de 2026 para virar Parceiro de Diálogo da Asean?",
+   "a": "Brasil, hoje Parceiro de Diálogo Setorial; o pedido depende de aceitação.",
+   "exp": "Lula discursa na abertura da Cúpula da Asean em 15/11, em Manila."
+  },
+  {
+   "id": "c16",
+   "t": "c",
+   "s": "A lista brasileira de minerais críticos prioritários inclui terras raras e lítio no grupo de alta prioridade e nióbio no grupo de baixa prioridade.",
+   "ans": "C",
+   "exp": "Terras raras e lítio estão na alta; o nióbio está na baixa. A lista não é definitiva.",
+   "ctx": "Governo define 27 minerais críticos prioritários, com terras raras, grafita, lítio e níquel no topo"
+  },
+  {
+   "id": "f17",
+   "t": "f",
+   "q": "Quantos minerais há na lista de críticos prioritários do Brasil e quem a aprovou?",
+   "a": "27 minerais, aprovados pelo Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (5/11).",
+   "exp": "Alta prioridade: terras raras, grafita, lítio, níquel, cobalto, cobre, manganês, silício e urânio."
+  },
+  {
+   "id": "c17",
+   "t": "c",
+   "s": "Segundo a Agência Brasil, o apoio dos EUA a Israel deixou de ser consenso bipartidário, e o governo Trump anunciou o fim da ajuda militar anual a Israel.",
+   "ans": "C",
+   "exp": "O texto cita a ajuda de cerca de US$ 3,8 bi por ano e analistas apontam o fim do consenso bipartidário.",
+   "ctx": "Após a derrota nas midterms, Trump anuncia fim da ajuda militar a Israel e reabre o debate sobre a aliança"
+  },
+  {
+   "id": "f18",
+   "t": "f",
+   "q": "Qual a ajuda militar anual dos EUA a Israel citada pela Agência Brasil?",
+   "a": "Cerca de US$ 3,8 bilhões por ano, prevista até 2028.",
+   "exp": "Trump anunciou o fim da ajuda; o apoio a Israel deixou de ser consenso bipartidário."
+  },
+  {
+   "id": "c18",
+   "t": "c",
+   "s": "A Rota do Mar do Norte, na costa ártica da Rússia, só se tornou viável para navios comerciais por causa do recuo do gelo provocado pelas mudanças climáticas.",
+   "ans": "C",
+   "exp": "Antes intransitável, hoje permite viagens mais curtas que Suez, ainda com apoio de quebra-gelos.",
+   "ctx": "Navio sul-coreano cruza o Ártico russo até a Europa em 50 dias e reacende o debate sobre a Rota do Mar do Norte"
+  },
+  {
+   "id": "f19",
+   "t": "f",
+   "q": "O que é a Rota do Mar do Norte?",
+   "a": "Via marítima na costa ártica da Rússia, ~7 mil km mais curta que a de Suez, viabilizada pelo recuo do gelo.",
+   "exp": "O PanStar Acro (Coreia do Sul) fez Busan–Europa em 50 dias."
+  },
+  {
+   "id": "c19",
+   "t": "c",
+   "s": "A retirada de civis de Oleshky foi coordenada pelos comissários de direitos humanos da Ucrânia e da Rússia durante um cessar-fogo temporário.",
+   "ans": "C",
+   "exp": "Lubinets e Lantratova coordenaram a missão; o Kremlin disse não haver novas missões previstas.",
+   "ctx": "Missão humanitária retira cerca de 800 civis de Oleshky, na Ucrânia ocupada, sob cessar-fogo temporário mediado por Melania Trump"
+  },
+  {
+   "id": "f20",
+   "t": "f",
+   "q": "Quem coordenou a retirada de civis de Oleshky (Ucrânia)?",
+   "a": "Os comissários de direitos humanos Dmytro Lubinets (Ucrânia) e Yana Lantratova (Rússia), com ~800 retirados.",
+   "exp": "O Kremlin disse não haver novas missões previstas."
+  },
+  {
+   "id": "c20",
+   "t": "c",
+   "s": "As eleições de meio de mandato de 2026 nos EUA renovaram toda a Câmara dos Representantes e cerca de um terço do Senado.",
+   "ans": "C",
+   "exp": "Midterms renovam os 435 deputados e um terço do Senado; a Presidência não está em jogo.",
+   "ctx": "Petit Journal: economia pós-onda azul, tarifas, data centers e IA"
+  },
+  {
+   "id": "f21",
+   "t": "f",
+   "q": "O que são as eleições de meio de mandato (midterms) nos EUA?",
+   "a": "Eleições na metade do mandato presidencial: renovam os 435 deputados e cerca de um terço do Senado.",
+   "exp": "A Presidência não está em jogo."
   }
  ],
  "resumo": [
@@ -285,22 +375,25 @@
    ]
   },
   {
-   "t": "Segurança e guerra híbrida",
-   "b": "Alarmes de bomba afetam 27 voos na Europa; juiz boliviano foge sob acusação de tráfico.",
+   "t": "EUA, Israel e economia",
+   "b": "Democratas vencem; Trump anuncia fim da ajuda militar a Israel; juros e dólar caem, IA e defesa sofrem.",
    "l": [
-    "Ataques híbridos abaixo do Art. 5",
-    "Escudo das Américas",
-    "Investigação dos EUA"
+    "Ajuda: ~US$ 3,8 bi/ano",
+    "Fim do consenso bipartidário",
+    "Data centers e regulação",
+    "Redata no Brasil"
    ]
   },
   {
-   "t": "Direitos humanos em Hong Kong",
-   "b": "Joshua Wong ganha mais 10 anos de prisão pela lei de segurança nacional de Pequim.",
+   "t": "Ásia, minerais e Ártico",
+   "b": "Lula vai à Cúpula da Asean (15/11); Brasil lista 27 minerais críticos; Rota do Mar do Norte avança.",
    "l": [
-    "Revolução dos Guarda-Chuvas",
-    "Um país, dois sistemas",
-    "Soltura em 2036"
-   ]
+    "Comércio Asean: US$ 38 bi",
+    "Alta prioridade: terras raras",
+    "Cargueiro Busan–Europa: 50 dias",
+    "Oleshky: ~800 civis retirados"
+   ],
+   "n": "Hong Kong: Joshua Wong, +10 anos"
   },
   {
    "k": "fim",
@@ -308,9 +401,9 @@
    "l": [
     "Midterms não elegem o presidente",
     "COP31: Turquia preside, Austrália conduz",
+    "Brasil ainda não é Parceiro de Diálogo da Asean",
     "Newcastle atinge aves, não suínos",
-    "Moscou propõe cúpula sem Ucrânia e UE",
-    "Congresso dos EUA pouco muda a política comercial"
+    "Moscou propõe cúpula sem Ucrânia e UE"
    ]
   }
  ]

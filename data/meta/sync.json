@@ -16,7 +16,7 @@
   "hb-america-portuguesa"
  ],
  "kind": "sync",
- "lastRun": "2026-11-06",
+ "lastRun": "2026-11-07",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",
@@ -209,6 +209,14 @@
   "40f77560e5fa80a6a13fd2f4c305464c": {
    "deck": "pi-brasil-india-africa-sul",
    "edited": "2026-11-05T17:48:00.655Z"
+  },
+  "40d77560e5fa8012a885e9133051e834": {
+   "deck": "hm-antecedentes-segunda-guerra",
+   "edited": "2026-11-03T14:43:14.257Z"
+  },
+  "40d77560e5fa80209ed5c7abe5c50002": {
+   "deck": "hm-segunda-guerra",
+   "edited": "2026-11-03T15:39:00.202Z"
   }
  }
 }

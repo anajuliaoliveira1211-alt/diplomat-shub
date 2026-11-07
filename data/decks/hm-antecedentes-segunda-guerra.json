@@ -1,0 +1,337 @@
+{
+ "kind": "deck",
+ "materia": "História Mundial",
+ "assunto": "Antecedentes da Segunda Guerra Mundial",
+ "edital": "3.8",
+ "notionUrl": "https://app.notion.com/p/40d77560e5fa8012a885e9133051e834",
+ "updatedAt": "2026-11-07",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "O que foi a política de apaziguamento?",
+   "a": "Postura de Inglaterra e França de ceder às exigências de Hitler (Renânia, Áustria, Sudetos) para evitar nova guerra mundial.",
+   "exp": "Em vez de deter o revisionismo alemão, deu a Hitler a sensação de impunidade; Munique (1938) é o símbolo."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "Qual incidente deu pretexto à invasão japonesa da Manchúria (1931)?",
+   "a": "O Incidente de Mukden: oficiais do Exército de Guandong explodiram um trecho de ferrovia e culparam os chineses.",
+   "exp": "Operação de bandeira falsa. Em 1932 foi criado o Estado-fantoche de Manchukuo."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "Quem foi o governante nominal de Manchukuo?",
+   "a": "Puyi, último imperador da China.",
+   "exp": "O poder real era dos militares e funcionários japoneses."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "Como a Liga das Nações reagiu à invasão da Manchúria?",
+   "a": "Condenou (relatório Lytton) mas não puniu; o Japão se retirou da Liga em 1933.",
+   "exp": "Exemplo clássico da inoperância da Liga, sem meios coercitivos."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "Que incidente iniciou a Segunda Guerra Sino-Japonesa (1937)?",
+   "a": "O Incidente da Ponte Marco Polo.",
+   "exp": "Seguiram-se a tomada de portos e ferrovias e atrocidades, como o sistema das 'mulheres de conforto'."
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Por que a Itália fascista invadiu a Etiópia em 1935?",
+   "a": "Para restaurar a 'grandeza' imperial e vingar a derrota de Adwa (1896).",
+   "exp": "O imperador Haile Selassie foi exilado; ele depois se tornou referência do pan-africanismo."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "O que Hitler violou ao remilitarizar a Renânia em 1936?",
+   "a": "O Tratado de Versalhes e o Pacto de Locarno.",
+   "exp": "A zona deveria ficar desmilitarizada; França e Inglaterra não reagiram."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "O que decidiu a Conferência de Munique (set. 1938)?",
+   "a": "Aceitou a anexação dos Sudetos tchecoslovacos pela Alemanha, com a promessa de Hitler de não fazer novas anexações.",
+   "exp": "Participaram Alemanha, Itália, França e Inglaterra; a Tchecoslováquia e a URSS não foram convidadas."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Que ocorreu com a Tchecoslováquia em março de 1939?",
+   "a": "Foi desmembrada: a Eslováquia declarou independência e Boêmia e Morávia foram anexadas ao Reich.",
+   "exp": "Mostrou que a promessa de Munique era vazia."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "O que foi o Pacto Ribbentrop-Molotov (ago. 1939)?",
+   "a": "Pacto de não agressão germano-soviético, com protocolo secreto de partilha da Polônia e áreas de influência.",
+   "exp": "Hitler evitava guerra em duas frentes; Stalin ganhava tempo."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "Qual foi o pretexto alemão para invadir a Polônia em 1º/9/1939?",
+   "a": "Proteger a população alemã, após a 'Operação Himmler' (ataques encenados pela SS).",
+   "exp": "Inglaterra e França declararam guerra à Alemanha, iniciando a Segunda Guerra na Europa."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Qual foi o papel do rei Vítor Emanuel III com o fascismo italiano?",
+   "a": "Cooperou com Mussolini, não foi só simbólico; a monarquia foi abolida em referendo em 1946.",
+   "exp": "Mussolini chegou ao poder em 1922 com o aval do rei."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Qual evento é associado ao pretexto da invasão japonesa da Manchúria?",
+   "opts": [
+    "Incidente de Mukden (1931)",
+    "Incidente da Ponte Marco Polo (1937)",
+    "Ataque a Pearl Harbor (1941)",
+    "Incidente de Tonquim"
+   ],
+   "ans": 0,
+   "exp": "Mukden (1931) levou a Manchukuo; Marco Polo (1937) iniciou a guerra sino-japonesa em larga escala."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "A Conferência de Munique (1938) é exemplo de:",
+   "opts": [
+    "Política de apaziguamento",
+    "Contenção soviética",
+    "Segurança coletiva da Liga das Nações",
+    "Doutrina da rendição incondicional"
+   ],
+   "ans": 0,
+   "exp": "Inglaterra e França cederam os Sudetos para evitar a guerra."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "O Pacto Ribbentrop-Molotov teve como efeito imediato:",
+   "opts": [
+    "Permitir a partilha da Polônia entre Alemanha e URSS",
+    "Criar a aliança Eixo com o Japão",
+    "Garantir a integridade polonesa",
+    "Dissolver o Pacto Anticomintern"
+   ],
+   "ans": 0,
+   "exp": "O protocolo secreto dividiu a Polônia; a Alemanha evitou guerra em duas frentes."
+  },
+  {
+   "id": "m4",
+   "t": "m",
+   "q": "Qual ação alemã violou Versalhes e Locarno em 1936?",
+   "opts": [
+    "Remilitarização da Renânia",
+    "Anexação da Áustria",
+    "Ocupação dos Sudetos",
+    "Invasão da Polônia"
+   ],
+   "ans": 0,
+   "exp": "Anschluss (1938) e Sudetos (1938) vieram depois; a Renânia foi o primeiro grande teste."
+  },
+  {
+   "id": "m5",
+   "t": "m",
+   "q": "A invasão da Etiópia pela Itália (1935) teve como motivação simbólica:",
+   "opts": [
+    "Vingar a derrota de Adwa, em 1896",
+    "Retomar a Líbia",
+    "Reagir à saída da Liga das Nações",
+    "Combater o comunismo"
+   ],
+   "ans": 0,
+   "exp": "Adwa foi a derrota italiana para a Etiópia em 1896."
+  },
+  {
+   "id": "m6",
+   "t": "m",
+   "q": "A inação da Liga das Nações diante da Manchúria evidenciou:",
+   "opts": [
+    "A ausência de meios coercitivos eficazes",
+    "A hegemonia soviética na instituição",
+    "A recusa da China em participar",
+    "O poder de veto dos EUA"
+   ],
+   "ans": 0,
+   "exp": "Os EUA nem integravam a Liga; a China era membro desde 1920."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "A política de apaziguamento de Inglaterra e França teve como objetivo evitar uma nova guerra mundial, mas facilitou a ação dos regimes fascistas.",
+   "ans": "C",
+   "exp": "Foi o resultado prático da política, simbolizada em Munique."
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "O Incidente de Mukden foi uma agressão real do exército chinês contra tropas japonesas, o que justificou a criação de Manchukuo.",
+   "ans": "E",
+   "exp": "Foi uma bandeira falsa: o próprio Exército de Guandong explodiu a ferrovia.",
+   "trap": 3
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "Puyi, último imperador da China, governou Manchukuo com plenos poderes.",
+   "ans": "E",
+   "exp": "Era governante fantoche; quem mandava eram os japoneses.",
+   "trap": 4
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "A China era membro da Liga das Nações desde 1920, e mesmo assim a Liga não deteve o Japão na Manchúria.",
+   "ans": "C",
+   "exp": "A Liga foi criticada por sua inação."
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "A Itália invadiu a Etiópia em 1935 e o imperador Haile Selassie foi exilado.",
+   "ans": "C",
+   "exp": "Selassie depois virou figura do pan-africanismo."
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "A anexação da Áustria (1938) ocorreu sem nenhuma consulta formal, sendo imposta apenas por força militar.",
+   "ans": "E",
+   "exp": "O Anschluss foi referendado por plebiscito (de validade questionável) após a entrada das tropas.",
+   "trap": 1
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "Na Conferência de Munique, Inglaterra, França, Itália e Alemanha aceitaram a anexação dos Sudetos pela Alemanha.",
+   "ans": "C",
+   "exp": "A Tchecoslováquia não participou."
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "O Pacto Ribbentrop-Molotov foi um acordo de não agressão, e sua cláusula de partilha da Polônia era secreta.",
+   "ans": "C",
+   "exp": "Os protocolos secretos só foram admitidos pela URSS décadas depois."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "Os Aliados franco-britânicos estabeleceram garantias à integridade da Polônia em 1939, antes do pacto germano-soviético.",
+   "ans": "C",
+   "exp": "As garantias foram dadas em maio de 1939; o pacto é de agosto."
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "A invasão alemã da Polônia, em 1º de setembro de 1939, foi precedida por ataques encenados pela SS, a Operação Himmler.",
+   "ans": "C",
+   "exp": "Falsa provocação para justificar a 'defesa' dos alemães."
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Das ditaduras à invasão da Polônia: o caminho para 1939"
+  },
+  {
+   "t": "Apaziguamento",
+   "b": "Inglaterra e França cederam a Hitler para evitar nova guerra e deram margem à expansão fascista.",
+   "l": [
+    "Renânia, Áustria, Sudetos",
+    "Munique (1938)",
+    "Impunidade do Reich"
+   ],
+   "n": "Munique: sem URSS e sem a Tchecoslováquia"
+  },
+  {
+   "t": "Japão: ultranacionalismo",
+   "b": "Regime autoritário do período Showa, racismo e expansão sobre a Ásia-Pacífico.",
+   "l": [
+    "Lei de Preservação da Paz",
+    "Superioridade racial",
+    "Expansionismo"
+   ]
+  },
+  {
+   "t": "Manchúria e Manchukuo",
+   "b": "Em 1931, bandeira falsa em Mukden justifica a ocupação; em 1932 nasce Manchukuo, com Puyi de fantoche.",
+   "l": [
+    "Incidente de Mukden",
+    "Exército de Guandong",
+    "Puyi imperador fantoche"
+   ]
+  },
+  {
+   "t": "Liga das Nações falha",
+   "b": "China era membro desde 1920, mas a Liga só condenou e o Japão saiu em 1933.",
+   "l": [
+    "Sem meios coercitivos",
+    "Cooperação médica funcionava",
+    "Fracasso político"
+   ]
+  },
+  {
+   "t": "Guerra Sino-Japonesa",
+   "b": "Marco Polo (1937) abre a guerra de 1937-1945: portos, ferrovias e atrocidades.",
+   "l": [
+    "Ponte Marco Polo",
+    "Mulheres de conforto",
+    "Aproximação com o Eixo"
+   ]
+  },
+  {
+   "t": "Itália fascista",
+   "b": "Mussolini sonha com a 'Grande Itália'; invade a Etiópia (1935) e a Albânia (1939).",
+   "l": [
+    "Vingança de Adwa (1896)",
+    "Haile Selassie exilado",
+    "Rei Zog e Albânia"
+   ],
+   "n": "Monarquia cooperou e caiu em 1946"
+  },
+  {
+   "t": "Alemanha rearma",
+   "b": "Hitler sai da Liga, suspende indenizações, investe em armas e remilitariza a Renânia em 1936.",
+   "l": [
+    "Violação de Versalhes/Locarno",
+    "Anschluss (1938)",
+    "Sudetos e Munique"
+   ]
+  },
+  {
+   "t": "Rumo à guerra (1939)",
+   "b": "Tchecoslováquia desmembrada em março; pacto Ribbentrop-Molotov em agosto; invasão da Polônia em 1º/9.",
+   "l": [
+    "Fim do pacto com a Polônia",
+    "Protocolo secreto",
+    "Operação Himmler",
+    "Inglaterra e França declaram guerra"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Mukden foi bandeira falsa japonesa",
+    "Munique excluiu Tchecoslováquia e URSS",
+    "Anschluss teve plebiscito",
+    "Garantia à Polônia (maio) antes do pacto (agosto)",
+    "Puyi era fantoche"
+   ]
+  }
+ ]
+}

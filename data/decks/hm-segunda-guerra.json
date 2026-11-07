@@ -1,0 +1,337 @@
+{
+ "kind": "deck",
+ "materia": "História Mundial",
+ "assunto": "A Segunda Guerra Mundial",
+ "edital": "3.9–3.10",
+ "notionUrl": "https://app.notion.com/p/40d77560e5fa80209ed5c7abe5c50002",
+ "updatedAt": "2026-11-07",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "O que foi a 'drôle de guerre' (guerra de mentira)?",
+   "a": "Fase inicial (set. 1939–1940) com pouca ação militar entre Alemanha e Aliados ocidentais.",
+   "exp": "Terminou com a ofensiva alemã sobre Holanda, Bélgica e França; a França confiava na Linha Maginot."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "O que é a blitzkrieg?",
+   "a": "Guerra-relâmpago: ataques rápidos e concentrados de forças terrestres, aéreas e navais.",
+   "exp": "Foi a tática alemã nas invasões de 1939-1940."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "O que foi a França de Vichy?",
+   "a": "Regime colaboracionista no sul da França, de 'revolução nacional' conservadora, após a derrota de 1940.",
+   "exp": "O norte foi ocupado diretamente pelos alemães; De Gaulle liderou a Resistência."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "Qual foi o resultado da Batalha da Grã-Bretanha (jul.–out. 1940)?",
+   "a": "A Luftwaffe não derrotou a RAF e Hitler cancelou a Operação Leão-Marinho (invasão).",
+   "exp": "Primeira grande campanha travada só por forças aéreas."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "O que estabeleceu a Carta do Atlântico (ago. 1941)?",
+   "a": "Princípios do pós-guerra: autodeterminação dos povos, fim de barreiras comerciais, entre outros.",
+   "exp": "Firmada por Roosevelt e Churchill."
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Por que Hitler lançou a Operação Barbarossa (jun. 1941)?",
+   "a": "Para obter petróleo (Cáucaso), recursos e mão de obra e realizar o 'espaço vital', rompendo o pacto com Stalin.",
+   "exp": "A Alemanha não tinha petróleo para uma guerra longa."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "Por que o Japão atacou Pearl Harbor (7/12/1941)?",
+   "a": "Reação ao bloqueio econômico dos EUA e à disputa pelo Pacífico asiático; atacou primeiro.",
+   "exp": "Levou os EUA à guerra ao lado dos Aliados."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "Quando o Brasil rompeu com o Eixo e entrou formalmente na guerra?",
+   "a": "Rompeu relações em janeiro de 1942; reconheceu a beligerância contra Alemanha e Itália em agosto de 1942.",
+   "exp": "Após navios brasileiros serem torpedeados. Declarou guerra ao Japão só em 6/6/1945."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Que contribuições o Brasil deu aos Aliados?",
+   "a": "Bases aéreas no Nordeste, borracha e a FEB, que atuou na Itália a partir de 1944.",
+   "exp": "A FEB combateu na campanha da Itália."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "O que foi a Conferência de Wannsee (1942)?",
+   "a": "Reunião nazista que organizou a 'Solução Final': deportação de judeus aos campos de extermínio.",
+   "exp": "Campo de extermínio visava matar; campo de concentração, aprisionar."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "Qual a importância da Batalha de Midway (jun. 1942)?",
+   "a": "Vitória naval dos EUA, ponto de virada na Guerra do Pacífico.",
+   "exp": "Não marca o início da guerra no Pacífico."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "O que decidiu a Conferência de Teerã (1943)?",
+   "a": "Primeiro encontro dos 'Três Grandes'; prometeu-se a Operação Overlord (Dia D) e discutiu-se a fronteira polonesa.",
+   "exp": "Também apoiou os partisans de Tito."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Qual conferência de 1944 tratou da organização econômica do pós-guerra?",
+   "opts": [
+    "Bretton Woods",
+    "Dumbarton Oaks",
+    "Casablanca",
+    "Teerã"
+   ],
+   "ans": 0,
+   "exp": "Dumbarton Oaks tratou da ONU; Casablanca (1943) da rendição incondicional."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "O Dia D (junho de 1944) foi o desembarque aliado em:",
+   "opts": [
+    "Normandia",
+    "Sicília",
+    "Anzio",
+    "Dunquerque"
+   ],
+   "ans": 0,
+   "exp": "Sicília foi a Operação Husky (1943)."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "A Operação Husky consistiu em:",
+   "opts": [
+    "Invasão aliada da Sicília",
+    "Invasão alemã da URSS",
+    "Desembarque na Normandia",
+    "Ofensiva soviética na Bielorrússia"
+   ],
+   "ans": 0,
+   "exp": "Levou à queda de Mussolini e à República de Saló no norte."
+  },
+  {
+   "id": "m4",
+   "t": "m",
+   "q": "O Brasil declarou guerra a Alemanha e Itália em:",
+   "opts": [
+    "Agosto de 1942",
+    "Dezembro de 1941",
+    "Junho de 1945",
+    "Novembro de 1943"
+   ],
+   "ans": 0,
+   "exp": "Foi depois dos torpedeamentos; ao Japão, só em junho de 1945."
+  },
+  {
+   "id": "m5",
+   "t": "m",
+   "q": "A Conferência de Casablanca (1943) é associada a:",
+   "opts": [
+    "Doutrina da rendição incondicional",
+    "Criação do FMI",
+    "Carta do Atlântico",
+    "Plano Marshall"
+   ],
+   "ans": 0,
+   "exp": "Stalin foi convidado e não foi, por Stalingrado."
+  },
+  {
+   "id": "m6",
+   "t": "m",
+   "q": "Na Batalha de Stalingrado, a URSS combinou:",
+   "opts": [
+    "Terra arrasada e o rigor do inverno",
+    "Guerra de trincheiras",
+    "Bloqueio naval",
+    "Ataque aéreo estratégico"
+   ],
+   "ans": 0,
+   "exp": "Retirou fábricas para o leste e resistiu ao 'General Inverno'."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "A Linha Maginot era um sistema de fortificações francesas na fronteira com a Alemanha, que não impediu a invasão de 1940.",
+   "ans": "C",
+   "exp": "A Alemanha contornou a linha pela Bélgica."
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "A queda da Bélgica marcou o fim da 'guerra de mentira'.",
+   "ans": "C",
+   "exp": "Seguiu-se a invasão da França."
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "O Afrika Korps foi enviado pelos alemães para apoiar os italianos no Norte da África.",
+   "ans": "C",
+   "exp": "O exército italiano teve desempenho ruim."
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "A Luftwaffe venceu a Batalha da Grã-Bretanha, mas Hitler desistiu da invasão por falta de petróleo.",
+   "ans": "E",
+   "exp": "A Luftwaffe não derrotou a RAF; foi isso que levou ao cancelamento da Leão-Marinho.",
+   "trap": 4
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "A Operação Barbarossa rompeu o pacto germano-soviético e buscava, entre outros objetivos, o petróleo do Cáucaso.",
+   "ans": "C",
+   "exp": "Também ligava-se ao espaço vital."
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "O ataque a Pearl Harbor foi anterior ao bloqueio econômico dos EUA ao Japão e o causou.",
+   "ans": "E",
+   "exp": "A relação é invertida: o bloqueio veio antes e motivou o ataque.",
+   "trap": 2
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "O Brasil declarou guerra ao Japão antes de declará-la à Alemanha e à Itália.",
+   "ans": "E",
+   "exp": "Foi o contrário: Alemanha e Itália em 1942, Japão só em 6/6/1945.",
+   "trap": 2
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "A Conferência de Teerã reuniu pela primeira vez Stalin, Roosevelt e Churchill.",
+   "ans": "C",
+   "exp": "Anunciou Overlord."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "Dumbarton Oaks (1944) tratou da criação da ONU e da composição do Conselho de Segurança.",
+   "ans": "C",
+   "exp": "Membros permanentes: EUA, URSS, Reino Unido, França e China."
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "A Conferência de Wannsee diferenciou campos de concentração de campos de extermínio, estes últimos criados em Bretton Woods.",
+   "ans": "E",
+   "exp": "Wannsee tratou da Solução Final; Bretton Woods foi conferência econômica.",
+   "trap": 4
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Fases da guerra, o Brasil e as conferências do pós-guerra"
+  },
+  {
+   "t": "Avanço do Eixo",
+   "b": "Em 1939-41, blitzkrieg alemã contra uma Europa que confiava em Maginot e na marinha britânica.",
+   "l": [
+    "Drôle de guerre",
+    "Blitzkrieg",
+    "Queda da França e Vichy"
+   ]
+  },
+  {
+   "t": "Japão e Itália",
+   "b": "O Japão se expande na China e no Pacífico; a Itália é o elo fraco e exige ajuda alemã.",
+   "l": [
+    "Manchúria e 1937",
+    "Albânia e Etiópia",
+    "Afrika Korps nos Bálcãs e África"
+   ]
+  },
+  {
+   "t": "Inglaterra resiste",
+   "b": "A RAF vence a Luftwaffe em 1940 e a Carta do Atlântico esboça o mundo pós-guerra.",
+   "l": [
+    "Leão-Marinho cancelada",
+    "Carta do Atlântico (1941)",
+    "Autodeterminação"
+   ]
+  },
+  {
+   "t": "Barbarossa e Pearl Harbor",
+   "b": "A invasão da URSS e o ataque japonês em 1941 ampliam a guerra e põem os EUA no conflito.",
+   "l": [
+    "Petróleo e espaço vital",
+    "Bloqueio dos EUA",
+    "7/12/1941"
+   ]
+  },
+  {
+   "t": "O Brasil na guerra",
+   "b": "Do alinhamento aos EUA à beligerância em 1942, bases no Nordeste, borracha e FEB.",
+   "l": [
+    "Ruptura em jan. 1942",
+    "Guerra: ago. 1942",
+    "FEB na Itália",
+    "Japão: jun. 1945"
+   ]
+  },
+  {
+   "t": "Holocausto",
+   "b": "Wannsee (1942) formaliza a Solução Final e os campos de extermínio.",
+   "l": [
+    "Concentração × extermínio",
+    "Memória: Anne Frank"
+   ]
+  },
+  {
+   "t": "Virada aliada",
+   "b": "Midway, El Alamein e Stalingrado mudam o curso; Casablanca fixa a rendição incondicional.",
+   "l": [
+    "Midway (1942)",
+    "El Alamein",
+    "Stalingrado: terra arrasada",
+    "Husky e queda de Mussolini"
+   ]
+  },
+  {
+   "t": "Teerã, Dia D, 1944",
+   "b": "Teerã promete Overlord; Bretton Woods e Dumbarton Oaks desenham economia e ONU.",
+   "l": [
+    "Dia D em junho de 1944",
+    "Bretton Woods",
+    "Dumbarton Oaks",
+    "Cinco permanentes"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Midway é virada, não início do Pacífico",
+    "Husky = Sicília; Dia D = Normandia",
+    "Brasil declara guerra ao Japão só em 1945",
+    "Dumbarton Oaks = ONU; Bretton Woods = economia",
+    "Bagration foi na Bielorrússia (1944)"
+   ]
+  }
+ ]
+}

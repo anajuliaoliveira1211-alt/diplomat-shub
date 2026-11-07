@@ -1,0 +1,142 @@
+{
+ "kind": "news",
+ "date": "2026-11-07",
+ "cards": [
+  {
+   "id": "2026-11-07-pj76210859",
+   "pj_guid": "76210859",
+   "podcast": "Petit Journal · Invest 136 · 19 min",
+   "materia": "Economia",
+   "edital": "6; 10.1; 13.1",
+   "titulo": "Petit Journal: economia pós-onda azul, tarifas, data centers e IA",
+   "resumo": "Episódio de 06/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Derrota maior que a esperada",
+     "b": "Os apresentadores dizem que se esperava vitória democrata nas midterms, mas não tão ampla. Os mercados se ajustaram e a dinâmica econômica mundial deve mudar nos próximos meses."
+    },
+    {
+     "t": "Política fiscal e juros",
+     "b": "Com Congresso menos favorável, veem mais dificuldade para Trump manter a expansão fiscal, concentrada em defesa e corte de impostos. Os juros futuros americanos caíram e o dólar perdeu força."
+    },
+    {
+     "t": "Tarifas e aliados",
+     "b": "A avaliação é que a política tarifária não deve recuar muito, mas novas escaladas ficam menos prováveis. Acordos pendentes, como com Canadá e Brasil, podem avançar, e a relação com os europeus tende a melhorar."
+    },
+    {
+     "t": "Contenção da China",
+     "b": "Para eles, conter a China segue prioridade de qualquer governo americano, republicano ou democrata. A dúvida é o orçamento militar, que Trump queria elevar a US$ 1,5 tri, diante de um Congresso mais hostil."
+    },
+    {
+     "t": "Data centers e IA",
+     "b": "Ações de IA, defesa e setor financeiro caíram com a expectativa de mais regulação e fiscalização. Eleitores se queixaram de data centers que geram poucos empregos e encarecem a energia."
+    },
+    {
+     "t": "Oportunidade para o Brasil",
+     "b": "Comentam que parte desses investimentos poderia migrar para países com energia abundante, como o Brasil, que sancionou em setembro o Redata, marco de incentivos a data centers."
+    }
+   ],
+   "porque": "Mostra como uma eleição interna dos EUA muda expectativas sobre juros, dólar, tarifas e investimentos globais. Para o Brasil, interessam o rumo da negociação tarifária com Washington, a atração de data centers e a contenção da China (edital: comércio, sistema financeiro, PEB).",
+   "ce": {
+    "s": "As eleições de meio de mandato de 2026 nos EUA renovaram toda a Câmara dos Representantes e cerca de um terço do Senado.",
+    "ans": "C",
+    "exp": "Midterms renovam os 435 deputados e um terço do Senado; a Presidência não está em jogo."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/a-economia-mundial-pos-onda-azul-invest-136--76210859",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-07-1",
+   "materia": "Política Internacional",
+   "edital": "2; 6; 13.1",
+   "titulo": "Lula viaja às Filipinas e discursa na abertura da Cúpula da Asean, com o Brasil pleiteando status de Parceiro de Diálogo",
+   "resumo": "Após a COP31, Lula segue para Manila: visita de Estado às Filipinas em 14/11 e participação, como convidado, na Cúpula da Asean em 15/11, com discurso na abertura, honra normalmente reservada ao anfitrião. É o segundo ano seguido de convite (2025, Malásia). Em janeiro, o Brasil pediu para subir de Parceiro de Diálogo Setorial a Parceiro de Diálogo, ainda sem resposta. O comércio com o bloco foi de US$ 3 bi (2003) a US$ 38 bi (2025).",
+   "porque": "Mostra a diversificação de parceiros do Brasil em meio à guerra tarifária, com aproximação de um bloco de 11 países que busca autonomia entre EUA e China. Liga-se à PEB, à integração regional/inter-regional e ao comércio (edital 2, 6 e 13). Para o Brasil, abre mercado para café, sucos e processados.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/lula-vai-filipinas-buscando-estreitar-vinculo-com-bloco-asiatico",
+   "img": "https://imagens.ebc.com.br/XIZy8FaqwBMKD2a_ZPDpJUVZxVs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/24/54876274624_8abf493f14_o.jpg?itok=4Z7y8VhN",
+   "imgCredit": "Foto: Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "O Brasil já é Parceiro de Diálogo pleno da Asean, nível mais alto de engajamento com o bloco.",
+    "ans": "E",
+    "exp": "Em janeiro de 2026 o Brasil pediu para passar de Parceiro de Diálogo Setorial a Parceiro de Diálogo, e o pedido ainda depende de aceitação."
+   }
+  },
+  {
+   "id": "2026-11-07-2",
+   "materia": "Economia",
+   "edital": "6; 10.1; 7",
+   "titulo": "Governo define 27 minerais críticos prioritários, com terras raras, grafita, lítio e níquel no topo",
+   "resumo": "O Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos aprovou em 5/11 a lista de 27 minerais em três níveis de prioridade. Na alta estão terras raras, grafita, lítio, níquel, cobalto, cobre, manganês, silício e urânio. Os critérios incluem risco geopolítico, concentração de oferta e dependência externa. A política nacional, sancionada em 16/9, prevê até R$ 7 bi em incentivos para processar os minerais no país, em vez de só exportar matéria-prima.",
+   "porque": "Os minerais críticos viraram eixo da disputa entre EUA e China e da transição energética (baterias, ímãs, armazenamento). O Brasil tem a 2ª maior reserva de grafita, a 3ª de níquel e a 4ª de manganês e busca subir na cadeia. Liga-se à economia, ao comércio internacional e à PEB (edital 6, 10.1).",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-define-minerais-criticos-prioritarios-para-investimentos",
+   "img": "https://imagens.ebc.com.br/KcGWXIc0b7sHtHyLt5MQVeVyy00=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/05/55633937442_9c9cd7b4ee_o.jpg?itok=zep14K0i",
+   "imgCredit": "Foto: Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "A lista brasileira de minerais críticos prioritários inclui terras raras e lítio no grupo de alta prioridade e nióbio no grupo de baixa prioridade.",
+    "ans": "C",
+    "exp": "Terras raras e lítio estão na alta; o nióbio está na baixa. A lista não é definitiva."
+   }
+  },
+  {
+   "id": "2026-11-07-3",
+   "materia": "Política Internacional",
+   "edital": "13.1; 10.1; 7",
+   "titulo": "Após a derrota nas midterms, Trump anuncia fim da ajuda militar a Israel e reabre o debate sobre a aliança",
+   "resumo": "Segundo a Agência Brasil, no dia da votação Trump anunciou o fim da ajuda militar a Israel (cerca de US$ 3,8 bi por ano, prevista até 2028). O vice JD Vance citou a relação com Israel entre os motivos da derrota republicana. Analistas dizem que o apoio deixou de ser consenso bipartidário. O CFR estima mais de US$ 300 bi em ajuda a Israel desde 1947; o embaixador israelense na ONU, Danny Danon, rejeitou culpar Israel.",
+   "porque": "Mostra como a política interna americana pressiona uma aliança central no Oriente Médio e pode alterar o equilíbrio regional. Para o Brasil, que defende a solução de dois Estados e critica a conduta em Gaza, o debate importa para a ONU e o Conselho de Segurança (edital 13.1, 10.1).",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/derrota-de-trump-coloca-em-xeque-relacao-historica-dos-eua-com-israel",
+   "img": "https://imagens.ebc.com.br/Nybt9QE9j1sHqVjF_v9lbewNky0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/22/2025-06-20t224738z_2115000371_rc2m6faxlj4d_rtrmadp_3_usa-vance.jpg?itok=GpmZWfy7",
+   "imgCredit": "Foto: Agência Brasil / Reuters",
+   "curso": false,
+   "ce": {
+    "s": "Segundo a Agência Brasil, o apoio dos EUA a Israel deixou de ser consenso bipartidário, e o governo Trump anunciou o fim da ajuda militar anual a Israel.",
+    "ans": "C",
+    "exp": "O texto cita a ajuda de cerca de US$ 3,8 bi por ano e analistas apontam o fim do consenso bipartidário."
+   }
+  },
+  {
+   "id": "2026-11-07-4",
+   "materia": "Geografia",
+   "edital": "13.1; 10; 6",
+   "titulo": "Navio sul-coreano cruza o Ártico russo até a Europa em 50 dias e reacende o debate sobre a Rota do Mar do Norte",
+   "resumo": "O porta-contêineres PanStar Acro saiu de Busan em 22/8 e chegou à Inglaterra 50 dias depois; o retorno foi pela Rota do Mar do Norte, na costa ártica da Rússia, que encurta cerca de 7 mil km e pelo menos dez dias em relação a Suez. A rota se abre com o recuo do gelo, mas ainda exige quebra-gelos. Potências europeias temem que Seul amplie laços com Moscou, e Seul espera influir para que a Rússia não arme a Coreia do Norte.",
+   "porque": "Combina mudança climática, geopolítica das rotas marítimas e sanções à Rússia. Altera o comércio entre Ásia e Europa e dá a Moscou poder sobre a rota, em um Ártico disputado. Liga-se a Geografia, meio ambiente, comércio e conflitos (edital 6, 10, 13.1). Para o Brasil, rotas mais curtas podem mexer em fretes e na concorrência.",
+   "fonte": "DW Brasil",
+   "url": "https://www.dw.com/pt-br/coreia-do-sul-conclui-transporte-de-carga-por-rota-no-ártico-com-apoio-de-rússia/a-79876454",
+   "img": "https://static.dw.com/image/78474753_6.jpg",
+   "imgCredit": "Foto: DW / AFP",
+   "curso": false,
+   "ce": {
+    "s": "A Rota do Mar do Norte, na costa ártica da Rússia, só se tornou viável para navios comerciais por causa do recuo do gelo provocado pelas mudanças climáticas.",
+    "ans": "C",
+    "exp": "Antes intransitável, hoje permite viagens mais curtas que Suez, ainda com apoio de quebra-gelos."
+   }
+  },
+  {
+   "id": "2026-11-07-5",
+   "materia": "Política Internacional",
+   "edital": "13.1; 10.1; 5",
+   "titulo": "Missão humanitária retira cerca de 800 civis de Oleshky, na Ucrânia ocupada, sob cessar-fogo temporário mediado por Melania Trump",
+   "resumo": "Cerca de 800 pessoas vulneráveis foram retiradas de Oleshky, na região de Kherson ocupada pela Rússia, durante uma pausa temporária. A missão foi coordenada pelos comissários de direitos humanos da Ucrânia, Dmytro Lubinets, e da Rússia, Yana Lantratova. Kiev quer manter o mecanismo, mas o Kremlin diz que não há novas missões previstas e o Estado-Maior ucraniano afirma que Moscou usou a pausa para reforçar posições.",
+   "porque": "Mostra o Direito Internacional Humanitário na prática (proteção de civis em território ocupado) e canais de mediação paralelos aos de grandes potências. Pode ser embrião de confiança para negociações maiores, mas também de uso tático da pausa. Liga-se a conflitos e DIH (edital 13.1, 10.1); o Brasil defende a solução negociada.",
+   "fonte": "DW Brasil",
+   "url": "https://www.dw.com/pt-br/êxito-de-missão-para-retirar-de-civis-em-oleshky-pode-ser-um-primeiro-passo-rumo-à-paz-na-ucrânia/a-79867002",
+   "img": "https://static.dw.com/image/79817132_6.jpg",
+   "imgCredit": "Foto: DW / AP",
+   "curso": false,
+   "ce": {
+    "s": "A retirada de civis de Oleshky foi coordenada pelos comissários de direitos humanos da Ucrânia e da Rússia durante um cessar-fogo temporário.",
+    "ans": "C",
+    "exp": "Lubinets e Lantratova coordenaram a missão; o Kremlin disse não haver novas missões previstas."
+   }
+  }
+ ]
+}
