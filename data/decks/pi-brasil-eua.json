@@ -1,0 +1,349 @@
+{
+ "kind": "deck",
+ "materia": "Política Internacional",
+ "assunto": "Relações Brasil–Estados Unidos",
+ "edital": "6",
+ "notionUrl": "https://app.notion.com/p/40e77560e5fa80d5bae9c517089dea03",
+ "updatedAt": "2026-11-09",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Quais são os cinco 'As' das relações Brasil-EUA, segundo Mônica Hirst?",
+   "a": "Aliança, alinhamento, autonomia, ajustamento e afirmação.",
+   "exp": "Cinco fases da relação bilateral, da República ao século XXI."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "Qual o papel do Barão do Rio Branco na fase da aliança?",
+   "a": "Deslocou o eixo da diplomacia brasileira da Grã-Bretanha para os EUA.",
+   "exp": "Visava garantir apoio em questões de fronteira e evitar intervenções na região."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "Por que o Brasil entrou na Segunda Guerra ao lado dos EUA?",
+   "a": "Pelos ataques a navios mercantes e em troca de investimentos, como a siderúrgica de Volta Redonda.",
+   "exp": "Inicia o alinhamento (1942-1974); o Brasil foi o único país latino-americano a enviar tropas à Europa."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "O que caracteriza a fase do alinhamento (1942-1974)?",
+   "a": "Prioridade à relação com os EUA e expectativa de ajuda econômica, mesmo na Política Externa Independente.",
+   "exp": "Subfases: Segunda Guerra, República Liberal (1945-64) e ditadura militar."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "O que Geisel fez para marcar a fase da autonomia?",
+   "a": "Rompeu o acordo militar de 1952 com os EUA (1977) e firmou o acordo nuclear com a Alemanha.",
+   "exp": "Também reconheceu independências africanas e dialogou com países árabes e socialistas."
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Por que a fase da autonomia (1974-1990) foi a mais incômoda para os EUA?",
+   "a": "O Brasil agiu de forma independente em temas nucleares, direitos humanos e comércio.",
+   "exp": "Nos anos 1980 as relações eram circunstanciais, com crise do protecionismo."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "O que é a Seção 301 da Lei de Comércio dos EUA (1974)?",
+   "a": "Instrumento que permite ao USTR investigar práticas desleais e retaliar unilateralmente com tarifas.",
+   "exp": "Usada contra Japão e Brasil nos anos 1980-90 e contra a China mais recentemente."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "Que características marcam a fase do ajustamento (anos 1990 a 2002)?",
+   "a": "Cooperação com os EUA sem perda de autonomia, adesão a princípios liberais e saída da Seção 301.",
+   "exp": "O Brasil rejeitou a ALCA como projeto de Washington e priorizou o Mercosul."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "O que foi o caso Bustani na OPAQ?",
+   "a": "O brasileiro José Maurício Bustani, diretor-geral da OPAQ, foi destituído em 2002 após divergir dos EUA sobre o Iraque.",
+   "exp": "Episódio de tensão do ajustamento."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "O que é a fase da afirmação (2003 em diante)?",
+   "a": "Relação 'madura': discordâncias, como OMC, biocombustíveis e Oriente Médio, não abalam o vínculo bilateral.",
+   "exp": "Lula manteve boa relação com Bush e buscou mais integração latino-americana."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "Que episódio foi um ponto de inflexão na relação Obama-Dilma?",
+   "a": "A espionagem da NSA, revelada por Edward Snowden, que atingiu a própria presidente.",
+   "exp": "Levou ao adiamento da visita de Estado de Dilma aos EUA em 2013."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Por que a relação Brasil-EUA é considerada rara pela quantidade de diálogos?",
+   "a": "Há mais de 30 mecanismos, como Diálogo de Parceria Global, Fórum de Altos Executivos e Diálogo Comercial.",
+   "exp": "Indica interdependência apesar das divergências."
+  },
+  {
+   "id": "f13",
+   "t": "f",
+   "q": "Quais as divergências do governo Lula 3 com os EUA de Trump?",
+   "a": "Tarifa de 50% sobre produtos brasileiros e críticas brasileiras a intervenções americanas na região.",
+   "exp": "Houve reaproximação em encontros com Trump na ONU e na cúpula da Asean (2025)."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Segundo Hirst, qual é a ordem correta das fases da relação Brasil-EUA?",
+   "opts": [
+    "Aliança, alinhamento, autonomia, ajustamento, afirmação",
+    "Alinhamento, aliança, ajustamento, autonomia, afirmação",
+    "Aliança, autonomia, alinhamento, afirmação, ajustamento",
+    "Autonomia, aliança, alinhamento, ajustamento, afirmação"
+   ],
+   "ans": 0,
+   "exp": "Os cinco 'As' seguem a ordem cronológica: aliança, alinhamento, autonomia, ajustamento e afirmação."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "Qual governo brasileiro rompeu o acordo militar de 1952 com os EUA?",
+   "opts": [
+    "Geisel",
+    "Castelo Branco",
+    "Médici",
+    "Sarney"
+   ],
+   "ans": 0,
+   "exp": "Em 1977, no governo Geisel, durante o Pragmatismo Responsável, em reação à pressão americana sobre direitos humanos."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "Em que fase está o governo Lula (2003 em diante) segundo Hirst?",
+   "opts": [
+    "Afirmação",
+    "Ajustamento",
+    "Alinhamento",
+    "Aliança"
+   ],
+   "ans": 0,
+   "exp": "Afirmação: relações maduras, com discordâncias que não rompem a parceria."
+  },
+  {
+   "id": "m4",
+   "t": "m",
+   "q": "Qual instrumento americano autoriza retaliação unilateral por práticas comerciais 'desleais'?",
+   "opts": [
+    "Seção 301 da Lei de Comércio de 1974",
+    "Lei Smoot-Hawley",
+    "Plano Marshall",
+    "Doutrina Monroe"
+   ],
+   "ans": 0,
+   "exp": "A Seção 301, aplicada pelo USTR, foi usada contra o Brasil nos anos 1980 e 1990."
+  },
+  {
+   "id": "m5",
+   "t": "m",
+   "q": "Qual a atitude brasileira diante da ALCA nos anos 1990 e 2000?",
+   "opts": [
+    "Preferiu priorizar o Mercosul e resistiu ao projeto",
+    "Aderiu imediatamente ao acordo",
+    "Abandonou o Mercosul para aderir",
+    "Não participou das negociações"
+   ],
+   "ans": 0,
+   "exp": "O Brasil defendeu que a integração sul-americana vinha primeiro e que a ALCA exigia reciprocidade."
+  },
+  {
+   "id": "m6",
+   "t": "m",
+   "q": "Qual episódio abalou a relação Obama-Dilma?",
+   "opts": [
+    "A espionagem da NSA revelada por Snowden",
+    "A Guerra do Iraque",
+    "A crise de 2008",
+    "O embargo a Cuba"
+   ],
+   "ans": 0,
+   "exp": "A revelação da vigilância sobre a presidente levou ao adiamento da visita de Estado aos EUA em 2013."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "A fase da aliança nas relações Brasil-EUA vai de 1889 a 1942, quando o Brasil entra na Segunda Guerra ao lado dos EUA.",
+   "ans": "C",
+   "exp": "Segundo Hirst, o alinhamento começa em 1942."
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "Na fase do alinhamento, o Brasil rompeu o acordo militar com os EUA e firmou o acordo nuclear com a Alemanha.",
+   "ans": "E",
+   "exp": "Esses atos são de Geisel (1977 e 1975), na fase da autonomia, não do alinhamento.",
+   "trap": 2
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "O Brasil foi o único país latino-americano a enviar tropas à Europa na Segunda Guerra.",
+   "ans": "C",
+   "exp": "A Força Expedicionária Brasileira lutou na Itália."
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "Na fase da autonomia, o Brasil sempre consultou os EUA antes de tomar decisões, como no acordo nuclear com a Alemanha.",
+   "ans": "E",
+   "exp": "O acordo nuclear foi firmado sem consulta aos EUA, o que gerou incômodo.",
+   "trap": 1
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "A Seção 301 da Lei de Comércio de 1974 permite aos EUA aplicar sanções unilaterais a países com práticas consideradas desleais.",
+   "ans": "C",
+   "exp": "É o principal instrumento do USTR para investigar e retaliar."
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "A fase do ajustamento ocorreu na década de 1990 e foi marcada pela adesão do Brasil à ALCA e pelo abandono do Mercosul.",
+   "ans": "E",
+   "exp": "O Brasil manteve o Mercosul como prioridade e resistiu à ALCA.",
+   "trap": 4
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "O acordo de Alcântara, assinado em 2000, foi visto como submissão aos EUA e não foi aprovado pelo Congresso brasileiro.",
+   "ans": "C",
+   "exp": "Assinado no governo FHC em 2000, foi rejeitado pelo Legislativo."
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "Na fase da afirmação, divergências com os EUA em OMC e biocombustíveis foram vistas como naturais em uma relação madura.",
+   "ans": "C",
+   "exp": "Característica central do período Lula 1-Dilma."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "A eleição de Kamala Harris em 2024 levou à volta de Trump à Presidência dos EUA em 2025.",
+   "ans": "E",
+   "exp": "Harris perdeu a eleição de 2024 para Trump, que tomou posse em janeiro de 2025.",
+   "trap": 3
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "O comércio do Brasil com a China é mais do que o dobro do comércio com os EUA, e o Brasil busca realocar exportações para a Ásia.",
+   "ans": "C",
+   "exp": "Reflexo do tarifaço e da diversificação de mercados."
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Brasil-EUA: aliança, alinhamento, autonomia, ajustamento e afirmação"
+  },
+  {
+   "t": "Os cinco 'As' de Hirst",
+   "b": "Mônica Hirst divide a relação bilateral em cinco fases, da República até a era Lula, passando por forte dependência e por busca de autonomia.",
+   "l": [
+    "Aliança: 1889-1942",
+    "Alinhamento: 1942-1974",
+    "Autonomia: 1974-1990",
+    "Ajustamento e afirmação: 1990 em diante"
+   ]
+  },
+  {
+   "t": "Aliança (1889-1942)",
+   "b": "Rio Branco desloca o eixo da Grã-Bretanha para os EUA, buscando apoio em fronteiras (Acre) e contrapeso às intervenções na América Latina.",
+   "l": [
+    "Café: EUA como maior comprador",
+    "Rio Branco como arquiteto",
+    "Pan-americanismo como pano de fundo"
+   ]
+  },
+  {
+   "t": "Alinhamento (1942-1974)",
+   "b": "O Brasil entra na guerra com os EUA em troca de investimentos e participação na ordem do pós-guerra; depois mantém os EUA no centro das decisões.",
+   "l": [
+    "Siderúrgica de Volta Redonda",
+    "FEB: único país latino-americano na Europa",
+    "PEI mantém expectativa de ajuda",
+    "Castelo Branco: alinhamento explícito"
+   ]
+  },
+  {
+   "t": "Autonomia (1974-1990)",
+   "b": "Geisel rompe o acordo militar de 1952 e busca parcerias novas, mesmo contra a vontade dos EUA; os anos 1980 são de relações circunstanciais.",
+   "l": [
+    "Acordo nuclear com a Alemanha",
+    "Reconhecimento de Angola e Moçambique",
+    "Pressão americana sobre direitos humanos",
+    "Crise do protecionismo"
+   ]
+  },
+  {
+   "t": "Ajustamento (anos 1990-2002)",
+   "b": "Cooperação sem perda de autonomia, adesão a princípios liberais e saída da Seção 301; resistência à ALCA e foco no Mercosul.",
+   "l": [
+    "Seção 301: retaliação unilateral",
+    "SIVAM: radares americanos",
+    "Bustani na OPAQ",
+    "Alcântara (2000) rejeitado pelo Congresso"
+   ]
+  },
+  {
+   "t": "Afirmação (2003 em diante)",
+   "b": "Relações 'maduras': o Brasil discorda com respeito (guerra ao terror, OMC, biocombustíveis, Anápolis, Teerã) e se firma como mediador regional.",
+   "l": [
+    "Lula e Bush: amizade apesar das críticas",
+    "Brasil como ponte com a América Latina",
+    "Reforma do Conselho de Segurança sem apoio americano",
+    "NSA/Snowden: ponto de inflexão"
+   ]
+  },
+  {
+   "t": "Mecanismos de diálogo",
+   "b": "Mais de 30 mecanismos ligam os dois países, o que é raro e mostra interdependência apesar de divergências.",
+   "l": [
+    "Diálogo de Parceria Global",
+    "Diálogo de Cooperação em Defesa",
+    "Fórum de Altos Executivos",
+    "Diálogo Econômico-Financeiro"
+   ]
+  },
+  {
+   "t": "Cenário contemporâneo",
+   "b": "Bolsonaro alinhou-se a Trump; Biden pressionou por democracia e meio ambiente; Trump 2 impôs tarifa de 50% e o Brasil diversifica rumo à Ásia.",
+   "l": [
+    "Reaproximação Lula-Trump na ONU e na Asean",
+    "China com o dobro do comércio dos EUA",
+    "Terras raras e telecomunicações em pauta"
+   ],
+   "n": "Tarifa de 50% anunciada em julho de 2025"
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Alcântara foi assinado em 2000, não em 1999",
+    "Harris perdeu em 2024; Trump foi eleito",
+    "Rompimento do acordo militar: Geisel (1977), fase da autonomia",
+    "Seção 301 é lei americana, não norma da OMC",
+    "Afirmação começa em 2003, não em 1990"
+   ]
+  }
+ ]
+}

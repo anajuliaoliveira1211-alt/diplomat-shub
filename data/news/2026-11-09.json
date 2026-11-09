@@ -1,0 +1,96 @@
+{
+ "kind": "news",
+ "date": "2026-11-09",
+ "cards": [
+  {
+   "id": "2026-11-09-1",
+   "materia": "Política Internacional",
+   "edital": "2; 13.1",
+   "titulo": "Itaipu tinha cerca de R$ 1 bilhão no Ueno Bank, banco paraguaio suspenso, e tenta recuperar o dinheiro na Justiça",
+   "resumo": "A margem paraguaia da Itaipu Binacional mantinha US$ 182 milhões (pouco mais de R$ 1 bilhão) no Ueno Bank, que teve as operações suspensas pelo Banco Central do Paraguai em 3/11. A administração paraguaia da usina iniciou medidas judiciais para reaver o valor; a margem brasileira diz que não tinha recursos no banco e que a produção segue normal. O caso integra o escândalo do Ueno Bank, que levou ao impeachment de Santiago Peña (6/11) e à prisão preventiva dele (7/11), com Pedro Alliana na Presidência.",
+   "porque": "Itaipu é o principal elo bilateral Brasil-Paraguai (Tratado de 1973, energia dividida meio a meio) e o Anexo C, de bases financeiras e tarifa, está em revisão. A crise política e bancária do vizinho pode contaminar a negociação, a estabilidade do Mercosul e brasileiros com dinheiro no país. Liga-se à PEB na América do Sul, à integração regional e a Geografia/Energia (edital 2, 4 e 13).",
+   "fonte": "g1 (Foz do Iguaçu e região)",
+   "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/08/itaipu-ueno-bank-banco-do-paraguai.ghtml",
+   "img": "https://s2-g1.glbimg.com/w7eEDcFHRdfYf56GI7CmJMH8ckQ=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/L/t5JJNRR8uYFEkL9eNiYQ/whatsapp-image-2026-11-05-at-15.10.26.jpeg",
+   "imgCredit": "Foto: g1",
+   "curso": false,
+   "ce": {
+    "s": "A Itaipu Binacional é administrada em conjunto por Brasil e Paraguai, que dividem igualmente a energia produzida, embora cada margem tenha estrutura financeira própria.",
+    "ans": "C",
+    "exp": "Pelo Tratado de Itaipu (1973), a energia é dividida meio a meio; cada país administra suas próprias aplicações financeiras, motivo pelo qual só a margem paraguaia tinha dinheiro no Ueno Bank."
+   }
+  },
+  {
+   "id": "2026-11-09-2",
+   "materia": "Economia",
+   "edital": "13.8",
+   "titulo": "Brasil pode perder seu maior comprador de soja? China volta a comprar dos EUA e planeja depender menos de importações",
+   "resumo": "Depois da guerra tarifária, a China se comprometeu a comprar 25 milhões de toneladas de soja dos EUA por ano entre 2026 e 2028, além de US$ 17 bilhões anuais em produtos agrícolas americanos. O Brasil enviou quase 64 milhões de toneladas ao mercado chinês em 2026, e a soja americana ainda paga tarifa de 13% contra 3% da brasileira, o que preserva a competitividade no curto prazo. O novo Plano Quinquenal chinês mira autossuficiência e projeções indicam queda de 25% nas importações até 2030.",
+   "porque": "Mostra como a disputa EUA-China por comércio e segurança alimentar redistribui mercados e atinge a principal commodity de exportação brasileira e o superávit comercial. Exige diversificação (Índia, Sudeste Asiático, processamento e biocombustíveis). Liga-se a comércio internacional, cadeias globais, PEB para a Ásia e Economia (edital 6, 10 e 13.8).",
+   "fonte": "g1 (Agronegócios)",
+   "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/brasil-pode-perder-seu-maior-comprador-de-soja-entenda-os-planos-da-china-e-a-disputa-com-os-eua.ghtml",
+   "img": "https://s2-g1.glbimg.com/MrCed3xGGlygDHTo_XOO7FNAHF0=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/m/hjRqvUSDi3CSQ74AYbpg/canva-82-.png",
+   "imgCredit": "Foto: g1",
+   "curso": false,
+   "ce": {
+    "s": "O compromisso chinês de comprar soja dos EUA tende a eliminar a vantagem tarifária da soja brasileira no mercado da China, já que as tarifas sobre os dois produtos foram igualadas.",
+    "ans": "E",
+    "exp": "A soja americana segue com tarifa de 13% na China, contra 3% da brasileira; a diferença de 10 pontos preserva a competitividade do Brasil no curto prazo. O risco é de médio prazo, pela autossuficiência chinesa."
+   }
+  },
+  {
+   "id": "2026-11-09-3",
+   "materia": "Política Internacional",
+   "edital": "13.10; 13.1",
+   "titulo": "Trump diz ser 'altamente improvável' novo ataque ao Irã se negociações nucleares avançarem; EUA oferecem US$ 20 milhões por informações do programa",
+   "resumo": "Em entrevista à CNN Internacional (8/11), Trump disse que retomar ataques ao Irã é 'altamente improvável' se Teerã assinar 'um acordo muito forte' sobre o programa nuclear e a reabertura do Estreito de Ormuz. O chanceler Abbas Araghchi afirmou que as negociações estão estagnadas após o 'choque' da derrota republicana nas midterms. Na sexta (6/11), os EUA ofereceram recompensa de até US$ 20 milhões por informações sobre o programa nuclear, citando relatório da AIEA de enriquecimento acima do permitido; o Irã diz que o programa é pacífico.",
+   "porque": "A guerra EUA-Irã, em curso há oito meses, testa o regime de não proliferação (TNP e AIEA) e afeta o preço do petróleo e da gasolina, tema que pesou na derrota de Trump nas midterms. O Brasil, signatário do TNP e defensor de solução negociada, tem interesse na estabilidade de Ormuz e do mercado de energia. Liga-se a desarmamento, não proliferação e Oriente Médio (edital 13.10).",
+   "fonte": "g1 (CNN Internacional)",
+   "url": "https://g1.globo.com/mundo/noticia/2026/11/08/trump-diz-que-novo-ataque-ao-ira-e-altamente-improvavel-se-negociacoes-avancarem.ghtml",
+   "img": "https://s2-g1.glbimg.com/VJAXuUhN3_EShhGoIIS_hnDEoBI=/2058x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/S/hrdq0VT7G7O8cLkvqoAg/2026-11-02t201130z-1068760776-rc2vfoa9kiae-rtrmadp-3-usa-trump-lincolnmemorial.jpg",
+   "imgCredit": "Foto: Reuters via g1",
+   "curso": false,
+   "ce": {
+    "s": "A Agência Internacional de Energia Atômica (AIEA) é o órgão da ONU responsável por verificar o cumprimento de salvaguardas do Tratado de Não Proliferação (TNP), do qual o Irã é signatário.",
+    "ans": "C",
+    "exp": "A AIEA verifica salvaguardas nucleares; o Irã é parte do TNP, e a acusação de enriquecimento acima do permitido se apoia em relatório da agência. Teerã nega e diz que o programa é pacífico."
+   }
+  },
+  {
+   "id": "2026-11-09-4",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.5",
+   "titulo": "Presidente de Israel oficializa Gadi Eisenkot, rival de Netanyahu, para tentar formar governo; apoio de partidos árabes é inédito",
+   "resumo": "Isaac Herzog oficializou em 8/11 a escolha de Gadi Eisenkot, ex-militar e líder da oposição, para formar governo após a eleição de 27/10, que não deu maioria a nenhum bloco. O bloco dele soma 67 das 120 cadeiras do Knesset com o endosso de partidos árabes-israelenses (são necessárias 61), o que cruza uma linha vermelha histórica da política israelense. Ele tem 28 dias, prorrogáveis por até 14, e promete um 'governo de emergência nacional'.",
+   "porque": "Uma troca de comando em Israel pode mudar a condução da guerra em Gaza, as negociações regionais e a relação com os EUA e a ONU, e reabrir o debate sobre dois Estados, tema de posição histórica do Brasil. Liga-se a Oriente Médio, conflito árabe-israelense e política externa brasileira (edital 13.1 e 13.5).",
+   "fonte": "g1",
+   "url": "https://g1.globo.com/mundo/noticia/2026/11/08/presidente-de-israel-oficializa-escolha-de-rival-de-netanyahu-para-tentar-formar-novo-governo.ghtml",
+   "img": "https://s2-g1.glbimg.com/bWWMe04emBEDsJWn2nST5JnJlBc=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/t/Y5miKXSeWATihokUVIkQ/2026-11-08t151350z-1839904258-rc2rjoac0237-rtrmadp-3-israel-politics.jpg",
+   "imgCredit": "Foto: Reuters via g1",
+   "curso": false,
+   "ce": {
+    "s": "Em Israel, regime parlamentarista, o presidente da República pode indicar quem tentará formar governo quando nenhum bloco alcança maioria no Knesset, que tem 120 cadeiras.",
+    "ans": "C",
+    "exp": "O presidente, chefe de Estado, escolhe o candidato com mais chances de reunir 61 das 120 cadeiras; foi o que Herzog fez ao oficializar Eisenkot."
+   }
+  },
+  {
+   "id": "2026-11-09-5",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.12",
+   "titulo": "Bombardeios sauditas em Saná deixam ao menos 22 mortos, segundo mídia ligada aos houthis, e ampliam nova frente da guerra no Oriente Médio",
+   "resumo": "A agência Saba, ligada aos houthis, informou que 22 pessoas morreram e 30 ficaram feridas em ataques da aviação saudita a residências na região de Saná em 7/11, incluindo mulheres e crianças; a Arábia Saudita não comentou e os números não foram verificados de forma independente. Houthis e forças sauditas trocam ataques diariamente desde a retomada do conflito em julho, após quatro anos de calmaria. Um bombardeio a um mercado em Taiz, em 6/11, também deixou dezenas de mortos, e cada lado culpa o outro.",
+   "porque": "A reabertura da frente iemenita amplia a guerra regional que envolve EUA, Irã e Israel, ameaça rotas marítimas do Mar Vermelho e o comércio global e testa o papel da ONU na mediação e na proteção de civis. O Brasil defende solução negociada e respeito ao direito internacional humanitário. Liga-se a conflitos, governança global e direitos humanos (edital 13.1 e 13.6).",
+   "fonte": "g1 (AFP)",
+   "url": "https://g1.globo.com/mundo/noticia/2026/11/07/bombardeios-sauditas-no-iemen-mortos-houthis.ghtml",
+   "img": "https://s2-g1.glbimg.com/uqcyOMVREfOEjpDzNCHQ0D5jnNY=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/n/rM8D94QR2zbsibz1rZhQ/afp-20261107-d6qh6nt-v1-midres-yemensaudiiranusisraelwar.jpg",
+   "imgCredit": "Foto: AFP via g1",
+   "curso": false,
+   "ce": {
+    "s": "Os houthis, que controlam Saná, enfrentam militarmente a Arábia Saudita desde a retomada do conflito no Iêmen em julho, depois de quatro anos de relativa calmaria.",
+    "ans": "C",
+    "exp": "A reportagem registra troca diária de ataques entre houthis e forças sauditas desde julho, abrindo nova frente na guerra do Oriente Médio."
+   }
+  }
+ ]
+}

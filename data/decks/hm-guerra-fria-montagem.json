@@ -1,0 +1,339 @@
+{
+ "kind": "deck",
+ "materia": "História Mundial",
+ "assunto": "A Guerra Fria: montagem do sistema (1945)",
+ "edital": "3.9",
+ "notionUrl": "https://app.notion.com/p/40d77560e5fa801d9d60dc7ffa3e0fe5",
+ "updatedAt": "2026-11-09",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Quando e quem participou da Conferência de Yalta?",
+   "a": "De 4 a 11 de fevereiro de 1945, com Churchill, Roosevelt e Stalin, na Crimeia.",
+   "exp": "Decidiu a rendição incondicional alemã e a divisão do país."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "O que foi a Declaração da Europa Libertada?",
+   "a": "Compromisso de formar governos democráticos nos territórios libertados.",
+   "exp": "Stalin aceitou, mas manipulou o processo, sobretudo na Polônia."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "Por que a Polônia foi um ponto sensível em Yalta?",
+   "a": "O governo provisório comunista deveria dar lugar a eleições livres, mas a Polônia ficou sob influência soviética.",
+   "exp": "A URSS ficou com territórios poloneses (Linha Curzon) e a Polônia ganhou áreas alemãs."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "O que foi a ponte de Remagen?",
+   "a": "A Ponte Ludendorff, capturada intacta em março de 1945, permitiu aos Aliados atravessar o Reno.",
+   "exp": "Quebrou a última barreira defensiva do III Reich."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "Quando o III Reich se rendeu oficialmente?",
+   "a": "Em 8 de maio de 1945, com o Instrumento de Rendição assinado por Keitel.",
+   "exp": "Marca o fim da guerra na Europa; Dönitz chefiava o governo de Flensburg."
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Que partido venceu a eleição britânica de 1945 e o que fez?",
+   "a": "O Partido Trabalhista, de Attlee, que criou o NHS e nacionalizou setores como ferrovias e o Banco da Inglaterra.",
+   "exp": "Trabalhistas: 393 cadeiras; conservadores: 213."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "O que foi decidido em Potsdam?",
+   "a": "Desmilitarização, desnazificação, democratização e descartelização; divisão da Alemanha e de Berlim em quatro zonas.",
+   "exp": "Também confirmou a Linha Oder-Neisse e levou ao Tribunal de Nuremberg."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "Quem esteve em Potsdam e por que Churchill saiu?",
+   "a": "Truman, Stalin e Churchill, que foi substituído por Attlee após perder a eleição.",
+   "exp": "Truman assumiu após a morte de Roosevelt, em abril."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "O que foi a Operação Paperclip?",
+   "a": "Programa secreto dos EUA para recrutar cientistas e técnicos nazistas, dando-lhes novas identidades.",
+   "exp": "Estima-se cerca de 1.600 a 1.800 especialistas; a URSS recrutou mais."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "Como o Projeto Manhattan se relaciona com Potsdam?",
+   "a": "O teste da bomba no Novo México ocorreu durante a conferência, e Truman soube do projeto só após a morte de Roosevelt.",
+   "exp": "Fortaleceu a posição dos EUA frente à URSS."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "Quais as justificativas para o uso da bomba atômica contra o Japão?",
+   "a": "Abreviar a guerra, evitar baixas americanas, limitar o papel soviético e enviar um recado de força à URSS.",
+   "exp": "Hiroshima (6/8) e Nagasaki (9/8) de 1945."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Quando e como o Japão se rendeu formalmente?",
+   "a": "Em 2 de setembro de 1945, com assinatura de Shigemitsu, encerrando a guerra no Pacífico.",
+   "exp": "Seguiu-se o Tribunal Militar Internacional para o Extremo Oriente."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Qual conferência reuniu Churchill, Roosevelt e Stalin em fevereiro de 1945?",
+   "opts": [
+    "Yalta",
+    "Potsdam",
+    "Teerã",
+    "São Francisco"
+   ],
+   "ans": 0,
+   "exp": "Yalta (4-11/2/1945) tratou da rendição alemã e da Declaração da Europa Libertada."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "Quem representava a Grã-Bretanha em Potsdam após a eleição de 1945?",
+   "opts": [
+    "Clement Attlee",
+    "Winston Churchill durante toda a conferência",
+    "Neville Chamberlain",
+    "Anthony Eden"
+   ],
+   "ans": 0,
+   "exp": "Churchill perdeu a eleição durante a conferência e foi substituído por Attlee, do Partido Trabalhista."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "Qual foi a fronteira entre Alemanha e Polônia confirmada em Potsdam?",
+   "opts": [
+    "Linha Oder-Neisse",
+    "Linha Curzon",
+    "Linha Maginot",
+    "Linha Siegfried"
+   ],
+   "ans": 0,
+   "exp": "A Linha Oder-Neisse foi confirmada em Potsdam; a Linha Curzon marcou a fronteira oriental polonesa."
+  },
+  {
+   "id": "m4",
+   "t": "m",
+   "q": "O que foi a Operação Paperclip?",
+   "opts": [
+    "Recrutamento secreto de cientistas nazistas pelos EUA",
+    "Fuga de oficiais da SS para a Argentina",
+    "Plano de reconstrução da Alemanha",
+    "Julgamento de criminosos de guerra"
+   ],
+   "ans": 0,
+   "exp": "A Paperclip deu novas identidades a especialistas do Terceiro Reich para trabalharem para os EUA."
+  },
+  {
+   "id": "m5",
+   "t": "m",
+   "q": "Que órgão julgou os principais líderes nazistas após a guerra?",
+   "opts": [
+    "Tribunal de Nuremberg",
+    "Tribunal de Tóquio",
+    "Corte Internacional de Justiça",
+    "Tribunal Penal Internacional"
+   ],
+   "ans": 0,
+   "exp": "O Tribunal de Nuremberg foi previsto em Potsdam; o de Tóquio julgou os líderes japoneses."
+  },
+  {
+   "id": "m6",
+   "t": "m",
+   "q": "Em que data o Japão assinou a rendição formal?",
+   "opts": [
+    "2 de setembro de 1945",
+    "8 de maio de 1945",
+    "6 de agosto de 1945",
+    "15 de agosto de 1945"
+   ],
+   "ans": 0,
+   "exp": "A rendição formal foi assinada em 2 de setembro de 1945; 15 de agosto foi o anúncio do imperador."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "Em Yalta, os Aliados reafirmaram a exigência de rendição incondicional da Alemanha e aceitaram a participação francesa no pós-guerra.",
+   "ans": "C",
+   "exp": "Stalin aceitou a França no arranjo de ocupação."
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "Em Yalta, a União Soviética se comprometeu a manter o governo comunista polonês sem eleições.",
+   "ans": "E",
+   "exp": "O compromisso foi de eleições livres, descumprido depois por Stalin.",
+   "trap": 2
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "Mussolini foi capturado pelos antifascistas e executado em abril de 1945.",
+   "ans": "C",
+   "exp": "O corpo foi exposto na Piazzale Loreto, em Milão."
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "A Alemanha assinou a rendição do III Reich em 8 de maio de 1945, o que encerrou a guerra no Pacífico.",
+   "ans": "E",
+   "exp": "A rendição de 8 de maio encerrou a guerra na Europa; no Pacífico, só em 2 de setembro.",
+   "trap": 4
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "O Partido Trabalhista venceu a eleição britânica de 1945 e Attlee passou a representar o Reino Unido em Potsdam.",
+   "ans": "C",
+   "exp": "Churchill perdeu a eleição e deixou a conferência."
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "Em Potsdam decidiu-se desmilitarizar, desnazificar, democratizar e descartelizar a Alemanha, dividida em zonas de ocupação.",
+   "ans": "C",
+   "exp": "Berlim e Viena também foram divididas em quatro zonas."
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "A Operação Paperclip foi um programa soviético para recrutar cientistas alemães.",
+   "ans": "E",
+   "exp": "Foi um programa secreto dos EUA; a URSS fez recrutamento paralelo.",
+   "trap": 3
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "Um dos motivos para o uso da bomba atômica foi demonstrar força à União Soviética.",
+   "ans": "C",
+   "exp": "Entre as justificativas estava o recado de poder e a disputa de influência sobre o Japão."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "Os EUA lançaram bombas atômicas sobre Hiroshima e Nagasaki em agosto de 1945, e o Japão assinou a rendição final em 2 de setembro.",
+   "ans": "C",
+   "exp": "Enola Gay em Hiroshima; assinatura de Shigemitsu em setembro."
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "A Linha Curzon foi confirmada em Potsdam como fronteira entre Alemanha e Polônia.",
+   "ans": "E",
+   "exp": "A fronteira com a Alemanha é a Linha Oder-Neisse; Curzon trata da fronteira oriental polonesa com a URSS.",
+   "trap": 6
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "1945: da vitória aliada à montagem do sistema da Guerra Fria"
+  },
+  {
+   "t": "Yalta (fev./1945)",
+   "b": "Churchill, Roosevelt e Stalin reafirmam a rendição incondicional alemã e prometem governos democráticos na Europa libertada.",
+   "l": [
+    "Declaração da Europa Libertada",
+    "Participação francesa na ocupação",
+    "Promessa de eleições na Polônia",
+    "Linha Curzon"
+   ]
+  },
+  {
+   "t": "Queda do Eixo na Europa",
+   "b": "Remagen abre o Reno, Mussolini é executado, Hitler se mata em 30 de abril e a Alemanha se rende em 8 de maio.",
+   "l": [
+    "Remagen: ponte intacta",
+    "Mussolini: 28 de abril",
+    "Hitler: bunker, 30 de abril",
+    "Keitel assina a rendição"
+   ]
+  },
+  {
+   "t": "Eleição britânica de 1945",
+   "b": "Os trabalhistas vencem Churchill e Attlee cria o NHS e nacionaliza setores-chave.",
+   "l": [
+    "Trabalhistas: 393 cadeiras",
+    "Conservadores: 213",
+    "NHS e nacionalizações"
+   ]
+  },
+  {
+   "t": "Potsdam",
+   "b": "Truman, Stalin e Churchill (depois Attlee) decidem a ocupação da Alemanha e da Áustria e reafirmam o julgamento de criminosos de guerra.",
+   "l": [
+    "Quatro Ds: desmilitarizar, desnazificar, democratizar, descartelizar",
+    "Linha Oder-Neisse",
+    "Tribunal de Nuremberg",
+    "Berlim e Viena divididas em quatro zonas"
+   ]
+  },
+  {
+   "t": "Cientistas e fugitivos nazistas",
+   "b": "EUA e URSS disputam cientistas alemães; antigos nazistas fogem para a América Latina.",
+   "l": [
+    "Paperclip: EUA, novas identidades",
+    "URSS recruta cerca de 2.000",
+    "Odessa: rede de fuga contestada",
+    "Eichmann na Argentina"
+   ]
+  },
+  {
+   "t": "Projeto Manhattan e a bomba",
+   "b": "O teste no Novo México ocorre durante Potsdam; os EUA lançam bombas em Hiroshima e Nagasaki.",
+   "l": [
+    "Truman só soube do projeto após Roosevelt",
+    "Enola Gay em Hiroshima",
+    "Recado de força à URSS"
+   ]
+  },
+  {
+   "t": "Rendição do Japão",
+   "b": "O Japão assina a rendição em 2 de setembro de 1945 e líderes são julgados no Tribunal de Tóquio.",
+   "l": [
+    "Shigemitsu assina",
+    "Tribunal Militar Internacional para o Extremo Oriente",
+    "Onoda só se rende em 1974"
+   ]
+  },
+  {
+   "t": "Rumo à bipolaridade",
+   "b": "As decisões de Yalta e Potsdam sobre fronteiras, ocupação e influência abrem caminho para a divisão da Europa e para a Guerra Fria.",
+   "l": [
+    "Polônia sob influência soviética",
+    "Alemanha dividida",
+    "ONU e Bretton Woods no pano de fundo"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Curzon (leste) x Oder-Neisse (Alemanha-Polônia)",
+    "8 de maio encerra a guerra na Europa; 2 de setembro, no Pacífico",
+    "Paperclip é programa dos EUA",
+    "Churchill saiu de Potsdam após perder a eleição",
+    "Yalta prometeu eleições na Polônia; Stalin descumpriu"
+   ]
+  }
+ ]
+}

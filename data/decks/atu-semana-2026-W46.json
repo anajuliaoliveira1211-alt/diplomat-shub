@@ -1,0 +1,174 @@
+{
+ "kind": "deck",
+ "materia": "Atualidades",
+ "assunto": "Semana de 9 a 15/nov",
+ "edital": "13",
+ "week": "2026-W46",
+ "notionUrl": "",
+ "updatedAt": "2026-11-09",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Quanto a margem paraguaia da Itaipu mantinha no Ueno Bank?",
+   "a": "Cerca de US$ 182 milhões (pouco mais de R$ 1 bilhão), em 3/11.",
+   "exp": "A margem brasileira diz não ter recursos no banco."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "O que a China prometeu comprar de soja dos EUA?",
+   "a": "25 milhões de toneladas por ano entre 2026 e 2028.",
+   "exp": "Soja americana: tarifa de 13%; brasileira: 3%."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "O que Trump condicionou para não atacar o Irã de novo?",
+   "a": "Um 'acordo muito forte' sobre o programa nuclear e a reabertura do Estreito de Ormuz.",
+   "exp": "Entrevista à CNN Internacional, 8/11."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "Quem foi escolhido para formar governo em Israel e quantos deputados o apoiam?",
+   "a": "Gadi Eisenkot, com 67 dos 120 deputados do Knesset, incluindo partidos árabes.",
+   "exp": "São necessários 61; prazo de 28 dias."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "Desde quando houthis e Arábia Saudita voltaram a trocar ataques diários?",
+   "a": "Desde julho de 2026, após quatro anos de calmaria.",
+   "exp": "Nova frente da guerra no Oriente Médio."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "A Itaipu Binacional é administrada em conjunto por Brasil e Paraguai, que dividem igualmente a energia produzida, embora cada margem tenha estrutura financeira própria.",
+   "ans": "C",
+   "exp": "Pelo Tratado de Itaipu (1973), a energia é dividida meio a meio; cada país administra suas próprias aplicações financeiras, motivo pelo qual só a margem paraguaia tinha dinheiro no Ueno Bank.",
+   "ctx": "Itaipu tinha cerca de R$ 1 bilhão no Ueno Bank, banco paraguaio suspenso, e tenta recuperar o dinheiro na Justiça"
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "O compromisso chinês de comprar soja dos EUA tende a eliminar a vantagem tarifária da soja brasileira no mercado da China, já que as tarifas sobre os dois produtos foram igualadas.",
+   "ans": "E",
+   "exp": "A soja americana segue com tarifa de 13% na China, contra 3% da brasileira; a diferença de 10 pontos preserva a competitividade do Brasil no curto prazo. O risco é de médio prazo, pela autossuficiência chinesa.",
+   "ctx": "Brasil pode perder seu maior comprador de soja? China volta a comprar dos EUA e planeja depender menos de importações"
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "A Agência Internacional de Energia Atômica (AIEA) é o órgão da ONU responsável por verificar o cumprimento de salvaguardas do Tratado de Não Proliferação (TNP), do qual o Irã é signatário.",
+   "ans": "C",
+   "exp": "A AIEA verifica salvaguardas nucleares; o Irã é parte do TNP, e a acusação de enriquecimento acima do permitido se apoia em relatório da agência. Teerã nega e diz que o programa é pacífico.",
+   "ctx": "Trump diz ser 'altamente improvável' novo ataque ao Irã se negociações nucleares avançarem; EUA oferecem US$ 20 milhões "
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "Em Israel, regime parlamentarista, o presidente da República pode indicar quem tentará formar governo quando nenhum bloco alcança maioria no Knesset, que tem 120 cadeiras.",
+   "ans": "C",
+   "exp": "O presidente, chefe de Estado, escolhe o candidato com mais chances de reunir 61 das 120 cadeiras; foi o que Herzog fez ao oficializar Eisenkot.",
+   "ctx": "Presidente de Israel oficializa Gadi Eisenkot, rival de Netanyahu, para tentar formar governo; apoio de partidos árabes "
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "Os houthis, que controlam Saná, enfrentam militarmente a Arábia Saudita desde a retomada do conflito no Iêmen em julho, depois de quatro anos de relativa calmaria.",
+   "ans": "C",
+   "exp": "A reportagem registra troca diária de ataques entre houthis e forças sauditas desde julho, abrindo nova frente na guerra do Oriente Médio.",
+   "ctx": "Bombardeios sauditas em Saná deixam ao menos 22 mortos, segundo mídia ligada aos houthis, e ampliam nova frente da guerr"
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Itaipu, soja, Irã, Israel e Iêmen: a semana de 9 a 15/nov"
+  },
+  {
+   "t": "Itaipu e o Ueno Bank",
+   "b": "Margem paraguaia da usina tinha US$ 182 mi no banco suspenso; Justiça paraguaia e crise de Peña pressionam a relação com o Brasil.",
+   "l": [
+    "Suspensão do banco: 3/11",
+    "Peña: impeachment 6/11, prisão 7/11",
+    "Margem brasileira diz não ter exposição"
+   ],
+   "n": "Tratado de Itaipu: 1973"
+  },
+  {
+   "t": "Soja: Brasil, China e EUA",
+   "b": "China compra 25 mi t/ano de soja americana (2026-28), mas quer depender menos de importações; Brasil enviou ~64 mi t em 2026.",
+   "l": [
+    "Tarifa na China: EUA 13%, Brasil 3%",
+    "Plano Quinquenal mira autossuficiência",
+    "Queda de 25% nas importações até 2030"
+   ]
+  },
+  {
+   "t": "EUA e Irã",
+   "b": "Trump diz ser 'altamente improvável' atacar de novo se houver acordo; EUA oferecem US$ 20 mi por informações do programa nuclear.",
+   "l": [
+    "Condição: acordo e reabertura de Ormuz",
+    "AIEA aponta enriquecimento acima do permitido",
+    "Irã nega e diz que o programa é pacífico"
+   ],
+   "n": "Guerra EUA-Irã tem oito meses"
+  },
+  {
+   "t": "Israel pós-eleição",
+   "b": "Herzog oficializa Eisenkot para formar governo; o bloco dele soma 67 de 120 cadeiras com apoio inédito de partidos árabes.",
+   "l": [
+    "Eleição: 27/10, sem maioria",
+    "Maioria exige 61 cadeiras",
+    "Prazo: 28 dias + até 14"
+   ]
+  },
+  {
+   "t": "Iêmen: nova frente",
+   "b": "Bombardeios sauditas em Saná mataram ao menos 22, segundo mídia houthi; conflito retomado em julho depois de quatro anos de calmaria.",
+   "l": [
+    "Dados da Saba, sem verificação independente",
+    "Taiz: mercado bombardeado em 6/11",
+    "Risco para o Mar Vermelho"
+   ]
+  },
+  {
+   "t": "Semana anterior em retrospecto",
+   "b": "Midterms democratas, Paraguai sem Peña, Newcastle em SC e cúpula Asean com Lula formam o pano de fundo do clipping desta semana.",
+   "l": [
+    "Ver deck da semana de 2 a 8/nov"
+   ]
+  },
+  {
+   "t": "COP31 em Antália",
+   "b": "Conferência de 9 a 20/11: Turquia preside, Austrália conduz as negociações e Lula chega em 10/11 para a cúpula de líderes.",
+   "l": [
+    "Cúpula de líderes: 11 e 12/11",
+    "Brasil passa a presidência da COP30",
+    "Transição Belém-Antália"
+   ]
+  },
+  {
+   "t": "Conexões com o edital",
+   "b": "As notícias ligam Itaipu e integração regional, comércio de commodities, não proliferação, Oriente Médio e governança global.",
+   "l": [
+    "Itens 2, 4, 6, 10 e 13 do edital",
+    "Brasil afetado: energia, soja e petróleo"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Itaipu: energia dividida meio a meio, finanças separadas",
+    "Soja: tarifa de 13% (EUA) vs 3% (Brasil) na China",
+    "AIEA verifica o TNP; não é o Conselho de Segurança",
+    "Israel: presidente indica, Knesset aprova (61 de 120)",
+    "Houthis x Arábia Saudita: conflito retomado em julho"
+   ]
+  }
+ ]
+}

@@ -16,7 +16,7 @@
   "hb-america-portuguesa"
  ],
  "kind": "sync",
- "lastRun": "2026-11-07",
+ "lastRun": "2026-11-09",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",
@@ -190,33 +190,41 @@
    "deck": "hm-fascismos-consolidacao",
    "edited": "2026-10-21T21:05:16.347Z"
   },
-  "40177560e5fa80cc9d8de6fa853df51f": {
-   "deck": "geo-fontes-energia-brasil",
-   "edited": "2026-10-29T13:37:26.691Z"
+  "40177560e5fa8069b6f4f65019672154": {
+   "deck": "pi-brasil-argentina",
+   "edited": "2026-10-22T23:50:00.689Z"
   },
   "40177560e5fa807fa672f902d738985a": {
    "deck": "pi-peb-5-dilma-lula3",
    "edited": "2026-10-22T23:43:16.665Z"
   },
-  "40177560e5fa8069b6f4f65019672154": {
-   "deck": "pi-brasil-argentina",
-   "edited": "2026-10-22T23:50:00.689Z"
-  },
-  "40e77560e5fa8015ae51f6b525c19628": {
-   "deck": "pi-brasil-china",
-   "edited": "2026-11-05T16:37:05.463Z"
-  },
-  "40f77560e5fa80a6a13fd2f4c305464c": {
-   "deck": "pi-brasil-india-africa-sul",
-   "edited": "2026-11-05T17:48:00.655Z"
+  "40177560e5fa80cc9d8de6fa853df51f": {
+   "deck": "geo-fontes-energia-brasil",
+   "edited": "2026-10-29T13:37:26.691Z"
   },
   "40d77560e5fa8012a885e9133051e834": {
    "deck": "hm-antecedentes-segunda-guerra",
    "edited": "2026-11-03T14:43:14.257Z"
   },
+  "40d77560e5fa801d9d60dc7ffa3e0fe5": {
+   "deck": "hm-guerra-fria-montagem",
+   "edited": "2026-11-03T16:52:05.173Z"
+  },
   "40d77560e5fa80209ed5c7abe5c50002": {
    "deck": "hm-segunda-guerra",
    "edited": "2026-11-03T15:39:00.202Z"
+  },
+  "40e77560e5fa8015ae51f6b525c19628": {
+   "deck": "pi-brasil-china",
+   "edited": "2026-11-05T16:37:05.463Z"
+  },
+  "40e77560e5fa80d5bae9c517089dea03": {
+   "deck": "pi-brasil-eua",
+   "edited": "2026-11-04T15:00:00.173Z"
+  },
+  "40f77560e5fa80a6a13fd2f4c305464c": {
+   "deck": "pi-brasil-india-africa-sul",
+   "edited": "2026-11-05T17:48:00.655Z"
   }
  }
 }
