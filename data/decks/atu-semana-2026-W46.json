@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W46",
  "notionUrl": "",
- "updatedAt": "2026-11-09",
+ "updatedAt": "2026-11-10",
  "items": [
   {
    "id": "f1",
@@ -81,16 +81,121 @@
    "ans": "C",
    "exp": "A reportagem registra troca diária de ataques entre houthis e forças sauditas desde julho, abrindo nova frente na guerra do Oriente Médio.",
    "ctx": "Bombardeios sauditas em Saná deixam ao menos 22 mortos, segundo mídia ligada aos houthis, e ampliam nova frente da guerr"
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Como é a presidência da COP31?",
+   "a": "Dividida: a sede é a Turquia (Antália) e a Austrália preside as negociações.",
+   "exp": "Foi a saída de compromisso para o impasse entre os dois países, que disputavam a presidência."
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "A COP31, realizada em Antália, tem presidência dividida: a sede é a Turquia, e a presidência das negociações fica com a Austrália.",
+   "ans": "C",
+   "exp": "O arranjo foi o acordo de compromisso entre Turquia e Austrália, que disputavam a presidência da COP31.",
+   "ctx": "Petit Journal: Nvidia e China, impasse em Israel, petróleo e Irã, ciberataque na França, COP31"
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "Qual a diferença entre a República da Irlanda e a Irlanda do Norte em relação à UE?",
+   "a": "A República da Irlanda é membro da UE e usa o euro; a Irlanda do Norte, parte do Reino Unido, saiu da UE com o Brexit e usa a libra.",
+   "exp": "Foi o ponto de partida do debate sobre reunificação e das dificuldades econômicas listadas pelo governo de Dublin."
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "Após o Brexit, a Irlanda do Norte deixou a União Europeia junto com o Reino Unido, enquanto a República da Irlanda permaneceu no bloco.",
+   "ans": "C",
+   "exp": "A Irlanda do Norte integra o Reino Unido e, portanto, saiu da UE em 2020, embora tenha regras alfandegárias especiais pelo Protocolo (Quadro de Windsor); a República da Irlanda segue na UE.",
+   "ctx": "Petit Journal: Trump recua, reunificação da Irlanda, crise no Paraguai, Rússia e satélites"
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "O que é o agrément e quem o concede?",
+   "a": "É a aprovação prévia do Estado receptor ao chefe de missão indicado pelo Estado acreditante (Convenção de Viena de 1961, art. 4); a recusa não precisa ser justificada.",
+   "exp": "No impasse com Daniel Perez, indicado de Trump, o Brasil ainda não concedeu o aval; Rubio cobrou a decisão no G7 de Paris."
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "Pela Convenção de Viena sobre Relações Diplomáticas (1961), o Estado acreditante deve obter o agrément do Estado acreditado antes de nomear um chefe de missão, e o Estado que o recusa não é obrigado a justificar a decisão.",
+   "ans": "C",
+   "exp": "O art. 4 da Convenção exige o agrément prévio para o chefe de missão e, no § 2, dispensa o Estado receptor de dar os motivos da recusa.",
+   "ctx": "Rubio diz que EUA vão manter diálogo com o Brasil, mas cobra agrément ao embaixador indicado por Trump"
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Quanto foi o superávit comercial da China em jan-out/2026 e por quê?",
+   "a": "US$ 1,04 trilhão, puxado por exportações de tecnologia ligadas à corrida global por infraestrutura de IA.",
+   "exp": "As exportações de outubro subiram 35,2%; a UE defende mais restrições comerciais contra a China."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "Um superávit comercial de US$ 1 trilhão significa que, no período, o valor das exportações da China superou o das importações, situação que costuma gerar pressão de parceiros por medidas de defesa comercial.",
+   "ans": "C",
+   "exp": "Superávit é exportações maiores que importações; o saldo chinês de US$ 1,04 tri em dez meses reforça pedidos europeus por mais restrições.",
+   "ctx": "China supera US$ 1 trilhão em superávit comercial com impulso da IA"
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "Por que as Filipinas importam para o Brasil no setor de carne suína?",
+   "a": "São o principal destino da carne suína in natura brasileira (US$ 530,9 mi de jan a set, cerca de 21% do valor exportado).",
+   "exp": "Em 9/11 anunciaram salvaguarda de 60 dias contra importações de vários fornecedores; Lula vai à cúpula da Asean no dia 15."
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "Salvaguarda é uma medida de defesa comercial, admitida no âmbito da OMC, que restringe temporariamente importações quando o aumento delas causa ou ameaça causar dano grave à produção doméstica do país importador.",
+   "ans": "C",
+   "exp": "O Acordo sobre Salvaguardas da OMC prevê essas medidas, de caráter temporário e aplicadas a todos os fornecedores, e exige investigação sobre o dano.",
+   "ctx": "Filipinas suspendem por 60 dias a importação de carne suína brasileira, às vésperas da visita de Lula"
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "Que base aérea britânica os EUA esvaziaram após ameaça iraniana em 9/11?",
+   "a": "RAF Mildenhall, onde aviões-tanque foram desviados para a Alemanha; antes, bombardeiros haviam saído de RAF Fairford.",
+   "exp": "Mildenhall e Lakenheath subiram para FPCON Charlie, segundo nível mais alto de alerta, segundo o WSJ."
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "Estados Unidos e Reino Unido estão entre os membros fundadores da OTAN, aliança militar criada em 1949.",
+   "ans": "C",
+   "exp": "A OTAN nasceu com o Tratado de Washington, de 1949; EUA e Reino Unido estão entre os 12 signatários originais.",
+   "ctx": "EUA retiram aviões de segunda base no Reino Unido após ameaça do Irã, diz Wall Street Journal"
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "O que diz o relatório Estado do Clima da OMM divulgado em 9/11?",
+   "a": "2026 deve estar entre os quatro anos mais quentes da série, com 1,47 °C acima do pré-industrial de jan a set e nível do mar recorde.",
+   "exp": "A divulgação coincide com o início da COP31, em Antália (9 a 20/11)."
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "O limite de 1,5 °C citado no Acordo de Paris (2015) refere-se ao aumento da temperatura média global em relação aos níveis pré-industriais.",
+   "ans": "C",
+   "exp": "O Acordo de Paris busca manter o aquecimento bem abaixo de 2 °C e limitá-lo a 1,5 °C sobre o período pré-industrial.",
+   "ctx": "ONU diz que 2026 será um dos quatro anos mais quentes já registrados, na abertura da COP31"
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Itaipu, soja, Irã, Israel e Iêmen: a semana de 9 a 15/nov"
+   "b": "Itaipu, China, Irã, Israel, Brasil-EUA e COP31: semana de 9 a 15/nov"
   },
   {
    "t": "Itaipu e o Ueno Bank",
-   "b": "Margem paraguaia da usina tinha US$ 182 mi no banco suspenso; Justiça paraguaia e crise de Peña pressionam a relação com o Brasil.",
+   "b": "Margem paraguaia da usina tinha US$ 182 mi no banco suspenso; Peña foi afastado e preso, e a crise pressiona a relação com o Brasil.",
    "l": [
     "Suspensão do banco: 3/11",
     "Peña: impeachment 6/11, prisão 7/11",
@@ -99,75 +204,78 @@
    "n": "Tratado de Itaipu: 1973"
   },
   {
-   "t": "Soja: Brasil, China e EUA",
-   "b": "China compra 25 mi t/ano de soja americana (2026-28), mas quer depender menos de importações; Brasil enviou ~64 mi t em 2026.",
+   "t": "China: soja e superávit",
+   "b": "China compra 25 mi t/ano de soja americana, mas quer depender menos de importações; superávit comercial chegou a US$ 1,04 tri em dez meses.",
    "l": [
     "Tarifa na China: EUA 13%, Brasil 3%",
-    "Plano Quinquenal mira autossuficiência",
-    "Queda de 25% nas importações até 2030"
+    "Exportações de outubro: +35,2%",
+    "UE defende mais restrições à China"
    ]
   },
   {
    "t": "EUA e Irã",
-   "b": "Trump diz ser 'altamente improvável' atacar de novo se houver acordo; EUA oferecem US$ 20 mi por informações do programa nuclear.",
+   "b": "Trump diz ser altamente improvável novo grande ataque se houver negociação; EUA retiraram aviões de bases no Reino Unido após ameaça iraniana.",
    "l": [
-    "Condição: acordo e reabertura de Ormuz",
-    "AIEA aponta enriquecimento acima do permitido",
-    "Irã nega e diz que o programa é pacífico"
+    "Mildenhall e Fairford esvaziadas",
+    "Bases em FPCON Charlie",
+    "França acusa Guarda Revolucionária de ciberataque"
    ],
    "n": "Guerra EUA-Irã tem oito meses"
   },
   {
    "t": "Israel pós-eleição",
-   "b": "Herzog oficializa Eisenkot para formar governo; o bloco dele soma 67 de 120 cadeiras com apoio inédito de partidos árabes.",
+   "b": "Herzog oficializa Eisenkot para formar governo; maioria exige 61 das 120 cadeiras e o apoio de partidos árabes é inédito.",
    "l": [
     "Eleição: 27/10, sem maioria",
-    "Maioria exige 61 cadeiras",
+    "Netanyahu 53 x oposição 48",
     "Prazo: 28 dias + até 14"
    ]
   },
   {
-   "t": "Iêmen: nova frente",
-   "b": "Bombardeios sauditas em Saná mataram ao menos 22, segundo mídia houthi; conflito retomado em julho depois de quatro anos de calmaria.",
+   "t": "Brasil-EUA: agrément",
+   "b": "Rubio cobra que o Brasil conceda agrément a Daniel Perez; o governo Lula queria vincular o aval ao visto da embaixadora Viotti.",
    "l": [
-    "Dados da Saba, sem verificação independente",
-    "Taiz: mercado bombardeado em 6/11",
-    "Risco para o Mar Vermelho"
+    "Pedido parado desde junho",
+    "Convenção de Viena 1961, art. 4",
+    "Recusa não precisa de justificativa"
    ]
   },
   {
-   "t": "Semana anterior em retrospecto",
-   "b": "Midterms democratas, Paraguai sem Peña, Newcastle em SC e cúpula Asean com Lula formam o pano de fundo do clipping desta semana.",
+   "t": "Filipinas e Asean",
+   "b": "Filipinas impõem salvaguarda de 60 dias à carne suína; Lula vai à cúpula da Asean no dia 15 e tenta reverter a medida.",
    "l": [
-    "Ver deck da semana de 2 a 8/nov"
+    "Maior destino da carne suína in natura",
+    "US$ 530,9 mi de jan a set",
+    "Salvaguarda: regra da OMC"
    ]
   },
   {
-   "t": "COP31 em Antália",
-   "b": "Conferência de 9 a 20/11: Turquia preside, Austrália conduz as negociações e Lula chega em 10/11 para a cúpula de líderes.",
+   "t": "COP31 e clima",
+   "b": "COP31 em Antália, de 9 a 20/11, com Turquia sede e Austrália na presidência; OMM diz que 2026 será um dos quatro anos mais quentes.",
    "l": [
-    "Cúpula de líderes: 11 e 12/11",
-    "Brasil passa a presidência da COP30",
-    "Transição Belém-Antália"
+    "Temperatura: +1,47 °C até setembro",
+    "Limite de Paris: 1,5 °C",
+    "Lula na cúpula de líderes, 11 e 12/11"
    ]
   },
   {
    "t": "Conexões com o edital",
-   "b": "As notícias ligam Itaipu e integração regional, comércio de commodities, não proliferação, Oriente Médio e governança global.",
+   "b": "As notícias ligam Itaipu e integração regional, comércio e salvaguardas, não proliferação, Oriente Médio, direito diplomático e clima.",
    "l": [
     "Itens 2, 4, 6, 10 e 13 do edital",
-    "Brasil afetado: energia, soja e petróleo"
+    "Brasil afetado: energia, soja, suínos e petróleo",
+    "Irlanda: Brexit e reunificação em debate"
    ]
   },
   {
    "k": "fim",
    "t": "Pegadinhas que caem",
    "l": [
-    "Itaipu: energia dividida meio a meio, finanças separadas",
-    "Soja: tarifa de 13% (EUA) vs 3% (Brasil) na China",
-    "AIEA verifica o TNP; não é o Conselho de Segurança",
+    "Agrément: prévio, e a recusa não precisa de motivo",
+    "Salvaguarda vale para todos os fornecedores e é temporária",
+    "Limite de 1,5 °C é sobre o período pré-industrial",
     "Israel: presidente indica, Knesset aprova (61 de 120)",
-    "Houthis x Arábia Saudita: conflito retomado em julho"
+    "Irlanda do Norte saiu da UE; República da Irlanda não"
    ]
   }
  ]
