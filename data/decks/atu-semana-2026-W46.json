@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W46",
  "notionUrl": "",
- "updatedAt": "2026-11-10",
+ "updatedAt": "2026-11-11",
  "items": [
   {
    "id": "f1",
@@ -186,85 +186,175 @@
    "ans": "C",
    "exp": "O Acordo de Paris busca manter o aquecimento bem abaixo de 2 °C e limitá-lo a 1,5 °C sobre o período pré-industrial.",
    "ctx": "ONU diz que 2026 será um dos quatro anos mais quentes já registrados, na abertura da COP31"
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "No impeachment previsto na Constituição dos EUA, a Câmara dos Representantes aprova a acusação por maioria simples, e a condenação pelo Senado exige dois terços dos senadores presentes.",
+   "ans": "C",
+   "exp": "O art. I da Constituição americana dá à Câmara o poder exclusivo de acusar (maioria simples) e ao Senado o de julgar, com condenação por dois terços dos presentes; o processo vale também para secretários (civil officers).",
+   "ctx": "Petit Journal: impeachment de Hegseth, superávit chinês, Petro, oleoduto saudita, Rússia-Ucrânia"
+  },
+  {
+   "id": "f13",
+   "t": "f",
+   "q": "Quais acusações o deputado Thomas Massie fez contra o secretário de Defesa Pete Hegseth no pedido de impeachment de 10/11?",
+   "a": "Ataques letais a barcos no Caribe sem prova de narcotráfico, a operação na Venezuela, bombardeios sem aval do Congresso e a condução da guerra com o Irã.",
+   "exp": "Massie é republicano dissidente; condenação no Senado exige dois terços."
+  },
+  {
+   "id": "c14",
+   "t": "c",
+   "s": "Pela resolução 76/262 da Assembleia Geral, adotada em 2022, o veto de um membro permanente do Conselho de Segurança obriga a Assembleia a reunir-se em até dez dias úteis para debater a situação, sem poder, contudo, anular o veto.",
+   "ans": "C",
+   "exp": "A 'iniciativa do veto', proposta por Liechtenstein após o veto russo sobre a Ucrânia, cria um debate automático; a Assembleia só faz recomendações e não revoga decisões do Conselho.",
+   "ctx": "Assembleia Geral da ONU debate o veto russo que levou ao fim da missão no Saara Ocidental"
+  },
+  {
+   "id": "f14",
+   "t": "f",
+   "q": "O que é a 'iniciativa do veto' da ONU, usada em 10/11 para debater o Saara Ocidental?",
+   "a": "A resolução 76/262 (2022) da Assembleia Geral: após cada veto no Conselho, a Assembleia se reúne em até dez dias úteis para debatê-lo.",
+   "exp": "O veto russo de 30/10 levou ao fim do mandato da Minurso (criada em 1991) em 31/10."
+  },
+  {
+   "id": "c15",
+   "t": "c",
+   "s": "A NDC apresentada pelo Brasil em 2024 prevê reduzir as emissões líquidas de gases de efeito estufa entre 59% e 67% até 2035, em relação aos níveis de 2005.",
+   "ans": "C",
+   "exp": "A meta foi anunciada na COP29, em Baku (2024), e usa 2005 como ano-base, como as NDCs brasileiras anteriores.",
+   "ctx": "Lula chega a Antália para a cúpula de líderes da COP31 com metas de desmatamento e renováveis"
+  },
+  {
+   "id": "f15",
+   "t": "f",
+   "q": "Que números Lula leva à COP31, em Antália?",
+   "a": "Queda do desmatamento, emissões líquidas de CO₂ 9% menores, 49,5% de renováveis na matriz energética (2025) e NDC de corte de 59% a 67% até 2035 (base 2005).",
+   "exp": "Cúpula de Líderes em 11 e 12/11; depois, Asean nas Filipinas."
+  },
+  {
+   "id": "c16",
+   "t": "c",
+   "s": "Durante a presidência brasileira do G20, em 2024, os ministros de Finanças aprovaram no Rio de Janeiro uma declaração sobre cooperação tributária internacional que menciona a tributação efetiva de indivíduos de altíssimo patrimônio.",
+   "ans": "C",
+   "exp": "A Declaração Ministerial do Rio (julho de 2024) foi o primeiro texto do G20 a tratar do tema, respeitando a soberania tributária de cada país.",
+   "ctx": "Brasil e Espanha assinam memorando para cooperar na tributação dos super-ricos"
+  },
+  {
+   "id": "f16",
+   "t": "f",
+   "q": "O que prevê o memorando Brasil-Espanha de 10/11 sobre super-ricos?",
+   "a": "Cooperação para tributar grandes fortunas: atuação conjunta em foros internacionais, troca de pesquisas e debate sobre microdados fiscais, por três anos, sem criar impostos.",
+   "exp": "Assinado por Dario Durigan e Arcadi España; retoma bandeira da presidência brasileira do G20 (2024)."
+  },
+  {
+   "id": "c17",
+   "t": "c",
+   "s": "O Acordo de Escazú, adotado em 2018 na Costa Rica, é o primeiro tratado ambiental da América Latina e do Caribe e o primeiro do mundo a conter disposições específicas sobre defensores de direitos humanos em questões ambientais.",
+   "ans": "C",
+   "exp": "O acordo foi adotado em Escazú em março de 2018, sob os auspícios da Cepal, e entrou em vigor em abril de 2021.",
+   "ctx": "Senado adia votação da adesão do Brasil ao Acordo de Escazú e envia o tema à Comissão de Relações Exteriores"
+  },
+  {
+   "id": "f17",
+   "t": "f",
+   "q": "O que garante o Acordo de Escazú e em que pé está a adesão brasileira?",
+   "a": "Acesso à informação, participação pública e acesso à justiça em temas ambientais, com proteção a defensores; a votação no Senado foi adiada em 10/11 e o tema foi para a CRE.",
+   "exp": "Assinado pelo Brasil em 2018; em vigor desde 2021; a Câmara aprovou o PDL 934/2025."
+  },
+  {
+   "id": "c18",
+   "t": "c",
+   "s": "Pelo princípio da nação mais favorecida (art. I do GATT), um membro da OMC que reduz a tarifa para um parceiro deve estender a mesma vantagem aos demais membros, ressalvadas exceções como as áreas de livre comércio e as uniões aduaneiras.",
+   "ans": "C",
+   "exp": "As exceções estão no art. XXIV do GATT (áreas de livre comércio e uniões aduaneiras) e na Cláusula de Habilitação (tratamento preferencial a países em desenvolvimento).",
+   "ctx": "Casa Branca promete manter tarifas mesmo após derrota nas eleições de meio de mandato; 62% dos americanos querem revogá-las"
+  },
+  {
+   "id": "f18",
+   "t": "f",
+   "q": "Como a Casa Branca reagiu à pressão contra as tarifas após as eleições de meio de mandato?",
+   "a": "Disse que vai mantê-las e que está 'apenas começando', embora 62% dos americanos apoiem revogá-las (Reuters/Ipsos).",
+   "exp": "Democratas assumem o Congresso em janeiro de 2027; o veto presidencial dificulta a revogação."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Itaipu, China, Irã, Israel, Brasil-EUA e COP31: semana de 9 a 15/nov"
+   "b": "Itaipu, China, Irã, Brasil-EUA, ONU, COP31 e tarifas: semana de 9 a 15/nov"
   },
   {
-   "t": "Itaipu e o Ueno Bank",
-   "b": "Margem paraguaia da usina tinha US$ 182 mi no banco suspenso; Peña foi afastado e preso, e a crise pressiona a relação com o Brasil.",
+   "t": "Itaipu e o Paraguai",
+   "b": "Margem paraguaia da usina tinha recursos no Ueno Bank, suspenso; Peña foi destituído e preso, e Pedro Alliana herda a negociação do Anexo C.",
    "l": [
     "Suspensão do banco: 3/11",
-    "Peña: impeachment 6/11, prisão 7/11",
-    "Margem brasileira diz não ter exposição"
+    "Peña: impeachment 6/11",
+    "Anexo C: tarifa em revisão"
    ],
    "n": "Tratado de Itaipu: 1973"
   },
   {
    "t": "China: soja e superávit",
-   "b": "China compra 25 mi t/ano de soja americana, mas quer depender menos de importações; superávit comercial chegou a US$ 1,04 tri em dez meses.",
+   "b": "Superávit chinês chegou a US$ 1,04 tri em dez meses, puxado por chips; a China volta a comprar soja americana e quer depender menos de importações.",
    "l": [
-    "Tarifa na China: EUA 13%, Brasil 3%",
-    "Exportações de outubro: +35,2%",
-    "UE defende mais restrições à China"
+    "Semicondutores: +111% nas exportações",
+    "Trégua EUA-China prorrogada",
+    "UE discute mais restrições"
    ]
   },
   {
-   "t": "EUA e Irã",
-   "b": "Trump diz ser altamente improvável novo grande ataque se houver negociação; EUA retiraram aviões de bases no Reino Unido após ameaça iraniana.",
+   "t": "Golfo, Irã e Ucrânia",
+   "b": "Trump vê improvável novo grande ataque ao Irã; houthis atingem oleoduto saudita; russos e ucranianos voltam a negociar em Abu Dhabi.",
    "l": [
-    "Mildenhall e Fairford esvaziadas",
-    "Bases em FPCON Charlie",
-    "França acusa Guarda Revolucionária de ciberataque"
-   ],
-   "n": "Guerra EUA-Irã tem oito meses"
-  },
-  {
-   "t": "Israel pós-eleição",
-   "b": "Herzog oficializa Eisenkot para formar governo; maioria exige 61 das 120 cadeiras e o apoio de partidos árabes é inédito.",
-   "l": [
-    "Eleição: 27/10, sem maioria",
-    "Netanyahu 53 x oposição 48",
-    "Prazo: 28 dias + até 14"
+    "Oleoduto Leste-Oeste: 4 mi barris/dia",
+    "Ormuz segue bloqueado",
+    "Europa fora da mesa de Abu Dhabi"
    ]
   },
   {
-   "t": "Brasil-EUA: agrément",
-   "b": "Rubio cobra que o Brasil conceda agrément a Daniel Perez; o governo Lula queria vincular o aval ao visto da embaixadora Viotti.",
+   "t": "Brasil-EUA: agrément e tarifas",
+   "b": "Rubio cobra agrément a Daniel Perez; Casa Branca promete manter tarifas mesmo com 62% dos americanos a favor de revogá-las.",
    "l": [
-    "Pedido parado desde junho",
     "Convenção de Viena 1961, art. 4",
-    "Recusa não precisa de justificativa"
+    "Midterms: derrota republicana em 3/11",
+    "Democratas no Congresso em jan/2027"
    ]
   },
   {
-   "t": "Filipinas e Asean",
-   "b": "Filipinas impõem salvaguarda de 60 dias à carne suína; Lula vai à cúpula da Asean no dia 15 e tenta reverter a medida.",
+   "t": "ONU: veto e Saara Ocidental",
+   "b": "Assembleia Geral debate o veto russo que encerrou a Minurso, pela 'iniciativa do veto' (res. 76/262), sem poder anulá-lo.",
    "l": [
-    "Maior destino da carne suína in natura",
-    "US$ 530,9 mi de jan a set",
-    "Salvaguarda: regra da OMC"
-   ]
+    "Veto: 30/10; mandato expirou 31/10",
+    "Debate em até 10 dias úteis",
+    "Marrocos x Polisário (Argélia)"
+   ],
+   "n": "Minurso: criada em 1991"
   },
   {
    "t": "COP31 e clima",
-   "b": "COP31 em Antália, de 9 a 20/11, com Turquia sede e Austrália na presidência; OMM diz que 2026 será um dos quatro anos mais quentes.",
+   "b": "Na COP31, em Antália, Lula leva queda do desmatamento e NDC de 59% a 67% até 2035; OMM diz que 2026 está entre os quatro anos mais quentes.",
    "l": [
-    "Temperatura: +1,47 °C até setembro",
-    "Limite de Paris: 1,5 °C",
-    "Lula na cúpula de líderes, 11 e 12/11"
+    "Turquia sede, Austrália negocia",
+    "Renováveis: 49,5% da matriz",
+    "Limite de Paris: 1,5 °C"
+   ]
+  },
+  {
+   "t": "PEB: impostos e Escazú",
+   "b": "Brasil e Espanha firmam memorando sobre super-ricos; Senado adia adesão ao Acordo de Escazú e manda o tema à CRE.",
+   "l": [
+    "G20 Rio 2024: tributação dos ultrarricos",
+    "Escazú: em vigor desde 2021",
+    "Tratado exige aval do Congresso (art. 49, I)"
    ]
   },
   {
    "t": "Conexões com o edital",
-   "b": "As notícias ligam Itaipu e integração regional, comércio e salvaguardas, não proliferação, Oriente Médio, direito diplomático e clima.",
+   "b": "A semana liga integração regional, comércio e OMC, reforma da ONU, conflitos no Oriente Médio, direito diplomático, clima e governança tributária.",
    "l": [
     "Itens 2, 4, 6, 10 e 13 do edital",
-    "Brasil afetado: energia, soja, suínos e petróleo",
-    "Irlanda: Brexit e reunificação em debate"
+    "Brasil afetado: energia, soja, tarifas",
+    "Filipinas: salvaguarda à carne suína"
    ]
   },
   {
@@ -272,10 +362,10 @@
    "t": "Pegadinhas que caem",
    "l": [
     "Agrément: prévio, e a recusa não precisa de motivo",
-    "Salvaguarda vale para todos os fornecedores e é temporária",
-    "Limite de 1,5 °C é sobre o período pré-industrial",
-    "Israel: presidente indica, Knesset aprova (61 de 120)",
-    "Irlanda do Norte saiu da UE; República da Irlanda não"
+    "Res. 76/262: Assembleia debate o veto, mas não o anula",
+    "NMF: exceções para áreas de livre comércio (GATT XXIV)",
+    "NDC brasileira usa 2005 como ano-base",
+    "Impeachment nos EUA: Senado condena por dois terços"
    ]
   }
  ]

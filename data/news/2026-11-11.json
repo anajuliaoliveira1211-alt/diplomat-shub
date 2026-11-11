@@ -1,0 +1,138 @@
+{
+ "kind": "news",
+ "date": "2026-11-11",
+ "cards": [
+  {
+   "id": "2026-11-11-pj76293254",
+   "pj_guid": "76293254",
+   "podcast": "Petit Journal · BP 1176 · 29 min",
+   "materia": "Política Internacional",
+   "edital": "13; 6; 13.8; 13.15",
+   "titulo": "Petit Journal: impeachment de Hegseth, superávit chinês, Petro, oleoduto saudita, Rússia-Ucrânia",
+   "resumo": "Episódio de 10/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Pedido de impeachment de Hegseth",
+     "b": "O deputado republicano Thomas Massie, dissidente do partido e derrotado nas primárias, apresentou artigos de impeachment contra o secretário de Defesa, Pete Hegseth. As acusações vão dos ataques a barcos no Caribe e da operação na Venezuela a bombardeios sem aval do Congresso e à condução da guerra com o Irã. Os apresentadores veem pouca chance agora, mas um desgaste que deve crescer com a maioria democrata na Câmara em 2027."
+    },
+    {
+     "t": "Superávit da China passa de US$ 1 tri",
+     "b": "O saldo comercial chinês chegou a US$ 1,04 trilhão de janeiro a outubro, puxado pela corrida da IA: exportações de semicondutores subiram 111%. O superávit compensa o consumo fraco e a crise imobiliária, mas deixa a China mais exposta ao protecionismo. Com os EUA, o saldo de outubro foi de US$ 32,7 bilhões, e a trégua comercial foi prorrogada por dois meses."
+    },
+    {
+     "t": "Investigação contra Petro",
+     "b": "A Suprema Corte da Colômbia abriu investigação formal contra o ex-presidente Gustavo Petro, acusado por uma ex-servidora de trocar contratos públicos por favores sexuais. O caso corre em sigilo e se soma a outras denúncias. Petro nega e diz ser alvo de perseguição política do novo presidente, Abelardo de la Espriella."
+    },
+    {
+     "t": "Fogo no oleoduto Leste-Oeste",
+     "b": "A Arábia Saudita confirmou incêndio no oleoduto que leva petróleo do Golfo ao Mar Vermelho, perto de Medina, sem impacto nas operações. A rota, de cerca de 4 milhões de barris por dia, é a válvula de escape saudita diante do bloqueio de Ormuz. Relatos atribuem o ataque aos houthis, que já atingiram o aeroporto de Riad."
+    },
+    {
+     "t": "Rússia e Ucrânia em Abu Dhabi",
+     "b": "Russos e ucranianos voltaram a negociar diretamente pela primeira vez desde fevereiro, com mediação de Steve Witkoff e Jared Kushner. Na pauta: troca de prisioneiros, primeiras etapas de desescalada e garantias de segurança. A Europa ficou de fora, e a França cobrou participação; para os apresentadores, só a Ucrânia quer os europeus à mesa."
+    },
+    {
+     "t": "Inflação nos EUA",
+     "b": "O índice de preços ao consumidor subiu 0,4% em outubro, abaixo dos 0,6% de setembro, mas acima dos 0,3% esperados. A gasolina acumula alta de 37,4% em 12 meses. Os apresentadores avaliam que aumentou a chance de o Fed voltar a subir juros."
+    }
+   ],
+   "porque": "O episódio liga política interna dos EUA e uso da força (controle do Congresso sobre a guerra), comércio e desequilíbrios globais da China, a segurança energética no Golfo com Ormuz bloqueado e as negociações sobre a guerra na Ucrânia, além da conjuntura política na Colômbia, vizinho do Brasil. São temas de Política Internacional (grandes potências, conflitos, comércio) e de Economia (inflação e juros nos EUA, que afetam câmbio e fluxo de capitais para o Brasil).",
+   "ce": {
+    "s": "No impeachment previsto na Constituição dos EUA, a Câmara dos Representantes aprova a acusação por maioria simples, e a condenação pelo Senado exige dois terços dos senadores presentes.",
+    "ans": "C",
+    "exp": "O art. I da Constituição americana dá à Câmara o poder exclusivo de acusar (maioria simples) e ao Senado o de julgar, com condenação por dois terços dos presentes; o processo vale também para secretários (civil officers)."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/impeachment-nos-eua-bp-1176--76293254",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-11-1",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.14; 13.15",
+   "titulo": "Assembleia Geral da ONU debate o veto russo que levou ao fim da missão no Saara Ocidental",
+   "resumo": "Em 10/11, a Assembleia Geral da ONU fez sessão plenária para discutir o veto da Rússia, em 30/10, a um projeto americano sobre o Saara Ocidental; um projeto russo que prorrogaria tecnicamente a Minurso também não obteve os nove votos. Sem renovação, o mandato da missão expirou em 31/10. O debate é obrigatório pela resolução 76/262 (2022), a 'iniciativa do veto', que convoca a Assembleia em até dez dias úteis após cada veto; mais de 30 países falaram e a sessão continua em 11/11. A Rússia defendeu o veto e tratou o caso como questão de descolonização, enquanto Marrocos defende seu plano de autonomia.",
+   "porque": "Atores: Rússia, EUA, Marrocos e a Frente Polisário (apoiada pela Argélia). Por quê: o Conselho se dividiu entre a proposta de autonomia marroquina, endossada pelos EUA, e a tese de autodeterminação por referendo, que deu origem à Minurso em 1991. O que muda: o caso mostra o veto encerrando uma operação de paz, e a Assembleia, sem poder de revogá-lo, usa o mecanismo de 2022 para exigir explicações. Edital: ONU, reforma do Conselho e operações de paz. O Brasil não está envolvido diretamente, mas defende há décadas a reforma do Conselho e a limitação dos efeitos paralisantes do veto. Fontes ligadas às partes: a SPS é da Polisário e o Morocco World News é marroquino.",
+   "fonte": "Morocco World News e Sahara Press Service",
+   "url": "https://www.moroccoworldnews.com/2026/11/345751/western-sahara-russia-defends-veto-renews-claims-in-support-of-algeria-backed-polisario/",
+   "img": "https://www.moroccoworldnews.com/wp-content/uploads/2026/11/russia-western-sahara-UN-General-Assembly.png",
+   "imgCredit": "Foto: Morocco World News",
+   "curso": false,
+   "ce": {
+    "s": "Pela resolução 76/262 da Assembleia Geral, adotada em 2022, o veto de um membro permanente do Conselho de Segurança obriga a Assembleia a reunir-se em até dez dias úteis para debater a situação, sem poder, contudo, anular o veto.",
+    "ans": "C",
+    "exp": "A 'iniciativa do veto', proposta por Liechtenstein após o veto russo sobre a Ucrânia, cria um debate automático; a Assembleia só faz recomendações e não revoga decisões do Conselho."
+   }
+  },
+  {
+   "id": "2026-11-11-2",
+   "materia": "Política Internacional",
+   "edital": "13.4; 2",
+   "titulo": "Lula chega a Antália para a cúpula de líderes da COP31 com metas de desmatamento e renováveis",
+   "resumo": "Lula chegou a Antália, na Turquia, na noite de 9/11 e participa da Cúpula de Líderes da COP31 nos dias 11 e 12, com dois discursos. Deve destacar a queda do desmatamento na Amazônia e no Cerrado, a redução de 9% nas emissões líquidas de CO₂ e a matriz energética com 49,5% de renováveis em 2025 (mais de 80% na elétrica). A comitiva inclui seis ministros e o embaixador André Corrêa do Lago, que presidiu a COP30 em Belém. Lula se reuniu com o presidente turco, Recep Tayyip Erdoğan, e depois segue para a cúpula da Asean, nas Filipinas.",
+   "porque": "O que aconteceu: o Brasil chega à COP31 depois de presidir a COP30 e tenta transformar esse papel em liderança climática duradoura. Atores: Lula, a presidência turca e australiana da COP31 e parceiros do fundo TFFF. Por quê: a NDC brasileira (corte de 59% a 67% até 2035) e o fundo de florestas tropicais são vitrines da política externa ambiental. O que muda: a fala de Lula testa a coerência entre metas climáticas e a expansão do petróleo. Edital: meio ambiente e política externa brasileira. O Brasil está diretamente envolvido.",
+   "fonte": "Jornal do Brasil",
+   "url": "https://www.jb.com.br/brasil/politica/2026/11/1061511-lula-participa-da-cop31-na-turquia-e-leva-avancos-ambientais-do-brasil.html",
+   "img": "https://midias.jb.com.br/_midias/jpg/2026/11/10/606x403/1_luiz_inacio_lula_da_silva_com_o_presidente_da_turquia_recep_tayyip_erdo__an-1185697.jpg",
+   "imgCredit": "Foto: Jornal do Brasil",
+   "curso": false,
+   "ce": {
+    "s": "A NDC apresentada pelo Brasil em 2024 prevê reduzir as emissões líquidas de gases de efeito estufa entre 59% e 67% até 2035, em relação aos níveis de 2005.",
+    "ans": "C",
+    "exp": "A meta foi anunciada na COP29, em Baku (2024), e usa 2005 como ano-base, como as NDCs brasileiras anteriores."
+   }
+  },
+  {
+   "id": "2026-11-11-3",
+   "materia": "Política Internacional",
+   "edital": "2; 13.1",
+   "titulo": "Brasil e Espanha assinam memorando para cooperar na tributação dos super-ricos",
+   "resumo": "Em 10/11, o ministro da Fazenda, Dario Durigan, e o secretário de Estado da Fazenda da Espanha, Arcadi España, assinaram um memorando de entendimento para ampliar a cooperação na tributação de grandes fortunas. O texto prevê atuação conjunta em fóruns internacionais por sistemas tributários mais progressivos, troca de pesquisas e informações e debate sobre acesso a microdados fiscais. Vale por três anos, renováveis, não cria impostos nem obrigações de direito internacional. Durigan disse ser 'inaceitável' que os super-ricos paguem proporcionalmente menos impostos.",
+   "porque": "O que aconteceu: dois governos progressistas formalizam uma coalizão sobre justiça tributária. Por quê: o tema foi bandeira da presidência brasileira do G20 (2024), que levou à declaração do Rio sobre cooperação tributária, e segue nas negociações da convenção-quadro da ONU sobre tributação. O que muda: o Brasil ganha um aliado europeu para levar a proposta a foros multilaterais, como a ideia de Gabriel Zucman de um imposto mínimo de 2% sobre grandes patrimônios. Edital: política externa brasileira e governança global. O Brasil é protagonista.",
+   "fonte": "Metrópoles",
+   "url": "https://www.metropoles.com/brasil/brasil-e-espanha-firmam-acordo-para-ampliar-taxacao-de-super-ricos",
+   "curso": false,
+   "ce": {
+    "s": "Durante a presidência brasileira do G20, em 2024, os ministros de Finanças aprovaram no Rio de Janeiro uma declaração sobre cooperação tributária internacional que menciona a tributação efetiva de indivíduos de altíssimo patrimônio.",
+    "ans": "C",
+    "exp": "A Declaração Ministerial do Rio (julho de 2024) foi o primeiro texto do G20 a tratar do tema, respeitando a soberania tributária de cada país."
+   }
+  },
+  {
+   "id": "2026-11-11-4",
+   "materia": "Política Internacional",
+   "edital": "13.4; 13.6",
+   "titulo": "Senado adia votação da adesão do Brasil ao Acordo de Escazú e envia o tema à Comissão de Relações Exteriores",
+   "resumo": "O PDL 934/2025, que aprova a adesão do Brasil ao Acordo de Escazú, entrou na pauta do Plenário do Senado em 10/11, mas a votação foi adiada a pedido da senadora Tereza Cristina (PP-MS). O presidente do Senado, Davi Alcolumbre, mandou o debate para a Comissão de Relações Exteriores, que deve marcar uma audiência pública em 17/11. A relatora, Teresa Leitão (PT-PE), tinha parecer favorável e destacou a proteção a defensores ambientais. A Câmara já aprovou o texto em novembro de 2025; o Brasil assinou o acordo em 2018.",
+   "porque": "O que aconteceu: a ratificação de um tratado regional travou no Senado. Atores: governo, bancada ruralista e a CRE. Por quê: o acordo garante acesso à informação, participação pública e acesso à justiça em temas ambientais, e setores do agronegócio temem efeitos sobre licenciamento. O que muda: sem aprovação do Congresso, o Brasil não pode depositar a ratificação e segue fora do tratado, em vigor desde 2021. Edital: meio ambiente, direitos humanos e o rito de incorporação de tratados (art. 49, I, da Constituição). O Brasil está diretamente envolvido.",
+   "fonte": "Agência Senado (republicado pelo NX1)",
+   "url": "https://nx1.com.br/2026/11/10/adesao-do-brasil-a-acordo-contra-crimes-ambientais-sera-analisada-pela-cre/",
+   "img": "https://nx1.com.br/wp-content/uploads/2026/11/94822ff61a9fd581d302838493e2caf4.jpeg",
+   "imgCredit": "Foto: NX1/Agência Senado",
+   "curso": false,
+   "ce": {
+    "s": "O Acordo de Escazú, adotado em 2018 na Costa Rica, é o primeiro tratado ambiental da América Latina e do Caribe e o primeiro do mundo a conter disposições específicas sobre defensores de direitos humanos em questões ambientais.",
+    "ans": "C",
+    "exp": "O acordo foi adotado em Escazú em março de 2018, sob os auspícios da Cepal, e entrou em vigor em abril de 2021."
+   }
+  },
+  {
+   "id": "2026-11-11-5",
+   "materia": "Política Internacional",
+   "edital": "6; 13.8",
+   "titulo": "Casa Branca promete manter tarifas mesmo após derrota nas eleições de meio de mandato; 62% dos americanos querem revogá-las",
+   "resumo": "Em 10/11, na cúpula B20 da Câmara de Comércio dos EUA, a Casa Branca defendeu as tarifas como instrumento de reindustrialização e segurança nacional e disse que o governo está 'apenas começando'. No mesmo dia, pesquisa Reuters/Ipsos mostrou que 62% dos americanos apoiam revogá-las, depois de os republicanos perderem as eleições de 3/11 com o custo de vida no centro do debate. A inflação ao consumidor subiu 0,4% em outubro, acima do esperado. Os democratas, que assumem o Congresso em janeiro de 2027, prometem contestar as tarifas, mas o poder de veto de Trump dificulta a revogação.",
+   "porque": "O que aconteceu: o governo Trump dobra a aposta no protecionismo apesar do custo eleitoral. Por quê: as tarifas são o eixo da estratégia de reindustrialização e da barganha com parceiros, ainda que economistas apontem que parte delas é paga pelo consumidor americano. O que muda: a disputa entre Casa Branca e Congresso define se o tarifaço sobrevive em 2027. Edital: relações Brasil-EUA e comércio internacional (OMC, nação mais favorecida). O Brasil é afetado: suas exportações aos EUA ainda enfrentam as tarifas, e o Canadá já obteve recuos que o Brasil não teve.",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+   "curso": false,
+   "ce": {
+    "s": "Pelo princípio da nação mais favorecida (art. I do GATT), um membro da OMC que reduz a tarifa para um parceiro deve estender a mesma vantagem aos demais membros, ressalvadas exceções como as áreas de livre comércio e as uniões aduaneiras.",
+    "ans": "C",
+    "exp": "As exceções estão no art. XXIV do GATT (áreas de livre comércio e uniões aduaneiras) e na Cláusula de Habilitação (tratamento preferencial a países em desenvolvimento)."
+   }
+  }
+ ]
+}
