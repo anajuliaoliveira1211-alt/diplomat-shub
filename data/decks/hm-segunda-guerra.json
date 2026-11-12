@@ -4,7 +4,7 @@
  "assunto": "A Segunda Guerra Mundial",
  "edital": "3.9–3.10",
  "notionUrl": "https://app.notion.com/p/40d77560e5fa80209ed5c7abe5c50002",
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "items": [
   {
    "id": "f1",
@@ -241,6 +241,48 @@
    "ans": "E",
    "exp": "Wannsee tratou da Solução Final; Bretton Woods foi conferência econômica.",
    "trap": 4
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "Bem vivo entre os europeus na década de 1930, o trauma da Primeira Guerra Mundial transformou-se em forte ressentimento nos países derrotados no conflito e atingidos em seu orgulho nacional, o que alimentou ideologias como o nazismo e o crescimento do militarismo alemão.",
+   "ans": "C",
+   "exp": "Certo: o 'Diktat' de Versalhes (culpa de guerra, reparações, perdas territoriais) foi explorado pelo nazismo; o revisionismo alemão é uma das causas clássicas da Segunda Guerra.",
+   "ano": "2025",
+   "prova": "Manhã · item 74",
+   "ctx": "Relativamente às duas Grandes Guerras que marcaram a história da primeira metade do século XX e os contextos que as circundavam."
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "Uma nova ordem internacional emergiu ao fim dos grandes conflitos da primeira metade do século XX, sendo uma de suas expressões mais vigorosas o nascimento da Organização das Nações Unidas, na cidade de Nova Iorque (EUA), em agosto de 1945.",
+   "ans": "E",
+   "exp": "Errado: a Carta da ONU foi assinada em São Francisco, em 26/6/1945, ao fim da conferência iniciada em abril, e entrou em vigor em 24/10/1945. Nova Iorque só depois virou sede.",
+   "trap": 4,
+   "ano": "2025",
+   "prova": "Manhã · item 75",
+   "ctx": "Relativamente às duas Grandes Guerras que marcaram a história da primeira metade do século XX e os contextos que as circundavam."
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "Entre as peculiaridades da Guerra Fria está a convivência, observada nas relações entre as duas grandes superpotências, de uma retórica conciliatória e a recusa de ambas as partes em aceitar a distribuição global de forças ao cabo da Segunda Guerra Mundial.",
+   "ans": "E",
+   "exp": "Errado: segundo a leitura de Hobsbawm, o paradoxo era o inverso: retórica apocalíptica de confronto convivendo com a aceitação, na prática, da divisão de esferas de influência fixada ao fim da guerra (Ialta, Potsdam).",
+   "trap": 2,
+   "ano": "2025",
+   "prova": "Manhã · item 81",
+   "ctx": "A respeito de processos históricos que se estabeleceram na segunda metade do século XX."
+  },
+  {
+   "id": "c14",
+   "t": "c",
+   "s": "A aliança, ainda que temporária, entre o capitalismo liberal e o comunismo foi fundamental para a derrota do regime nazista alemão na Segunda Guerra Mundial.",
+   "ans": "C",
+   "exp": "Certo: a Grande Aliança (EUA, Reino Unido e URSS), formada após a invasão alemã da URSS (1941) e a entrada dos EUA na guerra, derrotou o Eixo; Hobsbawm destaca essa aliança improvável.",
+   "ano": "2025",
+   "prova": "Manhã · item 93",
+   "ctx": "No que se refere a aspectos dos regimes fascistas e dos regimes autoritários."
   }
  ],
  "resumo": [

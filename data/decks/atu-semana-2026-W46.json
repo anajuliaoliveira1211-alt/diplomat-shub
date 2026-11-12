@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W46",
  "notionUrl": "",
- "updatedAt": "2026-11-11",
+ "updatedAt": "2026-11-12",
  "items": [
   {
    "id": "f1",
@@ -276,12 +276,72 @@
    "q": "Como a Casa Branca reagiu à pressão contra as tarifas após as eleições de meio de mandato?",
    "a": "Disse que vai mantê-las e que está 'apenas começando', embora 62% dos americanos apoiem revogá-las (Reuters/Ipsos).",
    "exp": "Democratas assumem o Congresso em janeiro de 2027; o veto presidencial dificulta a revogação."
+  },
+  {
+   "id": "c19",
+   "t": "c",
+   "s": "No encontro de Antália, Lula e Delcy Rodríguez trataram da revisão do Acordo de Complementação Econômica nº 69, instrumento comercial firmado entre o Brasil e a Venezuela.",
+   "ans": "C",
+   "exp": "Certo: o ACE 69, no marco da ALADI, rege preferências tarifárias entre Brasil e Venezuela; Lula defendeu continuar a negociação de sua revisão, e Delcy propôs uma delegação brasileira em Caracas.",
+   "ctx": "Lula e Delcy Rodríguez se reúnem em Antália e anunciam disposição de retomar plenamente as relações Brasil–Venezuela"
+  },
+  {
+   "id": "f19",
+   "t": "f",
+   "q": "Que acordo comercial Lula e Delcy Rodríguez discutiram revisar em Antália (11/11)?",
+   "a": "O Acordo de Complementação Econômica nº 69 (ACE 69), Brasil–Venezuela, no marco da ALADI.",
+   "exp": "Também falaram de tarifas sobre carros brasileiros e de investimento no petróleo; Delcy propôs uma delegação negociadora brasileira em Caracas."
+  },
+  {
+   "id": "c20",
+   "t": "c",
+   "s": "A decisão iraniana de 11/11 foi apresentada como resposta, por reciprocidade, à inclusão da Guarda Revolucionária na lista argentina de organizações terroristas.",
+   "ans": "C",
+   "exp": "Certo: Teerã invocou reciprocidade e uma lei iraniana de 2019 contra países que sigam a designação americana da IRGC; a Argentina listou a Guarda em abril de 2026.",
+   "ctx": "Irã declara a Marinha e a Força Aérea da Argentina 'organizações terroristas', em resposta à designação da Guarda Revolucionária"
+  },
+  {
+   "id": "f20",
+   "t": "f",
+   "q": "Que medida o Irã tomou contra a Argentina em 11/11, e por quê?",
+   "a": "Declarou a Marinha e a Força Aérea argentinas 'organizações terroristas', por reciprocidade.",
+   "exp": "Resposta à inclusão da Guarda Revolucionária na lista argentina (RePET) em abril; Buenos Aires liga Irã e Hezbollah ao atentado à AMIA (1994)."
+  },
+  {
+   "id": "c21",
+   "t": "c",
+   "s": "O TFFF, lançado pelo Brasil na COP30, funciona como fundo de doações a fundo perdido, sem retorno financeiro para os investidores.",
+   "ans": "E",
+   "exp": "Errado: o desenho do TFFF prevê retorno aos investidores públicos e privados; os rendimentos pagam os países que mantêm florestas tropicais em pé. Por isso Lula diz que o fundo 'não é doação'.",
+   "ctx": "Na cúpula de líderes da COP31, Lula pede aportes ao fundo de florestas tropicais (TFFF), e Noruega promete até 20% do total"
+  },
+  {
+   "id": "f21",
+   "t": "f",
+   "q": "Qual a meta do TFFF e quanto a Noruega se dispôs a aportar?",
+   "a": "US$ 10 bilhões até o fim de 2026; a Noruega, até 20% do total (cerca de US$ 2 bilhões).",
+   "exp": "O fundo, lançado pelo Brasil na COP30, tinha cerca de US$ 7,8 bilhões prometidos antes da COP31."
+  },
+  {
+   "id": "c22",
+   "t": "c",
+   "s": "O marco de financiamento apresentado pelo Brasil na COP31 cria um novo fundo multilateral para a adaptação dos sistemas de saúde à mudança do clima.",
+   "ans": "E",
+   "exp": "Errado: o próprio Ministério da Saúde ressaltou que o documento não cria fundo; ele orienta países a combinar fontes existentes (orçamento, doações, crédito concessional) para financiar as ações do Plano de Belém.",
+   "ctx": "Brasil apresenta na COP31 marco de financiamento do Plano de Ação em Saúde de Belém, feito com apoio da OMS"
+  },
+  {
+   "id": "f22",
+   "t": "f",
+   "q": "O que é o Marco de Financiamento do Plano de Ação em Saúde de Belém?",
+   "a": "Documento do Ministério da Saúde, com apoio da OMS, que orienta países a financiar a adaptação da saúde à mudança do clima, sem criar fundo novo.",
+   "exp": "Apresentado na COP31 em 10/11; estima necessidade de US$ 23 bi/ano até 2035 nos países em desenvolvimento."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Itaipu, China, Irã, Brasil-EUA, ONU, COP31 e tarifas: semana de 9 a 15/nov"
+   "b": "Itaipu, China, Irã, Venezuela, ONU, COP31 e tarifas: semana de 9 a 15/nov"
   },
   {
    "t": "Itaipu e o Paraguai",
@@ -303,12 +363,12 @@
    ]
   },
   {
-   "t": "Golfo, Irã e Ucrânia",
-   "b": "Trump vê improvável novo grande ataque ao Irã; houthis atingem oleoduto saudita; russos e ucranianos voltam a negociar em Abu Dhabi.",
+   "t": "Irã: Golfo, Argentina e Ucrânia",
+   "b": "Irã declara Marinha e Força Aérea argentinas terroristas, por reciprocidade; houthis atingem oleoduto saudita; Rússia e Ucrânia negociam em Abu Dhabi.",
    "l": [
-    "Oleoduto Leste-Oeste: 4 mi barris/dia",
-    "Ormuz segue bloqueado",
-    "Europa fora da mesa de Abu Dhabi"
+    "Argentina listou a IRGC em abril",
+    "AMIA: atentado de 1994",
+    "Oleoduto Leste-Oeste: 4 mi barris/dia"
    ]
   },
   {
@@ -331,20 +391,20 @@
    "n": "Minurso: criada em 1991"
   },
   {
-   "t": "COP31 e clima",
-   "b": "Na COP31, em Antália, Lula leva queda do desmatamento e NDC de 59% a 67% até 2035; OMM diz que 2026 está entre os quatro anos mais quentes.",
+   "t": "COP31: florestas e saúde",
+   "b": "Lula pede aportes ao TFFF (meta US$ 10 bi; Noruega até 20%) e o Brasil leva à COP31 o marco de financiamento do Plano de Saúde de Belém.",
    "l": [
-    "Turquia sede, Austrália negocia",
-    "Renováveis: 49,5% da matriz",
-    "Limite de Paris: 1,5 °C"
+    "TFFF: US$ 7,8 bi prometidos",
+    "Saúde: US$ 23 bi/ano até 2035",
+    "2026 entre os 4 anos mais quentes"
    ]
   },
   {
-   "t": "PEB: impostos e Escazú",
-   "b": "Brasil e Espanha firmam memorando sobre super-ricos; Senado adia adesão ao Acordo de Escazú e manda o tema à CRE.",
+   "t": "PEB: Venezuela, impostos, Escazú",
+   "b": "Lula e Delcy Rodríguez retomam relações e o ACE 69; Brasil e Espanha firmam memorando sobre super-ricos; Senado adia Escazú.",
    "l": [
+    "Primeiro encontro desde a queda de Maduro",
     "G20 Rio 2024: tributação dos ultrarricos",
-    "Escazú: em vigor desde 2021",
     "Tratado exige aval do Congresso (art. 49, I)"
    ]
   },
@@ -361,11 +421,11 @@
    "k": "fim",
    "t": "Pegadinhas que caem",
    "l": [
-    "Agrément: prévio, e a recusa não precisa de motivo",
     "Res. 76/262: Assembleia debate o veto, mas não o anula",
     "NMF: exceções para áreas de livre comércio (GATT XXIV)",
     "NDC brasileira usa 2005 como ano-base",
-    "Impeachment nos EUA: Senado condena por dois terços"
+    "Impeachment nos EUA: Senado condena por dois terços",
+    "TFFF remunera investidores: não é doação"
    ]
   }
  ]
