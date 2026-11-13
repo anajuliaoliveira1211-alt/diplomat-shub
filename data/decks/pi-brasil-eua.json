@@ -4,7 +4,7 @@
  "assunto": "Relações Brasil–Estados Unidos",
  "edital": "6",
  "notionUrl": "https://app.notion.com/p/40e77560e5fa80d5bae9c517089dea03",
- "updatedAt": "2026-11-09",
+ "updatedAt": "2026-11-13",
  "items": [
   {
    "id": "f1",
@@ -248,6 +248,81 @@
    "s": "O comércio do Brasil com a China é mais do que o dobro do comércio com os EUA, e o Brasil busca realocar exportações para a Ásia.",
    "ans": "C",
    "exp": "Reflexo do tarifaço e da diversificação de mercados."
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "O debate sobre a Operação Pan-Americana acabou contribuindo para que fosse concretizada uma das aspirações dos países latino-americanos: a criação de uma instituição para financiar projetos de desenvolvimento na região, o Banco Interamericano de Desenvolvimento, cujas operações tiveram início em 1960.",
+   "ans": "C",
+   "exp": "A OPA (1958), lançada por JK em carta a Eisenhower, ajudou a destravar a criação do BID (convênio de 1959, operações em 1960), velha demanda latino-americana.",
+   "ano": 2017,
+   "prova": "Prova objetiva · Q13 item 1"
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "O governo de JK buscou ativamente o apoio norte-americano para o desenvolvimento da América Latina, por meio da Operação Pan-Americana. Seus esforços, porém, encontraram resistências nos Estados Unidos da América e nas instituições financeiras internacionais. A dificuldade em obter acesso a financiamentos externos levou, inclusive, ao rompimento do Brasil com o Fundo Monetário Internacional em 1959.",
+   "ans": "C",
+   "exp": "Washington respondeu com frieza à OPA, e o FMI condicionava crédito a um plano de estabilização. Em junho de 1959, JK rompeu as negociações com o Fundo.",
+   "ano": 2017,
+   "prova": "Prova objetiva · Q13 item 2"
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "No contexto das estreitas relações entre o governo de Castelo Branco e os Estados Unidos da América, o Brasil enviou tropa para participar da Força Interamericana de Paz, criada em 1965 pela Organização dos Estados Americanos para contribuir na pacificação da República Dominicana, então abalada por uma guerra civil.",
+   "ans": "C",
+   "exp": "Sob a política dos 'círculos concêntricos' e o alinhamento de Castelo Branco, o Brasil enviou o maior contingente latino-americano e comandou a FIP da OEA em Santo Domingo (1965).",
+   "ano": 2017,
+   "prova": "Prova objetiva · Q18 item 2"
+  },
+  {
+   "id": "c14",
+   "t": "c",
+   "s": "Na década de 70 do século XIX, eram cordiais as relações entre o Império do Brasil e os Estados Unidos da América, o que se comprova pela visita de Pedro II à Exposição Universal do Centenário da Independência dos EUA, em 1876.",
+   "ans": "C",
+   "exp": "Pedro II visitou os EUA em 1876 e abriu com o presidente Grant a Exposição do Centenário, na Filadélfia: um marco das relações cordiais no Segundo Reinado.",
+   "ano": 2017,
+   "prova": "Prova objetiva · Q49 item 3"
+  },
+  {
+   "id": "c15",
+   "t": "c",
+   "s": "Devido a sua política econômica e ao caráter antiliberal de seu governo, Floriano Peixoto enfrentou a má disposição dos Estados Unidos da América em apoiar os pleitos comerciais e políticos brasileiros.",
+   "ans": "E",
+   "exp": "Foi o contrário: os EUA apoiaram Floriano, inclusive com navios na baía de Guanabara durante a Revolta da Armada (1893-94), na esteira do acordo comercial de 1891.",
+   "ano": 2017,
+   "prova": "Prova objetiva · Q50 item 1",
+   "trap": 2
+  },
+  {
+   "id": "c16",
+   "t": "c",
+   "s": "Na Conferência do Rio de Janeiro, em 1942, a proposta norte-americana de rompimento das relações dos países americanos com as potências do Eixo foi combatida por Argentina, Paraguai e Uruguai.",
+   "ans": "E",
+   "exp": "Na III Reunião de Consulta (Rio, jan. 1942), as resistências vieram sobretudo da Argentina e do Chile; a resolução final apenas 'recomendou' o rompimento. Paraguai e Uruguai romperam com o Eixo.",
+   "ano": 2017,
+   "prova": "Prova objetiva · Q58 item 1",
+   "trap": 3
+  },
+  {
+   "id": "c17",
+   "t": "c",
+   "s": "A Doutrina Monroe, anunciada em 1823, não impediu que potências europeias ocupassem territórios no continente latino-americano, tampouco que fizessem intervenções militares nos países da região.",
+   "ans": "C",
+   "exp": "Ex.: ocupação britânica das Malvinas (1833), bloqueios anglo-franceses no Prata e a intervenção francesa no México (1861-67).",
+   "ano": 2017,
+   "prova": "Prova objetiva · Q58 item 2"
+  },
+  {
+   "id": "c18",
+   "t": "c",
+   "s": "Na Primeira Conferência dos Estados Americanos, realizada em Washington em 1889, os países hispano-americanos, com exceção do México, aprovaram o projeto norte-americano de construir um canal interoceânico na América Central para conectar as costas americanas do Pacífico e do Atlântico e facilitar o comércio e as comunicações.",
+   "ans": "E",
+   "exp": "A conferência de 1889-90 tratou de união aduaneira, arbitragem e criou a União Internacional das Repúblicas Americanas; não aprovou projeto de canal (o Canal do Panamá viria com o tratado de 1903).",
+   "ano": 2017,
+   "prova": "Prova objetiva · Q58 item 4",
+   "trap": 5
   }
  ],
  "resumo": [

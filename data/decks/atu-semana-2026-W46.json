@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W46",
  "notionUrl": "",
- "updatedAt": "2026-11-12",
+ "updatedAt": "2026-11-13",
  "items": [
   {
    "id": "f1",
@@ -336,12 +336,102 @@
    "q": "O que é o Marco de Financiamento do Plano de Ação em Saúde de Belém?",
    "a": "Documento do Ministério da Saúde, com apoio da OMS, que orienta países a financiar a adaptação da saúde à mudança do clima, sem criar fundo novo.",
    "exp": "Apresentado na COP31 em 10/11; estima necessidade de US$ 23 bi/ano até 2035 nos países em desenvolvimento."
+  },
+  {
+   "id": "c23",
+   "t": "c",
+   "s": "O estreito de Bab el-Mandeb liga o mar Vermelho ao golfo de Áden e separa a Península Arábica do Chifre da África.",
+   "ans": "C",
+   "exp": "Certo: entre o Iêmen e Djibuti/Eritreia, é passagem obrigatória da rota Europa–Ásia pelo canal de Suez; por isso os ataques houthis a navios afetam o comércio mundial.",
+   "ctx": "Petit Journal: Nvidia, greve na Espanha, guerra híbrida, houthis e terras raras"
+  },
+  {
+   "id": "f23",
+   "t": "f",
+   "q": "Quem assumiu interinamente a Nvidia após a renúncia de Jensen Huang, em 12/11?",
+   "a": "Colette Kress, vice-presidente executiva e diretora financeira da empresa.",
+   "exp": "Segundo o Petit Journal, a troca de comando importa porque a Nvidia é central na disputa EUA–China por chips avançados."
+  },
+  {
+   "id": "c24",
+   "t": "c",
+   "s": "Nas conversas de Abu Dhabi, em novembro de 2026, a delegação russa aceitou sentar-se com a equipe europeia, o que viabilizou uma troca de prisioneiros.",
+   "ans": "E",
+   "exp": "Errado: Moscou se recusou a sentar com os europeus em Abu Dhabi. A troca de prisioneiros saiu das conversas Rússia–Ucrânia mediadas pelos EUA, e o Kremlin ainda condiciona a presença europeia.",
+   "ctx": "Enviados de Trump se reúnem com Putin em Moscou; Kremlin impõe condições para a Europa entrar nas negociações de paz"
+  },
+  {
+   "id": "f24",
+   "t": "f",
+   "q": "Quem a Rússia diz que precisa ser definido para a Europa entrar nas negociações sobre a Ucrânia?",
+   "a": "Um representante europeu único, e a Europa teria de 'escolher entre paz e guerra' (suspender a ajuda militar a Kiev).",
+   "exp": "Exigências de Peskov e Ushakov após a visita de Witkoff e Kushner a Putin, em 12/11; a UE discute nomear um enviado especial."
+  },
+  {
+   "id": "c25",
+   "t": "c",
+   "s": "O estreito de Ormuz liga o golfo Pérsico ao golfo de Omã e tem o Irã em sua margem norte e Omã (península de Musandam) na margem sul.",
+   "ans": "C",
+   "exp": "Certo: é o único acesso marítimo do golfo Pérsico ao oceano Índico, por isso concentra boa parte das exportações de petróleo e gás do Golfo.",
+   "ctx": "Petróleo sobe mais de 3% com navios atingidos em Ormuz, e Trump diz que não precisa de acordo com o Irã"
+  },
+  {
+   "id": "f25",
+   "t": "f",
+   "q": "Quanto o Brent subiu em 12/11 e por quê?",
+   "a": "3,3%, para US$ 95,82, após navios atingidos em Ormuz e a declaração de Trump de que não precisa de acordo com o Irã.",
+   "exp": "Mesmo assim, o Brent acumulava queda de cerca de 20% em novembro."
+  },
+  {
+   "id": "c26",
+   "t": "c",
+   "s": "O Brasil integra a APEC desde 1989, ao lado de Chile, Peru e México, as demais economias latino-americanas do fórum.",
+   "ans": "E",
+   "exp": "Errado: o Brasil não é membro da APEC. As economias latino-americanas do fórum são Chile, Peru e México, todas banhadas pelo Pacífico.",
+   "ctx": "China confirma que Xi Jinping presidirá a cúpula da APEC em Shenzhen, em 18 e 19 de novembro"
+  },
+  {
+   "id": "f26",
+   "t": "f",
+   "q": "Quais economias latino-americanas fazem parte da APEC?",
+   "a": "Chile, Peru e México. O Brasil não é membro.",
+   "exp": "A 33ª cúpula ocorre em Shenzhen, em 18 e 19/11, presidida por Xi Jinping; é a terceira na China (2001, 2014, 2026)."
+  },
+  {
+   "id": "c27",
+   "t": "c",
+   "s": "A Força de Supressão de Gangues no Haiti foi autorizada pelo Conselho de Segurança da ONU em 2025 e sucedeu a Missão Multinacional de Apoio à Segurança liderada pelo Quênia.",
+   "ans": "C",
+   "exp": "Certo: a resolução de 30/9/2025 transformou a missão liderada pelo Quênia na GSF, com mandato para neutralizar, isolar e dissuadir gangues. Não é uma operação de paz com capacetes azuis.",
+   "ctx": "Polícia do Haiti e tropas de El Salvador retomam das gangues o Estádio Nacional, em Porto Príncipe"
+  },
+  {
+   "id": "f27",
+   "t": "f",
+   "q": "O que é a Força de Supressão de Gangues (GSF) no Haiti?",
+   "a": "Força multinacional autorizada pelo CSNU em 30/9/2025 para neutralizar gangues, sucessora da missão liderada pelo Quênia.",
+   "exp": "Em 12/11, polícia haitiana e tropas de El Salvador retomaram o Estádio Sylvio Cator; a GSF se distancia da ação salvadorenha."
+  },
+  {
+   "id": "c28",
+   "t": "c",
+   "s": "Pelo Regulamento Sanitário Internacional, cabe ao diretor-geral da OMS declarar uma emergência de saúde pública de importância internacional, depois de ouvir um Comitê de Emergência.",
+   "ans": "C",
+   "exp": "Certo: o RSI (2005) dá ao diretor-geral a decisão, com parecer do Comitê de Emergência; desde a revisão de 2024 existe também o nível de 'emergência pandêmica'.",
+   "ctx": "Surto de ebola na RD Congo passa de 11 mil casos e é o mais letal da história do país"
+  },
+  {
+   "id": "f28",
+   "t": "f",
+   "q": "Qual vírus causa o surto de ebola de 2026 na RD Congo e qual o problema dele?",
+   "a": "O Bundibugyo, que não tem vacina nem tratamento aprovados.",
+   "exp": "Mais de 11 mil casos e 5,3 mil mortes; a OMS apoia testes de vacinas de Oxford/Serum Institute e da Moderna."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Itaipu, China, Irã, Venezuela, ONU, COP31 e tarifas: semana de 9 a 15/nov"
+   "b": "Paraguai, China, Irã, Ucrânia, ONU, COP31, Haiti e ebola: semana de 9 a 15/nov"
   },
   {
    "t": "Itaipu e o Paraguai",
@@ -354,21 +444,33 @@
    "n": "Tratado de Itaipu: 1973"
   },
   {
-   "t": "China: soja e superávit",
-   "b": "Superávit chinês chegou a US$ 1,04 tri em dez meses, puxado por chips; a China volta a comprar soja americana e quer depender menos de importações.",
+   "t": "China: superávit, chips e APEC",
+   "b": "Superávit chinês chega a US$ 1,04 tri em dez meses; Pequim restringe terras raras e sedia a APEC em Shenzhen (18–19/11), com possível encontro Xi–Trump.",
    "l": [
-    "Semicondutores: +111% nas exportações",
-    "Trégua EUA-China prorrogada",
-    "UE discute mais restrições"
+    "Semicondutores puxam as exportações",
+    "Ítrio: preço disparou fora da China",
+    "APEC: Chile, Peru e México; Brasil não",
+    "Brasil: alternativa em minerais críticos"
    ]
   },
   {
-   "t": "Irã: Golfo, Argentina e Ucrânia",
-   "b": "Irã declara Marinha e Força Aérea argentinas terroristas, por reciprocidade; houthis atingem oleoduto saudita; Rússia e Ucrânia negociam em Abu Dhabi.",
+   "t": "Irã, Golfo e Ormuz",
+   "b": "Irã declara forças argentinas terroristas; houthis atacam a Arábia Saudita; navios atingidos em Ormuz fazem o Brent subir 3,3%, a US$ 95,82.",
    "l": [
     "Argentina listou a IRGC em abril",
-    "AMIA: atentado de 1994",
-    "Oleoduto Leste-Oeste: 4 mi barris/dia"
+    "Trump: 'não precisamos de acordo'",
+    "Riad pede à UE listar os houthis",
+    "Teerã debate sair do TNP"
+   ]
+  },
+  {
+   "t": "Ucrânia: quem senta à mesa",
+   "b": "Após conversas em Abu Dhabi, Witkoff e Kushner veem Putin; Moscou condiciona a entrada europeia ao fim da ajuda a Kiev e a um representante único.",
+   "l": [
+    "Abu Dhabi: só troca de prisioneiros",
+    "Putin quer rever a segurança europeia",
+    "UE discute enviado especial (13/11)",
+    "Brasil e China: grupo Amigos da Paz"
    ]
   },
   {
@@ -381,22 +483,23 @@
    ]
   },
   {
-   "t": "ONU: veto e Saara Ocidental",
-   "b": "Assembleia Geral debate o veto russo que encerrou a Minurso, pela 'iniciativa do veto' (res. 76/262), sem poder anulá-lo.",
+   "t": "ONU: Saara Ocidental e Haiti",
+   "b": "Assembleia Geral debate o veto russo que encerrou a Minurso; no Haiti, polícia e tropas salvadorenhas retomam o Estádio Nacional das gangues.",
    "l": [
-    "Veto: 30/10; mandato expirou 31/10",
-    "Debate em até 10 dias úteis",
-    "Marrocos x Polisário (Argélia)"
-   ],
-   "n": "Minurso: criada em 1991"
+    "Iniciativa do veto: res. 76/262",
+    "GSF autorizada pelo CSNU em 2025",
+    "El Salvador: ~2 mil soldados",
+    "Brasil comandou a MINUSTAH (2004–17)"
+   ]
   },
   {
-   "t": "COP31: florestas e saúde",
-   "b": "Lula pede aportes ao TFFF (meta US$ 10 bi; Noruega até 20%) e o Brasil leva à COP31 o marco de financiamento do Plano de Saúde de Belém.",
+   "t": "Clima e saúde global",
+   "b": "Lula pede aportes ao TFFF na COP31; Brasil leva o plano de saúde de Belém; ebola na RD Congo passa de 11 mil casos e pressiona o anexo PABS.",
    "l": [
     "TFFF: US$ 7,8 bi prometidos",
     "Saúde: US$ 23 bi/ano até 2035",
-    "2026 entre os 4 anos mais quentes"
+    "Ebola Bundibugyo: sem vacina aprovada",
+    "PABS: sem ele, acordo não vigora"
    ]
   },
   {
@@ -409,23 +512,14 @@
    ]
   },
   {
-   "t": "Conexões com o edital",
-   "b": "A semana liga integração regional, comércio e OMC, reforma da ONU, conflitos no Oriente Médio, direito diplomático, clima e governança tributária.",
-   "l": [
-    "Itens 2, 4, 6, 10 e 13 do edital",
-    "Brasil afetado: energia, soja, tarifas",
-    "Filipinas: salvaguarda à carne suína"
-   ]
-  },
-  {
    "k": "fim",
    "t": "Pegadinhas que caem",
    "l": [
     "Res. 76/262: Assembleia debate o veto, mas não o anula",
-    "NMF: exceções para áreas de livre comércio (GATT XXIV)",
-    "NDC brasileira usa 2005 como ano-base",
-    "Impeachment nos EUA: Senado condena por dois terços",
-    "TFFF remunera investidores: não é doação"
+    "Brasil não é membro da APEC",
+    "GSF no Haiti não é missão de capacetes azuis",
+    "ESPII é declarada pelo diretor-geral da OMS",
+    "Impeachment nos EUA: Senado condena por dois terços"
    ]
   }
  ]
