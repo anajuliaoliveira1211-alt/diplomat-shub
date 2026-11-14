@@ -1,0 +1,138 @@
+{
+ "kind": "news",
+ "date": "2026-11-14",
+ "cards": [
+  {
+   "id": "2026-11-14-pj76337229",
+   "pj_guid": "76337229",
+   "podcast": "Petit Journal · Invest 137 · 18 min",
+   "materia": "Economia",
+   "edital": "6; 13.8; 13.13",
+   "titulo": "Petit Journal: pane da Microsoft, nuvem, big techs e cibersegurança",
+   "resumo": "Episódio de 13/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Microsoft 365 fora do ar por quase um dia",
+     "b": "Desde a tarde de 12/11, Outlook, Teams e outros serviços do Microsoft 365 ficaram fora do ar ou instáveis em dezenas de países, e a pane ainda não tinha acabado na manhã de 13/11. A empresa disse que um processo que abre conexões seguras ficou sobrecarregado e fez os servidores pararem de responder."
+    },
+    {
+     "t": "Falha técnica ou ataque?",
+     "b": "A Microsoft nega ataque hacker. Os apresentadores lembram que a empresa teria motivo para negar, porque admitir um ataque mostraria vulnerabilidade, e situam o caso num momento de guerra híbrida e de ataques a sistemas em nuvem."
+    },
+    {
+     "t": "Poucas empresas sustentam a economia digital",
+     "b": "Governos, companhias aéreas, bancos e pequenas empresas dependem de um punhado de big techs (Microsoft, Google, Amazon, Apple). Quando uma delas cai, parte grande da atividade econômica para, inclusive em órgãos públicos de países como EUA, Japão e Austrália."
+    },
+    {
+     "t": "O custo de se proteger",
+     "b": "Para reduzir o risco, empresas teriam de investir em redundância (guardar dados em mais de um provedor) e em mais camadas de segurança. Isso tira parte da eficiência que a nuvem prometia e mexe com seguradoras e com a demanda por cibersegurança."
+    },
+    {
+     "t": "IA e confiança no sistema",
+     "b": "Conectores de ferramentas de IA ligados ao Microsoft 365 também falharam. Para os apresentadores, a IA aumenta a capacidade de ataques cibernéticos, e a dúvida sobre quando virá a próxima pane passa a pesar nas decisões econômicas."
+    }
+   ],
+   "porque": "A pane mostra a concentração de infraestrutura digital crítica em poucas empresas americanas, tema que liga economia (cadeias globais, custos, seguros) e segurança (crimes cibernéticos, guerra híbrida, soberania digital). O Brasil, que usa esses serviços na administração pública e no setor privado, discute nuvem soberana e regulação de plataformas, e o edital cobra crimes cibernéticos de alcance global (13.13).",
+   "ce": {
+    "s": "Ao comentar a pane do Microsoft 365 iniciada em 12/11/2026, a Microsoft afirmou que não havia indícios de que a falha tivesse sido causada por atividade maliciosa.",
+    "ans": "C",
+    "exp": "Certo: a empresa atribuiu a falha a um problema técnico (sobrecarga de um processo de conexões seguras) e disse não ter encontrado sinal de ataque, embora a causa de fundo ainda não estivesse confirmada."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/o-apagao-da-microsoft-invest-137--76337229",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-14-1",
+   "materia": "Política Internacional",
+   "edital": "10.1; 2",
+   "titulo": "Em Manila, na primeira visita de um presidente brasileiro às Filipinas, Lula fala em 'novo capítulo' com a Ásia",
+   "resumo": "Em 14/11, depois de se reunir com Ferdinand Marcos Jr., Lula disse que o Brasil quer diversificar parcerias e se reposicionar nas cadeias globais de valor; é a primeira visita de um presidente brasileiro às Filipinas, no ano em que os dois países completam 80 anos de relações. O comércio bilateral chega a quase US$ 3 bilhões, e o tema sensível é a suspensão filipina das importações de carne suína por 60 dias a partir de 24/11: as Filipinas são o principal destino da carne suína brasileira (25,9% das exportações em 2025). Lula também ofereceu cooperação em biocombustíveis, citou minerais críticos e semicondutores, e no domingo (15) participa como convidado da 49ª Cúpula da Asean.",
+   "porque": "Atores: Brasil, Filipinas (presidente da Asean em 2026) e o bloco do Sudeste Asiático. Por quê: o Brasil pediu em janeiro para subir de 'parceiro de diálogo setorial' a 'parceiro de diálogo' da Asean e busca mercados fora do eixo EUA–China. O que muda: abre um canal político com um bloco de quase 700 milhões de pessoas e pode destravar a carne suína (o ministro da Agricultura negocia em 16/11). Edital: PEB e relações com a Ásia (10.1), diversificação de parcerias e comércio agrícola. O Brasil é o protagonista e o interessado direto.",
+   "fonte": "CNN Brasil",
+   "url": "https://www.cnnbrasil.com.br/politica/na-1a-visita-de-estado-apos-reeleicao-lula-critica-extremismo-e-ingerencia/",
+   "img": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/RICARDO-STUCKERT-Presidencia-da-Republica.png?w=1200&h=675&crop=1",
+   "imgCredit": "Foto: CNN Brasil",
+   "curso": false,
+   "ce": {
+    "s": "Na Asean, o Brasil já tem o status de parceiro de diálogo pleno e participa da cúpula de Manila como membro observador.",
+    "ans": "E",
+    "exp": "Errado: o Brasil é parceiro de diálogo setorial e pediu em 2026 para ser elevado a parceiro de diálogo; vai à cúpula como convidado. A Asean não tem a categoria de 'membro observador' para o Brasil (Timor-Leste foi observador até virar membro, em 2025)."
+   }
+  },
+  {
+   "id": "2026-11-14-2",
+   "materia": "Política Internacional",
+   "edital": "13.10",
+   "titulo": "AIEA diz que a falta de dados sobre o urânio do Irã é 'preocupação de proliferação' e pede volta urgente dos inspetores",
+   "resumo": "Em relatório enviado aos Estados-membros em 13/11, a Agência Internacional de Energia Atômica afirmou que segue sem verificar a quantidade, a composição e o paradeiro do estoque iraniano de urânio enriquecido a 60% (cerca de 440,9 kg antes dos ataques de junho de 2025) e que perdeu há mais de um ano a 'continuidade do conhecimento' sobre ele. A agência diz estar especialmente preocupada com uma usina subterrânea de enriquecimento em Isfahan, declarada por Teerã em 2025, cuja localização exata ela não conhece. O Irã respondeu que as inspeções não podem ser retomadas enquanto houver ameaça de novos ataques; o Conselho de Governadores se reúne em Viena de 18 a 20/11.",
+   "porque": "Atores: AIEA (Rafael Grossi), Irã, EUA e Israel, que atacaram instalações iranianas. Por quê: desde os bombardeios, Teerã limitou o acesso dos inspetores e condiciona a cooperação ao fim das ameaças. O que muda: o relatório embasa possível resolução do Conselho contra o Irã e alimenta o debate sobre novos ataques ou sobre a saída iraniana do TNP. Edital: desarmamento e não proliferação (13.10), salvaguardas e TNP. O Brasil defende o uso pacífico da energia nuclear pelo Irã e negociou com a Turquia a Declaração de Teerã (2010).",
+   "fonte": "Al Jazeera (com AFP, AP e Reuters)",
+   "url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260914__C8976PV__v1__HighRes__AustriaUnIaeaBoardGovernorsMeeting-1794560824.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera",
+   "curso": false,
+   "ce": {
+    "s": "As salvaguardas da AIEA servem para verificar que materiais nucleares declarados por um Estado não sejam desviados para armas, e o TNP obriga os Estados não nuclearmente armados a aceitá-las.",
+    "ans": "C",
+    "exp": "Certo: pelo art. III do TNP, cada Estado não nuclearmente armado deve concluir com a AIEA um acordo de salvaguardas abrangentes. É com base nisso que a agência cobra acesso do Irã."
+   }
+  },
+  {
+   "id": "2026-11-14-3",
+   "materia": "Política Internacional",
+   "edital": "2; 13.10",
+   "titulo": "Lula recebe de Pezeshkian relato das negociações Irã–EUA e defende saída negociada e livre navegação em Ormuz",
+   "resumo": "Em 12/11, em Antália, à margem da COP31, Lula se reuniu com o presidente do Irã, Masoud Pezeshkian, que o atualizou sobre as conversas com os EUA mediadas por Catar e Paquistão. Segundo o Planalto, Lula defendeu solução pacífica, a livre navegação no estreito de Ormuz e o direito iraniano ao uso pacífico da energia nuclear, lembrando a Declaração de Teerã de 2010; também falaram em ampliar o comércio (US$ 3 bilhões em 2025) e em importar mais fertilizantes iranianos. A Presidência iraniana divulgou falas mais duras atribuídas a Lula contra os EUA, que o Planalto não confirmou.",
+   "porque": "Atores: Brasil, Irã e, ao fundo, EUA, Catar e Paquistão como mediadores. Por quê: a guerra e o bloqueio naval americano encarecem petróleo e fertilizantes, insumos de que o agro brasileiro depende. O que muda: o Brasil reforça a linha de diálogo com Teerã num momento em que negocia tarifas e agenda com Washington, o que pode gerar atrito. Edital: PEB, Oriente Médio, não proliferação e segurança energética e alimentar. O Brasil está diretamente envolvido.",
+   "fonte": "Jornal de Brasília",
+   "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-se-reune-com-presidente-do-ira-e-defende-saida-diplomatica-para-guerra/",
+   "img": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/21131907/lula-15.jpg",
+   "imgCredit": "Foto: Jornal de Brasília",
+   "curso": false,
+   "ce": {
+    "s": "A Declaração de Teerã, de 2010, negociada por Brasil e Turquia com o Irã, previa a troca de urânio levemente enriquecido iraniano por combustível para um reator de pesquisa, e foi seguida pela Resolução 1929 do Conselho de Segurança, que ampliou as sanções.",
+    "ans": "C",
+    "exp": "Certo: o acordo previa enviar 1.200 kg de urânio a 3,5% à Turquia em troca de combustível a 20% para o reator de Teerã. As potências não o aceitaram, e em junho de 2010 o CSNU aprovou a Resolução 1929, com votos contrários de Brasil e Turquia."
+   }
+  },
+  {
+   "id": "2026-11-14-4",
+   "materia": "Política Internacional",
+   "edital": "10.1; 13.1",
+   "titulo": "Às vésperas da cúpula da Asean, Filipinas dizem que o código de conduta do Mar do Sul da China está '70% concluído'",
+   "resumo": "Em 13/11, o porta-voz da chancelaria filipina para a Asean, Dominic Xavier Imperial, disse que as negociações do Código de Conduta entre a Asean e a China estão 70% concluídas, mas que os 30% restantes envolvem pontos cruciais e não há data para o fim. A meta de concluir o código em três anos foi fixada pelos chanceleres em 2023, e o presidente Marcos Jr. queria fechá-lo na presidência filipina do bloco, em 2026. Manila quer um código que oriente o comportamento de todas as partes e respeite os direitos de terceiros países; a cúpula Asean–China marca os cinco anos da Parceria Estratégica Abrangente.",
+   "porque": "Atores: China e países da Asean com reivindicações no Mar do Sul da China (Filipinas, Vietnã, Malásia, Brunei), além dos EUA, cujo presidente vai à cúpula. Por quê: a China reivindica quase todo o mar pela 'linha de nove traços', rejeitada pela sentença arbitral de 2016, e os choques entre navios chineses e filipinos se repetem. O que muda: um código vinculante limitaria o uso da força numa rota por onde passa parte grande do comércio mundial; sem ele, o risco de crise continua. Edital: Ásia e direito do mar (CNUDM). O Brasil, que busca se aproximar da Asean, defende a solução pacífica e depende dessa rota para exportar à Ásia.",
+   "fonte": "The Manila Times",
+   "url": "https://www.manilatimes.net/2026/11/14/news/south-china-sea-conduct-code-70-done/2469693",
+   "img": "https://manilatimes.net/manilatimes/uploads/images/2026/11/13/1307215.jpg",
+   "imgCredit": "Foto: The Manila Times",
+   "curso": false,
+   "ce": {
+    "s": "Em 2016, o tribunal arbitral constituído com base na Convenção das Nações Unidas sobre o Direito do Mar concluiu que as reivindicações chinesas de direitos históricos dentro da 'linha de nove traços' não têm base jurídica, decisão que a China não reconhece.",
+    "ans": "C",
+    "exp": "Certo: no caso Filipinas v. China, o tribunal (com secretaria da Corte Permanente de Arbitragem) decidiu a favor de Manila em julho de 2016. Pequim não participou do processo e rejeita a sentença."
+   }
+  },
+  {
+   "id": "2026-11-14-5",
+   "materia": "Política Internacional",
+   "edital": "10.1; 13.8",
+   "titulo": "China adverte os EUA contra novos controles de exportação de chips, a dias do encontro Xi–Trump na APEC",
+   "resumo": "Em 13/11, a porta-voz da chancelaria chinesa, Mao Ning, disse que Pequim 'sempre se opôs ao abuso de controles de exportação', em resposta a parlamentares americanos que pedem restringir mais a venda de equipamentos de semicondutores à China. O presidente da Câmara dos EUA, Mike Johnson, afirmou haver apoio crescente no Congresso para endurecer as regras. A China pediu que os dois lados cumpram o consenso dos chefes de Estado e preservem a trégua comercial, prorrogada até 10/1/2027.",
+   "porque": "Atores: governo chinês, Congresso e Casa Branca. Por quê: Washington usa controles de exportação para frear o avanço chinês em IA e chips avançados, e Pequim responde com restrições a terras raras. O que muda: novos controles podem azedar o encontro Xi–Trump previsto para a APEC e ameaçar a trégua tarifária. Edital: rivalidade sino-americana, comércio e cadeias globais de suprimento (13.8). O Brasil é afetado pelo efeito sobre o comércio mundial e pelas tarifas, e pode ganhar espaço como fornecedor alternativo de minerais críticos.",
+   "fonte": "CBS News / AFP (via Yahoo News)",
+   "url": "https://www.yahoo.com/news/politics/articles/china-warns-against-u-export-151938457.html",
+   "img": "https://s.yimg.com/lo/mysterio/api/70fd5d1deea4cbc2323a146d0fa984b0d2174e12f478e023025d5ff4fcf1a565/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F12dbf27a9020616cb428069e34b1d3f6.jpg",
+   "imgCredit": "Foto: CBS News",
+   "curso": false,
+   "ce": {
+    "s": "Os controles de exportação de semicondutores avançados adotados pelos EUA contra a China são aplicados por meio de decisão do Órgão de Solução de Controvérsias da OMC.",
+    "ans": "E",
+    "exp": "Errado: são medidas unilaterais do Departamento de Comércio (BIS), justificadas por segurança nacional. A China questiona esses controles na OMC, mas eles não decorrem de nenhuma decisão do órgão, que está paralisado desde 2019 pela falta de juízes no Órgão de Apelação."
+   }
+  }
+ ]
+}

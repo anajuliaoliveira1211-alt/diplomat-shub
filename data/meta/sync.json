@@ -16,10 +16,11 @@
   "hb-america-portuguesa",
   "hm-revolucoes-russas",
   "hm-segunda-guerra",
-  "pi-brasil-eua"
+  "pi-brasil-eua",
+  "hm-revolucao-francesa"
  ],
  "kind": "sync",
- "lastRun": "2026-11-13",
+ "lastRun": "2026-11-14",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",

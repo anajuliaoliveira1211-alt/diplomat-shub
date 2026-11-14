@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W46",
  "notionUrl": "",
- "updatedAt": "2026-11-13",
+ "updatedAt": "2026-11-14",
  "items": [
   {
    "id": "f1",
@@ -426,12 +426,102 @@
    "q": "Qual vírus causa o surto de ebola de 2026 na RD Congo e qual o problema dele?",
    "a": "O Bundibugyo, que não tem vacina nem tratamento aprovados.",
    "exp": "Mais de 11 mil casos e 5,3 mil mortes; a OMS apoia testes de vacinas de Oxford/Serum Institute e da Moderna."
+  },
+  {
+   "id": "c29",
+   "t": "c",
+   "s": "Ao comentar a pane do Microsoft 365 iniciada em 12/11/2026, a Microsoft afirmou que não havia indícios de que a falha tivesse sido causada por atividade maliciosa.",
+   "ans": "C",
+   "exp": "Certo: a empresa atribuiu a falha a um problema técnico (sobrecarga de um processo de conexões seguras) e disse não ter encontrado sinal de ataque, embora a causa de fundo ainda não estivesse confirmada.",
+   "ctx": "Petit Journal: pane da Microsoft, nuvem, big techs e cibersegurança"
+  },
+  {
+   "id": "f29",
+   "t": "f",
+   "q": "Qual foi a causa alegada pela Microsoft para a pane do Microsoft 365 iniciada em 12/11/2026?",
+   "a": "A sobrecarga de um processo responsável por abrir conexões seguras, que fez os servidores pararem de responder; a empresa negou ataque.",
+   "exp": "A pane atingiu Outlook, Teams e outros serviços em dezenas de países e expôs a concentração da infraestrutura digital em poucas big techs."
+  },
+  {
+   "id": "c30",
+   "t": "c",
+   "s": "Na Asean, o Brasil já tem o status de parceiro de diálogo pleno e participa da cúpula de Manila como membro observador.",
+   "ans": "E",
+   "exp": "Errado: o Brasil é parceiro de diálogo setorial e pediu em 2026 para ser elevado a parceiro de diálogo; vai à cúpula como convidado. A Asean não tem a categoria de 'membro observador' para o Brasil (Timor-Leste foi observador até virar membro, em 2025).",
+   "ctx": "Em Manila, na primeira visita de um presidente brasileiro às Filipinas, Lula fala em 'novo capítulo' com a Ásia"
+  },
+  {
+   "id": "f30",
+   "t": "f",
+   "q": "Que status o Brasil busca na Asean e qual tem hoje?",
+   "a": "Quer ser 'parceiro de diálogo'; hoje é 'parceiro de diálogo setorial'.",
+   "exp": "O pedido foi formalizado em janeiro de 2026. Lula fez em Manila a primeira visita de um presidente brasileiro às Filipinas e vai à 49ª Cúpula como convidado."
+  },
+  {
+   "id": "c31",
+   "t": "c",
+   "s": "As salvaguardas da AIEA servem para verificar que materiais nucleares declarados por um Estado não sejam desviados para armas, e o TNP obriga os Estados não nuclearmente armados a aceitá-las.",
+   "ans": "C",
+   "exp": "Certo: pelo art. III do TNP, cada Estado não nuclearmente armado deve concluir com a AIEA um acordo de salvaguardas abrangentes. É com base nisso que a agência cobra acesso do Irã.",
+   "ctx": "AIEA diz que a falta de dados sobre o urânio do Irã é 'preocupação de proliferação' e pede volta urgente dos inspetores"
+  },
+  {
+   "id": "f31",
+   "t": "f",
+   "q": "Qual estoque iraniano a AIEA não consegue verificar desde junho de 2025?",
+   "a": "Cerca de 440,9 kg de urânio enriquecido a 60%.",
+   "exp": "O relatório de 13/11/2026 fala em 'preocupação de proliferação' e cita a usina subterrânea de Isfahan; o Conselho de Governadores se reúne de 18 a 20/11."
+  },
+  {
+   "id": "c32",
+   "t": "c",
+   "s": "A Declaração de Teerã, de 2010, negociada por Brasil e Turquia com o Irã, previa a troca de urânio levemente enriquecido iraniano por combustível para um reator de pesquisa, e foi seguida pela Resolução 1929 do Conselho de Segurança, que ampliou as sanções.",
+   "ans": "C",
+   "exp": "Certo: o acordo previa enviar 1.200 kg de urânio a 3,5% à Turquia em troca de combustível a 20% para o reator de Teerã. As potências não o aceitaram, e em junho de 2010 o CSNU aprovou a Resolução 1929, com votos contrários de Brasil e Turquia.",
+   "ctx": "Lula recebe de Pezeshkian relato das negociações Irã–EUA e defende saída negociada e livre navegação em Ormuz"
+  },
+  {
+   "id": "f32",
+   "t": "f",
+   "q": "Que acordo de 2010 Lula lembrou ao se reunir com Pezeshkian em Antália?",
+   "a": "A Declaração de Teerã, negociada por Brasil e Turquia com o Irã.",
+   "exp": "Previa trocar urânio levemente enriquecido por combustível para reator de pesquisa; foi seguida da Resolução 1929 do CSNU, com votos contra de Brasil e Turquia."
+  },
+  {
+   "id": "c33",
+   "t": "c",
+   "s": "Em 2016, o tribunal arbitral constituído com base na Convenção das Nações Unidas sobre o Direito do Mar concluiu que as reivindicações chinesas de direitos históricos dentro da 'linha de nove traços' não têm base jurídica, decisão que a China não reconhece.",
+   "ans": "C",
+   "exp": "Certo: no caso Filipinas v. China, o tribunal (com secretaria da Corte Permanente de Arbitragem) decidiu a favor de Manila em julho de 2016. Pequim não participou do processo e rejeita a sentença.",
+   "ctx": "Às vésperas da cúpula da Asean, Filipinas dizem que o código de conduta do Mar do Sul da China está '70% concluído'"
+  },
+  {
+   "id": "f33",
+   "t": "f",
+   "q": "Em que pé estava, em 13/11/2026, o Código de Conduta do Mar do Sul da China?",
+   "a": "Segundo a chancelaria filipina, 70% concluído, sem data para o fim.",
+   "exp": "Asean e China negociam há quase duas décadas; em 2023 fixaram meta de três anos. A sentença arbitral de 2016 rejeitou a 'linha de nove traços'."
+  },
+  {
+   "id": "c34",
+   "t": "c",
+   "s": "Os controles de exportação de semicondutores avançados adotados pelos EUA contra a China são aplicados por meio de decisão do Órgão de Solução de Controvérsias da OMC.",
+   "ans": "E",
+   "exp": "Errado: são medidas unilaterais do Departamento de Comércio (BIS), justificadas por segurança nacional. A China questiona esses controles na OMC, mas eles não decorrem de nenhuma decisão do órgão, que está paralisado desde 2019 pela falta de juízes no Órgão de Apelação.",
+   "ctx": "China adverte os EUA contra novos controles de exportação de chips, a dias do encontro Xi–Trump na APEC"
+  },
+  {
+   "id": "f34",
+   "t": "f",
+   "q": "Até quando vai a trégua comercial EUA–China, ameaçada pelo debate sobre controles de chips?",
+   "a": "Até 10 de janeiro de 2027.",
+   "exp": "Em 13/11/2026 Pequim advertiu contra novos controles de exportação de semicondutores, a dias do encontro Xi–Trump na APEC de Shenzhen."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Paraguai, China, Irã, Ucrânia, ONU, COP31, Haiti e ebola: semana de 9 a 15/nov"
+   "b": "Paraguai, China, Irã, Ucrânia, Asean, COP31 e PEB na Ásia: semana de 9 a 15/nov"
   },
   {
    "t": "Itaipu e o Paraguai",
@@ -445,21 +535,21 @@
   },
   {
    "t": "China: superávit, chips e APEC",
-   "b": "Superávit chinês chega a US$ 1,04 tri em dez meses; Pequim restringe terras raras e sedia a APEC em Shenzhen (18–19/11), com possível encontro Xi–Trump.",
+   "b": "Superávit chinês chega a US$ 1,04 tri em dez meses; Pequim restringe terras raras e adverte os EUA contra novos controles de chips antes da APEC (18–19/11).",
    "l": [
-    "Semicondutores puxam as exportações",
+    "Trégua comercial EUA–China até 10/1/2027",
     "Ítrio: preço disparou fora da China",
     "APEC: Chile, Peru e México; Brasil não",
     "Brasil: alternativa em minerais críticos"
    ]
   },
   {
-   "t": "Irã, Golfo e Ormuz",
-   "b": "Irã declara forças argentinas terroristas; houthis atacam a Arábia Saudita; navios atingidos em Ormuz fazem o Brent subir 3,3%, a US$ 95,82.",
+   "t": "Irã: Ormuz e a AIEA",
+   "b": "Navios atingidos em Ormuz levam o Brent a US$ 95,82; a AIEA não verifica 440,9 kg de urânio a 60% e pede volta dos inspetores; Irã declara forças argentinas terroristas.",
    "l": [
-    "Argentina listou a IRGC em abril",
+    "Conselho da AIEA: 18–20/11 em Viena",
+    "Usina subterrânea em Isfahan",
     "Trump: 'não precisamos de acordo'",
-    "Riad pede à UE listar os houthis",
     "Teerã debate sair do TNP"
    ]
   },
@@ -483,13 +573,13 @@
    ]
   },
   {
-   "t": "ONU: Saara Ocidental e Haiti",
-   "b": "Assembleia Geral debate o veto russo que encerrou a Minurso; no Haiti, polícia e tropas salvadorenhas retomam o Estádio Nacional das gangues.",
+   "t": "Asean e Mar do Sul da China",
+   "b": "Lula faz a 1ª visita de um presidente brasileiro às Filipinas e vai à 49ª Cúpula da Asean; o código de conduta Asean–China estaria 70% pronto.",
    "l": [
-    "Iniciativa do veto: res. 76/262",
-    "GSF autorizada pelo CSNU em 2025",
-    "El Salvador: ~2 mil soldados",
-    "Brasil comandou a MINUSTAH (2004–17)"
+    "Brasil quer ser parceiro de diálogo",
+    "Carne suína: veto de 60 dias a partir de 24/11",
+    "Arbitragem de 2016 rejeitou os nove traços",
+    "Haiti: tropas salvadorenhas retomam estádio"
    ]
   },
   {
@@ -503,23 +593,24 @@
    ]
   },
   {
-   "t": "PEB: Venezuela, impostos, Escazú",
-   "b": "Lula e Delcy Rodríguez retomam relações e o ACE 69; Brasil e Espanha firmam memorando sobre super-ricos; Senado adia Escazú.",
+   "t": "PEB: Venezuela, Irã e impostos",
+   "b": "Lula e Delcy Rodríguez retomam relações; com Pezeshkian, Lula defende saída negociada e Ormuz livre; Brasil e Espanha firmam memorando sobre super-ricos.",
    "l": [
     "Primeiro encontro desde a queda de Maduro",
-    "G20 Rio 2024: tributação dos ultrarricos",
-    "Tratado exige aval do Congresso (art. 49, I)"
+    "Declaração de Teerã (2010) e Res. 1929",
+    "Fertilizantes iranianos para o agro",
+    "Senado adia Escazú (art. 49, I)"
    ]
   },
   {
    "k": "fim",
    "t": "Pegadinhas que caem",
    "l": [
-    "Res. 76/262: Assembleia debate o veto, mas não o anula",
+    "Brasil é parceiro setorial da Asean, não pleno",
     "Brasil não é membro da APEC",
-    "GSF no Haiti não é missão de capacetes azuis",
-    "ESPII é declarada pelo diretor-geral da OMS",
-    "Impeachment nos EUA: Senado condena por dois terços"
+    "Res. 76/262: Assembleia debate o veto, mas não o anula",
+    "Controle de chips dos EUA é unilateral, não decisão da OMC",
+    "ESPII é declarada pelo diretor-geral da OMS"
    ]
   }
  ]
