@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W46",
  "notionUrl": "",
- "updatedAt": "2026-11-14",
+ "updatedAt": "2026-11-15",
  "items": [
   {
    "id": "f1",
@@ -516,12 +516,129 @@
    "q": "Até quando vai a trégua comercial EUA–China, ameaçada pelo debate sobre controles de chips?",
    "a": "Até 10 de janeiro de 2027.",
    "exp": "Em 13/11/2026 Pequim advertiu contra novos controles de exportação de semicondutores, a dias do encontro Xi–Trump na APEC de Shenzhen."
+  },
+  {
+   "id": "c35",
+   "t": "c",
+   "s": "Na nota de 13/11, o Itamaraty registrou que a Justiça israelense reconheceu a responsabilidade do Estado pela morte do adolescente brasileiro-palestino.",
+   "ans": "E",
+   "exp": "Errado: a Justiça israelense encerrou o caso em dezembro de 2025 sem reconhecer crime. Justamente por isso o Itamaraty cobra uma explicação 'oficial e conclusiva' e fala em violação do direito internacional humanitário.",
+   "ctx": "Itamaraty cobra de Israel explicação 'oficial e conclusiva' sobre a morte de adolescente brasileiro-palestino sob custódia",
+   "trap": 4
+  },
+  {
+   "id": "f35",
+   "t": "f",
+   "q": "O que o Itamaraty cobrou de Israel na nota de 13/11/2026?",
+   "a": "Uma explicação 'oficial e conclusiva' sobre a morte, sob custódia israelense, de Walid Khalid Abdalla Ahmad, brasileiro-palestino de 17 anos.",
+   "exp": "Ele morreu em março de 2025; o corpo foi devolvido após cerca de 20 meses. O Itamaraty viu violação do direito internacional humanitário."
+  },
+  {
+   "id": "c36",
+   "t": "c",
+   "s": "O acordo de defesa mútua entre Turquia e Catar foi firmado no âmbito da Otan, da qual os dois países são membros.",
+   "ans": "E",
+   "exp": "Errado: só a Turquia é membro da Otan. O Catar não integra a aliança (os EUA o designaram aliado extra-Otan em 2022). O acordo é bilateral e fica fora do sistema do art. 5 do Tratado de Washington.",
+   "ctx": "Turquia e Catar assinam acordo de defesa mútua em Istambul; Ancara põe em vigor o pacto de Meca com sauditas e paquistaneses",
+   "trap": 3
+  },
+  {
+   "id": "f36",
+   "t": "f",
+   "q": "Que acordo Turquia e Catar assinaram em Istambul em 13/11/2026?",
+   "a": "Um Acordo de Defesa Mútua, na 12ª reunião do Comitê Estratégico Superior bilateral.",
+   "exp": "Na mesma semana, entrou em vigor na Turquia a ratificação do Acordo de Meca de Defesa Conjunta com Arábia Saudita e Paquistão (agosto de 2026)."
+  },
+  {
+   "id": "c37",
+   "t": "c",
+   "s": "Um país perde o status de eliminação do sarampo quando a transmissão contínua do vírus em seu território passa de 12 meses.",
+   "ans": "C",
+   "exp": "Certo: esse é o critério usado pela OPAS/OMS. Surtos esporádicos são tolerados desde que se encerrem em menos de um ano. Nos EUA, um surto passou de um ano em meados de 2026.",
+   "ctx": "EUA perdem o status de país livre do sarampo após 26 anos, segundo pesquisadores a par da avaliação da OPAS"
+  },
+  {
+   "id": "f37",
+   "t": "f",
+   "q": "Desde quando os EUA tinham o status de eliminação do sarampo, que a OPAS concluiu ter sido perdido?",
+   "a": "Desde 2000.",
+   "exp": "O critério é a transmissão contínua por mais de 12 meses. As Américas já tinham perdido o status regional em novembro de 2025 por causa do Canadá; o Brasil recuperou o seu em 2024."
+  },
+  {
+   "id": "c38",
+   "t": "c",
+   "s": "O TPI podia investigar militares americanos por crimes no Afeganistão, embora os EUA não sejam parte do Estatuto de Roma, porque os fatos teriam ocorrido no território de um Estado parte.",
+   "ans": "C",
+   "exp": "Certo: o Afeganistão aderiu ao Estatuto de Roma em 2003, e o tribunal tem jurisdição sobre crimes cometidos no território de um Estado parte, qualquer que seja a nacionalidade do autor (art. 12). Os EUA contestam essa leitura.",
+   "ctx": "TPI encerra a investigação original sobre o Afeganistão, que incluía militares dos EUA e a CIA, e mantém só o caso contra o Talibã"
+  },
+  {
+   "id": "f38",
+   "t": "f",
+   "q": "Que investigação do TPI continua depois do encerramento do caso original sobre o Afeganistão (12/11/2026)?",
+   "a": "A 'Afeganistão II', sobre crimes do Talibã desde agosto de 2021, como a perseguição de mulheres e meninas.",
+   "exp": "A investigação original incluía militares dos EUA e agentes da CIA. Há mandados contra Hibatullah Akhundzada e outros três dirigentes; a Procuradoria recorreu."
+  },
+  {
+   "id": "c39",
+   "t": "c",
+   "s": "O Programa de Trabalho de Mitigação, cuja continuidade depois de 2026 está em discussão na COP31, foi criado pelo Acordo de Paris, em 2015.",
+   "ans": "E",
+   "exp": "Errado: o programa foi criado pelo Pacto Climático de Glasgow, na COP26 (2021), e detalhado na COP27 (2022), para acelerar a ambição de mitigação nesta década. O Acordo de Paris criou as NDCs e o balanço global (global stocktake).",
+   "ctx": "COP31 entra na semana decisiva em Antália, com impasse sobre combustíveis fósseis e o futuro do programa de mitigação",
+   "trap": 3
+  },
+  {
+   "id": "f39",
+   "t": "f",
+   "q": "Qual é o tema mais sensível da segunda semana da COP31, em Antália?",
+   "a": "A linguagem sobre combustíveis fósseis, rejeitada por Arábia Saudita e Rússia, além da continuidade do Programa de Trabalho de Mitigação depois de 2026.",
+   "exp": "A plenária final está marcada para 20/11. O Brasil, que presidiu a COP30, defende o roteiro voluntário de transição energética lançado em Belém."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Qual fato da semana de 9 a 15/nov se liga mais diretamente ao item do edital sobre crimes de guerra, crimes contra a humanidade e o Tribunal Penal Internacional (13.11)?",
+   "opts": [
+    "O encerramento, pelo TPI, da investigação original sobre o Afeganistão, mantido o caso contra o Talibã",
+    "A perda do status de eliminação do sarampo pelos EUA",
+    "A advertência chinesa contra novos controles de exportação de chips",
+    "O acordo de defesa mútua entre Turquia e Catar"
+   ],
+   "ans": 0,
+   "exp": "A decisão de 12/11 da Câmara de Instrução Preliminar II do TPI trata diretamente da jurisdição do tribunal (inclusive sobre nacionais de Estados não partes, como os EUA). Os demais fatos ligam-se a saúde global, comércio e segurança regional."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "Sobre a viagem de Lula à Ásia nesta semana, assinale a alternativa correta.",
+   "opts": [
+    "Foi a primeira visita de um presidente brasileiro às Filipinas, e o Brasil busca ampliar seu status de parceria com a Asean",
+    "O Brasil participa como membro pleno da cúpula da APEC em Shenzhen",
+    "O Brasil é parceiro de diálogo pleno da Asean, status idêntico ao da China",
+    "A arbitragem de 2016 sobre o Mar do Sul da China validou a linha dos nove traços"
+   ],
+   "ans": 0,
+   "exp": "Lula fez em Manila a 1ª visita presidencial brasileira às Filipinas e foi à cúpula da Asean, onde o Brasil é parceiro setorial e quer subir de nível. O Brasil não é membro da APEC, e o laudo de 2016 rejeitou a linha dos nove traços."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "O relatório da AIEA de 13/11 sobre o Irã interessa ao item de desarmamento e não proliferação (13.10) principalmente porque:",
+   "opts": [
+    "a agência perdeu a 'continuidade do conhecimento' sobre o estoque iraniano de urânio enriquecido a 60%, base da verificação de salvaguardas do TNP",
+    "o Conselho de Segurança suspendeu o Irã da AIEA",
+    "o Irã deixou formalmente o TNP em novembro de 2026",
+    "o relatório foi aprovado pela Comissão de Desarmamento da Assembleia Geral"
+   ],
+   "ans": 0,
+   "exp": "As salvaguardas da AIEA verificam que material nuclear não é desviado para armas. Sem acesso desde os ataques de 2025, a agência não sabe onde estão cerca de 440,9 kg de urânio a 60%. O Irã debate, mas não concretizou, a saída do TNP."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Paraguai, China, Irã, Ucrânia, Asean, COP31 e PEB na Ásia: semana de 9 a 15/nov"
+   "b": "Paraguai, China, Irã e Golfo, Ucrânia, Asean, COP31, TPI e PEB: semana de 9 a 15/nov"
   },
   {
    "t": "Itaipu e o Paraguai",
@@ -539,18 +656,18 @@
    "l": [
     "Trégua comercial EUA–China até 10/1/2027",
     "Ítrio: preço disparou fora da China",
-    "APEC: Chile, Peru e México; Brasil não",
+    "APEC em Shenzhen; Brasil não é membro",
     "Brasil: alternativa em minerais críticos"
    ]
   },
   {
-   "t": "Irã: Ormuz e a AIEA",
-   "b": "Navios atingidos em Ormuz levam o Brent a US$ 95,82; a AIEA não verifica 440,9 kg de urânio a 60% e pede volta dos inspetores; Irã declara forças argentinas terroristas.",
+   "t": "Irã, Ormuz e o Golfo",
+   "b": "Navios atingidos em Ormuz levam o Brent a US$ 95,82; a AIEA não verifica 440,9 kg de urânio a 60%; Turquia e Catar firmam defesa mútua e Ancara ratifica o pacto de Meca.",
    "l": [
     "Conselho da AIEA: 18–20/11 em Viena",
-    "Usina subterrânea em Isfahan",
-    "Trump: 'não precisamos de acordo'",
-    "Teerã debate sair do TNP"
+    "Turquia–Catar: acordo em 13/11, Istambul",
+    "Pacto de Meca: Turquia, sauditas, Paquistão",
+    "Catar não é Otan; Turquia é"
    ]
   },
   {
@@ -559,47 +676,48 @@
    "l": [
     "Abu Dhabi: só troca de prisioneiros",
     "Putin quer rever a segurança europeia",
-    "UE discute enviado especial (13/11)",
+    "UE discute como entrar na negociação",
     "Brasil e China: grupo Amigos da Paz"
-   ]
-  },
-  {
-   "t": "Brasil-EUA: agrément e tarifas",
-   "b": "Rubio cobra agrément a Daniel Perez; Casa Branca promete manter tarifas mesmo com 62% dos americanos a favor de revogá-las.",
-   "l": [
-    "Convenção de Viena 1961, art. 4",
-    "Midterms: derrota republicana em 3/11",
-    "Democratas no Congresso em jan/2027"
    ]
   },
   {
    "t": "Asean e Mar do Sul da China",
    "b": "Lula faz a 1ª visita de um presidente brasileiro às Filipinas e vai à 49ª Cúpula da Asean; o código de conduta Asean–China estaria 70% pronto.",
    "l": [
-    "Brasil quer ser parceiro de diálogo",
-    "Carne suína: veto de 60 dias a partir de 24/11",
+    "Brasil quer subir de parceiro setorial",
     "Arbitragem de 2016 rejeitou os nove traços",
+    "Trump vai a Manila: Quad e cúpula EUA–Asean",
     "Haiti: tropas salvadorenhas retomam estádio"
    ]
   },
   {
-   "t": "Clima e saúde global",
-   "b": "Lula pede aportes ao TFFF na COP31; Brasil leva o plano de saúde de Belém; ebola na RD Congo passa de 11 mil casos e pressiona o anexo PABS.",
+   "t": "Clima: da cúpula à reta final",
+   "b": "Lula pede aportes ao TFFF na cúpula de líderes; na 2ª semana, a COP31 trava em fósseis e no futuro do programa de mitigação. Plenária final: 20/11.",
    "l": [
     "TFFF: US$ 7,8 bi prometidos",
-    "Saúde: US$ 23 bi/ano até 2035",
-    "Ebola Bundibugyo: sem vacina aprovada",
-    "PABS: sem ele, acordo não vigora"
+    "Stiell: 'concessões de todas as partes'",
+    "Programa de Mitigação: criado em Glasgow",
+    "Brasil: roteiro voluntário de Belém"
    ]
   },
   {
-   "t": "PEB: Venezuela, Irã e impostos",
-   "b": "Lula e Delcy Rodríguez retomam relações; com Pezeshkian, Lula defende saída negociada e Ormuz livre; Brasil e Espanha firmam memorando sobre super-ricos.",
+   "t": "Saúde global e TPI",
+   "b": "Ebola na RD Congo passa de 11 mil casos; EUA perdem o status de livre do sarampo, segundo a OPAS; o TPI encerra o caso original do Afeganistão.",
+   "l": [
+    "Sarampo: 12 meses de transmissão contínua",
+    "Brasil recuperou o certificado em 2024",
+    "TPI: segue só o caso contra o Talibã",
+    "Jurisdição: território de Estado parte"
+   ]
+  },
+  {
+   "t": "PEB: Venezuela, Irã, Israel",
+   "b": "Lula e Delcy Rodríguez retomam relações; com Pezeshkian, Lula defende saída negociada; Itamaraty cobra de Israel explicação pela morte de adolescente brasileiro-palestino.",
    "l": [
     "Primeiro encontro desde a queda de Maduro",
-    "Declaração de Teerã (2010) e Res. 1929",
-    "Fertilizantes iranianos para o agro",
-    "Senado adia Escazú (art. 49, I)"
+    "Declaração de Teerã (2010)",
+    "Israel: nota de 13/11 invoca o DIH",
+    "Senado adia Escazú; memorando com a Espanha"
    ]
   },
   {
@@ -608,9 +726,9 @@
    "l": [
     "Brasil é parceiro setorial da Asean, não pleno",
     "Brasil não é membro da APEC",
-    "Res. 76/262: Assembleia debate o veto, mas não o anula",
     "Controle de chips dos EUA é unilateral, não decisão da OMC",
-    "ESPII é declarada pelo diretor-geral da OMS"
+    "Catar não é membro da Otan",
+    "Programa de Mitigação é de Glasgow (2021), não de Paris"
    ]
   }
  ]

@@ -1,0 +1,94 @@
+{
+ "kind": "news",
+ "date": "2026-11-15",
+ "cards": [
+  {
+   "id": "2026-11-15-1",
+   "materia": "Política Internacional",
+   "edital": "2; 13.6",
+   "titulo": "Itamaraty cobra de Israel explicação 'oficial e conclusiva' sobre a morte de adolescente brasileiro-palestino sob custódia",
+   "resumo": "Em nota de 13/11, o Itamaraty pediu ao governo israelense uma explicação 'oficial e conclusiva' sobre a morte de Walid Khalid Abdalla Ahmad, brasileiro-palestino de 17 anos que morreu em março de 2025 numa prisão israelense. O corpo só foi devolvido à família após cerca de 20 meses e sepultado em Silwad, na Cisjordânia; segundo a AP, a autópsia apontou desnutrição extrema, inflamação do cólon e escabiose. O Itamaraty classificou as condições de detenção e a retenção do corpo como violação do direito internacional humanitário. Em dezembro de 2025, a Justiça israelense encerrou o caso sem reconhecer crime.",
+   "porque": "Atores: Itamaraty, governo de Israel e a família, palestina com cidadania brasileira. Por quê: o Brasil exerce proteção consular a um nacional preso na Cisjordânia ocupada e questiona o tratamento de detentos palestinos. O que muda: o caso volta a tensionar uma relação já desgastada desde 2024, quando o Brasil retirou seu embaixador em Tel Aviv, e reforça a linha brasileira de invocar o direito internacional humanitário nos territórios ocupados. Edital: política externa brasileira (2) e direitos humanos (13.6). O Brasil é parte direta: a vítima era cidadã brasileira.",
+   "fonte": "Portal Vermelho (com AP)",
+   "url": "https://vermelho.org.br/2026/11/14/itamaraty-cobra-israel-por-morte-de-jovem-brasileiro-palestino-de-17-anos/",
+   "img": "https://vermelho.org.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-14-at-09.59.18.jpeg",
+   "imgCredit": "Foto: Vermelho",
+   "curso": false,
+   "ce": {
+    "s": "Na nota de 13/11, o Itamaraty registrou que a Justiça israelense reconheceu a responsabilidade do Estado pela morte do adolescente brasileiro-palestino.",
+    "ans": "E",
+    "exp": "Errado: a Justiça israelense encerrou o caso em dezembro de 2025 sem reconhecer crime. Justamente por isso o Itamaraty cobra uma explicação 'oficial e conclusiva' e fala em violação do direito internacional humanitário."
+   }
+  },
+  {
+   "id": "2026-11-15-2",
+   "materia": "Política Internacional",
+   "edital": "13",
+   "titulo": "Turquia e Catar assinam acordo de defesa mútua em Istambul; Ancara põe em vigor o pacto de Meca com sauditas e paquistaneses",
+   "resumo": "Em 13/11, na 12ª reunião do Comitê Estratégico Superior Turquia–Catar, em Istambul, Recep Tayyip Erdoğan e o emir Tamim bin Hamad Al Thani assinaram um Acordo de Defesa Mútua, cujo texto integral não foi divulgado. Os chanceleres Hakan Fidan e Mohammed bin Abdulrahman Al Thani firmaram também um memorando sobre paz, reconciliação e resolução de conflitos; outros documentos tratam de comércio e educação. Na mesma semana, foi publicada no Diário Oficial turco a lei que ratifica o Acordo de Meca de Defesa Conjunta, firmado em agosto com Arábia Saudita e Paquistão e aprovado pelo Parlamento em 5/11.",
+   "porque": "Atores: Turquia, Catar, Arábia Saudita e Paquistão. Por quê: com a guerra envolvendo o Irã, os ataques a navios em Ormuz e a dúvida sobre a garantia de segurança americana no Golfo, potências médias montam redes próprias de defesa; a Turquia já tem tropas no Catar desde o acordo de 2014. O que muda: um membro da Otan assume compromissos de segurança fora da aliança, e o equilíbrio regional entre Turquia, Irã, Israel e monarquias do Golfo se redesenha. Edital: Oriente Médio e segurança internacional (13). O Brasil é afetado indiretamente, pelas rotas de petróleo e fertilizantes do Golfo.",
+   "fonte": "Middle East Monitor (com Anadolu)",
+   "url": "https://www.middleeastmonitor.com/20261113-turkiye-qatar-sign-5-agreements-following-erdogan-emir-talks-in-istanbul/",
+   "img": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/11/AA-20261113-43070031-43070025-FIVE_AGREEMENTS_SIGNED_BETWEEN_TURKIYE_AND_QATAR-1.jpg?fit=1200%2C800&ssl=1",
+   "imgCredit": "Foto: Middle East Monitor (Anadolu)",
+   "curso": false,
+   "ce": {
+    "s": "O acordo de defesa mútua entre Turquia e Catar foi firmado no âmbito da Otan, da qual os dois países são membros.",
+    "ans": "E",
+    "exp": "Errado: só a Turquia é membro da Otan. O Catar não integra a aliança (os EUA o designaram aliado extra-Otan em 2022). O acordo é bilateral e fica fora do sistema do art. 5 do Tratado de Washington."
+   }
+  },
+  {
+   "id": "2026-11-15-3",
+   "materia": "Política Internacional",
+   "edital": "13",
+   "titulo": "EUA perdem o status de país livre do sarampo após 26 anos, segundo pesquisadores a par da avaliação da OPAS",
+   "resumo": "A Organização Pan-Americana da Saúde (OPAS), escritório regional da OMS, concluiu nesta semana que o sarampo voltou a circular de forma contínua nos EUA por mais de 12 meses, o que faz o país perder o status de eliminação obtido em 2000, segundo pesquisadores com conhecimento direto das deliberações ouvidos pela KFF Health News e pela NPR. O anúncio formal está previsto para 17/11. Desde janeiro de 2025, os EUA somam mais de 7,6 mil casos confirmados, e o surto do oeste do Texas se espalhou para o México, que também corre o risco de perder o status.",
+   "porque": "Atores: OPAS/OMS, CDC e Departamento de Saúde dos EUA, México e Canadá. Por quê: a cobertura vacinal caiu e os surtos não foram interrompidos em um ano, como exige o critério de eliminação. O que muda: as Américas, que já tinham perdido em novembro de 2025 o status de região livre por causa do Canadá, ficam mais longe de recuperá-lo, e a cooperação regional em saúde vira tema de política externa. Edital: governança global e organismos internacionais (13). O Brasil perdeu o certificado em 2019 e o recuperou em 2024; a circulação regional pressiona sua vigilância e vacinação.",
+   "fonte": "KFF Health News",
+   "url": "https://kffhealthnews.org/public-health/us-measles-elimination-status-lost-outbreaks-continuous-spread-year-paho-cdc/",
+   "img": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/11/Measles_01_web.jpg",
+   "imgCredit": "Foto: KFF Health News",
+   "curso": false,
+   "ce": {
+    "s": "Um país perde o status de eliminação do sarampo quando a transmissão contínua do vírus em seu território passa de 12 meses.",
+    "ans": "C",
+    "exp": "Certo: esse é o critério usado pela OPAS/OMS. Surtos esporádicos são tolerados desde que se encerrem em menos de um ano. Nos EUA, um surto passou de um ano em meados de 2026."
+   }
+  },
+  {
+   "id": "2026-11-15-4",
+   "materia": "Política Internacional",
+   "edital": "13.11",
+   "titulo": "TPI encerra a investigação original sobre o Afeganistão, que incluía militares dos EUA e a CIA, e mantém só o caso contra o Talibã",
+   "resumo": "Em decisão de 12/11, noticiada nos dias seguintes, a Câmara de Instrução Preliminar II do Tribunal Penal Internacional mandou encerrar a investigação original sobre o Afeganistão, que tratava de crimes desde 2003 atribuídos às antigas forças afegãs, ao Talibã, a militares americanos e a agentes da CIA. Os juízes concluíram que a Procuradoria não mostrou que poderia levar adiante novas diligências. Continua a investigação separada 'Afeganistão II', sobre crimes do Talibã desde agosto de 2021, sobretudo a perseguição de mulheres e meninas, com mandados de prisão contra Hibatullah Akhundzada e outros três dirigentes. A Procuradoria disse que recorreu.",
+   "porque": "Atores: juízes e Procuradoria do TPI, Talibã e EUA, que não são parte do Estatuto de Roma e pressionam o tribunal. Por quê: a parte sobre forças americanas estava parada desde 2021, quando a Procuradoria priorizou o Talibã e o Estado Islâmico-Khorasan, e Washington nunca cooperou. O que muda: cresce a crítica de seletividade do TPI diante de grandes potências, e volta o debate sobre jurisdição sobre nacionais de Estados não partes. Edital: crimes de guerra, crimes contra a humanidade e TPI (13.11). O Brasil é parte do Estatuto de Roma desde 2002 e defende a universalidade do tribunal.",
+   "fonte": "KabulNow",
+   "url": "https://kabulnow.com/2026/11/icc-closes-original-afghanistan-investigation-continues-probe-into-taliban-crimes-separately/",
+   "img": "https://kabulnow.com/wp-content/uploads/2026/11/AFP__20260223__98MB8PZ__v1__HighRes__NetherlandsJusticeIcc-1.jpg",
+   "imgCredit": "Foto: KabulNow (AFP)",
+   "curso": false,
+   "ce": {
+    "s": "O TPI podia investigar militares americanos por crimes no Afeganistão, embora os EUA não sejam parte do Estatuto de Roma, porque os fatos teriam ocorrido no território de um Estado parte.",
+    "ans": "C",
+    "exp": "Certo: o Afeganistão aderiu ao Estatuto de Roma em 2003, e o tribunal tem jurisdição sobre crimes cometidos no território de um Estado parte, qualquer que seja a nacionalidade do autor (art. 12). Os EUA contestam essa leitura."
+   }
+  },
+  {
+   "id": "2026-11-15-5",
+   "materia": "Política Internacional",
+   "edital": "13.2; 13.4",
+   "titulo": "COP31 entra na semana decisiva em Antália, com impasse sobre combustíveis fósseis e o futuro do programa de mitigação",
+   "resumo": "A Conferência do Clima da ONU em Antália, na Turquia, fechou a primeira semana em 14/11 sob pressão por mais ambição. O secretário-executivo da Convenção do Clima, Simon Stiell, pediu que os negociadores evitem atrasos táticos: 'não há sucesso coletivo sem concessões de todas as partes'. O ponto mais sensível é a linguagem sobre combustíveis fósseis, que Arábia Saudita e Rússia rejeitam; a Índia se opõe a metas que limitem seu desenvolvimento, e segue aberta a continuidade do Programa de Trabalho de Mitigação depois de 2026. As declarações de alto nível serão em 17 e 18/11, e a plenária final, em 20/11.",
+   "porque": "Atores: Turquia (anfitriã), Austrália (que copreside as negociações), secretariado da ONU para o clima, produtores de petróleo, Índia, UE e Brasil, que presidiu a COP30. Por quê: as metas nacionais (NDCs) não bastam para limitar o aquecimento a 1,5 °C, e Belém terminou sem roteiro formal para a transição dos fósseis. O que muda: a conferência dirá se o compromisso de 2023 de 'afastar-se dos combustíveis fósseis' ganha implementação. Edital: meio ambiente e desenvolvimento sustentável (13.2; 13.4). O Brasil é envolvido diretamente: tenta levar adiante o roteiro voluntário de transição energética que lançou em Belém.",
+   "fonte": "O Povo (com DW, Reuters, AFP e dpa)",
+   "url": "https://www.opovo.com.br/noticias/mundo/2026/11/15/cop31-ruma-a-semana-decisiva-sob-pressao-por-maior-ambicao-climatica.html",
+   "curso": false,
+   "ce": {
+    "s": "O Programa de Trabalho de Mitigação, cuja continuidade depois de 2026 está em discussão na COP31, foi criado pelo Acordo de Paris, em 2015.",
+    "ans": "E",
+    "exp": "Errado: o programa foi criado pelo Pacto Climático de Glasgow, na COP26 (2021), e detalhado na COP27 (2022), para acelerar a ambição de mitigação nesta década. O Acordo de Paris criou as NDCs e o balanço global (global stocktake)."
+   }
+  }
+ ]
+}
