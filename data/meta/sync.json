@@ -18,10 +18,11 @@
   "hm-segunda-guerra",
   "pi-brasil-eua",
   "hm-revolucao-francesa",
-  "pi-peb-2-pei-medici"
+  "pi-peb-2-pei-medici",
+  "pi-peb-3-geisel-sarney"
  ],
  "kind": "sync",
- "lastRun": "2026-11-15",
+ "lastRun": "2026-11-16",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",

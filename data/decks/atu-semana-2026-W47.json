@@ -1,0 +1,177 @@
+{
+ "kind": "deck",
+ "materia": "Atualidades",
+ "assunto": "Semana de 16 a 22/nov",
+ "edital": "13",
+ "week": "2026-W47",
+ "notionUrl": "",
+ "updatedAt": "2026-11-16",
+ "items": [
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "O Brasil já é Parceiro de Diálogo pleno da Asean, condição que lhe permite participar de todas as reuniões ministeriais do bloco.",
+   "ans": "E",
+   "exp": "O Brasil é Parceiro de Diálogo Setorial; o pedido para virar Parceiro de Diálogo pleno foi formalizado em janeiro de 2026 e reiterado em Manila, sem aprovação anunciada.",
+   "ctx": "Na 49ª Cúpula da Asean, Lula pede mercados diversificados, discute Mercosul–Singapura e recebe de Carney US$ 400 milhões para o TFFF"
+  },
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Quanto somou o comércio Brasil–Asean em 2025?",
+   "a": "US$ 38,4 bilhões, segundo Lula em Manila (15/11).",
+   "exp": "A Asean é o 5º maior parceiro comercial do Brasil."
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "O Brasil, por ter economia relevante no comércio com a Ásia, é membro pleno do Foro de Cooperação Econômica Ásia-Pacífico (APEC).",
+   "ans": "E",
+   "exp": "O Brasil não integra a APEC, que reúne economias banhadas pelo Pacífico; da América do Sul, só Chile e Peru são membros.",
+   "ctx": "China confirma o primeiro encontro trilateral Xi–Trump–Putin, na quinta-feira, em Shenzhen, à margem da APEC"
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "Onde e quando será o primeiro encontro trilateral Xi–Trump–Putin?",
+   "a": "Em Shenzhen, na quinta-feira 19/11, à margem da cúpula da APEC.",
+   "exp": "Confirmado pela chancelaria chinesa em 16/11; agendas divergem (armas nucleares e Irã x Ucrânia)."
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "A Estônia aderiu à OTAN e à União Europeia no mesmo ano, 2004.",
+   "ans": "C",
+   "exp": "Os três bálticos entraram na OTAN em março e na UE em maio de 2004.",
+   "ctx": "Estônia vai fechar as passagens de fronteira com a Rússia após tentativa de incêndio contra fabricante de drones atribuída ao GRU"
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "Por que a Estônia vai fechar as passagens de fronteira com a Rússia?",
+   "a": "Após prisões por tentativa de incêndio contra a fabricante de drones Threod Systems, atribuída ao GRU.",
+   "exp": "Anúncio do chanceler Margus Tsahkna em 15/11; passagens de Narva, Luhamaa e Koidula."
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "Em 2016, a Corte Internacional de Justiça decidiu, em caso movido pelas Filipinas, que as reivindicações históricas da China no Mar do Sul da China não têm base no direito internacional.",
+   "ans": "E",
+   "exp": "A decisão de 2016 foi de um tribunal arbitral constituído sob o Anexo VII da CNUDM (com a Corte Permanente de Arbitragem como secretaria), não da CIJ. A China rejeita o laudo.",
+   "ctx": "Asean e China terminam a cúpula de Manila sem fechar o código de conduta do Mar do Sul da China; Mianmar segue vetado"
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "Qual ponto central segue em aberto no código de conduta Asean–China?",
+   "a": "Se o código será juridicamente vinculante (cerca de 80% do texto está acertado).",
+   "exp": "Sem acordo em Manila; esperança passa à presidência de Singapura (2027)."
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "O Tratado de Cooperação Amazônica, de 1978, reúne os oito países amazônicos, entre eles Brasil e Peru, e deu origem à Organização do Tratado de Cooperação Amazônica (OTCA).",
+   "ans": "C",
+   "exp": "O TCA foi assinado em 1978 por Bolívia, Brasil, Colômbia, Equador, Guiana, Peru, Suriname e Venezuela; a OTCA foi criada por protocolo de 1998, com secretaria em Brasília.",
+   "ctx": "Na Amazônia peruana, papa Leão XIV cobra justiça por líderes indígenas assassinados e condena garimpo ilegal e desmatamento"
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "Quantos defensores ambientais foram mortos no Peru de 2010 a 2024, segundo ambientalistas citados pelo papa?",
+   "a": "57.",
+   "exp": "Leão XIV pediu justiça em Pucallpa (15/11) e condenou garimpo ilegal e vazamentos de petróleo."
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Lula na Asean, trilateral em Shenzhen, Estônia x Rússia, Mar do Sul da China e Amazônia"
+  },
+  {
+   "t": "Lula na Asean",
+   "b": "Em Manila, Lula defendeu diversificar mercados e processar minerais críticos no Brasil; pediu para o país virar Parceiro de Diálogo pleno do bloco.",
+   "l": [
+    "Comércio Brasil–Asean: US$ 38,4 bi (2025)",
+    "Hoje: Parceiro de Diálogo Setorial",
+    "Singapura preside a Asean em 2027"
+   ],
+   "n": "Lula discursou na abertura, como convidado"
+  },
+  {
+   "t": "Mercosul fora da região",
+   "b": "Lula tratou com Lawrence Wong do acordo Mercosul–Singapura e combinou com Mark Carney acelerar o acordo Mercosul–Canadá.",
+   "l": [
+    "Mercosul–Singapura: assinado em 2023",
+    "Mercosul–Canadá: em negociação",
+    "Carney: ~US$ 400 mi para o TFFF"
+   ]
+  },
+  {
+   "t": "Xi, Trump e Putin",
+   "b": "A China confirmou para 19/11, em Shenzhen, o primeiro encontro trilateral dos três líderes, à margem da APEC.",
+   "l": [
+    "EUA: armas nucleares, não proliferação, Irã",
+    "Rússia: Ucrânia como prioridade",
+    "Trégua comercial EUA–China vence em janeiro"
+   ],
+   "n": "O Brasil não é membro da APEC"
+  },
+  {
+   "t": "Estônia fecha a fronteira",
+   "b": "Tallinn fechará as passagens com a Rússia após tentativa de incêndio contra fabricante de drones atribuída ao GRU.",
+   "l": [
+    "Narva, Luhamaa e Koidula",
+    "8 presos, inclusive cidadãos letões",
+    "Moscou: 'russofobia'"
+   ],
+   "n": "Guerra híbrida contra apoiadores da Ucrânia"
+  },
+  {
+   "t": "Código de conduta adiado",
+   "b": "Asean e China não fecharam o código do Mar do Sul da China; falta decidir se será vinculante.",
+   "l": [
+    "~80% do texto acertado",
+    "Negociação de mais de 20 anos",
+    "Laudo arbitral de 2016 (CNUDM), rejeitado pela China"
+   ]
+  },
+  {
+   "t": "Mianmar continua vetado",
+   "b": "A Asean manteve o veto à presença do líder de Mianmar nas cúpulas por descumprir o plano de paz de 2021.",
+   "l": [
+    "Só diplomatas de carreira representam o país",
+    "Condenação de ataques a civis"
+   ]
+  },
+  {
+   "t": "Papa na Amazônia peruana",
+   "b": "Leão XIV cobrou justiça por defensores ambientais mortos e condenou garimpo ilegal e vazamentos de petróleo.",
+   "l": [
+    "57 mortes no Peru (2010–2024)",
+    "Viagem de 12 dias: Uruguai, Argentina, Peru",
+    "Tema central do Acordo de Escazú"
+   ]
+  },
+  {
+   "t": "Fios da semana",
+   "b": "Diversificação comercial do Brasil, concerto de grandes potências e disputas por fronteiras e mares atravessam as notícias.",
+   "l": [
+    "PEB: Ásia e acordos do Mercosul",
+    "Não proliferação e Ucrânia",
+    "Direito do mar e meio ambiente"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "O Brasil não é membro da APEC",
+    "Brasil é parceiro setorial, não pleno, da Asean",
+    "Laudo de 2016: tribunal arbitral, não a CIJ",
+    "Estônia: OTAN e UE em 2004",
+    "TCA de 1978 tem oito membros; OTCA veio depois"
+   ]
+  }
+ ]
+}
