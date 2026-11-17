@@ -1,0 +1,188 @@
+{
+ "kind": "news",
+ "date": "2026-11-17",
+ "cards": [
+  {
+   "id": "2026-11-17-pj76413549",
+   "pj_guid": "76413549",
+   "podcast": "Petit Journal · BP 1179 · 29 min",
+   "materia": "Política Internacional",
+   "edital": "13; 13.8; 13.10",
+   "titulo": "Petit Journal: Trump na Ásia, negociação da Ucrânia, caso Nvidia e licença de chips para o Brasil",
+   "resumo": "Episódio de 16/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Trump vai a Manila e a Shenzhen",
+     "b": "Trump começa pelas Filipinas uma viagem pela Ásia e depois segue para Shenzhen, sede da cúpula da APEC. Lá terá bilateral com Xi Jinping e o inédito encontro trilateral com Xi e Putin, com armas nucleares, Irã, Ucrânia, comércio e energia na pauta. Os apresentadores acham exagerada a comparação com Yalta (1945)."
+    },
+    {
+     "t": "Kim Jong-un recusa o convite",
+     "b": "Trump disse que gostaria de ver Kim Jong-un na China, decisão que dependeria de Xi, mas o líder norte-coreano respondeu não ter interesse. No primeiro mandato, Trump encontrou Kim três vezes e chegou a pisar na Coreia do Norte, na zona desmilitarizada."
+    },
+    {
+     "t": "Pressão para Jensen Huang voltar à Nvidia",
+     "b": "Após o escândalo de suposta espionagem ligado à Megaspeed, cresce um movimento, com apoio de Trump, para Huang reassumir o comando da Nvidia. O argumento é que trocar o líder enfraqueceria a empresa no centro da corrida tecnológica contra a China; os apresentadores veem aí o personalismo típico do Vale do Silício."
+    },
+    {
+     "t": "Ucrânia: Donbas em troca de OTAN?",
+     "b": "Em negociações em Abu Dhabi mediadas pelos EUA e pelos Emirados, os mediadores americanos sondaram a retirada ucraniana das áreas reivindicadas pela Rússia em troca de adesão à OTAN. Zelensky diz aceitar uma consulta popular se houver garantias multilaterais de segurança, financiamento das forças armadas e um fundo de reconstrução, condições que Moscou rejeita."
+    },
+    {
+     "t": "Europeus entram na mesa",
+     "b": "Depois de reunião em Dublin, ficou acertado que França, Alemanha, Itália e Polônia participarão das próximas rodadas, como pedia Kiev, que se sente em minoria quando a conversa fica só entre EUA e Rússia. Houve troca de mais de mil prisioneiros, mas um acordo amplo ainda parece distante."
+    },
+    {
+     "t": "EUA exigem licença de chips para o Brasil",
+     "b": "O Bureau of Industry and Security passou a exigir licença prévia para exportar chips e servidores avançados a Singapura, Malásia, Tailândia, Indonésia e Brasil, vistos como de alto risco de desvio para a China. A regra não proíbe as vendas e isenta empresas sediadas nos EUA; o objetivo é fechar a brecha do acesso remoto chinês a data centers em terceiros países."
+    },
+    {
+     "t": "Irã e a suposta 'bomba suja'",
+     "b": "Segundo a CNN, relatórios de inteligência dos EUA apontariam planos de contingência iranianos para atacar autoridades em Washington, inclusive com uma bomba suja. Nada foi confirmado; para Tanguy, o vazamento pode ser intencional, para forçar Teerã a refazer qualquer plano que exista."
+    }
+   ],
+   "porque": "O episódio junta os principais eixos da ordem internacional da semana: diplomacia entre grandes potências (Xi, Trump e Putin), negociação de paz na Ucrânia e a disputa tecnológica EUA–China, que agora atinge diretamente o Brasil, incluído entre os países sujeitos a licença para chips avançados. São temas de comércio e tecnologia (13.8), segurança e não proliferação (13.10) e ordem internacional (13).",
+   "ce": {
+    "s": "A regra anunciada pelo Departamento de Comércio dos EUA em 16/11/2026 proíbe a venda de chips avançados de inteligência artificial para o Brasil.",
+    "ans": "E",
+    "exp": "A regra não proíbe: passa a exigir licença prévia para exportar chips avançados ao Brasil, a Singapura, Malásia, Tailândia e Indonésia, classificados como de risco de desvio para a China."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/coincidencias-em-serie-bp-1179--76413549",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-17-pj76401320",
+   "pj_guid": "76401320",
+   "podcast": "Petit Journal · BP 1178 · 31 min",
+   "materia": "Política Internacional",
+   "edital": "13; 13.13; 13.8",
+   "titulo": "Petit Journal: boato de apagão, guerra híbrida, voos parados nos EUA e o caso Nvidia",
+   "resumo": "Episódio de 16/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "De onde veio o boato do 'apagão' de 17/11",
+     "b": "A ideia de que a internet cairia em 17/11 nasceu de um aviso da FEMA, a agência americana de emergências, sobre um teste de rotina do Sistema de Alerta de Emergência, restrito a rádio e TV. O aviso viralizou junto com um episódio antigo dos Simpsons e com as panes recentes."
+    },
+    {
+     "t": "Kits para 72 horas",
+     "b": "Reino Unido, Japão e outros países europeus têm recomendado que a população guarde água, comida e remédios para as primeiras 72 horas de uma emergência. Para os apresentadores, isso reflete a tensão causada pelas guerras na Ucrânia e no Oriente Médio, não um risco imediato."
+    },
+    {
+     "t": "Guerra híbrida na Europa",
+     "b": "A partir de reportagem da Economist, discutem panes, ameaças de bomba a escolas na Itália e a aviões, e frigoríficos desligados por hackers na França. As suspeitas recaem sobre a Rússia, que nega, como de costume, e sobre o Irã; a China tenta parecer o 'adulto na sala'. Agentes de IA tornariam esses ataques mais baratos e simultâneos."
+    },
+    {
+     "t": "Cinco horas sem voos nos EUA",
+     "b": "Na sexta (13/11), todos os voos nos EUA ficaram parados por cerca de cinco horas, com milhares de cancelamentos. O governo atribuiu o caso a uma falha em cascata após a troca de um equipamento num pequeno aeroporto do Arkansas e descartou ataque. Trump culpou Biden, e o governo pede ao Congresso cerca de US$ 50 bilhões para modernizar o sistema, que usa equipamentos dos anos 1980."
+    },
+    {
+     "t": "Lutnick na berlinda",
+     "b": "Segundo o Wall Street Journal, o secretário de Comércio, Howard Lutnick, é cobrado por não ter incluído a Megaspeed, de Singapura e origem chinesa, na lista de entidades restritas. A crise reabre o debate entre quem quer vender chips à China para mantê-la dependente e quem quer restringir para frear a IA chinesa."
+    }
+   ],
+   "porque": "A pauta mostra como a segurança internacional passou a incluir infraestrutura digital crítica, desinformação e ataques de autoria incerta, típicos da guerra híbrida, e como o controle de exportação de semicondutores virou instrumento central da rivalidade EUA–China. Liga segurança e cibercrime (13.13), comércio e tecnologia (13.8) e ordem internacional (13). O Brasil é afetado tanto pela dependência de serviços digitais estrangeiros quanto pelas novas restrições americanas a chips.",
+   "ce": {
+    "s": "Os ataques de 11 de setembro de 2001 levaram as autoridades americanas, pela primeira vez, a ordenar a paralisação de todos os voos no espaço aéreo dos Estados Unidos.",
+    "ans": "C",
+    "exp": "Em 11/9/2001 a FAA mandou pousar todas as aeronaves em voo e suspendeu as decolagens em todo o país, a primeira paralisação nacional não programada da história da aviação americana."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/devo-estocar-comida-bp-1178--76401320",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-17-1",
+   "materia": "Política Internacional",
+   "edital": "2; 13.1; 13.15",
+   "titulo": "Na volta da Ásia, Lula encontra Sánchez em Madri e para em Cabo Verde, onde José Maria Neves acaba de ser reeleito",
+   "resumo": "Na segunda-feira (16/11), em Madri, Lula e o presidente do governo espanhol, Pedro Sánchez, trataram do combate à desinformação, da reforma do Conselho de Segurança da ONU e da sucessão de António Guterres, cujo mandato termina em 1º de janeiro de 2027; Sánchez reiterou apoio a uma candidatura latino-americana à Secretaria-Geral. Lula relatou o apoio ao Fundo Florestas Tropicais para Sempre (TFFF) e os 'mapas do caminho' brasileiros para zerar o desmatamento e deixar os combustíveis fósseis. Na escala seguinte, em Cabo Verde, reuniu-se com José Maria Neves, reeleito no domingo (15/11), e ofereceu cooperação em energia renovável, saúde, educação e alimentos como exemplo de cooperação Sul-Sul.",
+   "porque": "Atores: Brasil, Espanha (que vota em 29/11) e Cabo Verde, membro da CPLP. Por quê: recém-reeleito, Lula usa a viagem para alinhar parceiros em torno de multilateralismo, reforma da ONU e agenda climática, e para reforçar a presença brasileira na África lusófona. O que muda: cresce a articulação por um secretário-geral latino-americano, escolha que passa pelo Conselho de Segurança (recomendação, com possibilidade de veto dos P5) e pela Assembleia Geral. Edital: PEB (2), ONU e sua reforma (13.1; 13.15). O Brasil é o protagonista.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-sanchez-defendem-uniao-contra-avanco-da-extrema-direita",
+   "img": "https://imagens.ebc.com.br/uEtKd4UXQonDNxLIGDrp5QpDumc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/16/55654857102_fbe1ed24c9_o.jpg?itok=KTRWZTk2",
+   "imgCredit": "Foto: Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "Pela Carta da ONU, o secretário-geral é nomeado pela Assembleia Geral mediante recomendação do Conselho de Segurança, o que dá aos membros permanentes poder de bloquear um candidato.",
+    "ans": "C",
+    "exp": "Art. 97 da Carta: nomeação pela AGNU por recomendação do CSNU. A recomendação é decisão não processual, sujeita ao veto dos cinco permanentes."
+   }
+  },
+  {
+   "id": "2026-11-17-2",
+   "materia": "Política Internacional",
+   "edital": "13.5; 13.1; 13.8",
+   "titulo": "Mais petroleiros atingidos no Estreito de Ormuz e drone sobre campo de gás no Curdistão iraquiano; terceiro porta-aviões dos EUA chega à região",
+   "resumo": "Na segunda-feira (16/11), a Marinha da Guarda Revolucionária do Irã disse que dois petroleiros bateram em minas e pegaram fogo ao usar uma rota que Teerã considera não autorizada no sul do Estreito de Ormuz; a agência britânica UKMTO registrou dois ataques a navios na mesma área, sem vítimas. A Organização Marítima Internacional contou 136 incidentes de segurança com embarcações em Ormuz e no Oriente Médio entre 1º de março e 11 de novembro, 35 deles em outubro. No Curdistão iraquiano, um drone sobrevoou o campo de gás de Khor Mor, cuja produção já estava parada após um ataque na semana anterior. Com o USS Theodore Roosevelt, os EUA passam a ter três porta-aviões no Comando Central, e as negociações para encerrar a guerra e reabrir o estreito seguem travadas.",
+   "porque": "Atores: Irã e milícias aliadas, EUA, monarquias do Golfo e o transporte marítimo internacional. Por quê: desde a guerra lançada por EUA e Israel contra o Irã, Teerã usa o controle de Ormuz, por onde passa parte decisiva do petróleo e do GNL do mundo, como instrumento de pressão. O que muda: o risco à navegação mantém altos o frete, o seguro e o preço da energia, e a escalada militar reduz o espaço diplomático. Edital: Oriente Médio (13.5), segurança e direito do mar (13.1), comércio (13.8). O Brasil é afetado pelo preço do petróleo, do diesel importado e dos fertilizantes.",
+   "fonte": "Al Jazeera (com Reuters)",
+   "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af466ae1a-1794401966.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera",
+   "curso": false,
+   "ce": {
+    "s": "Pela Convenção das Nações Unidas sobre o Direito do Mar, navios estrangeiros gozam do direito de passagem em trânsito nos estreitos usados para a navegação internacional, que não pode ser suspenso pelo Estado costeiro.",
+    "ans": "C",
+    "exp": "Arts. 37 a 44 da CNUDM: a passagem em trânsito não pode ser impedida nem suspensa (art. 44). O Irã assinou mas não ratificou a Convenção e contesta que o regime se aplique a não partes."
+   }
+  },
+  {
+   "id": "2026-11-17-3",
+   "materia": "Política Internacional",
+   "edital": "13.6; 13.3",
+   "titulo": "Áustria, Dinamarca, Alemanha, Grécia e Países Baixos anunciam plano de enviar a Ruanda solicitantes de asilo rejeitados",
+   "resumo": "Na segunda-feira (16/11), à margem de uma conferência sobre migração em Viena, cinco países da União Europeia anunciaram que pretendem mandar a um centro em Ruanda, já no próximo ano, pessoas cujos pedidos de asilo foram negados. O acordo ainda está em negociação; segundo Kigali, os migrantes poderiam voltar ao país de origem, ficar em Ruanda ou seguir para onde tenham direito de residir. A premiê dinamarquesa, Mette Frederiksen, disse que o plano vai 'quebrar o modelo de negócios dos atravessadores'. Quarenta e sete organizações humanitárias, sindicais e de direitos humanos pediram o abandono do plano.",
+   "porque": "Atores: cinco governos europeus, Ruanda e organizações de direitos humanos. Por quê: a UE endurece há anos as regras de asilo e busca terceirizar a gestão migratória para países fora do bloco. O que muda: diferentemente do plano britânico de 2022, derrubado pela Suprema Corte do Reino Unido por Ruanda não ser 'terceiro país seguro', este alcança só pedidos já rejeitados, mas reabre o debate sobre o princípio de non-refoulement. Edital: direitos humanos e refugiados (13.6) e integração europeia (13.3). O Brasil, que tem lei de migração de 2017 baseada em direitos e acolhe venezuelanos pela Operação Acolhida, costuma defender nos foros da ONU a proteção internacional de refugiados.",
+   "fonte": "Al Jazeera (com AP e Reuters)",
+   "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261116__D7LY8P7__v1__HighRes__AustriaEuPoliticsMigration-1794857577.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera",
+   "curso": false,
+   "ce": {
+    "s": "O princípio do non-refoulement, previsto na Convenção de 1951 sobre o Estatuto dos Refugiados, proíbe devolver um refugiado a território onde sua vida ou liberdade estejam ameaçadas.",
+    "ans": "C",
+    "exp": "Art. 33 da Convenção de 1951. A ideia de 'terceiro país seguro' é justamente o ponto de atrito dos planos de transferência para Ruanda."
+   }
+  },
+  {
+   "id": "2026-11-17-4",
+   "materia": "Política Internacional",
+   "edital": "13.3; 13.8",
+   "titulo": "Premiê britânico Andy Burnham diz que o Brexit 'não entregou' e busca reaproximação com a UE antes de cúpula em Bruxelas",
+   "resumo": "Em discurso no banquete do Lord Mayor, em Londres, na segunda-feira (16/11), o primeiro-ministro britânico, Andy Burnham, disse que o Reino Unido 'perdeu mais do que ganhou' nos dez anos desde o referendo de 2016 e que o 'Brexit duro' não basta. Ele defendeu reconfigurar a relação com a União Europeia para enfrentar o isolacionismo crescente no mundo. Na cúpula Reino Unido–UE de sexta-feira (20/11), em Bruxelas, Londres deve fechar acordos sobre comércio de alimentos e bebidas, energia e emissões e um programa de mobilidade para jovens trabalharem por períodos limitados.",
+   "porque": "Atores: Reino Unido, que deixou a UE em 2020, e as instituições europeias. Por quê: custos comerciais do Brexit, guerra na Ucrânia e tarifas americanas empurram Londres de volta para a Europa, sem reabrir a adesão. O que muda: acordos setoriais (sanitário e fitossanitário, mercado de carbono, mobilidade) aproximam o Reino Unido das regras do mercado único. Edital: integração europeia (13.3) e comércio (13.8). O Brasil tem interesse: negocia com o Reino Unido fora do acordo Mercosul–UE, e regras sanitárias alinhadas às europeias afetam o acesso das carnes e frutas brasileiras.",
+   "fonte": "Al Jazeera (com AP e Reuters)",
+   "url": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-16T213551Z_1833612859_RC26POAJK359_RTRMADP_3_BRITAIN-EU-BURNHAM-1794870258.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera",
+   "curso": false,
+   "ce": {
+    "s": "O acordo Mercosul–União Europeia, assinado em 2026, também se aplica ao comércio do Mercosul com o Reino Unido.",
+    "ans": "E",
+    "exp": "O Reino Unido saiu da UE em 31/1/2020 e não é parte do acordo. Um acordo Mercosul–Reino Unido teria de ser negociado à parte."
+   }
+  },
+  {
+   "id": "2026-11-17-5",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.6",
+   "titulo": "CDC da África diz que surto de ebola na RD do Congo segue fora de controle e pode virar o pior da história",
+   "resumo": "No domingo (15/11), o diretor-geral do CDC da África, Jean Kaseya, disse à Reuters que o surto de ebola na República Democrática do Congo, declarado em 15 de maio, continua fora de controle: são mais de 11.200 infecções e 5.500 mortes, segundo o governo. Mais de 80% dos casos novos surgem fora das listas de contatos monitorados, e ataques a profissionais de saúde, salários atrasados e falta de recursos atrapalham a resposta. Causado pela cepa rara Bundibugyo, é o segundo maior surto já registrado, atrás do da África Ocidental (2014–2016). Dos cerca de US$ 2,9 bilhões prometidos, pouco chegou aos focos, segundo os Médicos Sem Fronteiras.",
+   "porque": "Atores: governo congolês, CDC da África (agência da União Africana), OMS, doadores e ONGs. Por quê: conflito armado no leste do país, desconfiança da população e falhas de coordenação entre governo e doadores. O que muda: o surto testa a governança global da saúde e o papel das instituições africanas, num momento de cortes na ajuda internacional. Edital: organismos internacionais (13.1) e direitos humanos e saúde (13.6). O Brasil, que tem cooperação em saúde com países africanos e já teve um general brasileiro no comando da força da MONUSCO, a missão da ONU no Congo, defende a saúde global como bem público.",
+   "fonte": "Agência Brasil (com Reuters)",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/surto-de-ebola-na-rd-do-congo-segue-sem-controle-diz-cdc-da-africa",
+   "img": "https://imagens.ebc.com.br/2MT1GD50PbKyx5kKRbrkVYO6TQc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/18/2026-10-18t155450z_1_lynxmpem9h0d3_rtroptp_4_health-ebola-congo.jpg?itok=TZZXd4SK",
+   "imgCredit": "Foto: Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "O surto de ebola na RD do Congo declarado em maio de 2026 é, em número de casos, o maior já registrado, superando o da África Ocidental de 2014–2016.",
+    "ans": "E",
+    "exp": "É o segundo maior. O da África Ocidental teve mais de 28.600 infecções e 11.000 mortes; o atual passava de 11.200 infecções em 15/11."
+   }
+  }
+ ]
+}

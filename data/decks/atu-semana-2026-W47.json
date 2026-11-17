@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W47",
  "notionUrl": "",
- "updatedAt": "2026-11-16",
+ "updatedAt": "2026-11-17",
  "items": [
   {
    "id": "c1",
@@ -81,12 +81,117 @@
    "q": "Quantos defensores ambientais foram mortos no Peru de 2010 a 2024, segundo ambientalistas citados pelo papa?",
    "a": "57.",
    "exp": "Leão XIV pediu justiça em Pucallpa (15/11) e condenou garimpo ilegal e vazamentos de petróleo."
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "A regra anunciada pelo Departamento de Comércio dos EUA em 16/11/2026 proíbe a venda de chips avançados de inteligência artificial para o Brasil.",
+   "ans": "E",
+   "exp": "A regra não proíbe: passa a exigir licença prévia para exportar chips avançados ao Brasil, a Singapura, Malásia, Tailândia e Indonésia, classificados como de risco de desvio para a China.",
+   "ctx": "Petit Journal: Trump na Ásia, negociação da Ucrânia, caso Nvidia e licença de chips para o Brasil"
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Que países passaram a exigir licença prévia dos EUA para receber chips avançados de IA, pela regra do BIS de 16/11/2026?",
+   "a": "Singapura, Malásia, Tailândia, Indonésia e Brasil.",
+   "exp": "Classificados como de 'risco inaceitável de desvio'; a regra mira o acesso remoto chinês a data centers em terceiros países."
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "Os ataques de 11 de setembro de 2001 levaram as autoridades americanas, pela primeira vez, a ordenar a paralisação de todos os voos no espaço aéreo dos Estados Unidos.",
+   "ans": "C",
+   "exp": "Em 11/9/2001 a FAA mandou pousar todas as aeronaves em voo e suspendeu as decolagens em todo o país, a primeira paralisação nacional não programada da história da aviação americana.",
+   "ctx": "Petit Journal: boato de apagão, guerra híbrida, voos parados nos EUA e o caso Nvidia"
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "Qual a origem do boato de que a internet 'cairia' em 17/11?",
+   "a": "Um aviso da FEMA sobre teste de rotina do Sistema de Alerta de Emergência dos EUA, restrito a rádio e TV.",
+   "exp": "O boato misturou o teste com as panes recentes e com campanhas europeias de kits para 72 horas."
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "Pela Carta da ONU, o secretário-geral é nomeado pela Assembleia Geral mediante recomendação do Conselho de Segurança, o que dá aos membros permanentes poder de bloquear um candidato.",
+   "ans": "C",
+   "exp": "Art. 97 da Carta: nomeação pela AGNU por recomendação do CSNU. A recomendação é decisão não processual, sujeita ao veto dos cinco permanentes.",
+   "ctx": "Na volta da Ásia, Lula encontra Sánchez em Madri e para em Cabo Verde, onde José Maria Neves acaba de ser reeleito"
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "Que mandato termina em 1º/1/2027 e qual candidatura Sánchez apoia para a sucessão?",
+   "a": "O de António Guterres como secretário-geral da ONU; Sánchez apoia uma candidatura latino-americana.",
+   "exp": "Lula e Sánchez se reuniram em Madri em 16/11; depois Lula parou em Cabo Verde, onde José Maria Neves foi reeleito."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "Pela Convenção das Nações Unidas sobre o Direito do Mar, navios estrangeiros gozam do direito de passagem em trânsito nos estreitos usados para a navegação internacional, que não pode ser suspenso pelo Estado costeiro.",
+   "ans": "C",
+   "exp": "Arts. 37 a 44 da CNUDM: a passagem em trânsito não pode ser impedida nem suspensa (art. 44). O Irã assinou mas não ratificou a Convenção e contesta que o regime se aplique a não partes.",
+   "ctx": "Mais petroleiros atingidos no Estreito de Ormuz e drone sobre campo de gás no Curdistão iraquiano; terceiro porta-aviões dos EUA chega à região"
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Quantos incidentes de segurança com navios a OMI registrou em Ormuz e no Oriente Médio de 1º/3 a 11/11/2026?",
+   "a": "136, sendo 35 só em outubro.",
+   "exp": "Em 16/11, mais petroleiros foram atingidos e o USS Theodore Roosevelt elevou a três os porta-aviões dos EUA na região."
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "O princípio do non-refoulement, previsto na Convenção de 1951 sobre o Estatuto dos Refugiados, proíbe devolver um refugiado a território onde sua vida ou liberdade estejam ameaçadas.",
+   "ans": "C",
+   "exp": "Art. 33 da Convenção de 1951. A ideia de 'terceiro país seguro' é justamente o ponto de atrito dos planos de transferência para Ruanda.",
+   "ctx": "Áustria, Dinamarca, Alemanha, Grécia e Países Baixos anunciam plano de enviar a Ruanda solicitantes de asilo rejeitados"
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "Quais cinco países da UE anunciaram o plano de enviar a Ruanda solicitantes de asilo rejeitados?",
+   "a": "Áustria, Dinamarca, Alemanha, Grécia e Países Baixos.",
+   "exp": "Diferente do plano britânico de 2022, derrubado pela Suprema Corte, só alcança pedidos já negados."
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "O acordo Mercosul–União Europeia, assinado em 2026, também se aplica ao comércio do Mercosul com o Reino Unido.",
+   "ans": "E",
+   "exp": "O Reino Unido saiu da UE em 31/1/2020 e não é parte do acordo. Um acordo Mercosul–Reino Unido teria de ser negociado à parte.",
+   "ctx": "Premiê britânico Andy Burnham diz que o Brexit 'não entregou' e busca reaproximação com a UE antes de cúpula em Bruxelas"
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "O que Andy Burnham disse sobre o Brexit em 16/11 e o que espera da cúpula com a UE?",
+   "a": "Que o Reino Unido 'perdeu mais do que ganhou' e que quer acordos sobre alimentos, energia e emissões e mobilidade de jovens.",
+   "exp": "A cúpula Reino Unido–UE ocorre em Bruxelas em 20/11."
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "O surto de ebola na RD do Congo declarado em maio de 2026 é, em número de casos, o maior já registrado, superando o da África Ocidental de 2014–2016.",
+   "ans": "E",
+   "exp": "É o segundo maior. O da África Ocidental teve mais de 28.600 infecções e 11.000 mortes; o atual passava de 11.200 infecções em 15/11.",
+   "ctx": "CDC da África diz que surto de ebola na RD do Congo segue fora de controle e pode virar o pior da história"
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Qual cepa causa o surto de ebola na RD do Congo e qual a sua posição entre os maiores surtos?",
+   "a": "A cepa Bundibugyo; é o segundo maior surto, atrás do da África Ocidental (2014–2016).",
+   "exp": "Mais de 11.200 infecções e 5.500 mortes até 15/11, segundo o governo congolês."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Lula na Asean, trilateral em Shenzhen, Estônia x Rússia, Mar do Sul da China e Amazônia"
+   "b": "Lula na Asean e na Europa, Xi–Trump–Putin, Ucrânia, Ormuz, chips e migração"
   },
   {
    "t": "Lula na Asean",
@@ -94,72 +199,72 @@
    "l": [
     "Comércio Brasil–Asean: US$ 38,4 bi (2025)",
     "Hoje: Parceiro de Diálogo Setorial",
-    "Singapura preside a Asean em 2027"
+    "Mercosul–Singapura e Mercosul–Canadá"
    ],
-   "n": "Lula discursou na abertura, como convidado"
+   "n": "Carney anunciou ~US$ 400 mi para o TFFF"
   },
   {
-   "t": "Mercosul fora da região",
-   "b": "Lula tratou com Lawrence Wong do acordo Mercosul–Singapura e combinou com Mark Carney acelerar o acordo Mercosul–Canadá.",
+   "t": "Madri e Cabo Verde",
+   "b": "Com Sánchez, Lula tratou da reforma do CSNU e da sucessão de Guterres; em Cabo Verde, ofereceu cooperação Sul-Sul a José Maria Neves, recém-reeleito.",
    "l": [
-    "Mercosul–Singapura: assinado em 2023",
-    "Mercosul–Canadá: em negociação",
-    "Carney: ~US$ 400 mi para o TFFF"
+    "Mandato de Guterres termina em 1º/1/2027",
+    "Espanha apoia SG latino-americano",
+    "SG: AGNU nomeia por recomendação do CSNU"
    ]
   },
   {
    "t": "Xi, Trump e Putin",
    "b": "A China confirmou para 19/11, em Shenzhen, o primeiro encontro trilateral dos três líderes, à margem da APEC.",
    "l": [
-    "EUA: armas nucleares, não proliferação, Irã",
+    "EUA: armas nucleares e Irã",
     "Rússia: Ucrânia como prioridade",
-    "Trégua comercial EUA–China vence em janeiro"
+    "Kim Jong-un recusou aparecer"
    ],
    "n": "O Brasil não é membro da APEC"
   },
   {
-   "t": "Estônia fecha a fronteira",
-   "b": "Tallinn fechará as passagens com a Rússia após tentativa de incêndio contra fabricante de drones atribuída ao GRU.",
+   "t": "Ucrânia negocia",
+   "b": "Kiev conversou com Witkoff, Kushner e europeus e marcou reunião em Berlim; mediadores sondaram troca de território por OTAN.",
    "l": [
-    "Narva, Luhamaa e Koidula",
-    "8 presos, inclusive cidadãos letões",
-    "Moscou: 'russofobia'"
-   ],
-   "n": "Guerra híbrida contra apoiadores da Ucrânia"
-  },
-  {
-   "t": "Código de conduta adiado",
-   "b": "Asean e China não fecharam o código do Mar do Sul da China; falta decidir se será vinculante.",
-   "l": [
-    "~80% do texto acertado",
-    "Negociação de mais de 20 anos",
-    "Laudo arbitral de 2016 (CNUDM), rejeitado pela China"
+    "França, Alemanha, Itália e Polônia na mesa",
+    "Troca de mais de mil prisioneiros",
+    "Estônia fecha a fronteira com a Rússia"
    ]
   },
   {
-   "t": "Mianmar continua vetado",
-   "b": "A Asean manteve o veto à presença do líder de Mianmar nas cúpulas por descumprir o plano de paz de 2021.",
+   "t": "Chips: o Brasil na lista",
+   "b": "Os EUA passaram a exigir licença para exportar chips avançados ao Brasil e a quatro países do Sudeste Asiático, por risco de desvio para a China.",
    "l": [
-    "Só diplomatas de carreira representam o país",
-    "Condenação de ataques a civis"
+    "Não é proibição: é licença prévia",
+    "Mira o acesso remoto a data centers",
+    "Pano de fundo: caso Nvidia/Megaspeed"
    ]
   },
   {
-   "t": "Papa na Amazônia peruana",
-   "b": "Leão XIV cobrou justiça por defensores ambientais mortos e condenou garimpo ilegal e vazamentos de petróleo.",
+   "t": "Ormuz e Golfo",
+   "b": "Mais petroleiros atingidos em Ormuz e drone sobre campo de gás no Curdistão iraquiano; três porta-aviões dos EUA na região.",
    "l": [
-    "57 mortes no Peru (2010–2024)",
-    "Viagem de 12 dias: Uruguai, Argentina, Peru",
-    "Tema central do Acordo de Escazú"
+    "136 incidentes desde março (OMI)",
+    "Passagem em trânsito: arts. 37–44 da CNUDM",
+    "Irã não ratificou a CNUDM"
    ]
   },
   {
-   "t": "Fios da semana",
-   "b": "Diversificação comercial do Brasil, concerto de grandes potências e disputas por fronteiras e mares atravessam as notícias.",
+   "t": "Europa: asilo e Brexit",
+   "b": "Cinco países da UE querem mandar a Ruanda asilados rejeitados; Burnham diz que o Brexit falhou e busca reaproximação.",
    "l": [
-    "PEB: Ásia e acordos do Mercosul",
-    "Não proliferação e Ucrânia",
-    "Direito do mar e meio ambiente"
+    "Non-refoulement: art. 33 da Convenção de 1951",
+    "Cúpula Reino Unido–UE em 20/11",
+    "Reino Unido fora do acordo Mercosul–UE"
+   ]
+  },
+  {
+   "t": "Mar, Amazônia e saúde",
+   "b": "Asean e China sem código de conduta; o papa cobrou justiça por defensores ambientais no Peru; ebola segue fora de controle na RDC.",
+   "l": [
+    "Laudo de 2016: tribunal arbitral, não CIJ",
+    "57 defensores mortos no Peru (2010–24)",
+    "Ebola: segundo maior surto da história"
    ]
   },
   {
@@ -167,10 +272,10 @@
    "t": "Pegadinhas que caem",
    "l": [
     "O Brasil não é membro da APEC",
-    "Brasil é parceiro setorial, não pleno, da Asean",
+    "Chips: licença prévia, não proibição",
     "Laudo de 2016: tribunal arbitral, não a CIJ",
-    "Estônia: OTAN e UE em 2004",
-    "TCA de 1978 tem oito membros; OTCA veio depois"
+    "Ebola na RDC: segundo, não o maior surto",
+    "Reino Unido não é parte do acordo Mercosul–UE"
    ]
   }
  ]

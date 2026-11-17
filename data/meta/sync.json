@@ -19,10 +19,11 @@
   "pi-brasil-eua",
   "hm-revolucao-francesa",
   "pi-peb-2-pei-medici",
-  "pi-peb-3-geisel-sarney"
+  "pi-peb-3-geisel-sarney",
+  "hm-restauracao-viena-1848"
  ],
  "kind": "sync",
- "lastRun": "2026-11-16",
+ "lastRun": "2026-11-17T08:47:27.615794+00:00",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",
