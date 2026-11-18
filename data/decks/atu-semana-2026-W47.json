@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W47",
  "notionUrl": "",
- "updatedAt": "2026-11-17",
+ "updatedAt": "2026-11-18",
  "items": [
   {
    "id": "c1",
@@ -186,12 +186,102 @@
    "q": "Qual cepa causa o surto de ebola na RD do Congo e qual a sua posição entre os maiores surtos?",
    "a": "A cepa Bundibugyo; é o segundo maior surto, atrás do da África Ocidental (2014–2016).",
    "exp": "Mais de 11.200 infecções e 5.500 mortes até 15/11, segundo o governo congolês."
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "A ponte da Crimeia, sobre o Estreito de Kerch, foi inaugurada em 2018 e liga a Rússia continental à península anexada pela Rússia em 2014.",
+   "ans": "C",
+   "exp": "Putin inaugurou a ponte em maio de 2018 dirigindo um caminhão; ela permite chegar à Crimeia sem passar pelo território ucraniano continental.",
+   "ctx": "Petit Journal: ponte da Crimeia, México–China, renúncia na Mongólia e sarampo nos EUA"
+  },
+  {
+   "id": "f13",
+   "t": "f",
+   "q": "Em que ano foi inaugurada a ponte da Crimeia (Kerch) e o que ela liga?",
+   "a": "Em 2018; liga a Rússia continental (região de Krasnodar) à Crimeia, anexada em 2014.",
+   "exp": "Ucrânia derrubou parte dela em 17/11/2026, às vésperas do encontro Putin–Xi–Trump."
+  },
+  {
+   "id": "c14",
+   "t": "c",
+   "s": "As decisões das Conferências das Partes da Convenção-Quadro da ONU sobre Mudança do Clima são, na prática, adotadas por consenso, o que permite a um único país bloquear um texto.",
+   "ans": "C",
+   "exp": "Como as regras de procedimento da UNFCCC nunca foram adotadas quanto à votação, as COPs decidem por consenso; por isso a objeção saudita pesa no rascunho de Antália.",
+   "ctx": "COP31 divulga rascunho da decisão final: Arábia Saudita veta menção ao roteiro brasileiro para sair dos fósseis"
+  },
+  {
+   "id": "f14",
+   "t": "f",
+   "q": "O que o rascunho da decisão da COP31 (16/11) diz dos roteiros brasileiros para os fósseis?",
+   "a": "Saúda os roteiros voluntários lançados na COP30, mas não diz como o trabalho continua; a Arábia Saudita rejeita mencioná-los.",
+   "exp": "Decisão por consenso; COP31 termina em 20/11 em Antália."
+  },
+  {
+   "id": "c15",
+   "t": "c",
+   "s": "As sanções britânicas contra construtoras de assentamentos foram impostas em cumprimento a uma resolução do Conselho de Segurança da ONU que obriga os Estados-membros a congelar ativos dessas empresas.",
+   "ans": "E",
+   "exp": "São sanções unilaterais, baseadas no regime britânico de direitos humanos; a Resolução 2334 (2016) do CSNU declara os assentamentos sem validade jurídica, mas não impõe sanções.",
+   "ctx": "Reino Unido sanciona oito construtoras israelenses de assentamentos na Cisjordânia e o grupo Tzav 9, que bloqueia ajuda a Gaza"
+  },
+  {
+   "id": "f15",
+   "t": "f",
+   "q": "Que medida o Reino Unido adotou em 17/11 contra assentamentos israelenses?",
+   "a": "Sanções (congelamento de ativos) a 8 construtoras de assentamentos na Cisjordânia e ao grupo Tzav 9.",
+   "exp": "Antes da licitação do projeto E1 (3.401 moradias a leste de Jerusalém)."
+  },
+  {
+   "id": "c16",
+   "t": "c",
+   "s": "A Aladi, criada pelo Tratado de Montevidéu de 1980, substituiu a ALALC e trocou a meta de uma zona de livre comércio com prazo fixo por mecanismos mais flexíveis, como os acordos de alcance parcial.",
+   "ans": "C",
+   "exp": "A ALALC (1960) previa zona de livre comércio em 12 anos e fracassou; a Aladi admite acordos entre parte dos membros, base jurídica do Mercosul (ACE-18).",
+   "ctx": "Brasil é o primeiro país a internalizar acordo da Aladi que derruba barreiras técnicas ao comércio de cosméticos na América do Sul"
+  },
+  {
+   "id": "f16",
+   "t": "f",
+   "q": "O que faz o acordo da Aladi sobre cosméticos internalizado pelo Brasil em 17/11?",
+   "a": "Remove barreiras técnicas (certificado de livre venda, rotulagem, registro) sem mexer em tarifas.",
+   "exp": "Brasil foi o primeiro dos 8 signatários a concluir os trâmites; Decreto 13.169."
+  },
+  {
+   "id": "c17",
+   "t": "c",
+   "s": "O Brasil comandou o componente militar da Missão das Nações Unidas para a Estabilização no Haiti (MINUSTAH) durante toda a existência da missão, de 2004 a 2017.",
+   "ans": "C",
+   "exp": "Todos os force commanders da MINUSTAH foram generais brasileiros; a missão foi substituída em 2017 pela MINUJUSTH.",
+   "ctx": "El Salvador diz que tira as tropas do Haiti quando achar seus quatro militares desaparecidos; governo haitiano quer prorrogar"
+  },
+  {
+   "id": "f17",
+   "t": "f",
+   "q": "Sob que condição El Salvador diz que retira as tropas do Haiti?",
+   "a": "Quando resgatar os quatro aerotécnicos desaparecidos; o Haiti quer prorrogar a operação.",
+   "exp": "Mais de 2 mil soldados, fora do marco da ONU; acordo bilateral não publicado."
+  },
+  {
+   "id": "c18",
+   "t": "c",
+   "s": "O Kataib Hezbollah é um braço do Hezbollah libanês que atua no Iraque sob comando direto de Beirute.",
+   "ans": "E",
+   "exp": "Apesar do nome, é uma milícia xiita iraquiana autônoma, ligada à Força Quds do Irã; integra as Forças de Mobilização Popular. Pegadinha de conceitos parecidos.",
+   "ctx": "Iraque manda o Exército ao reduto do Kataib Hezbollah em Jurf al-Sakhar e dá prazo até sexta para a milícia pró-Irã sair"
+  },
+  {
+   "id": "f18",
+   "t": "f",
+   "q": "Por que o governo iraquiano mandou tropas a Jurf al-Sakhar?",
+   "a": "Para retomar do Kataib Hezbollah o reduto apontado como centro de contrabando de petróleo, com prazo até 20/11.",
+   "exp": "Pressão dos EUA para desarmar milícias pró-Irã; Qaani foi a Bagdá mediar."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Lula na Asean e na Europa, Xi–Trump–Putin, Ucrânia, Ormuz, chips e migração"
+   "b": "Lula na Ásia e na Europa, Xi–Trump–Putin, Ucrânia e Kerch, COP31, Golfo e sanções"
   },
   {
    "t": "Lula na Asean",
@@ -204,67 +294,67 @@
    "n": "Carney anunciou ~US$ 400 mi para o TFFF"
   },
   {
-   "t": "Madri e Cabo Verde",
-   "b": "Com Sánchez, Lula tratou da reforma do CSNU e da sucessão de Guterres; em Cabo Verde, ofereceu cooperação Sul-Sul a José Maria Neves, recém-reeleito.",
+   "t": "Madri, Cabo Verde e Aladi",
+   "b": "Com Sánchez, Lula tratou da reforma do CSNU e da sucessão de Guterres; o Brasil foi o 1º a internalizar o acordo da Aladi sobre cosméticos.",
    "l": [
     "Mandato de Guterres termina em 1º/1/2027",
-    "Espanha apoia SG latino-americano",
-    "SG: AGNU nomeia por recomendação do CSNU"
+    "Aladi: Tratado de Montevidéu (1980)",
+    "Acordo derruba barreira técnica, não tarifa"
    ]
   },
   {
    "t": "Xi, Trump e Putin",
-   "b": "A China confirmou para 19/11, em Shenzhen, o primeiro encontro trilateral dos três líderes, à margem da APEC.",
+   "b": "A China confirmou para 19/11, em Shenzhen, o primeiro encontro trilateral dos três líderes, à margem da APEC; Sheinbaum também foi a Xi.",
    "l": [
     "EUA: armas nucleares e Irã",
     "Rússia: Ucrânia como prioridade",
-    "Kim Jong-un recusou aparecer"
+    "México diversifica com cautela (T-MEC)"
    ],
    "n": "O Brasil não é membro da APEC"
   },
   {
-   "t": "Ucrânia negocia",
-   "b": "Kiev conversou com Witkoff, Kushner e europeus e marcou reunião em Berlim; mediadores sondaram troca de território por OTAN.",
+   "t": "Ucrânia: Berlim e Kerch",
+   "b": "Kiev negocia com Witkoff, Kushner e europeus, enquanto drones derrubaram parte da ponte de Kerch, símbolo da anexação da Crimeia.",
    "l": [
-    "França, Alemanha, Itália e Polônia na mesa",
-    "Troca de mais de mil prisioneiros",
+    "Ponte inaugurada em 2018",
+    "Crimeia anexada em 2014 (AGNU 68/262)",
     "Estônia fecha a fronteira com a Rússia"
    ]
   },
   {
-   "t": "Chips: o Brasil na lista",
-   "b": "Os EUA passaram a exigir licença para exportar chips avançados ao Brasil e a quatro países do Sudeste Asiático, por risco de desvio para a China.",
+   "t": "COP31 em Antália",
+   "b": "O rascunho da decisão final saúda os roteiros brasileiros para sair dos fósseis, mas a Arábia Saudita veta citá-los; decisão exige consenso.",
    "l": [
-    "Não é proibição: é licença prévia",
-    "Mira o acesso remoto a data centers",
-    "Pano de fundo: caso Nvidia/Megaspeed"
+    "Eletrificação de 35% até 2035",
+    "Adaptação: US$ 120 bi/ano até 2035",
+    "Termina em 20/11"
    ]
   },
   {
-   "t": "Ormuz e Golfo",
-   "b": "Mais petroleiros atingidos em Ormuz e drone sobre campo de gás no Curdistão iraquiano; três porta-aviões dos EUA na região.",
+   "t": "Golfo, Ormuz e Iraque",
+   "b": "Petroleiros atingidos em Ormuz e ataques iranianos ao Bahrein; Bagdá dá prazo ao Kataib Hezbollah para deixar Jurf al-Sakhar.",
    "l": [
-    "136 incidentes desde março (OMI)",
     "Passagem em trânsito: arts. 37–44 da CNUDM",
-    "Irã não ratificou a CNUDM"
+    "Kataib Hezbollah é milícia iraquiana",
+    "Qaani (Força Quds) media em Bagdá"
    ]
   },
   {
-   "t": "Europa: asilo e Brexit",
-   "b": "Cinco países da UE querem mandar a Ruanda asilados rejeitados; Burnham diz que o Brexit falhou e busca reaproximação.",
+   "t": "Assentamentos e asilo",
+   "b": "O Reino Unido sancionou 8 construtoras de assentamentos; cinco países da UE querem mandar a Ruanda asilados rejeitados.",
    "l": [
-    "Non-refoulement: art. 33 da Convenção de 1951",
-    "Cúpula Reino Unido–UE em 20/11",
-    "Reino Unido fora do acordo Mercosul–UE"
+    "IV Convenção de Genebra, art. 49",
+    "Sanção unilateral, não do CSNU",
+    "Non-refoulement: art. 33 da Convenção de 1951"
    ]
   },
   {
-   "t": "Mar, Amazônia e saúde",
-   "b": "Asean e China sem código de conduta; o papa cobrou justiça por defensores ambientais no Peru; ebola segue fora de controle na RDC.",
+   "t": "Haiti, chips e saúde",
+   "b": "El Salvador condiciona a saída do Haiti ao resgate de 4 militares; EUA exigem licença para chips ao Brasil; ebola segue fora de controle na RDC.",
    "l": [
-    "Laudo de 2016: tribunal arbitral, não CIJ",
-    "57 defensores mortos no Peru (2010–24)",
-    "Ebola: segundo maior surto da história"
+    "Brasil comandou a MINUSTAH (2004–17)",
+    "Chips: licença prévia, não proibição",
+    "EUA perdem status de livres do sarampo"
    ]
   },
   {
@@ -272,10 +362,10 @@
    "t": "Pegadinhas que caem",
    "l": [
     "O Brasil não é membro da APEC",
-    "Chips: licença prévia, não proibição",
-    "Laudo de 2016: tribunal arbitral, não a CIJ",
-    "Ebola na RDC: segundo, não o maior surto",
-    "Reino Unido não é parte do acordo Mercosul–UE"
+    "COPs decidem por consenso, não por maioria",
+    "Kataib Hezbollah não é braço do Hezbollah libanês",
+    "Sanções britânicas são unilaterais",
+    "Ebola na RDC: segundo, não o maior surto"
    ]
   }
  ]

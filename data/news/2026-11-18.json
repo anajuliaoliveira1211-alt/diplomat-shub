@@ -1,0 +1,146 @@
+{
+ "kind": "news",
+ "date": "2026-11-18",
+ "cards": [
+  {
+   "id": "2026-11-18-pj76432226",
+   "pj_guid": "76432226",
+   "podcast": "Petit Journal · BP 1180 · 36 min",
+   "materia": "Política Internacional",
+   "edital": "13; 13.12; 13.8; 13.6",
+   "titulo": "Petit Journal: ponte da Crimeia, México–China, renúncia na Mongólia e sarampo nos EUA",
+   "resumo": "Episódio de 17/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Panes em série e IA ofensiva",
+     "b": "A rede interna sigilosa da NSA saiu do ar na terça, depois de falhas na Microsoft, em aeroportos e bancos dos EUA; o governo nega ataque. O FBI alertou que criminosos e grupos ligados a Estados usam uma ferramenta de teste de invasão movida a IA para automatizar ataques. Para os apresentadores, é mais uma peça da guerra híbrida."
+    },
+    {
+     "t": "Ucrânia derruba trecho da ponte de Kerch",
+     "b": "Drones ucranianos derrubaram o vão central de uma das pistas da ponte que liga a Rússia continental à Crimeia, anexada em 2014; a ponte foi inaugurada em 2018. Zelensky falou em operação de várias semanas para neutralizar defesas antiaéreas. A ponte é símbolo político e artéria logística das tropas russas no sul da Ucrânia, e o ataque veio às vésperas do encontro Putin–Xi–Trump."
+    },
+    {
+     "t": "Sheinbaum visita Xi em Shenzhen",
+     "b": "A presidente do México disse querer ampliar a cooperação com a China em tecnologia, agricultura, água, saúde e turismo, mas não houve anúncio concreto. Menos de um ano antes, o México elevou tarifas sobre produtos chineses sob pressão dos EUA, destino de mais de 80% de suas exportações, e renegocia o T-MEC. A leitura é de diversificação cautelosa de parceiros."
+    },
+    {
+     "t": "Asilo terceirizado para Ruanda",
+     "b": "Alemanha, Áustria, Dinamarca, Grécia e Países Baixos anunciaram acordos para enviar a Ruanda migrantes irregulares que esgotaram os recursos na UE, modelo parecido com o britânico barrado pela Justiça do Reino Unido. Os apresentadores criticam governos de centro que adotam pautas da extrema direita para tentar conter seu avanço."
+    },
+    {
+     "t": "Presidente da Mongólia renuncia",
+     "b": "Ukhnaagiin Khürelsükh anunciou a renúncia após a oposição acusá-lo de corrupção e pedir CPI sobre o setor de mineração, centrado no carvão vendido à China. O Parlamento precisa aceitar, o presidente do Grande Khural assume interinamente e nova eleição deve ocorrer em até quatro meses. A Mongólia é democracia desde 1990–91, espremida entre China e Rússia."
+    },
+    {
+     "t": "EUA perdem status de livres do sarampo",
+     "b": "Eliminado desde 2000, o sarampo voltou a ter transmissão contínua por mais de 12 meses, e os EUA deixaram de cumprir os critérios da OPAS/OMS. A cobertura vacinal infantil caiu para cerca de 92%, abaixo dos 95% recomendados. Os apresentadores atribuem a queda ao discurso antivacina do secretário de Saúde, Robert F. Kennedy Jr."
+    },
+    {
+     "t": "Notas rápidas",
+     "b": "Briga física ao vivo em debate na TV estatal da Armênia e Kim Jong-un inspecionando uma estação de esqui perto da fronteira com a China. A Coreia do Norte, aproximada de Rússia e China, especula sobre presença em Shenzhen, o que os apresentadores consideram improvável."
+    }
+   ],
+   "porque": "Junta temas recorrentes do edital: guerra na Ucrânia e Crimeia (anexação de 2014, contestada pela AGNU na Resolução 68/262), diversificação comercial do México diante do protecionismo dos EUA (paralelo útil para a estratégia brasileira), externalização do asilo e non-refoulement, e saúde global com OPAS/OMS.",
+   "ce": {
+    "s": "A ponte da Crimeia, sobre o Estreito de Kerch, foi inaugurada em 2018 e liga a Rússia continental à península anexada pela Rússia em 2014.",
+    "ans": "C",
+    "exp": "Putin inaugurou a ponte em maio de 2018 dirigindo um caminhão; ela permite chegar à Crimeia sem passar pelo território ucraniano continental."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/quem-esta-por-tras-nos-ataques-bp-1180--76432226",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-18-1",
+   "materia": "Política Internacional",
+   "edital": "13.2; 13.4; 2",
+   "titulo": "COP31 divulga rascunho da decisão final: Arábia Saudita veta menção ao roteiro brasileiro para sair dos fósseis",
+   "resumo": "A presidência da COP31, em Antália, publicou na segunda (16/11) um rascunho de 18 páginas da decisão de capa, que propõe eletricidade em 35% do consumo final de energia até 2035, meta de captura de carbono e US$ 120 bilhões anuais para adaptação até 2035. O texto saúda os roteiros voluntários lançados pelo Brasil na COP30 para a transição dos combustíveis fósseis, mas não diz como esse trabalho continua; a Arábia Saudita rejeitou qualquer referência a eles, e o Grupo Árabe e os Países em Desenvolvimento de Mesma Opinião (China, Índia) resistem a metas setoriais. A decisão exige consenso de quase 200 países e a conferência termina na sexta (20/11).",
+   "porque": "Mostra a diplomacia climática brasileira tentando dar continuidade, depois de Belém, ao legado da COP30 (roteiros para fósseis e desmatamento, TFFF) num processo decidido por consenso, em que um só país pode bloquear. Liga meio ambiente, energia e o eixo Sul-Sul: o Brasil diverge de parceiros do BRICS (Arábia Saudita, China, Índia) num tema central de sua política externa.",
+   "fonte": "The Rio Times",
+   "url": "https://www.riotimesonline.com/cop31-ministers-take-up-divided-draft-cover-decision/",
+   "img": "https://www.riotimesonline.com/wp-content/uploads/2026/11/n01r04n-inline1.jpg",
+   "imgCredit": "Foto: The Rio Times",
+   "curso": false,
+   "ce": {
+    "s": "As decisões das Conferências das Partes da Convenção-Quadro da ONU sobre Mudança do Clima são, na prática, adotadas por consenso, o que permite a um único país bloquear um texto.",
+    "ans": "C",
+    "exp": "Como as regras de procedimento da UNFCCC nunca foram adotadas quanto à votação, as COPs decidem por consenso; por isso a objeção saudita pesa no rascunho de Antália."
+   }
+  },
+  {
+   "id": "2026-11-18-2",
+   "materia": "Política Internacional",
+   "edital": "13.6; 13.1; 13.5",
+   "titulo": "Reino Unido sanciona oito construtoras israelenses de assentamentos na Cisjordânia e o grupo Tzav 9, que bloqueia ajuda a Gaza",
+   "resumo": "Na terça (17/11), o governo britânico congelou ativos de oito empresas israelenses que constroem em assentamentos na Cisjordânia e do grupo Tzav 9, acusado de bloquear comboios de ajuda humanitária a Gaza. O chanceler Ed Miliband disse que a expansão ilegal dos assentamentos destrói a perspectiva de dois Estados; a medida veio antes dos prazos finais de licitação do projeto E1, que prevê 3.401 moradias a leste de Jerusalém e cortaria a Cisjordânia ao meio. É o primeiro passo concreto depois de Londres anunciar, em setembro, a proibição de importar bens dos assentamentos, alinhando-se a Canadá e França.",
+   "porque": "Mostra sanções unilaterais usadas para defender o direito internacional humanitário: a IV Convenção de Genebra (art. 49) proíbe transferir população civil para território ocupado, e a CIJ, no parecer de 2024, declarou ilegal a presença israelense nos territórios palestinos. O Brasil, que reconhece a Palestina desde 2010 e defende os dois Estados nas fronteiras de 1967, critica os assentamentos mas, por tradição, só aplica sanções decididas pelo CSNU.",
+   "fonte": "Jewish Telegraphic Agency",
+   "url": "https://www.jta.org/2026/11/17/israel/britain-sanctions-israeli-aid-blocking-group-and-settlement-construction-companies",
+   "img": "https://www.jta.org/wp-content/uploads/2026/11/11-17-2026-David-Miliband-scaled.jpg",
+   "imgCredit": "Foto: JTA",
+   "curso": false,
+   "ce": {
+    "s": "As sanções britânicas contra construtoras de assentamentos foram impostas em cumprimento a uma resolução do Conselho de Segurança da ONU que obriga os Estados-membros a congelar ativos dessas empresas.",
+    "ans": "E",
+    "exp": "São sanções unilaterais, baseadas no regime britânico de direitos humanos; a Resolução 2334 (2016) do CSNU declara os assentamentos sem validade jurídica, mas não impõe sanções."
+   }
+  },
+  {
+   "id": "2026-11-18-3",
+   "materia": "Economia",
+   "edital": "2; 13.1; 13.8",
+   "titulo": "Brasil é o primeiro país a internalizar acordo da Aladi que derruba barreiras técnicas ao comércio de cosméticos na América do Sul",
+   "resumo": "O Decreto 13.169, publicado na terça (17/11), põe em vigor no Brasil o acordo da Associação Latino-Americana de Integração (Aladi) sobre higiene pessoal, perfumaria e cosméticos, assinado em fevereiro por Brasil, Argentina, Bolívia, Chile, Equador, Paraguai, Peru e Uruguai; o México negociou, mas não aderiu. O acordo não mexe em tarifas: elimina o certificado de livre venda, harmoniza rotulagem e boas práticas e troca registros por notificação baseada em risco, e passa a valer 60 dias após dois países concluírem os trâmites internos. Em 2025 o Brasil exportou US$ 1,06 bilhão no setor, 76% para países da Aladi.",
+   "porque": "Exemplo de integração regional por barreiras não tarifárias, área em que a tarifa já é baixa e o custo está na regulação. A Aladi (Tratado de Montevidéu de 1980, sucessora da ALALC) é o guarda-chuva jurídico dos acordos de alcance parcial da região, inclusive do Mercosul (ACE-18), e o setor de cosméticos tem a América do Sul como principal destino das exportações brasileiras de manufaturados.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-simplifica-exportacao-de-cosmeticos-para-america-latina",
+   "img": "https://imagens.ebc.com.br/gviikANFZH9TO2bqFLRLmnCC21g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/11/c7ce57c4-3ca3-44b5-a68b-9e4e44e7e8bb.jpeg?itok=bcQCT5AO",
+   "imgCredit": "Foto: Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "A Aladi, criada pelo Tratado de Montevidéu de 1980, substituiu a ALALC e trocou a meta de uma zona de livre comércio com prazo fixo por mecanismos mais flexíveis, como os acordos de alcance parcial.",
+    "ans": "C",
+    "exp": "A ALALC (1960) previa zona de livre comércio em 12 anos e fracassou; a Aladi admite acordos entre parte dos membros, base jurídica do Mercosul (ACE-18)."
+   }
+  },
+  {
+   "id": "2026-11-18-4",
+   "materia": "Política Internacional",
+   "edital": "13.14; 13.1; 2",
+   "titulo": "El Salvador diz que tira as tropas do Haiti quando achar seus quatro militares desaparecidos; governo haitiano quer prorrogar",
+   "resumo": "Em San Salvador, na segunda (16/11), o ministro da Segurança salvadorenho, Gustavo Villatoro, afirmou que os mais de 2 mil soldados enviados por Nayib Bukele ao Haiti no fim de outubro voltam assim que forem resgatados os quatro aerotécnicos sumidos após ataque de gangue perto de Porto Príncipe. O colega haitiano, Patrick Pélissier, disse que o premiê Alix Didier Fils-Aimé prepara reuniões para estender a operação, que já retomou o estádio Sylvio Cator e atacou o reduto da gangue 400 Mawozo. O acordo de segurança bilateral não foi publicado, e a Anistia Internacional pede transparência sobre as regras de uso da força.",
+   "porque": "O Haiti vive a maior crise de segurança das Américas e é tema caro à PEB: o Brasil comandou o componente militar da MINUSTAH (2004–2017). Hoje convivem a Força de Supressão de Gangues autorizada pelo CSNU, uma força privada e uma intervenção bilateral salvadorenha fora do marco da ONU, o que levanta questões de legitimidade, direitos humanos e do modelo de segurança de Bukele exportado para a região.",
+   "fonte": "Diario Libre (AFP)",
+   "url": "https://www.diariolibre.com/mundo/america-latina/2026/11/16/el-salvador-anuncia-retirada-de-tropas-en-haiti/3722540",
+   "img": "https://resources.diariolibre.com/images/2026/11/16/el-salvador-anuncia-retirada-de-tropas-en-haiti-8fcace13-focus-0-0-1200-675_wam.jpg",
+   "imgCredit": "Foto: Diario Libre",
+   "curso": false,
+   "ce": {
+    "s": "O Brasil comandou o componente militar da Missão das Nações Unidas para a Estabilização no Haiti (MINUSTAH) durante toda a existência da missão, de 2004 a 2017.",
+    "ans": "C",
+    "exp": "Todos os force commanders da MINUSTAH foram generais brasileiros; a missão foi substituída em 2017 pela MINUJUSTH."
+   }
+  },
+  {
+   "id": "2026-11-18-5",
+   "materia": "Política Internacional",
+   "edital": "13.5; 13; 13.12",
+   "titulo": "Iraque manda o Exército ao reduto do Kataib Hezbollah em Jurf al-Sakhar e dá prazo até sexta para a milícia pró-Irã sair",
+   "resumo": "O governo do premiê Ali al-Zaidi ordenou que as Forças Armadas entrem em Jurf al-Sakhar, ao sul de Bagdá, controlado há mais de uma década pela milícia xiita Kataib Hezbollah, depois que uma comissão federal apontou contrabando de petróleo na área; o prazo para a retirada vence na sexta (20/11). A milícia rejeita as acusações, recebeu reforços de grupos aliados e ameaça atirar em quem entrar; o comandante da Força Quds iraniana, Esmail Qaani, foi a Bagdá mediar. O pano de fundo é a pressão dos EUA para que o Iraque desarme as milícias alinhadas a Teerã, em meio à guerra entre EUA e Irã no Golfo.",
+   "porque": "Revela a disputa por influência entre EUA e Irã no Iraque e o problema do monopólio estatal da força num Estado pós-invasão de 2003, com milícias incorporadas às Forças de Mobilização Popular. Um choque armado pode alargar a guerra do Golfo e afetar o petróleo, tema que toca o Brasil pelos preços de energia e por sua posição de defender negociação com Teerã.",
+   "fonte": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abdc317db24-1790821143.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera",
+   "curso": false,
+   "ce": {
+    "s": "O Kataib Hezbollah é um braço do Hezbollah libanês que atua no Iraque sob comando direto de Beirute.",
+    "ans": "E",
+    "exp": "Apesar do nome, é uma milícia xiita iraquiana autônoma, ligada à Força Quds do Irã; integra as Forças de Mobilização Popular. Pegadinha de conceitos parecidos."
+   }
+  }
+ ]
+}
