@@ -1,0 +1,144 @@
+{
+ "kind": "news",
+ "date": "2026-11-19",
+ "cards": [
+  {
+   "id": "2026-11-19-pj76457736",
+   "pj_guid": "76457736",
+   "podcast": "Petit Journal · BP 1181 · 32 min",
+   "materia": "Política Internacional",
+   "edital": "13; 13.6; 13.8; 13.1",
+   "titulo": "Petit Journal: APEC em Shenzhen, Europa de fora, terras raras na Malásia e Knesset",
+   "resumo": "Episódio de 18/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Xi recebe Trump na pista em Shenzhen",
+     "b": "Na abertura da cúpula da APEC em Shenzhen, Xi Jinping foi pessoalmente receber Donald Trump no aeroporto, gesto de reciprocidade pela recepção que teve nos EUA. A primeira-ministra japonesa Sanae Takaichi, ao contrário, não teve comitê de recepção, recado lido como resposta às falas dela sobre defender Taiwan."
+    },
+    {
+     "t": "Xi e Putin criticam o protecionismo",
+     "b": "Antes da chegada de Trump, Xi defendeu o 'comércio livre e aberto' e apresentou a China como parceira estável que compartilha tecnologia. Putin chamou o Ocidente de 'antigas potências hegemônicas' e disse que sanções, tarifas e controles de exportação perderam poder de intimidação."
+    },
+    {
+     "t": "Trilateral sem a Europa",
+     "b": "A reunião Trump–Xi–Putin, marcada para 19/11, deixou os europeus de fora e gerou sensação de traição em Bruxelas. Os apresentadores notam as comparações com a Conferência de Ialta (1945) e o esvaziamento de foros multilaterais de segurança."
+    },
+    {
+     "t": "Macron busca terras raras na Malásia",
+     "b": "Sem convite para Shenzhen, Macron foi a Kuala Lumpur e fechou com o premiê Anwar Ibrahim uma elevação das relações bilaterais. A Malásia flexibiliza a exportação de terras raras brutas para a França, que oferece cooperação em semicondutores, energia renovável e refino; os dois também criam um centro regional contra ameaças híbridas."
+    },
+    {
+     "t": "UE propõe novo empréstimo à Ucrânia",
+     "b": "A Comissão Europeia propôs um empréstimo de 45 bilhões de euros para cobrir um buraco de cerca de 70 bilhões no financiamento ucraniano do próximo ano. Kiev só devolveria depois que a Rússia pagasse reparações, o que aponta para o uso futuro dos ativos russos; a medida ainda depende dos Estados-membros."
+    },
+    {
+     "t": "Oposição assume a presidência do Knesset",
+     "b": "Depois de eleições que deixaram Israel num impasse, um deputado aliado de Gadi Eisenkot venceu a eleição para presidente do Knesset por 66 a 52, com votos da bancada árabe. Netanyahu segue premiê interino, mas a oposição passa a controlar a pauta, e ele reconheceu que o resultado 'não é o que queria'."
+    },
+    {
+     "t": "Le Pen promete revogar a reforma da previdência",
+     "b": "Marine Le Pen prometeu revogar a reforma de Macron e criar um pilar obrigatório de capitalização que chegaria a 900 bilhões de euros em uma geração. Os apresentadores lembram que a França já gasta cerca de 14% do PIB com aposentadorias e duvidam da conta."
+    }
+   ],
+   "porque": "Junta vários temas do edital numa semana só: a disputa sino-americana por comércio e tecnologia, a Rússia buscando sair do isolamento, a Europa perdendo espaço nas grandes negociações de segurança (com o eco de Ialta) e a corrida por minerais críticos, em que o Brasil, dono de grandes reservas de terras raras, é um dos mercados disputados.",
+   "ce": {
+    "s": "A cúpula de líderes da APEC de 2026 é sediada pela China, em Shenzhen.",
+    "ans": "C",
+    "exp": "A China preside a APEC em 2026, e a reunião de líderes acontece em Shenzhen. O Brasil não é membro da APEC, que reúne economias da bacia do Pacífico."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/falar-mal-pela-frente-e-falta-de-educacao-bp-1181--76457736",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-19-1",
+   "materia": "Economia",
+   "edital": "2; 13.1; 13.8",
+   "titulo": "UE adia volta do Brasil à lista de exportadores de carne de aves e mel; Itamaraty busca solução 'no menor prazo'",
+   "resumo": "O comitê veterinário da União Europeia (Scopaff) adiou na terça (17/11) a decisão sobre devolver o Brasil à lista de países autorizados a vender carne de aves e mel ao bloco, porque Estados-membros pediram mais explicações sobre o controle brasileiro do uso de antimicrobianos na criação de animais. As exportações brasileiras de produtos de origem animal para a UE estão suspensas desde 3 de setembro, quando entrou em vigor a nova lista europeia. O Brasil adotou novos controles em 1º de julho, e o Itamaraty diz manter 'contato constante' com Bruxelas; a próxima reunião do comitê é em 7 e 8 de dezembro.",
+   "porque": "É um caso de barreira sanitária usada como instrumento de política comercial: a UE exige que a carne importada siga regras iguais às de seus produtores, tema que também trava o acordo Mercosul–UE. Mostra a PEB defendendo o agronegócio, principal setor exportador do país, e a ligação entre normas técnicas, OMC (acordo SPS) e negociação bilateral.",
+   "fonte": "O Liberal (Estadão Conteúdo)",
+   "url": "https://www.oliberal.com/economia/mre-itamaraty-busca-solucionar-no-menor-prazo-exclusao-do-brasil-de-fornecedores-da-ue-1.1195721",
+   "img": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.687339%3A1685479641%2FPalacio-Itamaraty-768x576.jpg%3Ff%3D187%3A100%26w%3D1200",
+   "imgCredit": "Foto: O Liberal",
+   "curso": false,
+   "ce": {
+    "s": "As exportações brasileiras de produtos de origem animal para a União Europeia estão suspensas desde setembro de 2026 por exigências ligadas ao uso de antimicrobianos na pecuária.",
+    "ans": "C",
+    "exp": "A nova lista europeia, em vigor desde 3/9, deixou o Brasil de fora por falta de garantias sobre antimicrobianos; a reinclusão foi adiada para dezembro."
+   }
+  },
+  {
+   "id": "2026-11-19-2",
+   "materia": "Economia",
+   "edital": "2; 13.1; 13.8",
+   "titulo": "Conselho da UE autoriza assinar o acordo de parceria econômica com a Indonésia, que perde o SGP em 2027",
+   "resumo": "O Conselho da União Europeia autorizou na quarta (18/11) a assinatura e a aplicação provisória do Acordo de Parceria Econômica Abrangente (CEPA) e do Acordo de Proteção de Investimentos com a Indonésia, negociados até 2025. Segundo a Reuters, o acordo deve poupar cerca de 600 milhões de euros por ano em tarifas e eliminar em cinco anos a tarifa indonésia de 50% sobre carros europeus. A pressa tem motivo: em 1º de janeiro de 2027 a Indonésia deixa o Sistema Geral de Preferências (SGP) europeu; depois da assinatura, o texto ainda vai ao Parlamento Europeu.",
+   "porque": "Mostra a UE diversificando parceiros para compensar as tarifas de Trump, a mesma lógica que move o acordo Mercosul–UE. A Indonésia é concorrente direta do Brasil em commodities como óleo de palma, níquel e café, e o próprio Mercosul negocia com ela. Também ilustra a diferença entre preferências unilaterais (SGP) e acordos de livre comércio.",
+   "fonte": "Eunews / Conselho da UE / Reuters",
+   "url": "https://www.eunews.it/en/2026/11/18/eu-council-gives-provisional-approval-to-economic-partnership-agreements-with-indonesia/",
+   "img": "https://www.eunews.it/wp-content/uploads/2026/11/jeremy-bishop-QUwLZNchflk-unsplash-1024x683.jpg",
+   "imgCredit": "Foto: Eunews",
+   "curso": false,
+   "ce": {
+    "s": "Com a autorização do Conselho da UE, o acordo com a Indonésia entra plenamente em vigor sem precisar da aprovação do Parlamento Europeu.",
+    "ans": "E",
+    "exp": "O Conselho autorizou a assinatura e a aplicação provisória; a conclusão e a entrada plena em vigor dependem do consentimento do Parlamento Europeu."
+   }
+  },
+  {
+   "id": "2026-11-19-3",
+   "materia": "Política Internacional",
+   "edital": "13.12; 13.6; 13.4",
+   "titulo": "Na abertura do Conselho da AIEA, Grossi diz que não consegue verificar o urânio enriquecido do Irã e pede volta à diplomacia",
+   "resumo": "Ao abrir a reunião da Junta de Governadores da Agência Internacional de Energia Atômica (AIEA), em Viena, na quarta (18/11), Rafael Grossi disse que o Irã não informa a situação de seu material nuclear, exceto da usina de Bushehr, e nega acesso aos inspetores. Desde os ataques de junho de 2025 a agência perdeu a 'continuidade do conhecimento' sobre o urânio enriquecido a até 60% (mais de 440 kg na última estimativa) e não sabe nem onde fica a nova usina de enriquecimento de Isfahan. Grossi propôs passos técnicos graduais para retomar as salvaguardas; EUA e europeus discutem nova resolução contra Teerã.",
+   "porque": "O caso testa o regime de não proliferação (TNP e salvaguardas da AIEA) num momento de guerra no Golfo, e o Irã já foi levado ao Conselho de Segurança em setembro. O Brasil, que defende o direito ao uso pacífico da energia nuclear e já mediou com a Turquia a Declaração de Teerã (2010), tende a apoiar a via diplomática. E Grossi é também candidato a secretário-geral da ONU.",
+   "fonte": "Anadolu Agency",
+   "url": "https://www.aa.com.tr/en/politics/return-to-diplomacy-negotiations-on-iran-s-nuclear-program-imperative-un-nuclear-watchdog/4129361",
+   "img": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/18/thumbs_b_c_44cb362c7a202f094dcf6dc90ce967ba.jpg",
+   "imgCredit": "Foto: Anadolu Agency",
+   "curso": false,
+   "ce": {
+    "s": "Sem acesso dos inspetores, a AIEA não consegue confirmar se o material nuclear declarado pelo Irã foi desviado de atividades pacíficas.",
+    "ans": "C",
+    "exp": "É a função central das salvaguardas: verificar o não desvio. Grossi disse que, sem informação e acesso, a agência não pode chegar a essa conclusão."
+   }
+  },
+  {
+   "id": "2026-11-19-4",
+   "materia": "Política Internacional",
+   "edital": "13.3; 13.1; 13.5",
+   "titulo": "Sucessão de Guterres: Grynspan lidera a sétima sondagem do Conselho de Segurança, com Grossi logo atrás",
+   "resumo": "Na sétima votação indicativa do Conselho de Segurança para escolher o próximo secretário-geral da ONU, divulgada em 17/11, a costa-riquenha Rebeca Grynspan teve 11 apoios e 4 rejeições, seguida pelo argentino Rafael Grossi (9 a 4) e pela guianense Carolyn Rodrigues-Birkett (8 a 6), segundo o La Nación. A emiradense Lana Nusseibeh, que entrou tarde na disputa, ficou em quarto. Desta vez os votos não separaram os cinco membros permanentes; na rodada anterior, os três líderes tinham recebido dois 'desencorajamentos' cada um de países com veto.",
+   "porque": "Mostra como funciona a escolha do secretário-geral (recomendação do Conselho, sujeita a veto do P5, e nomeação pela Assembleia Geral, Carta da ONU art. 97) e a pressão, apoiada pelo Brasil, por uma mulher e por um nome latino-americano no cargo, pela rotação regional. Três dos favoritos são da América Latina e do Caribe, o que interessa diretamente à PEB.",
+   "fonte": "La Nación (via O Diário)",
+   "url": "https://odiario.net/o-que-revelou-a-setima-votacao-da-onu-e-como-ficou-posicionado-o-argentino-rafael-grossi/",
+   "curso": false,
+   "ce": {
+    "s": "O secretário-geral da ONU é eleito diretamente pelo Conselho de Segurança, sem participação da Assembleia Geral.",
+    "ans": "E",
+    "exp": "Pelo art. 97 da Carta, a Assembleia Geral nomeia o secretário-geral mediante recomendação do Conselho de Segurança, em que vale o veto dos membros permanentes."
+   }
+  },
+  {
+   "id": "2026-11-19-5",
+   "materia": "Política Internacional",
+   "edital": "13.5; 13.6; 13.12",
+   "titulo": "Houthis chegam a 60 km de Áden e separatistas do sul do Iêmen voltam a se mobilizar",
+   "resumo": "Os Houthis (Ansar Allah), apoiados pelo Irã, avançaram até cerca de 60 km de Áden, capital provisória do governo iemenita reconhecido pela ONU, depois que forças governistas deixaram posições na costa do mar Vermelho e no estreito de Bab el-Mandeb. O Conselho de Transição do Sul (STC), separatista e apoiado pelos Emirados, que fora desmontado no início do ano por uma ofensiva apoiada pela Arábia Saudita, convocou combatentes para defender Áden, Lahij e al-Dhalea. A Arábia Saudita trocou o comandante da coalizão que apoia o governo.",
+   "porque": "O Iêmen é uma guerra por procuração entre Irã e Arábia Saudita e agora se liga à guerra no Golfo: o controle de Bab el-Mandeb afeta a navegação entre o mar Vermelho e o oceano Índico, rota do comércio Europa–Ásia e do petróleo, com efeito nos fretes e preços que chegam ao Brasil. Também expõe as divisões entre sauditas e emiradenses e o risco de fragmentação do país.",
+   "fonte": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/10/2025-12-15T165556Z_678996810_RC22HIAH0IRP_RTRMADP_3_YEMEN-SECURITY-1792006124.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera",
+   "curso": false,
+   "ce": {
+    "s": "O Conselho de Transição do Sul, que hoje se mobiliza para defender Áden, é um movimento separatista apoiado pelo Irã.",
+    "ans": "E",
+    "exp": "O STC é apoiado pelos Emirados Árabes Unidos; quem tem apoio iraniano são os Houthis. Pegadinha de autoria/ator trocado."
+   }
+  }
+ ]
+}
