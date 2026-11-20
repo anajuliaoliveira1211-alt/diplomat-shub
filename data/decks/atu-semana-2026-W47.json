@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W47",
  "notionUrl": "",
- "updatedAt": "2026-11-19",
+ "updatedAt": "2026-11-20",
  "items": [
   {
    "id": "c1",
@@ -366,22 +366,111 @@
    "q": "Quem são os atores na disputa por Áden, no Iêmen?",
    "a": "Os Houthis (apoiados pelo Irã) avançam; o governo reconhecido (apoiado pela Arábia Saudita) e os separatistas do STC (apoiados pelos Emirados) defendem a cidade.",
    "exp": "Os Houthis estão a cerca de 60 km de Áden, após a retirada governista de Bab el-Mandeb."
+  },
+  {
+   "id": "c25",
+   "t": "c",
+   "s": "O mandado de prisão contra Vladimir Putin, por deportação de crianças ucranianas, foi expedido em 2023 pela Corte Internacional de Justiça.",
+   "ans": "E",
+   "exp": "O mandado foi expedido em março de 2023 pelo Tribunal Penal Internacional (TPI), que julga indivíduos. A CIJ, também em Haia, julga disputas entre Estados. Pegadinha de instituição trocada.",
+   "ctx": "Petit Journal: declaração de Shenzhen, imunidade no TPI, Europa de escanteio e Essequibo"
+  },
+  {
+   "id": "f25",
+   "t": "f",
+   "q": "Que compromissos EUA, China e Rússia assumiram na declaração de Shenzhen (19/11)?",
+   "a": "Reafirmar que guerra nuclear não pode ser vencida e pôr o controle de armas na mesa, ampliar a oferta de petróleo, defender a imunidade de chefes de Estado perante cortes internacionais e pedir reforma da ONU.",
+   "exp": "França e Reino Unido, os outros dois membros permanentes do CSNU, ficaram de fora."
+  },
+  {
+   "id": "c26",
+   "t": "c",
+   "s": "O acordo assinado em Caracas em 18/11/2026 retoma uma cooperação militar entre EUA e Venezuela que havia sido interrompida em 2005, no governo de Hugo Chávez.",
+   "ans": "C",
+   "exp": "Chávez desmontou os mecanismos de cooperação em defesa com Washington em 2005; o acordo com Hegseth os restaura após 21 anos.",
+   "ctx": "EUA e Venezuela retomam cooperação militar após 21 anos, com visita de Hegseth a Caracas"
+  },
+  {
+   "id": "f26",
+   "t": "f",
+   "q": "O que prevê o acordo militar EUA–Venezuela de 18/11/2026?",
+   "a": "Treinamento conjunto, troca de inteligência, fornecimento de equipamentos e combate a grupos criminosos; não menciona bases americanas.",
+   "exp": "Retoma a cooperação rompida por Chávez em 2005; os países também restabelecem relações diplomáticas."
+  },
+  {
+   "id": "c27",
+   "t": "c",
+   "s": "A revisão do Anexo C do Tratado de Itaipu, que trata das bases financeiras da usina, estava prevista para 50 anos após a entrada em vigor do tratado, assinado em 1973.",
+   "ans": "C",
+   "exp": "O Tratado de Itaipu (1973) entrou em vigor em 1974 e prevê a revisão do Anexo C após 50 anos, prazo vencido em 2023; a negociação ainda não foi concluída.",
+   "ctx": "Novo presidente do Paraguai, Pedro Alliana, vai a Brasília para fechar com Lula a tarifa de Itaipu antes de 31/12"
+  },
+  {
+   "id": "f27",
+   "t": "f",
+   "q": "Por que a tarifa de Itaipu precisa ser definida até 31/12/2026?",
+   "a": "Porque vence o acordo de US$ 19,28 por kW/mês fechado em 2024; o Brasil quer US$ 10–12 a partir de 2027, o Paraguai quer mais.",
+   "exp": "A revisão do Anexo C do Tratado de 1973 ficou para 2027. Alliana assumiu em 6/11 após o impeachment de Peña."
+  },
+  {
+   "id": "c28",
+   "t": "c",
+   "s": "As decisões das COPs da Convenção-Quadro da ONU sobre Mudança do Clima são aprovadas por maioria de dois terços das partes presentes.",
+   "ans": "E",
+   "exp": "Como as regras de votação da UNFCCC nunca foram adotadas, as COPs decidem por consenso, o que dá a qualquer grupo, como os exportadores de petróleo, poder de bloqueio.",
+   "ctx": "COP31: segundo rascunho da decisão final tira menção ao roteiro brasileiro para sair dos combustíveis fósseis"
+  },
+  {
+   "id": "f28",
+   "t": "f",
+   "q": "O que o 2º rascunho da decisão da COP31 retirou?",
+   "a": "A menção à transição para longe dos fósseis e ao roteiro global da presidência brasileira da COP30.",
+   "exp": "Manteve a meta voluntária de eletrificação; o número para triplicar o financiamento à adaptação foi adiado para a COP32."
+  },
+  {
+   "id": "c29",
+   "t": "c",
+   "s": "Pelo acordo ratificado em 19/11/2026, a Groenlândia passa à soberania dos Estados Unidos, que ganham o direito de instalar novas bases militares na ilha.",
+   "ans": "E",
+   "exp": "A soberania continua com a Dinamarca; os EUA ganham apenas ampliação do acesso militar (Pituffik e novas áreas). Pegadinha de extrapolação.",
+   "ctx": "Parlamento dinamarquês ratifica por 109 a 0 o acordo de defesa com os EUA sobre a Groenlândia"
+  },
+  {
+   "id": "f29",
+   "t": "f",
+   "q": "O que o acordo EUA–Dinamarca sobre a Groenlândia permite?",
+   "a": "Ampliar Pituffik, criar áreas militares em Narsarsuaq e Mestersvig e instalar o Golden Dome; veta presença militar de países fora da OTAN.",
+   "exp": "Ratificado por 109 a 0 em 19/11; a soberania continua dinamarquesa."
+  },
+  {
+   "id": "c30",
+   "t": "c",
+   "s": "A volta de um ex-membro à União Europeia depende de aprovação unânime dos Estados-membros, conforme o procedimento de adesão do Tratado da União Europeia.",
+   "ans": "C",
+   "exp": "Pelo art. 50(5) do TUE, um Estado que saiu e queira voltar segue o procedimento de adesão do art. 49, que exige unanimidade no Conselho e ratificação por todos os membros.",
+   "ctx": "Burnham vai a Bruxelas para a segunda cúpula UE–Reino Unido desde o Brexit, com acordos de alimentos, carbono e mobilidade jovem"
+  },
+  {
+   "id": "f30",
+   "t": "f",
+   "q": "Que acordos estão na pauta da cúpula UE–Reino Unido de 20/11?",
+   "a": "Acordo sanitário para alimentos e bebidas, ligação dos mercados de carbono e mobilidade para jovens trabalhadores.",
+   "exp": "É só a segunda cúpula bilateral desde o Brexit; Burnham descarta, por ora, voltar ao bloco."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Lula na Ásia e na Europa, APEC em Shenzhen, Ucrânia, COP31, AIEA, ONU e Golfo"
+   "b": "Shenzhen sem a Europa, COP31, Venezuela e EUA, Itaipu, Groenlândia, Brexit e Golfo"
   },
   {
-   "t": "Lula na Asean",
-   "b": "Em Manila, Lula defendeu diversificar mercados e processar minerais críticos no Brasil; pediu para o país virar Parceiro de Diálogo pleno do bloco.",
+   "t": "Lula na Asean e na Espanha",
+   "b": "Em Manila, Lula defendeu diversificar mercados e processar minerais críticos no Brasil; em Madri, encontrou Sánchez a duas semanas da eleição espanhola.",
    "l": [
     "Comércio Brasil–Asean: US$ 38,4 bi (2025)",
-    "Hoje: Parceiro de Diálogo Setorial",
+    "Brasil quer ser Parceiro de Diálogo pleno",
     "Mercosul–Singapura e Mercosul–Canadá"
-   ],
-   "n": "Carney anunciou ~US$ 400 mi para o TFFF"
+   ]
   },
   {
    "t": "Brasil, UE e Aladi",
@@ -393,31 +482,40 @@
    ]
   },
   {
-   "t": "APEC: Xi, Trump e Putin",
-   "b": "Em Shenzhen, Xi recebeu Trump na pista, defendeu o livre comércio e, com Putin, criticou o protecionismo ocidental; a trilateral de 19/11 deixou a Europa de fora.",
+   "t": "Shenzhen: a trilateral",
+   "b": "Na APEC, Trump, Putin e Xi assinaram uma declaração: guerra nuclear não pode ser vencida, mais oferta de petróleo, imunidade de chefes de Estado e reforma da ONU.",
    "l": [
-    "Comparações com Ialta (1945)",
-    "Japão de Takaichi esnobado por causa de Taiwan",
-    "Macron busca terras raras na Malásia"
+    "França e Reino Unido (P5) ficaram de fora",
+    "Recado ao TPI, que tem mandado contra Putin",
+    "Comparações com Ialta (1945)"
    ],
    "n": "O Brasil não é membro da APEC"
   },
   {
-   "t": "Ucrânia: Kerch e dinheiro europeu",
-   "b": "Drones derrubaram parte da ponte de Kerch; a Comissão Europeia propôs novo empréstimo de € 45 bi a Kiev, a ser pago quando a Rússia pagar reparações.",
+   "t": "Europa: Ucrânia, Brexit, Ártico",
+   "b": "A UE propôs novo empréstimo a Kiev; Burnham vai a Bruxelas na 2ª cúpula pós-Brexit; a Dinamarca ratificou por 109 a 0 o acordo militar com os EUA sobre a Groenlândia.",
    "l": [
-    "Crimeia anexada em 2014 (AGNU 68/262)",
-    "Buraco de ~€ 70 bi em 2027",
-    "Depende dos Estados-membros"
+    "Empréstimo de € 45 bi atrelado a reparações",
+    "UE–RU: alimentos, carbono e mobilidade jovem",
+    "Groenlândia segue sob soberania dinamarquesa"
    ]
   },
   {
-   "t": "COP31 e comércio da UE",
-   "b": "O rascunho da COP31 saúda os roteiros brasileiros para sair dos fósseis, mas a Arábia Saudita veta; a UE autorizou assinar o acordo com a Indonésia.",
+   "t": "COP31: fósseis saem do texto",
+   "b": "O 2º rascunho da decisão final em Antalya retirou a transição dos fósseis e o roteiro brasileiro, vetados pelo Grupo Árabe; ficou a meta voluntária de eletrificação.",
    "l": [
-    "COP decide por consenso; termina em 20/11",
-    "Indonésia sai do SGP em 1º/1/2027",
-    "Acordo ainda vai ao Parlamento Europeu"
+    "COP decide por consenso",
+    "Financiamento à adaptação adiado para a COP32",
+    "Revés para o legado da COP30 de Belém"
+   ]
+  },
+  {
+   "t": "Américas: Venezuela e Itaipu",
+   "b": "EUA e Venezuela retomaram a cooperação militar rompida em 2005; no Paraguai, o novo presidente Alliana vem a Brasília fechar a tarifa de Itaipu antes de 31/12.",
+   "l": [
+    "Maduro capturado pelos EUA em 3/1/2026",
+    "Tarifa atual: US$ 19,28 por kW/mês",
+    "Anexo C de Itaipu fica para 2027"
    ]
   },
   {
@@ -430,32 +528,23 @@
    ]
   },
   {
-   "t": "Golfo, Iêmen e Iraque",
-   "b": "Petroleiros atingidos em Ormuz; Houthis a 60 km de Áden e separatistas do sul se mobilizam; Bagdá pressiona o Kataib Hezbollah.",
+   "t": "Golfo, Iêmen e direitos",
+   "b": "Houthis a 60 km de Áden e separatistas do sul se mobilizam; Bagdá pressiona o Kataib Hezbollah; o Reino Unido sancionou construtoras de assentamentos na Cisjordânia.",
    "l": [
-    "Bab el-Mandeb: rota mar Vermelho–Índico",
     "STC é apoiado pelos Emirados",
-    "Kataib Hezbollah é milícia iraquiana"
-   ]
-  },
-  {
-   "t": "Direitos, Haiti e saúde",
-   "b": "O Reino Unido sancionou construtoras de assentamentos; cinco países da UE querem mandar asilados a Ruanda; ebola segue fora de controle na RDC.",
-   "l": [
-    "IV Convenção de Genebra, art. 49",
-    "Non-refoulement: art. 33 da Convenção de 1951",
-    "Brasil comandou a MINUSTAH (2004–17)"
+    "Kataib Hezbollah é milícia iraquiana",
+    "IV Convenção de Genebra, art. 49"
    ]
   },
   {
    "k": "fim",
    "t": "Pegadinhas que caem",
    "l": [
-    "O Brasil não é membro da APEC",
+    "O mandado contra Putin é do TPI, não da CIJ",
     "COPs decidem por consenso, não por maioria",
-    "O secretário-geral é nomeado pela AGNU, não eleito só pelo CSNU",
-    "STC é apoiado pelos Emirados; os Houthis, pelo Irã",
-    "Kataib Hezbollah não é braço do Hezbollah libanês"
+    "A Groenlândia continua sob soberania da Dinamarca",
+    "Anexo C de Itaipu: revisão prevista para 2023, ainda pendente",
+    "STC é apoiado pelos Emirados; os Houthis, pelo Irã"
    ]
   }
  ]

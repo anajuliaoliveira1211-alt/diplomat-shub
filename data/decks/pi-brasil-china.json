@@ -4,7 +4,7 @@
  "assunto": "Relações Brasil–China",
  "edital": "10.1",
  "notionUrl": "https://app.notion.com/p/40e77560e5fa8015ae51f6b525c19628",
- "updatedAt": "2026-11-06",
+ "updatedAt": "2026-11-20",
  "items": [
   {
    "id": "f1",
@@ -242,6 +242,83 @@
    "s": "Na Declaração de 2024, o Brasil reiterou o princípio de 'Uma Só China', reconhecendo Taiwan como parte do território chinês.",
    "ans": "C",
    "exp": "Posição mantida desde 1974."
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "Sob a vigência da Política Externa Independente, em 1961, o Brasil enviou à República Popular da China uma missão comercial chefiada pelo vice-presidente João Goulart, o que agravou a desconfiança dos militares e da direita brasileira para com Goulart.",
+   "ans": "C",
+   "exp": "Em agosto de 1961, Jango chefiava uma missão comercial à China quando Jânio renunciou; a viagem à China comunista alimentou a resistência militar à sua posse.",
+   "ano": "2016",
+   "prova": "Manhã · Q18 item 1"
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "Fernando Collor de Melo foi o primeiro presidente brasileiro a empreender visita oficial à China e à Ásia continental.",
+   "ans": "E",
+   "exp": "O primeiro foi João Figueiredo, que visitou Pequim em 1984. Pegadinha de autoria trocada.",
+   "ano": "2016",
+   "prova": "Manhã · Q18 item 2",
+   "trap": 3
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "No Brasil, a rigidez ideológica do regime militar, ainda sob o influxo da Guerra Fria, impediu que o país normalizasse suas relações com Pequim, o que somente se deu com a redemocratização, ocorrida em 1985.",
+   "ans": "E",
+   "exp": "As relações foram estabelecidas em 1974, no governo Geisel (pragmatismo responsável), ainda no regime militar.",
+   "ano": "2016",
+   "prova": "Manhã · Q18 item 3",
+   "trap": 4
+  },
+  {
+   "id": "c14",
+   "t": "c",
+   "s": "Em 1952, no auge da Guerra da Coreia, emblemática de um sistema mundial bipolar, o Brasil oficializou seu apoio à China Nacionalista, instalando embaixada em Taipé.",
+   "ans": "C",
+   "exp": "Alinhado aos EUA na Guerra Fria, o Brasil reconhecia a República da China (Taiwan) e instalou embaixada em Taipé em 1952; só mudou o reconhecimento em 1974.",
+   "ano": "2016",
+   "prova": "Manhã · Q18 item 4"
+  },
+  {
+   "id": "c15",
+   "t": "c",
+   "s": "Diante da nova preeminência política da China no cenário global, o país tem reconsiderado, em foros internacionais recentes — como na cúpula dos BRICS, em Fortaleza, em 2014, e na reunião de chanceleres da CELAC, em Pequim, em 2015 —, sua tradicional oposição à reforma do Conselho de Segurança das Nações Unidas, por meio do apoio à fórmula que contempla o acréscimo de seis novos membros permanentes com direito de veto, a maioria dos quais países não industrializados.",
+   "ans": "E",
+   "exp": "A China não apoia a fórmula do G4 (seis novos permanentes); nas declarações do BRICS, apenas 'apoia as aspirações' de Brasil, Índia e África do Sul a um papel maior na ONU, sem endossar assentos permanentes.",
+   "ano": "2016",
+   "prova": "Manhã · Q20 item 1",
+   "trap": 5
+  },
+  {
+   "id": "c16",
+   "t": "c",
+   "s": "O incremento do prestígio político da China nos últimos anos pode ser aquilatado pelo novo modelo de relação entre potências (new model of great power relations), sugerido pelos chineses aos EUA em 2013 e adotado no final de 2014, durante o encontro dos presidentes Barack Obama e Xi Jinping, em Washington.",
+   "ans": "E",
+   "exp": "O 'novo modelo de relações entre grandes potências' foi proposto por Xi (Sunnylands, 2013), mas os EUA nunca o adotaram formalmente; e o encontro do fim de 2014 foi em Pequim (APEC), não em Washington.",
+   "ano": "2016",
+   "prova": "Manhã · Q20 item 2",
+   "trap": 4
+  },
+  {
+   "id": "c17",
+   "t": "c",
+   "s": "No tocante às relações China-Rússia, Pequim absteve-se na votação da Resolução n.º 68/262 da Assembleia-Geral das Nações Unidas, referente à integridade territorial da Ucrânia — ainda que tenha subsequentemente demonstrado respeito pela independência, pela soberania e pela integridade territorial daquele país —, tendo em vista suas sensibilidades específicas em relação ao Tibet.",
+   "ans": "E",
+   "exp": "A China de fato se absteve na Resolução 68/262 (2014), mas o item foi considerado errado pelo gabarito definitivo: a justificativa atribuída (Tibet) não corresponde à posição chinesa, que se apoia na não ingerência e na relação com a Rússia.",
+   "ano": "2016",
+   "prova": "Manhã · Q20 item 3",
+   "trap": 4
+  },
+  {
+   "id": "c18",
+   "t": "c",
+   "s": "O aumento da influência política chinesa no mundo correspondeu a um aumento da rivalidade com o Japão nos campos político, de defesa e militar, diante de fatos como a adoção, pelos japoneses, de uma nova diretiva de defesa nacional, o fim da proibição de exportações de armas e o aumento do orçamento de defesa.",
+   "ans": "C",
+   "exp": "Sob Shinzo Abe, o Japão adotou nova estratégia de segurança (2013), flexibilizou em 2014 a proibição de exportar armas e elevou o orçamento militar, em meio à disputa com a China pelas ilhas Senkaku/Diaoyu.",
+   "ano": "2016",
+   "prova": "Manhã · Q20 item 4"
   }
  ],
  "resumo": [
