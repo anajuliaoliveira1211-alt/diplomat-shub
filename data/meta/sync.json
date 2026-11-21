@@ -23,10 +23,11 @@
   "hm-restauracao-viena-1848",
   "hm-eua-seculo-19",
   "geo-historia-pensamento",
-  "pi-brasil-china"
+  "pi-brasil-china",
+  "hm-independencias-hispanicas"
  ],
  "kind": "sync",
- "lastRun": "2026-11-20T09:30:00+00:00",
+ "lastRun": "2026-11-21T09:00:00+00:00",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",

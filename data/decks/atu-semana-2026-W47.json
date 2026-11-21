@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W47",
  "notionUrl": "",
- "updatedAt": "2026-11-20",
+ "updatedAt": "2026-11-21",
  "items": [
   {
    "id": "c1",
@@ -456,29 +456,92 @@
    "q": "Que acordos estão na pauta da cúpula UE–Reino Unido de 20/11?",
    "a": "Acordo sanitário para alimentos e bebidas, ligação dos mercados de carbono e mobilidade para jovens trabalhadores.",
    "exp": "É só a segunda cúpula bilateral desde o Brexit; Burnham descarta, por ora, voltar ao bloco."
+  },
+  {
+   "id": "c31",
+   "t": "c",
+   "s": "O sistema de Bretton Woods, que fixava o dólar ao ouro a US$ 35 por onça, foi desmontado a partir de 1971, quando o governo Nixon suspendeu a conversibilidade do dólar em ouro.",
+   "ans": "C",
+   "exp": "Em agosto de 1971, Nixon suspendeu a conversão de dólares em ouro (o 'choque Nixon'). As paridades fixas acabaram de vez em 1973, e os Acordos da Jamaica (1976) formalizaram o câmbio flutuante.",
+   "ctx": "Petit Journal: ouro em queda, juros nos EUA, cripto e reservas dos bancos centrais"
+  },
+  {
+   "id": "f31",
+   "t": "f",
+   "q": "Por que juros altos nos EUA derrubam o ouro e as criptomoedas, segundo o Petit Invest de 20/11?",
+   "a": "Porque esses ativos não rendem juros: com os títulos americanos pagando mais, investidores vendem ouro e cripto e compram Treasuries, o que também fortalece o dólar.",
+   "exp": "Os apresentadores ligam a alta de juros à inflação americana sustentada pelo petróleo caro da guerra no Oriente Médio."
+  },
+  {
+   "id": "c32",
+   "t": "c",
+   "s": "Na sentença de 19/11/2026, a Corte Internacional de Justiça condenou criminalmente os generais de Mianmar responsáveis pelas operações contra os rohingya.",
+   "ans": "E",
+   "trap": 3,
+   "exp": "A CIJ julga Estados, não pessoas: declarou a responsabilidade internacional de Mianmar. A responsabilidade penal individual cabe a tribunais nacionais ou ao Tribunal Penal Internacional (TPI), que tem investigação própria sobre a deportação de rohingya para Bangladesh.",
+   "ctx": "CIJ conclui que Mianmar cometeu genocídio contra os rohingya, na primeira condenação de um Estado por genocídio"
+  },
+  {
+   "id": "f32",
+   "t": "f",
+   "q": "Com base em que tratado a Gâmbia processou Mianmar na CIJ, mesmo sem ter sido lesada diretamente?",
+   "a": "Na Convenção para a Prevenção e a Repressão do Crime de Genocídio (1948), cujas obrigações valem perante todos os Estados-partes (erga omnes partes).",
+   "exp": "Em 19/11/2026, a CIJ decidiu, por 9 a 6, que Mianmar cometeu genocídio contra os rohingya em 2016–2017."
+  },
+  {
+   "id": "c33",
+   "t": "c",
+   "s": "O secretário-geral da ONU é eleito pela Assembleia Geral por maioria de dois terços, sem participação formal do Conselho de Segurança.",
+   "ans": "E",
+   "trap": 3,
+   "exp": "Pelo art. 97 da Carta, a Assembleia Geral nomeia o secretário-geral mediante recomendação do Conselho de Segurança, decisão substantiva sujeita ao veto dos cinco membros permanentes. Por isso as sondagens no Conselho decidem a disputa.",
+   "ctx": "Nona sondagem do Conselho de Segurança termina sem favorito: todos os oito candidatos a secretário-geral têm vetos potenciais"
+  },
+  {
+   "id": "f33",
+   "t": "f",
+   "q": "Quem lidera a corrida para secretário-geral da ONU após a nona sondagem do Conselho (20/11)?",
+   "a": "A costarriquenha Rebeca Grynspan, à frente do argentino Rafael Grossi, mas todos os oito candidatos têm ao menos dois 'desestímulos' de membros permanentes.",
+   "exp": "Recomendação ao plenário exige 9 votos e nenhum veto; Guterres sai em 31/12/2026."
+  },
+  {
+   "id": "c34",
+   "t": "c",
+   "s": "As negociações de livre comércio entre o Mercosul e a Coreia do Sul, lançadas em 2018, estão paralisadas desde 2021.",
+   "ans": "C",
+   "exp": "As tratativas começaram em 2018 e tiveram rodadas até 2021, quando pararam. Em 20/11/2026, Seul pediu ao Uruguai, na presidência pro tempore do Mercosul, ajuda para retomá-las.",
+   "ctx": "Coreia do Sul pede ao Uruguai, na presidência do Mercosul, que destrave o acordo de livre comércio parado desde 2021"
+  },
+  {
+   "id": "f34",
+   "t": "f",
+   "q": "Que país do Mercosul a Coreia do Sul pediu, em 20/11, que ajudasse a retomar o acordo de livre comércio, e por quê?",
+   "a": "O Uruguai, porque exerce a presidência pro tempore do bloco no segundo semestre de 2026 e coordena as negociações com Seul.",
+   "exp": "As tratativas foram lançadas em 2018 e estão paradas desde 2021."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Shenzhen sem a Europa, COP31, Venezuela e EUA, Itaipu, Groenlândia, Brexit e Golfo"
+   "b": "Shenzhen sem a Europa, COP31, CIJ e Mianmar, sucessão na ONU, Venezuela, Itaipu e Mercosul"
   },
   {
    "t": "Lula na Asean e na Espanha",
    "b": "Em Manila, Lula defendeu diversificar mercados e processar minerais críticos no Brasil; em Madri, encontrou Sánchez a duas semanas da eleição espanhola.",
    "l": [
     "Comércio Brasil–Asean: US$ 38,4 bi (2025)",
-    "Brasil quer ser Parceiro de Diálogo pleno",
-    "Mercosul–Singapura e Mercosul–Canadá"
+    "Brasil quer ser Parceiro de Diálogo pleno da Asean",
+    "Minerais críticos: agregar valor no país"
    ]
   },
   {
-   "t": "Brasil, UE e Aladi",
-   "b": "A UE adiou a volta do Brasil à lista de exportadores de aves e mel por dúvidas sobre antimicrobianos; o Brasil foi o 1º a internalizar o acordo da Aladi sobre cosméticos.",
+   "t": "Mercosul: UE, aves e Coreia",
+   "b": "A UE adiou a volta do Brasil à lista de exportadores de aves e mel; a Coreia do Sul pediu ao Uruguai, na presidência do Mercosul, que destrave o acordo parado desde 2021.",
    "l": [
-    "Exportações animais à UE suspensas desde 3/9",
     "Barreira sanitária: acordo SPS da OMC",
-    "Aladi: Tratado de Montevidéu (1980)"
+    "UE–Mercosul: aplicação provisória desde 1/5",
+    "Coreia–Mercosul: lançado em 2018, parado desde 2021",
+    "Presidência pro tempore: rotação semestral"
    ]
   },
   {
@@ -488,25 +551,34 @@
     "França e Reino Unido (P5) ficaram de fora",
     "Recado ao TPI, que tem mandado contra Putin",
     "Comparações com Ialta (1945)"
-   ],
-   "n": "O Brasil não é membro da APEC"
+   ]
   },
   {
-   "t": "Europa: Ucrânia, Brexit, Ártico",
-   "b": "A UE propôs novo empréstimo a Kiev; Burnham vai a Bruxelas na 2ª cúpula pós-Brexit; a Dinamarca ratificou por 109 a 0 o acordo militar com os EUA sobre a Groenlândia.",
+   "t": "CIJ: genocídio em Mianmar",
+   "b": "Em 19/11, a CIJ decidiu por 9 a 6 que Mianmar cometeu genocídio contra os rohingya em 2016–2017. Foi a primeira vez que a Corte declarou um Estado autor de genocídio.",
    "l": [
-    "Empréstimo de € 45 bi atrelado a reparações",
-    "UE–RU: alimentos, carbono e mobilidade jovem",
-    "Groenlândia segue sob soberania dinamarquesa"
+    "Ação da Gâmbia (2019), pela Convenção de 1948",
+    "CIJ julga Estados; TPI, indivíduos",
+    "Bósnia vs. Sérvia (2007): só falha em prevenir",
+    "Precedente para África do Sul vs. Israel"
+   ]
+  },
+  {
+   "t": "ONU: sucessão travada",
+   "b": "Na 9ª sondagem do Conselho (20/11), Grynspan segue à frente e Grossi em segundo, mas todos os oito candidatos têm vetos potenciais. Guterres sai em 31/12.",
+   "l": [
+    "Art. 97: AGNU nomeia por recomendação do CSNU",
+    "Recomendação: 9 votos e nenhum veto",
+    "Vez informal da América Latina e Caribe"
    ]
   },
   {
    "t": "COP31: fósseis saem do texto",
-   "b": "O 2º rascunho da decisão final em Antalya retirou a transição dos fósseis e o roteiro brasileiro, vetados pelo Grupo Árabe; ficou a meta voluntária de eletrificação.",
+   "b": "Os rascunhos da decisão final em Antalya retiraram a transição dos fósseis e o roteiro brasileiro, vetados pelo Grupo Árabe; a conferência entrou na prorrogação sem acordo.",
    "l": [
     "COP decide por consenso",
-    "Financiamento à adaptação adiado para a COP32",
-    "Revés para o legado da COP30 de Belém"
+    "Financiamento à adaptação sem meta nova",
+    "Revés para a agenda da presidência brasileira"
    ]
   },
   {
@@ -514,37 +586,28 @@
    "b": "EUA e Venezuela retomaram a cooperação militar rompida em 2005; no Paraguai, o novo presidente Alliana vem a Brasília fechar a tarifa de Itaipu antes de 31/12.",
    "l": [
     "Maduro capturado pelos EUA em 3/1/2026",
-    "Tarifa atual: US$ 19,28 por kW/mês",
-    "Anexo C de Itaipu fica para 2027"
+    "Anexo C de Itaipu: revisão ainda pendente",
+    "Essequibo: EUA mudam de tom, diz o Petit"
    ]
   },
   {
-   "t": "AIEA e sucessão na ONU",
-   "b": "Grossi disse à Junta da AIEA que não consegue verificar o urânio iraniano; na corrida para secretário-geral, Grynspan lidera e Grossi vem em segundo.",
+   "t": "Europa, Golfo e mercados",
+   "b": "A Dinamarca ratificou o acordo militar com os EUA sobre a Groenlândia; houthis avançam no Iêmen; juros altos nos EUA derrubam ouro e cripto e fortalecem o dólar.",
    "l": [
-    "Irã: >440 kg a 60% sem verificação",
-    "SG: AGNU nomeia por recomendação do CSNU (art. 97)",
-    "Três favoritos da América Latina e Caribe"
-   ]
-  },
-  {
-   "t": "Golfo, Iêmen e direitos",
-   "b": "Houthis a 60 km de Áden e separatistas do sul se mobilizam; Bagdá pressiona o Kataib Hezbollah; o Reino Unido sancionou construtoras de assentamentos na Cisjordânia.",
-   "l": [
-    "STC é apoiado pelos Emirados",
-    "Kataib Hezbollah é milícia iraquiana",
-    "IV Convenção de Genebra, art. 49"
+    "2ª cúpula UE–Reino Unido pós-Brexit",
+    "AIEA não verifica o urânio iraniano",
+    "Petróleo caro mantém a inflação nos EUA"
    ]
   },
   {
    "k": "fim",
    "t": "Pegadinhas que caem",
    "l": [
-    "O mandado contra Putin é do TPI, não da CIJ",
+    "CIJ julga Estados; o TPI julga indivíduos (o mandado contra Putin é do TPI)",
+    "O secretário-geral depende de recomendação do CSNU, com veto",
     "COPs decidem por consenso, não por maioria",
     "A Groenlândia continua sob soberania da Dinamarca",
-    "Anexo C de Itaipu: revisão prevista para 2023, ainda pendente",
-    "STC é apoiado pelos Emirados; os Houthis, pelo Irã"
+    "O fim da conversibilidade dólar–ouro veio em 1971, com Nixon"
    ]
   }
  ]

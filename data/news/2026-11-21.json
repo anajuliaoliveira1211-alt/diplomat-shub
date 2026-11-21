@@ -1,0 +1,108 @@
+{
+ "kind": "news",
+ "date": "2026-11-21",
+ "cards": [
+  {
+   "id": "2026-11-21-pj76480532",
+   "pj_guid": "76480532",
+   "podcast": "Petit Journal · Invest 138 · 16 min",
+   "materia": "Economia",
+   "edital": "Economia; PI 13.9",
+   "titulo": "Petit Journal: ouro em queda, juros nos EUA, cripto e reservas dos bancos centrais",
+   "resumo": "Episódio de 20/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Semana ruim para os metais",
+     "b": "Segundo os apresentadores, o ouro teve sua maior queda semanal desde março, acompanhado por prata, platina e cobre. No mesmo período, o dólar chegou ao maior valor em cerca de 19 meses."
+    },
+    {
+     "t": "Cripto cai junto",
+     "b": "Bitcoin e Ethereum também recuaram na quinta-feira. Para eles, os chamados ativos alternativos, que não pagam juros, sofrem juntos quando o dólar se fortalece."
+    },
+    {
+     "t": "A explicação: juros americanos",
+     "b": "Com juros altos nos EUA e expectativa de novas altas, guardar dinheiro em ouro, que não rende, fica caro. Investidores vendem metais e cripto e compram títulos do Tesouro americano."
+    },
+    {
+     "t": "Metais andam em bloco",
+     "b": "Quando o ouro sobe demais, o capital migra para a prata e o cobre, e o movimento inverso também ocorre. Por isso, os preços desses metais costumam se mover na mesma direção, com intensidades diferentes."
+    },
+    {
+     "t": "Golpe nos países produtores",
+     "b": "A queda preocupa economias que dependem da mineração de ouro, como vários países africanos. O ouro é uma commodity de preço internacional, e a receita desses países oscila com ele."
+    },
+    {
+     "t": "Bancos centrais compram ouro",
+     "b": "Os apresentadores lembram o fim do lastro em ouro, mas notam que bancos centrais, sobretudo o chinês, aumentaram suas reservas no metal, em parte por temer que os EUA congelem ativos, como fizeram com a Rússia."
+    },
+    {
+     "t": "Oriente Médio, petróleo e Fed",
+     "b": "Para Daniel, a guerra no Oriente Médio mantém o petróleo caro, o que sustenta a inflação americana e tira do Fed espaço para cortar juros. O cenário mais provável, dizem, é de ouro pressionado por mais tempo."
+    }
+   ],
+   "porque": "Liga política internacional e economia: a guerra no Oriente Médio pressiona o petróleo, a inflação e os juros nos EUA, e isso muda o fluxo de capitais no mundo, inclusive para emergentes como o Brasil. Também ajuda a revisar o sistema monetário internacional (padrão-ouro, Bretton Woods, dólar como moeda de reserva) e o uso de sanções financeiras, como o congelamento das reservas russas em 2022, que leva bancos centrais a comprar ouro.",
+   "ce": {
+    "s": "O sistema de Bretton Woods, que fixava o dólar ao ouro a US$ 35 por onça, foi desmontado a partir de 1971, quando o governo Nixon suspendeu a conversibilidade do dólar em ouro.",
+    "ans": "C",
+    "exp": "Em agosto de 1971, Nixon suspendeu a conversão de dólares em ouro (o 'choque Nixon'). As paridades fixas acabaram de vez em 1973, e os Acordos da Jamaica (1976) formalizaram o câmbio flutuante."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/o-ouro-derreteu-invest-138--76480532",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-21-1",
+   "materia": "Direito",
+   "edital": "Direito (DIP); PI 13.11; 13.6",
+   "titulo": "CIJ conclui que Mianmar cometeu genocídio contra os rohingya, na primeira condenação de um Estado por genocídio",
+   "resumo": "Na quinta (19/11), a Corte Internacional de Justiça decidiu, por 9 votos a 6, que Mianmar cometeu genocídio contra a minoria muçulmana rohingya nas 'operações de limpeza' militares de 2016–2017 e que violou os deveres de prevenir e punir o crime. O caso foi aberto em 2019 pela Gâmbia, que não foi lesada diretamente, mas invocou a Convenção para a Prevenção e a Repressão do Crime de Genocídio (1948), cujas obrigações valem perante todos os Estados-partes. A Corte mandou Mianmar cessar as violações, processar os responsáveis e dar garantias de não repetição; a Gâmbia ainda pode pedir reparações, como o retorno seguro dos refugiados. A sentença é definitiva e não admite recurso.",
+   "porque": "É a primeira vez que a CIJ declara um Estado responsável por cometer genocídio (em 2007, no caso Bósnia vs. Sérvia, a Sérvia só foi condenada por não prevenir Srebrenica). Ajuda a fixar diferenças cobradas na prova: a CIJ julga a responsabilidade de Estados, e o TPI, a responsabilidade penal de indivíduos. O precedente pesa sobre o caso África do Sul vs. Israel, no qual o Brasil anunciou em 2025 que interviria, e toca direitos humanos e a defesa brasileira do direito internacional.",
+   "fonte": "Human Rights Watch",
+   "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide",
+   "img": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/11/202611ij_asia_myanmar_rohingya_genocide.jpg?h=92229be0&itok=1Yn7QxhM",
+   "imgCredit": "Foto: Human Rights Watch",
+   "curso": false,
+   "ce": {
+    "s": "Na sentença de 19/11/2026, a Corte Internacional de Justiça condenou criminalmente os generais de Mianmar responsáveis pelas operações contra os rohingya.",
+    "ans": "E",
+    "exp": "A CIJ julga Estados, não pessoas: declarou a responsabilidade internacional de Mianmar. A responsabilidade penal individual cabe a tribunais nacionais ou ao Tribunal Penal Internacional (TPI), que tem investigação própria sobre a deportação de rohingya para Bangladesh."
+   }
+  },
+  {
+   "id": "2026-11-21-2",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.14",
+   "titulo": "Nona sondagem do Conselho de Segurança termina sem favorito: todos os oito candidatos a secretário-geral têm vetos potenciais",
+   "resumo": "Na sexta (20/11), os 15 membros do Conselho de Segurança fizeram a nona votação informal ('straw poll') para escolher o sucessor de António Guterres, cujo mandato termina em 31/12. Segundo o PassBlue, a costarriquenha Rebeca Grynspan segue à frente (10 votos de incentivo, 4 de desestímulo e 1 sem opinião), seguida pelo argentino Rafael Grossi (8 a 6), mas cada um dos oito candidatos recebeu ao menos dois 'desestímulos' de membros permanentes, o que equivale a um veto potencial. O embaixador americano, Mike Waltz, pediu que candidatos sem apoio desistam para estreitar a disputa.",
+   "porque": "Mostra na prática o art. 97 da Carta: o secretário-geral é nomeado pela Assembleia Geral, mas só depois de recomendação do Conselho, que exige 9 votos e nenhum veto dos P5. Pela rotação regional informal, é a vez da América Latina e do Caribe, e a maioria dos nomes é da região (Costa Rica, Argentina, Equador, Guiana), o que interessa ao Brasil. O impasse reforça o argumento brasileiro de que o poder de veto trava a ONU e precisa ser reformado.",
+   "fonte": "PassBlue",
+   "url": "https://passblue.com/2026/11/20/un-secretary-general-race-remains-deadlocked-as-veto-powers-fail-to-reach-consensus/",
+   "curso": false,
+   "ce": {
+    "s": "O secretário-geral da ONU é eleito pela Assembleia Geral por maioria de dois terços, sem participação formal do Conselho de Segurança.",
+    "ans": "E",
+    "exp": "Pelo art. 97 da Carta, a Assembleia Geral nomeia o secretário-geral mediante recomendação do Conselho de Segurança, decisão substantiva sujeita ao veto dos cinco membros permanentes. Por isso as sondagens no Conselho decidem a disputa."
+   }
+  },
+  {
+   "id": "2026-11-21-3",
+   "materia": "Política Internacional",
+   "edital": "14; 13.8; 10.1",
+   "titulo": "Coreia do Sul pede ao Uruguai, na presidência do Mercosul, que destrave o acordo de livre comércio parado desde 2021",
+   "resumo": "Na sexta (20/11), em Seul, o primeiro vice-chanceler sul-coreano, Park Yoon-joo, pediu à vice-chanceler do Uruguai, Valeria Csukasi, que o país tenha papel 'ativo' para reabrir as negociações de livre comércio entre a Coreia e o Mercosul. As conversas foram lançadas em 2018 e estão paradas desde 2021. O Uruguai exerce a presidência pro tempore do bloco no segundo semestre de 2026 e coordena essas tratativas; os dois países também discutiram cooperação em inteligência artificial.",
+   "porque": "A Coreia busca mercados alternativos num mundo de tarifas altas, e o Mercosul vive uma fase de abertura: o acordo com a UE é aplicado provisoriamente desde maio e o acordo com a EFTA já vigora para o Brasil com Islândia e Noruega. Para o Brasil, maior economia do bloco, um acordo com a Coreia abre espaço para o agronegócio e os minérios, mas expõe a indústria (carros, eletrônicos) à concorrência. O caso também mostra o papel da presidência pro tempore e a regra de negociação conjunta do bloco.",
+   "fonte": "Korea JoongAng Daily",
+   "url": "https://www.koreajoongangdaily.com/korea/korea-asks-uruguay-to-help-restart-mercosur-free-trade-talks/12983431",
+   "img": "https://image.koreajoongangdaily.com/12709854.jpg?imageId=12709854&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+   "imgCredit": "Foto: Korea JoongAng Daily",
+   "curso": false,
+   "ce": {
+    "s": "As negociações de livre comércio entre o Mercosul e a Coreia do Sul, lançadas em 2018, estão paralisadas desde 2021.",
+    "ans": "C",
+    "exp": "As tratativas começaram em 2018 e tiveram rodadas até 2021, quando pararam. Em 20/11/2026, Seul pediu ao Uruguai, na presidência pro tempore do Mercosul, ajuda para retomá-las."
+   }
+  }
+ ]
+}
