@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W47",
  "notionUrl": "",
- "updatedAt": "2026-11-21",
+ "updatedAt": "2026-11-22",
  "items": [
   {
    "id": "c1",
@@ -518,12 +518,126 @@
    "q": "Que país do Mercosul a Coreia do Sul pediu, em 20/11, que ajudasse a retomar o acordo de livre comércio, e por quê?",
    "a": "O Uruguai, porque exerce a presidência pro tempore do bloco no segundo semestre de 2026 e coordena as negociações com Seul.",
    "exp": "As tratativas foram lançadas em 2018 e estão paradas desde 2021."
+  },
+  {
+   "id": "c35",
+   "t": "c",
+   "s": "A resolução aprovada pela OEA em 20/11/2026 autoriza operações militares conjuntas dos Estados partes do TIAR contra organizações criminosas.",
+   "ans": "E",
+   "exp": "O texto apenas convoca, em até 75 dias, uma reunião de chanceleres do TIAR para discutir medidas diplomáticas, jurídicas e coordenadas; não autoriza ação militar. Brasil e Uruguai votaram contra.",
+   "ctx": "OEA convoca reunião do TIAR contra o crime organizado por 14 a 2; Brasil e Uruguai votam contra"
+  },
+  {
+   "id": "f35",
+   "t": "f",
+   "q": "O que a OEA aprovou em 20/11 sobre o TIAR, e como votou o Brasil?",
+   "a": "Convocar em até 75 dias uma reunião de chanceleres do TIAR sobre crime organizado e narcoterrorismo, por 14 a 2 (abstenção das Bahamas). Brasil e Uruguai votaram contra.",
+   "exp": "O TIAR (1947) é um pacto de defesa coletiva; o Brasil diz que o crime transnacional não justifica acioná-lo."
+  },
+  {
+   "id": "c36",
+   "t": "c",
+   "s": "A inviolabilidade das instalações de uma missão diplomática está prevista na Convenção de Viena sobre Relações Diplomáticas, de 1961.",
+   "ans": "C",
+   "exp": "O art. 22 da Convenção de 1961 declara invioláveis os locais da missão e obriga o Estado acreditado a protegê-los. A nota do Itamaraty de 20/11/2026 citou essa convenção e a de 1963, sobre relações consulares.",
+   "ctx": "Destroços de drones atingem a Embaixada do Brasil em Kiev; Itamaraty invoca as Convenções de Viena sem citar a Rússia"
+  },
+  {
+   "id": "f36",
+   "t": "f",
+   "q": "Que convenção o Itamaraty invocou após destroços atingirem a embaixada em Kiev?",
+   "a": "As Convenções de Viena sobre Relações Diplomáticas (1961) e sobre Relações Consulares (1963), que garantem a inviolabilidade das missões.",
+   "exp": "A nota de 20/11 condenou os ataques sem atribuí-los à Rússia."
+  },
+  {
+   "id": "c37",
+   "t": "c",
+   "s": "O Sistema Geral de Preferências (SGP) da UE, do qual a Indonésia se beneficia até o fim de 2026, é uma concessão tarifária unilateral, enquanto o IEU-CEPA prevê concessões recíprocas.",
+   "ans": "C",
+   "exp": "O SGP é uma preferência concedida unilateralmente a países em desenvolvimento, que pode ser retirada. O IEU-CEPA, assinado em 21/11/2026, é um acordo recíproco, que também exige abertura do mercado indonésio a bens europeus.",
+   "ctx": "UE e Indonésia assinam em Bruxelas o acordo de parceria econômica que zera mais de 98% das tarifas europeias"
+  },
+  {
+   "id": "f37",
+   "t": "f",
+   "q": "Por que a Indonésia tem pressa em ratificar o acordo assinado com a UE em 21/11?",
+   "a": "Porque perde as preferências do SGP europeu no fim de 2026; o IEU-CEPA zera 90,4% das linhas tarifárias da UE de imediato e 98,35% em até 15 anos.",
+   "exp": "Negociado desde 2016; meta de vigência em janeiro de 2027."
+  },
+  {
+   "id": "c38",
+   "t": "c",
+   "s": "As decisões das Conferências das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima são adotadas por maioria de dois terços dos Estados presentes.",
+   "ans": "E",
+   "exp": "Como as regras de votação da UNFCCC nunca foram aprovadas, as COPs decidem por consenso. Por isso a resistência de países como a Arábia Saudita conseguiu tirar os combustíveis fósseis do texto da COP31.",
+   "ctx": "COP31 vai à prorrogação e texto final segue sem citar os combustíveis fósseis nem metas novas para a adaptação"
+  },
+  {
+   "id": "f38",
+   "t": "f",
+   "q": "O que ficou de fora do texto final proposto na COP31 em Antalya?",
+   "a": "A menção à transição para longe dos combustíveis fósseis, o endosso ao roteiro brasileiro e um valor para triplicar o financiamento à adaptação até 2035.",
+   "exp": "As COPs decidem por consenso, o que dá poder de bloqueio a produtores de petróleo."
+  },
+  {
+   "id": "c39",
+   "t": "c",
+   "s": "As conversas de Abu Dhabi de 10 e 11 de novembro de 2026, mediadas pelos EUA, resultaram em cessar-fogo entre Rússia e Ucrânia.",
+   "ans": "E",
+   "exp": "As conversas terminaram com acordo de princípio para trocar mais de mil prisioneiros de cada lado, sem avanço sobre território ou cessar-fogo. A próxima rodada deve incluir os europeus.",
+   "ctx": "Zelensky cobra resultados concretos na próxima rodada a quatro com EUA, Rússia e Europa e defende troca de todos os prisioneiros"
+  },
+  {
+   "id": "f39",
+   "t": "f",
+   "q": "Que formato representa a Europa na próxima rodada de negociações sobre a Ucrânia?",
+   "a": "O E5: França, Alemanha, Reino Unido, Itália e Polônia, mais representantes da UE, definido em Dublin em 13/11.",
+   "exp": "Em Abu Dhabi (10–11/11), Kiev e Moscou acertaram a troca de mais de mil prisioneiros de cada lado."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Qual fato da semana de 16 a 22/11 ilustra a tensão entre a PEB e a ampliação do conceito de segurança coletiva no sistema interamericano?",
+   "opts": [
+    "O voto do Brasil contra a convocação do TIAR para enfrentar o crime organizado, na OEA",
+    "A ratificação dinamarquesa do acordo de defesa com os EUA sobre a Groenlândia",
+    "A condenação de Mianmar por genocídio na CIJ",
+    "A assinatura do acordo UE–Indonésia em Bruxelas"
+   ],
+   "ans": 0,
+   "exp": "O TIAR (1947) é um pacto de defesa coletiva. Brasil e Uruguai votaram contra usá-lo contra o crime organizado, alegando que a natureza transnacional do crime não justifica mecanismos de defesa coletiva."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "Qual par de notícias da semana mostra a regra do consenso como limite da governança global?",
+   "opts": [
+    "A COP31 sem menção aos fósseis e a sucessão de Guterres travada por vetos potenciais no CSNU",
+    "A troca de prisioneiros acertada em Abu Dhabi e a visita de Alliana a Brasília",
+    "O acordo UE–Indonésia e as reservas de ouro dos bancos centrais",
+    "A cooperação militar EUA–Venezuela e a cúpula UE–Reino Unido"
+   ],
+   "ans": 0,
+   "exp": "Na COP, a decisão exige consenso; no Conselho de Segurança, a recomendação do secretário-geral exige 9 votos e nenhum veto dos P5. Nos dois casos, poucos atores conseguem travar o resultado."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "Que tema do edital de Economia a assinatura do IEU-CEPA (21/11) e o adiamento da volta do Brasil à lista europeia de exportadores de aves ilustram juntos?",
+   "opts": [
+    "O uso de padrões sanitários e ambientais como condição de acesso ao mercado europeu",
+    "A conversibilidade dólar–ouro e o sistema de Bretton Woods",
+    "A política de metas de inflação do Banco Central do Brasil",
+    "A substituição de importações na América Latina"
+   ],
+   "ans": 0,
+   "exp": "A UE abre mercados por acordos e preferências, mas condiciona o acesso a regras sanitárias (acordo SPS da OMC) e ambientais, como a lei contra o desmatamento, que pesa sobre óleo de palma, carne e soja."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "Shenzhen sem a Europa, COP31, CIJ e Mianmar, sucessão na ONU, Venezuela, Itaipu e Mercosul"
+   "b": "Shenzhen, COP31, CIJ, TIAR na OEA, sucessão na ONU, Ucrânia e acordos comerciais"
   },
   {
    "t": "Lula na Asean e na Espanha",
@@ -535,14 +649,15 @@
    ]
   },
   {
-   "t": "Mercosul: UE, aves e Coreia",
-   "b": "A UE adiou a volta do Brasil à lista de exportadores de aves e mel; a Coreia do Sul pediu ao Uruguai, na presidência do Mercosul, que destrave o acordo parado desde 2021.",
+   "t": "OEA: TIAR contra o crime",
+   "b": "Em 20/11, a OEA aprovou por 14 a 2 convocar chanceleres do TIAR contra o 'narcoterrorismo'. Brasil e Uruguai votaram contra; o texto não autoriza ação militar.",
    "l": [
-    "Barreira sanitária: acordo SPS da OMC",
-    "UE–Mercosul: aplicação provisória desde 1/5",
-    "Coreia–Mercosul: lançado em 2018, parado desde 2021",
-    "Presidência pro tempore: rotação semestral"
-   ]
+    "TIAR (1947): defesa coletiva",
+    "Prazo: reunião em até 75 dias",
+    "México saiu do TIAR e criticou",
+    "Agenda dos EUA após a captura de Maduro"
+   ],
+   "n": "14 a 2"
   },
   {
    "t": "Shenzhen: a trilateral",
@@ -559,7 +674,6 @@
    "l": [
     "Ação da Gâmbia (2019), pela Convenção de 1948",
     "CIJ julga Estados; TPI, indivíduos",
-    "Bósnia vs. Sérvia (2007): só falha em prevenir",
     "Precedente para África do Sul vs. Israel"
    ]
   },
@@ -573,30 +687,30 @@
    ]
   },
   {
-   "t": "COP31: fósseis saem do texto",
-   "b": "Os rascunhos da decisão final em Antalya retiraram a transição dos fósseis e o roteiro brasileiro, vetados pelo Grupo Árabe; a conferência entrou na prorrogação sem acordo.",
+   "t": "COP31 na prorrogação",
+   "b": "Em Antalya, o texto final cita o Consenso dos Emirados sem repetir a saída dos fósseis nem endossar o roteiro brasileiro; a adaptação ficou sem valor de referência.",
    "l": [
     "COP decide por consenso",
-    "Financiamento à adaptação sem meta nova",
+    "Meta de US$ 120 bi/ano não voltou",
     "Revés para a agenda da presidência brasileira"
    ]
   },
   {
-   "t": "Américas: Venezuela e Itaipu",
-   "b": "EUA e Venezuela retomaram a cooperação militar rompida em 2005; no Paraguai, o novo presidente Alliana vem a Brasília fechar a tarifa de Itaipu antes de 31/12.",
+   "t": "Ucrânia: Kiev e a mesa a quatro",
+   "b": "Destroços de drones atingiram a embaixada brasileira em Kiev; o Itamaraty invocou as Convenções de Viena sem citar a Rússia. Zelensky cobra resultados da rodada com EUA, Rússia e o E5.",
    "l": [
-    "Maduro capturado pelos EUA em 3/1/2026",
-    "Anexo C de Itaipu: revisão ainda pendente",
-    "Essequibo: EUA mudam de tom, diz o Petit"
+    "Viena 1961: missões são invioláveis",
+    "Abu Dhabi: troca de mais de mil presos",
+    "E5: França, Alemanha, RU, Itália, Polônia"
    ]
   },
   {
-   "t": "Europa, Golfo e mercados",
-   "b": "A Dinamarca ratificou o acordo militar com os EUA sobre a Groenlândia; houthis avançam no Iêmen; juros altos nos EUA derrubam ouro e cripto e fortalecem o dólar.",
+   "t": "Comércio: UE, Mercosul e Ásia",
+   "b": "A UE assinou o acordo com a Indonésia (98% das tarifas zeradas) e adiou a volta do Brasil à lista de aves; a Coreia pediu ao Uruguai que destrave o acordo com o Mercosul.",
    "l": [
-    "2ª cúpula UE–Reino Unido pós-Brexit",
-    "AIEA não verifica o urânio iraniano",
-    "Petróleo caro mantém a inflação nos EUA"
+    "SGP é unilateral; acordo é recíproco",
+    "Barreira sanitária: acordo SPS da OMC",
+    "Coreia–Mercosul: parado desde 2021"
    ]
   },
   {
@@ -604,10 +718,10 @@
    "t": "Pegadinhas que caem",
    "l": [
     "CIJ julga Estados; o TPI julga indivíduos (o mandado contra Putin é do TPI)",
-    "O secretário-geral depende de recomendação do CSNU, com veto",
+    "A resolução da OEA sobre o TIAR não autoriza ação militar",
     "COPs decidem por consenso, não por maioria",
-    "A Groenlândia continua sob soberania da Dinamarca",
-    "O fim da conversibilidade dólar–ouro veio em 1971, com Nixon"
+    "O secretário-geral depende de recomendação do CSNU, com veto",
+    "SGP é preferência unilateral; o IEU-CEPA é acordo recíproco"
    ]
   }
  ]

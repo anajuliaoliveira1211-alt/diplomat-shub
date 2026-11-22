@@ -24,10 +24,11 @@
   "hm-eua-seculo-19",
   "geo-historia-pensamento",
   "pi-brasil-china",
-  "hm-independencias-hispanicas"
+  "hm-independencias-hispanicas",
+  "hm-unificacoes-bismarck"
  ],
  "kind": "sync",
- "lastRun": "2026-11-21T09:00:00+00:00",
+ "lastRun": "2026-11-22T09:00:00+00:00",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",
