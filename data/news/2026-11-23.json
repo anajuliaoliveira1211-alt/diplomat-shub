@@ -1,0 +1,96 @@
+{
+ "kind": "news",
+ "date": "2026-11-23",
+ "cards": [
+  {
+   "id": "2026-11-23-1",
+   "materia": "Política Internacional",
+   "edital": "13.2; 13.4; 2",
+   "titulo": "COP31 termina sem acordo em Antália: impasse sobre combustíveis fósseis derruba o 'Pacto de Antália'",
+   "resumo": "A COP31, em Antália (Turquia), terminou no domingo (22/11) sem decisão final, depois de dois dias de prorrogação: a mais longa COP da história e a primeira a fracassar desde Copenhague, em 2009. O presidente da conferência, Murat Kurum, reconheceu que não havia consenso para aprovar o 'Pacto de Antália'. Arábia Saudita e Rússia vetavam qualquer menção aos combustíveis fósseis, enquanto União Europeia, Noruega, Panamá e Ilhas Marshall rejeitaram um texto que nem citava o tema. Os EUA, fora do Acordo de Paris no governo Trump, não participaram.",
+   "porque": "Na UNFCCC as decisões saem por consenso, e isso permite que poucos petroestados bloqueiem o texto. O fracasso esvazia a herança da presidência brasileira da COP30: os 'mapas do caminho' de Belém para afastar os fósseis e zerar o desmatamento, que o Brasil levou a Antália, nem chegaram a ser acolhidos, segundo o WWF Brasil. O tema cai em meio ambiente e desenvolvimento sustentável (13.2 e 13.4) e na liderança climática da PEB, num momento em que a ONU já admite que o mundo vai ultrapassar 1,5 °C.",
+   "fonte": "Agência Brasil; CNN",
+   "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/com-impasse-sobre-combustiveis-fosseis-cop31-termina-sem-acordo-final",
+   "img": "https://imagens.ebc.com.br/TUfdPLfIa-NmncPT7U5Lt3PaoxQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/22/2026-11-22t153705z_40075050_rc23toazno4z_rtrmadp_3_climate-cop31.jpg?itok=mDD79RHC",
+   "imgCredit": "Foto: Agência Brasil (Reuters)",
+   "curso": false,
+   "ce": {
+    "s": "A COP31 adotou o Pacto de Antália por maioria qualificada, superando o veto da Arábia Saudita e da Rússia.",
+    "ans": "E",
+    "exp": "As COPs decidem por consenso. Sem ele, o Pacto de Antália não foi adotado, e a conferência terminou sem decisão final."
+   }
+  },
+  {
+   "id": "2026-11-23-2",
+   "materia": "Política Internacional",
+   "edital": "6; 2; Direito (DIP)",
+   "titulo": "Brasil e EUA negociam o fim da 'guerra fria dos vistos': agrément para Daniel Perez e visto para a embaixadora Viotti",
+   "resumo": "Segundo a BBC News Brasil (21/11), os dois governos discutem há duas semanas um plano para encerrar o impasse aberto em agosto, quando o governo Trump revogou o visto da embaixadora brasileira em Washington, Maria Luisa Viotti. A justificativa foi a demora do Brasil em dar o agrément a Daniel Perez, indicado para a embaixada em Brasília, que está sem embaixador americano desde janeiro de 2025. A saída em estudo é trocar o agrément a Perez pela regularização do visto de Viotti. O Brasil tenta incluir os vistos do ministro Alexandre Padilha e de ministros do STF.",
+   "porque": "O caso mostra a reciprocidade, princípio que organiza as relações diplomáticas, sendo usada como instrumento de pressão. Pela Convenção de Viena de 1961 (art. 4º), o Estado acreditado não precisa justificar a recusa do agrément. A negociação, conduzida por Mauro Vieira e Marco Rubio, é vista como condição para um encontro Lula–Trump na cúpula do G20 em Miami (14 e 15/12). Conecta as relações Brasil–EUA (item 6) ao direito diplomático.",
+   "fonte": "BBC News Brasil (via O Povo)",
+   "url": "https://www.opovo.com.br/agencia/bbc/2026/11/21/como-governos-lula-e-trump-pretendem-acabar-com-a-guerra-fria-dos-vistos-diplomaticos.html",
+   "img": "https://www.opovo.com.br/_midias/png/2026/11/21/856x642/1_e6327ba0_e42f_11f1_99b6_a35a62fa4264-43173640.png",
+   "imgCredit": "Foto: O Povo / BBC News Brasil",
+   "curso": false,
+   "ce": {
+    "s": "Pela Convenção de Viena sobre Relações Diplomáticas, o Estado acreditado não está obrigado a dar ao Estado acreditante as razões da recusa do agrément.",
+    "ans": "C",
+    "exp": "É o que diz o art. 4º, §2º, da Convenção de 1961. O agrément é o consentimento prévio do Estado receptor ao chefe de missão indicado."
+   }
+  },
+  {
+   "id": "2026-11-23-3",
+   "materia": "Política Internacional",
+   "edital": "3; 2",
+   "titulo": "Bolívia e Chile retomam, após 16 anos, o Mecanismo de Consultas Políticas e falam em normalizar as relações rompidas em 1978",
+   "resumo": "Em 20/11, em Santiago, Bolívia e Chile realizaram a XXIII Reunião do Mecanismo de Consultas Políticas, que não se reunia desde 2010. O encontro foi chefiado pelo chanceler interino chileno, Patricio Torres, e pelo vice-chanceler boliviano, Carlos Paz, e cumpre a Declaração Conjunta assinada pelos presidentes Rodrigo Paz e José Antonio Kast em La Paz, em 16/10. Os dois países disseram querer normalizar as relações diplomáticas, rompidas desde 1978, com 'gradualidade', e começar a modernizar o Acordo de Complementação Econômica nº 22. Em 11/12, o grupo de trabalho sobre livre trânsito se reúne em La Paz.",
+   "porque": "A reaproximação resulta da guinada dos dois governos à direita e vem depois de duas derrotas bolivianas na CIJ: em 2018, a Corte decidiu que o Chile não é obrigado a negociar uma saída soberana ao mar; em 2022, deu ganho de causa ao Chile no caso do Silala. Para o Brasil, interessa a estabilidade na fronteira andina: a Bolívia é membro pleno do Mercosul desde 2024, e os corredores para os portos do Pacífico entram na agenda de integração física sul-americana (item 3).",
+   "fonte": "Cooperativa (Chile); La Razón (Bolívia)",
+   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/bolivia/chile-y-bolivia-reanudaron-mecanismo-de-consultas-politicas-que-no/2026-11-21/125638.html",
+   "img": "https://www.cooperativa.cl/noticias/site/artic/20261121/imag/foto_0000000120261121125638.png",
+   "imgCredit": "Foto: Cooperativa",
+   "curso": false,
+   "ce": {
+    "s": "Na sentença de 2018, a Corte Internacional de Justiça determinou que o Chile negociasse de boa-fé com a Bolívia um acesso soberano ao oceano Pacífico.",
+    "ans": "E",
+    "exp": "Em 1º/10/2018, a CIJ concluiu, por 12 a 3, que o Chile não tem a obrigação de negociar o acesso soberano ao mar."
+   }
+  },
+  {
+   "id": "2026-11-23-4",
+   "materia": "Política Internacional",
+   "edital": "13.5; 13.10",
+   "titulo": "Irã diz que a situação de 'nem guerra nem paz' com os EUA não pode continuar e cobra 'dissuasão sustentável'",
+   "resumo": "Em 22/11, o presidente do Parlamento iraniano, Mohammad Bagher Ghalibaf, afirmou que o país não pode ficar indefinidamente entre a guerra e a paz e que só uma 'dissuasão sustentável' afastaria novos ataques dos EUA e de Israel. A declaração chega num cessar-fogo frágil, com bloqueio naval americano aos portos iranianos e ataques a navios no Estreito de Ormuz. Dois dias antes, o chanceler Abbas Araghchi dissera que Teerã segue aberto à diplomacia, desde que tenha garantias de que não haverá nova ofensiva. Trump, por sua vez, disse estar inclinado a retomar os ataques se não houver acordo até o fim do ano.",
+   "porque": "Para Teerã, 'dissuasão' significa preservar mísseis, drones e a capacidade de ameaçar Ormuz, rota de cerca de um quinto do petróleo mundial, enquanto a AIEA diz não conseguir verificar o urânio enriquecido iraniano. Para o Brasil, o impasse pesa no preço do petróleo e dos fertilizantes; a PEB tem defendido uma saída negociada e a livre navegação em Ormuz. O tema cai em conflitos no Oriente Médio e não proliferação (13.5 e 13.10).",
+   "fonte": "Gulf News",
+   "url": "https://gulfnews.com/world/mena/iran-warns-us-neither-war-nor-peace-cannot-continue-1.500757371",
+   "img": "https://media.assettype.com/gulfnews%2F2026-11-22%2Fcr0wewkk%2FANI_20260911005150.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "imgCredit": "Foto: Gulf News",
+   "curso": false,
+   "ce": {
+    "s": "Mohammad Bagher Ghalibaf, autor da declaração sobre a 'dissuasão sustentável', é o ministro das Relações Exteriores do Irã.",
+    "ans": "E",
+    "exp": "Ghalibaf preside o Parlamento (Majlis). O chanceler é Abbas Araghchi."
+   }
+  },
+  {
+   "id": "2026-11-23-5",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.13",
+   "titulo": "ONU e Barbados abrem em Bridgetown cúpula especial sobre segurança da inteligência artificial",
+   "resumo": "Nesta segunda (23/11), António Guterres e a primeira-ministra de Barbados, Mia Mottley, abrem a Cúpula Especial de Bridgetown sobre Segurança da IA, encontro de um dia, em formato híbrido, com cerca de 150 participantes de governos, empresas de tecnologia, ciência e sociedade civil. A pauta inclui gestão multilateral de riscos, acesso, capacitação e representação cultural e linguística. A cúpula acontece junto com a segunda reunião presencial do Painel Científico Internacional Independente sobre IA. Não há previsão de acordo vinculante. Na véspera, em Bridgetown, Guterres lamentou o fracasso da COP31.",
+   "porque": "A ONU quer reduzir a distância entre os países que desenvolvem IA e os que só a recebem: segundo o enviado Amandeep Gill, países de alta renda têm cerca de 500 equipes de resposta a incidentes cibernéticos, e os de baixa renda, seis. O painel científico e o Diálogo Global sobre Governança da IA foram criados pela Assembleia Geral em 2025, depois do Pacto Digital Global (2024). O Brasil defende uma governança inclusiva da IA no âmbito da ONU, como fez na declaração do BRICS no Rio (2025). Liga governança global (13.1) aos crimes cibernéticos (13.13).",
+   "fonte": "ONU (Escritório de Tecnologias Digitais e Emergentes); ONU News; Tech Times",
+   "url": "https://www.un.org/digital-emerging-technologies/content/barbados-and-united-nations-co-host-special-summit-ai-safety-23-november",
+   "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_SG-Mottley-presser.jpg/image770x420cropped.jpg",
+   "imgCredit": "Foto: ONU News",
+   "curso": false,
+   "ce": {
+    "s": "O Painel Científico Internacional Independente sobre Inteligência Artificial foi criado por resolução do Conselho de Segurança da ONU.",
+    "ans": "E",
+    "exp": "O painel, assim como o Diálogo Global sobre Governança da IA, foi criado pela Assembleia Geral, em 2025."
+   }
+  }
+ ]
+}
