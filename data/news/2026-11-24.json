@@ -1,0 +1,188 @@
+{
+ "kind": "news",
+ "date": "2026-11-24",
+ "cards": [
+  {
+   "id": "2026-11-24-pj76547789",
+   "pj_guid": "76547789",
+   "podcast": "Petit Journal · BP 1184 · 33 min",
+   "materia": "Política Internacional",
+   "edital": "13.12; 13.13; 3; 14; 13.10",
+   "titulo": "Petit Journal: El Salvador no Haiti, Armênia e Karabakh, Kaliningrado e a volta de Huang à Nvidia",
+   "resumo": "Episódio de 23/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "El Salvador manda tropas ao Haiti",
+     "b": "Depois do sequestro de quatro técnicos salvadorenhos a serviço da ONU em Porto Príncipe (18/10), Bukele enviou mais de 2 mil militares ao Haiti, com o aval do governo haitiano. As tropas retomaram áreas dominadas por gangues, como o estádio Sylvio Cator, e moradores fizeram marchas de apoio."
+    },
+    {
+     "t": "'Haiti, província salvadorenha'",
+     "b": "O vice-presidente salvadorenho, Félix Ulloa, disse na República Dominicana que a presença militar será permanente e que o Haiti viraria uma 'província' de El Salvador. Os apresentadores lembram que a ação não tem mandato da ONU e que o modelo de Bukele é muito criticado por violações de direitos humanos."
+    },
+    {
+     "t": "Armênia propõe nova Constituição",
+     "b": "Pashinyan apresentou uma minuta que retira a referência à declaração de independência de 1990, a qual remete à unificação com Nagorno-Karabakh. Esse é o principal obstáculo para assinar o tratado de paz com o Azerbaijão. Ele disse que renuncia se o texto for rejeitado em referendo."
+    },
+    {
+     "t": "Realismo armênio",
+     "b": "Na leitura dos apresentadores, Pashinyan aposta que um país pequeno, cercado pelo eixo Turquia–Azerbaijão, só se desenvolve com paz. Para isso, aceita a perda do Karabakh e se aproxima do Ocidente. A oposição e parte da Igreja Apostólica Armênia rejeitam a ideia."
+    },
+    {
+     "t": "Balsas ferroviárias para Kaliningrado",
+     "b": "O premiê russo, Mikhail Mishustin, anunciou cerca de US$ 576 milhões do Fundo Nacional de Bem-Estar para duas grandes balsas ferroviárias de carga até o exclave, isolado por terra desde as restrições da Lituânia em 2022. Os apresentadores duvidam da segurança da rota, já que drones ucranianos afundaram navios russos no Báltico e na Líbia."
+    },
+    {
+     "t": "Macron e a 'regra de ouro' fiscal",
+     "b": "Com a dívida francesa perto de 120% do PIB, Macron sugeriu retomar o projeto de 2011 de pôr na Constituição leis plurianuais de metas fiscais. O Conselho Constitucional poderia derrubar orçamentos que as descumprissem. Os juros franceses caíram após a fala."
+    },
+    {
+     "t": "Huang volta à Nvidia",
+     "b": "O conselho da Nvidia reconduziu Jensen Huang menos de duas semanas após a renúncia. A volta veio com o aval de Trump, que diz não haver risco à segurança nacional. A ação subiu cerca de 31% no dia. A empresa responde por mais de 6% do S&P 500 e está no centro da disputa tecnológica com a China."
+    }
+   ],
+   "porque": "O episódio liga segurança e crime transnacional (o caso do Haiti, onde o Brasil comandou a MINUSTAH de 2004 a 2017) ao debate sobre o uso da força sem mandato da ONU. Também trata de conflitos territoriais e da construção da paz no Cáucaso, da geopolítica do Báltico entre Rússia e OTAN, da crise fiscal na França e da disputa tecnológica EUA–China. Itens 13.12–13.13, 13.10, 3 (Europa) e 14 (Américas).",
+   "ce": {
+    "s": "Kaliningrado é um exclave da Rússia no mar Báltico, sem ligação terrestre direta com o restante do território russo, situado entre a Polônia e a Lituânia.",
+    "ans": "C",
+    "exp": "Antiga Königsberg, foi anexada pela URSS em 1945, por decisão de Potsdam. O exclave faz fronteira só com Polônia e Lituânia, ambas membros da OTAN e da UE."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/nvidia-o-amor-venceu-bp-1184--76547789",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-24-pj76537483",
+   "pj_guid": "76537483",
+   "podcast": "Petit Journal · BP 1183 · 26 min",
+   "materia": "Política Internacional",
+   "edital": "13.4; 13.10; 13.13; 3",
+   "titulo": "Petit Journal: fim da COP31 sem acordo, navios russos afundados, drones com fio e invasão ao FBI",
+   "resumo": "Episódio de 23/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Invasão ao sistema criminal do FBI",
+     "b": "O FBI investiga uma suspeita de invasão ao Centro Nacional de Informações Criminais (NCIC), base usada por polícias de todo o país para checar antecedentes, mandados e desaparecidos. É o segundo incidente na corporação em dois meses. Os apresentadores ligam o caso ao uso de inteligência artificial para achar brechas em sistemas."
+    },
+    {
+     "t": "COP31 termina sem acordo",
+     "b": "O 'Pacto de Antália', da copresidência turco-australiana, não citava os combustíveis fósseis e mesmo assim não teve consenso. Faltou também financiamento dos países ricos. Segundo os apresentadores, o precedente de uma COP sem acordo é Copenhague, em 2009."
+    },
+    {
+     "t": "Energia como segurança",
+     "b": "Na leitura dos apresentadores, a energia deixou de ser tratada como questão de custo ou de sustentabilidade e passou a ser questão de segurança. Com inflação e orçamentos apertados, os países ricos não financiam a transição alheia. China e Índia rejeitaram novas metas sem recursos, como a de eletrificação."
+    },
+    {
+     "t": "Ucrânia ataca navios russos",
+     "b": "Drones ucranianos atingiram um cargueiro estatal russo sancionado pelos EUA, que seguia para Kaliningrado e afundou em águas finlandesas. Na Líbia, uma corveta russa ancorada no leste do país, controlado pelo aliado de Moscou Khalifa Haftar, e outro cargueiro foram afundados. Para os apresentadores, Kiev quer mostrar capacidade de ferir a Rússia enquanto se negocia a paz."
+    },
+    {
+     "t": "A guerra dos drones com fio",
+     "b": "Na Ucrânia, os drones guiados por fibra ótica, imunes ao bloqueio eletrônico, estão substituindo os de rádio. O quilômetro da fibra chinesa subiu de cerca de US$ 4 para quase US$ 30. A China vende aos dois lados, e Moscou leva vantagem por comprar de forma centralizada."
+    }
+   ],
+   "porque": "Junta temas centrais do edital: a governança climática em crise depois da COP30 de Belém, tema caro à PEB; a guerra na Ucrânia transbordando para o Báltico (OTAN) e para a Líbia; e a cibersegurança como agenda de segurança internacional. Itens 13.4 (meio ambiente), 13.10 (segurança), 13.13 (crimes cibernéticos) e 3 (Europa).",
+   "ce": {
+    "s": "A COP15, realizada em Copenhague em 2009, terminou sem que a conferência adotasse formalmente um acordo; as partes apenas 'tomaram nota' do Acordo de Copenhague.",
+    "ans": "C",
+    "exp": "O Acordo de Copenhague, negociado por um pequeno grupo de países (entre eles o BASIC, com o Brasil), não foi adotado por consenso; a COP só 'tomou nota' dele."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/hackearam-o-fbi-bp-1183--76537483",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-24-1",
+   "materia": "Política Internacional",
+   "edital": "8; 6; 2; 13.8",
+   "titulo": "OMC analisa hoje o primeiro pedido do Brasil de painel contra o tarifaço dos EUA (DS646), e Washington pode bloqueá-lo",
+   "resumo": "O Órgão de Solução de Controvérsias (OSC) da OMC examina nesta terça-feira (24/11) o pedido brasileiro, de 12/11, de instalar um painel sobre as sobretaxas americanas: 25% sobre produtos do Brasil, fruto da investigação da Seção 301, e 12,5% ligados a uma apuração sobre trabalho forçado. As consultas com Washington, em 25/9, não resolveram a disputa. O Brasil diz que as tarifas violam o GATT (nação mais favorecida e tetos consolidados). Os EUA podem bloquear o primeiro pedido; o Brasil prevê reapresentá-lo em dezembro.",
+   "porque": "Pelo Entendimento sobre Solução de Controvérsias (art. 6.1), o réu pode barrar o painel na primeira reunião, mas, no segundo pedido, o painel é criado automaticamente, salvo consenso contra (o 'consenso negativo'). O problema é a fase seguinte: o Órgão de Apelação está parado desde 2019, e os EUA não aderiram ao arranjo provisório (MPIA) que o Brasil integra. Um recurso 'no vazio' pode travar o caso. O Brasil aposta no multilateralismo comercial e guarda a Lei da Reciprocidade como alternativa. Itens 13.8 (OMC), 6 (Brasil–EUA) e 2 (PEB).",
+   "fonte": "Borderlex; Inside U.S. Trade; OMC (DS646)",
+   "url": "https://borderlex.net/2026/11/23/week-ahead-cptpp-brazil-vs-us-in-geneva-wto-reform-eu-switzerland/",
+   "img": "https://borderlex.net/wp-content/uploads/2025/08/2025-08-31-PLANNER-IMAGE-scaled.jpeg",
+   "imgCredit": "Foto: Borderlex",
+   "curso": false,
+   "ce": {
+    "s": "No sistema de solução de controvérsias da OMC, o membro demandado pode impedir o estabelecimento do painel na primeira reunião do Órgão de Solução de Controvérsias em que o pedido é examinado, mas não na segunda, quando vale a regra do consenso negativo.",
+    "ans": "C",
+    "exp": "Art. 6.1 do ESC: o painel é estabelecido, no máximo, na reunião seguinte àquela em que o pedido aparece pela primeira vez na agenda, a menos que o OSC decida por consenso não estabelecê-lo."
+   }
+  },
+  {
+   "id": "2026-11-24-2",
+   "materia": "Política Internacional",
+   "edital": "8; 2; 14",
+   "titulo": "Novo chanceler da Venezuela, Oliver Blanco, visita Brasília em 30/11 com agenda econômico-comercial",
+   "resumo": "O Itamaraty informou (23/11) que Mauro Vieira receberá o chanceler venezuelano Oliver Blanco na próxima segunda-feira (30/11), em visita oficial. O encontro foi combinado à margem da Cúpula Ibero-Americana, em Madri, no início do mês. Blanco assumiu a chancelaria no fim de outubro e, dias depois, esteve em Washington com Marco Rubio. É a primeira visita dele a Brasília desde que Delcy Rodríguez passou a governar o país, após a captura de Nicolás Maduro pelos EUA no início de 2026.",
+   "porque": "A visita mostra como o Brasil tenta manter canal próprio com Caracas num momento em que a Venezuela se reaproxima de Washington. O Brasil criticou a operação americana e defende diálogo e não intervenção. Há interesses concretos: fronteira em Roraima, migração venezuelana (Operação Acolhida), comércio, energia em Roraima e a tensão do Essequibo com a Guiana. Também pesa a suspensão da Venezuela no Mercosul desde 2016. Itens 2 (PEB), 8 (América do Sul) e 14 (segurança regional).",
+   "fonte": "Metrópoles",
+   "url": "https://www.metropoles.com/brasil/chanceler-da-venezuela-faz-visita-ao-brasil-no-fim-do-mes",
+   "img": "https://i.metroimg.com/aXLv4sigmLHeRqBvgZhSoJLo7s1QEbcAqBYhr7AL-U4/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/11/mauro-vieira-e-novo-chanceler-da-venezuela.jpg",
+   "imgCredit": "Foto: Metrópoles",
+   "curso": false,
+   "ce": {
+    "s": "A Venezuela está suspensa do Mercosul desde 2016, e a suspensão foi depois fundamentada no Protocolo de Ushuaia, sobre compromisso democrático.",
+    "ans": "C",
+    "exp": "Suspensa em dezembro de 2016 por descumprir compromissos de adesão e, em agosto de 2017, com base no Protocolo de Ushuaia (1998), por ruptura da ordem democrática."
+   }
+  },
+  {
+   "id": "2026-11-24-3",
+   "materia": "Política Internacional",
+   "edital": "13.8; 13.10; 3",
+   "titulo": "UE propõe o 22º pacote de sanções contra a Rússia: mais 60 bancos fora do SWIFT, frota-sombra e atletas",
+   "resumo": "A Comissão Europeia apresentou (23/11) o 22º pacote de sanções desde fevereiro de 2022. Ele tira mais 60 bancos russos do SWIFT, mira plataformas de criptoativos e mais de 70 navios da 'frota-sombra' que burlam o teto de preço do petróleo (US$ 44/barril). Também proíbe empresas europeias de consertar refinarias russas, barra a entrada de soldados que lutaram na Ucrânia e exclui atletas sob bandeira russa de eventos na UE. O pacote ainda depende dos Estados-membros; Bruxelas quer fechá-lo em dezembro.",
+   "porque": "Sanções unilaterais, sem aval do Conselho de Segurança (onde a Rússia tem veto), viraram o principal instrumento europeu de pressão. Para aprová-las, a UE precisa de unanimidade no Conselho (PESC). A Comissão aponta a China como a principal rota de contorno. O Brasil não adere a sanções sem mandato da ONU e compra diesel e fertilizantes russos, o que o expõe a sanções secundárias. Itens 13.8 (comércio), 13.10 (segurança) e 3 (Europa).",
+   "fonte": "Euronews",
+   "url": "https://euronews.com/2026/11/23/eu-goes-after-russias-banks-soldiers-and-athletes-in-new-sanctions-package",
+   "img": "https://images.euronews.com/articles/stories/10/00/43/22/1200x675_cmsv2_6062d2c8-9a48-5562-a080-5f2ad24d6507-10004322.jpg",
+   "imgCredit": "Foto: Euronews",
+   "curso": false,
+   "ce": {
+    "s": "A adoção de sanções da União Europeia no âmbito da Política Externa e de Segurança Comum exige decisão unânime do Conselho da UE.",
+    "ans": "C",
+    "exp": "As decisões da PESC que impõem medidas restritivas são tomadas por unanimidade no Conselho (art. 31 do TUE); o regulamento que as executa vem depois, por maioria qualificada."
+   }
+  },
+  {
+   "id": "2026-11-24-4",
+   "materia": "Política Internacional",
+   "edital": "10.1; 13; 6",
+   "titulo": "Índice de Poder na Ásia 2026: diferença entre EUA e China é a menor já medida, e a Índia se firma em 3º",
+   "resumo": "O Lowy Institute, da Austrália, divulgou o Asia Power Index 2026. Os EUA continuam em 1º lugar (78,9 pontos), mas a China (73,6) nunca esteve tão perto, e a diferença em capacidade militar é a menor desde a criação do índice, em 2018. Segundo o instituto, a distância caiu mais por erros de Washington, como tarifas e desgaste de alianças, do que por avanços de Pequim. A Índia é a 3ª (40,5), à frente de Japão (38,6) e Rússia (32,2).",
+   "porque": "O índice mede o poder em oito dimensões (economia, forças armadas, redes de defesa, influência diplomática e cultural etc.). Ajuda a discutir transição de poder e multipolaridade, temas centrais do edital. A ascensão da Índia interessa ao Brasil: os dois são parceiros no BRICS (que a Índia preside em 2026), no IBAS e no G4. Itens 10.1 (China, Índia e Japão), 13 (ordem internacional) e 6 (EUA).",
+   "fonte": "Lowy Institute",
+   "url": "https://power.lowyinstitute.org/",
+   "img": "https://power.lowyinstitute.org/img/lowy-institute-asia-power-index-cover.jpg",
+   "imgCredit": "Foto: Lowy Institute",
+   "curso": false,
+   "ce": {
+    "s": "Segundo o Asia Power Index 2026, a China superou os Estados Unidos e passou a ser a maior potência da Ásia.",
+    "ans": "E",
+    "exp": "Os EUA seguem em 1º (78,9 contra 73,6 da China). O que mudou foi a diferença, a menor já registrada pelo índice."
+   }
+  },
+  {
+   "id": "2026-11-24-5",
+   "materia": "Política Internacional",
+   "edital": "13.10; 13.1; 4",
+   "titulo": "Imprensa alemã diz que a Rússia planeja pôr uma arma nuclear em órbita, o que violaria o Tratado do Espaço Exterior",
+   "resumo": "Uma investigação do Süddeutsche Zeitung com as emissoras NDR e WDR, publicada em 23/11, afirma que serviços de inteligência ocidentais esperam que a Rússia lance o satélite Sputnik-S, feito para levar uma ogiva nuclear ao espaço. Segundo a ARD, um alerta do início de novembro falava em lançamento nos próximos 60 dias, e a informação circulou entre os aliados da OTAN. A embaixada russa em Berlim chamou a notícia de 'propaganda'. O temor é que uma explosão em órbita destrua satélites de GPS, internet e comunicações.",
+   "porque": "O Tratado do Espaço Exterior (1967) proíbe pôr em órbita armas nucleares ou de destruição em massa. Em 2024, a Rússia vetou uma resolução do CSNU que reafirmava essa proibição. O Brasil, parte do tratado, defende na Conferência do Desarmamento a prevenção da corrida armamentista no espaço (PAROS). Também tem interesse direto no tema: depende de satélites (SGDC, CBERS com a China) e tem a base de Alcântara. Itens 13.10 (desarmamento e não proliferação) e 13.1.",
+   "fonte": "g1 (com DW), a partir de Süddeutsche Zeitung, NDR e WDR",
+   "url": "https://g1.globo.com/mundo/noticia/2026/11/24/russia-esta-prestes-a-posicionar-bomba-atomica-no-espaco-diz-imprensa-alema.ghtml",
+   "img": "https://s2-g1.glbimg.com/XA8kmxrzaFkij2W7P5K3K_4gEOk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/U/ULFWr2S4mFTvlp7U9CbQ/universo.webp",
+   "imgCredit": "Foto: g1",
+   "curso": false,
+   "ce": {
+    "s": "O Tratado do Espaço Exterior, de 1967, proíbe colocar em órbita da Terra objetos que transportem armas nucleares ou outras armas de destruição em massa.",
+    "ans": "C",
+    "exp": "Art. IV do tratado. Ele não proíbe toda atividade militar no espaço, só armas de destruição em massa em órbita e bases militares em corpos celestes."
+   }
+  }
+ ]
+}

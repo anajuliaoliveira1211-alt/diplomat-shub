@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W48",
  "notionUrl": "",
- "updatedAt": "2026-11-23",
+ "updatedAt": "2026-11-24",
  "items": [
   {
    "id": "c1",
@@ -81,96 +81,198 @@
    "q": "Que órgão criou o Painel Científico Internacional Independente sobre IA, que se reúne junto com a cúpula de Bridgetown?",
    "a": "A Assembleia Geral da ONU, em 2025, junto com o Diálogo Global sobre Governança da IA.",
    "exp": "A cúpula de Bridgetown (23/11), coorganizada pela ONU e por Barbados, não deve produzir acordo vinculante."
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "Kaliningrado é um exclave da Rússia no mar Báltico, sem ligação terrestre direta com o restante do território russo, situado entre a Polônia e a Lituânia.",
+   "ans": "C",
+   "exp": "Antiga Königsberg, foi anexada pela URSS em 1945, por decisão de Potsdam. O exclave faz fronteira só com Polônia e Lituânia, ambas membros da OTAN e da UE.",
+   "ctx": "Petit Journal: El Salvador no Haiti, Armênia e Karabakh, Kaliningrado e a volta de Huang à Nvidia"
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "A COP15, realizada em Copenhague em 2009, terminou sem que a conferência adotasse formalmente um acordo; as partes apenas 'tomaram nota' do Acordo de Copenhague.",
+   "ans": "C",
+   "exp": "O Acordo de Copenhague, negociado por um pequeno grupo de países (entre eles o BASIC, com o Brasil), não foi adotado por consenso; a COP só 'tomou nota' dele.",
+   "ctx": "Petit Journal: fim da COP31 sem acordo, navios russos afundados, drones com fio e invasão ao FBI"
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "No sistema de solução de controvérsias da OMC, o membro demandado pode impedir o estabelecimento do painel na primeira reunião do Órgão de Solução de Controvérsias em que o pedido é examinado, mas não na segunda, quando vale a regra do consenso negativo.",
+   "ans": "C",
+   "exp": "Art. 6.1 do ESC: o painel é estabelecido, no máximo, na reunião seguinte àquela em que o pedido aparece pela primeira vez na agenda, a menos que o OSC decida por consenso não estabelecê-lo.",
+   "ctx": "OMC analisa hoje o primeiro pedido do Brasil de painel contra o tarifaço dos EUA (DS646), e Washington pode bloqueá-lo"
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "A Venezuela está suspensa do Mercosul desde 2016, e a suspensão foi depois fundamentada no Protocolo de Ushuaia, sobre compromisso democrático.",
+   "ans": "C",
+   "exp": "Suspensa em dezembro de 2016 por descumprir compromissos de adesão e, em agosto de 2017, com base no Protocolo de Ushuaia (1998), por ruptura da ordem democrática.",
+   "ctx": "Novo chanceler da Venezuela, Oliver Blanco, visita Brasília em 30/11 com agenda econômico-comercial"
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "A adoção de sanções da União Europeia no âmbito da Política Externa e de Segurança Comum exige decisão unânime do Conselho da UE.",
+   "ans": "C",
+   "exp": "As decisões da PESC que impõem medidas restritivas são tomadas por unanimidade no Conselho (art. 31 do TUE); o regulamento que as executa vem depois, por maioria qualificada.",
+   "ctx": "UE propõe o 22º pacote de sanções contra a Rússia: mais 60 bancos fora do SWIFT, frota-sombra e atletas"
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "Segundo o Asia Power Index 2026, a China superou os Estados Unidos e passou a ser a maior potência da Ásia.",
+   "ans": "E",
+   "exp": "Os EUA seguem em 1º (78,9 contra 73,6 da China). O que mudou foi a diferença, a menor já registrada pelo índice.",
+   "ctx": "Índice de Poder na Ásia 2026: diferença entre EUA e China é a menor já medida, e a Índia se firma em 3º"
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "O Tratado do Espaço Exterior, de 1967, proíbe colocar em órbita da Terra objetos que transportem armas nucleares ou outras armas de destruição em massa.",
+   "ans": "C",
+   "exp": "Art. IV do tratado. Ele não proíbe toda atividade militar no espaço, só armas de destruição em massa em órbita e bases militares em corpos celestes.",
+   "ctx": "Imprensa alemã diz que a Rússia planeja pôr uma arma nuclear em órbita, o que violaria o Tratado do Espaço Exterior"
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Por que a proposta de nova Constituição da Armênia importa para a paz com o Azerbaijão?",
+   "a": "Porque o preâmbulo atual remete à declaração de independência de 1990, que prevê a unificação com Nagorno-Karabakh. Pashinyan quer retirar essa referência para assinar e ratificar o tratado de paz.",
+   "exp": "Ele promete renunciar se o texto for rejeitado em referendo."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "Por que os drones guiados por fibra ótica ganharam espaço na guerra da Ucrânia?",
+   "a": "Porque são imunes ao bloqueio eletrônico, que só afeta sinais de rádio. A fibra vem quase toda da China, que vende aos dois lados; o preço do quilômetro subiu de cerca de US$ 4 para quase US$ 30.",
+   "exp": "Episódio BP 1183 do Petit Journal."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "O que o Brasil pede na OMC no caso DS646 e por que um painel favorável pode não resolver a disputa?",
+   "a": "Pede um painel contra as sobretaxas dos EUA de 25% (Seção 301) e 12,5% (trabalho forçado), alegando violação do GATT. Mesmo vencendo, os EUA podem recorrer 'no vazio': o Órgão de Apelação está parado desde 2019, e Washington não integra o MPIA.",
+   "exp": "O primeiro pedido pode ser bloqueado; no segundo, vale o consenso negativo (art. 6.1 do ESC)."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Quem é Oliver Blanco e qual o sentido da visita dele a Brasília em 30/11?",
+   "a": "É o chanceler da Venezuela desde o fim de outubro, no governo de Delcy Rodríguez. A visita, com pauta econômico-comercial, é a primeira a Brasília desde a queda de Maduro e mostra o Brasil mantendo canal próprio com Caracas.",
+   "exp": "Será recebido por Mauro Vieira."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "Quais as principais medidas do 22º pacote de sanções da UE contra a Rússia (23/11)?",
+   "a": "Mais 60 bancos fora do SWIFT, criptoativos, mais de 70 navios da frota-sombra, proibição de consertar refinarias russas, veto à entrada de soldados que lutaram na Ucrânia e exclusão de atletas sob bandeira russa.",
+   "exp": "Precisa de unanimidade dos Estados-membros; Bruxelas quer aprová-lo em dezembro."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "O que mostrou o Asia Power Index 2026, do Lowy Institute?",
+   "a": "EUA em 1º (78,9) e China em 2º (73,6), com a menor diferença já registrada, inclusive em capacidade militar (a menor desde 2018). A Índia ficou em 3º (40,5), à frente de Japão e Rússia.",
+   "exp": "Para o Lowy, a distância caiu mais por erros de Washington do que por avanços de Pequim."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Que tratado a Rússia violaria ao pôr uma arma nuclear em órbita, e o que ele proíbe?",
+   "a": "O Tratado do Espaço Exterior (1967), cujo art. IV proíbe colocar em órbita armas nucleares ou outras de destruição em massa.",
+   "exp": "A denúncia veio do Süddeutsche Zeitung, NDR e WDR (23/11); Moscou chamou de 'propaganda'."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "COP31 sem acordo, vistos Brasil–EUA, Bolívia–Chile, Irã e governança da IA"
+   "b": "COP31 sem acordo, OMC Brasil×EUA, Venezuela, sanções à Rússia e arma nuclear no espaço"
   },
   {
    "t": "COP31 fracassa em Antália",
-   "b": "A conferência terminou em 22/11 sem decisão final: não houve consenso sobre os combustíveis fósseis. É o primeiro fracasso desde Copenhague (2009) e a COP mais longa da história.",
+   "b": "A conferência terminou em 22/11 sem decisão final por falta de consenso sobre combustíveis fósseis e financiamento. É a primeira vez desde Copenhague (2009).",
    "l": [
-    "Petroestados vetaram qualquer menção aos fósseis",
-    "UE, Noruega, Panamá e Ilhas Marshall recusaram o texto",
-    "EUA ausentes (fora do Acordo de Paris)"
+    "Petroestados vetaram menção aos fósseis",
+    "Roteiros da COP30 de Belém nem foram acolhidos",
+    "China e Índia rejeitaram metas sem recursos"
    ],
    "n": "Na UNFCCC, decisão é por consenso"
   },
   {
-   "t": "O legado da COP30 em risco",
-   "b": "Os mapas do caminho da presidência brasileira (fósseis e florestas) chegaram a Antália, mas nem foram acolhidos, segundo o WWF Brasil.",
+   "t": "Brasil × EUA na OMC (DS646)",
+   "b": "O OSC examina em 24/11 o primeiro pedido brasileiro de painel contra as sobretaxas de 25% (Seção 301) e 12,5% (trabalho forçado). Os EUA podem bloquear o primeiro pedido.",
    "l": [
-    "Roteiro para afastar os fósseis, sem data",
-    "Roteiro para zerar o desmatamento até 2030",
-    "Guterres: 'profundamente decepcionado'"
+    "Segundo pedido: consenso negativo (art. 6.1 ESC)",
+    "Órgão de Apelação parado desde 2019",
+    "EUA fora do MPIA: risco de recurso 'no vazio'"
    ]
   },
   {
-   "t": "A 'guerra fria dos vistos'",
-   "b": "Brasil e EUA negociam trocar o agrément a Daniel Perez pela regularização do visto da embaixadora Maria Luisa Viotti, revogado em agosto.",
+   "t": "Vistos e agrément Brasil–EUA",
+   "b": "Os dois governos negociam trocar o agrément a Daniel Perez pela regularização do visto da embaixadora Maria Luisa Viotti. O objetivo é abrir caminho para um encontro Lula–Trump no G20 de Miami.",
    "l": [
-    "EUA sem embaixador no Brasil desde jan. 2025",
-    "Brasil quer incluir Padilha e ministros do STF",
-    "Meta: encontro Lula–Trump no G20 de Miami"
+    "Viena 1961, art. 4º: recusa sem justificativa",
+    "Reciprocidade como instrumento de pressão"
    ]
   },
   {
-   "t": "Direito diplomático em jogo",
-   "b": "Pela Convenção de Viena de 1961, o Estado receptor dá o agrément ao chefe de missão e pode recusá-lo sem dar razões. A reciprocidade guia as respostas.",
+   "t": "Venezuela volta a Brasília",
+   "b": "O chanceler Oliver Blanco, do governo de Delcy Rodríguez, será recebido por Mauro Vieira em 30/11, com agenda econômico-comercial. É a primeira visita desde a queda de Maduro.",
    "l": [
-    "Art. 4º: recusa sem justificativa",
-    "Agrément vale só para o chefe de missão",
-    "Visto e agrément são institutos distintos"
+    "Brasil criticou a operação dos EUA",
+    "Fronteira, migração e Essequibo na pauta",
+    "Venezuela suspensa do Mercosul desde 2016"
    ]
   },
   {
-   "t": "Bolívia e Chile se reaproximam",
-   "b": "Em 20/11, em Santiago, voltou a funcionar o Mecanismo de Consultas Políticas, parado desde 2010. Os dois falam em normalizar as relações, rompidas em 1978.",
+   "t": "Bolívia e Chile reaproximam-se",
+   "b": "Os dois retomaram o Mecanismo de Consultas Políticas, parado desde 2010, e falam em normalizar as relações, rompidas em 1978.",
    "l": [
-    "Declaração Paz–Kast (La Paz, 16/10)",
-    "Livre trânsito: reunião em 11/12",
-    "Modernização do ACE 22"
-   ],
-   "n": "CIJ 2018: o Chile não é obrigado a negociar acesso ao mar"
-  },
-  {
-   "t": "Irã: 'nem guerra nem paz'",
-   "b": "Ghalibaf, presidente do Parlamento iraniano, cobrou uma 'dissuasão sustentável'. Araghchi aceita negociar com garantias; Trump ameaça retomar os ataques se não houver acordo até o fim do ano.",
-   "l": [
-    "Bloqueio naval dos EUA aos portos iranianos",
-    "Ormuz: cerca de 1/5 do petróleo mundial",
-    "AIEA sem acesso ao urânio enriquecido"
+    "CIJ (2018): o Chile não é obrigado a negociar saída ao mar",
+    "Integração sul-americana em pauta"
    ]
   },
   {
-   "t": "Cúpula de IA em Bridgetown",
-   "b": "ONU e Barbados reúnem cerca de 150 participantes em 23/11 para discutir a segurança da IA e a capacidade de cada país de testar sistemas feitos no exterior.",
+   "t": "Pressão sobre a Rússia",
+   "b": "A UE propôs o 22º pacote de sanções: 60 bancos fora do SWIFT, frota-sombra, refinarias e atletas. Enquanto isso, drones ucranianos afundam navios russos no Báltico e na Líbia.",
    "l": [
-    "Junto com o Painel Científico Independente sobre IA",
-    "Sem acordo vinculante previsto",
-    "Equipes de incidentes: cerca de 500 x 6 entre ricos e pobres"
+    "Sanções da PESC exigem unanimidade",
+    "China é a principal rota de contorno",
+    "Kaliningrado ganha balsas ferroviárias"
    ]
   },
   {
-   "t": "Fios que ligam a semana",
-   "b": "Consenso, reciprocidade e dissuasão explicam as notícias da semana: regras multilaterais travadas, diplomacia bilateral pragmática e segurança regional instável.",
+   "t": "Corrida nuclear no espaço",
+   "b": "A imprensa alemã relata que a Rússia planeja lançar o satélite Sputnik-S com uma ogiva nuclear. Isso violaria o Tratado do Espaço Exterior (1967). Moscou fala em 'propaganda'.",
    "l": [
-    "PEB: clima, EUA, vizinhança e Oriente Médio",
-    "Governança global: UNFCCC e IA na ONU",
-    "Integração sul-americana: Bolívia no Mercosul"
+    "Art. IV: armas de destruição em massa fora da órbita",
+    "Rússia vetou resolução do CSNU sobre o tema em 2024",
+    "Brasil defende a PAROS na Conferência do Desarmamento"
+   ]
+  },
+  {
+   "t": "Poder na Ásia e no Cáucaso",
+   "b": "O Lowy Institute mostra a menor diferença já registrada entre EUA e China, com a Índia em 3º. Na Armênia, Pashinyan propõe uma Constituição sem a reivindicação do Karabakh, para fechar a paz com o Azerbaijão.",
+   "l": [
+    "EUA 78,9 × China 73,6",
+    "Índia preside o BRICS em 2026",
+    "Irã cobra 'dissuasão sustentável' contra os EUA"
    ]
   },
   {
    "k": "fim",
    "t": "Pegadinhas que caem",
    "l": [
-    "COPs decidem por consenso; não houve 'Pacto de Antália'",
-    "A recusa do agrément não precisa ser justificada (Viena, art. 4º)",
-    "A CIJ (2018) não obrigou o Chile a negociar saída ao mar",
-    "Ghalibaf preside o Parlamento; o chanceler é Araghchi",
-    "O painel de IA foi criado pela Assembleia Geral, não pelo CSNU"
+    "COP decide por consenso, não por maioria",
+    "Na OMC, o painel só pode ser bloqueado no 1º pedido",
+    "Agrément é só para o chefe de missão, e a recusa dispensa motivação",
+    "Tratado de 1967 proíbe armas nucleares em órbita, não toda atividade militar no espaço",
+    "Os EUA seguem em 1º no índice Lowy; o que encolheu foi a diferença"
    ]
   }
  ]
