@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W48",
  "notionUrl": "",
- "updatedAt": "2026-11-24",
+ "updatedAt": "2026-11-25",
  "items": [
   {
    "id": "c1",
@@ -186,82 +186,158 @@
    "q": "Que tratado a Rússia violaria ao pôr uma arma nuclear em órbita, e o que ele proíbe?",
    "a": "O Tratado do Espaço Exterior (1967), cujo art. IV proíbe colocar em órbita armas nucleares ou outras de destruição em massa.",
    "exp": "A denúncia veio do Süddeutsche Zeitung, NDR e WDR (23/11); Moscou chamou de 'propaganda'."
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "O acordo de paz entre o governo colombiano e as FARC foi assinado em novembro de 2016, depois que a versão anterior do texto havia sido rejeitada em plebiscito, em outubro daquele ano.",
+   "ans": "C",
+   "exp": "No plebiscito de 2/10/2016, o 'não' venceu por margem estreita. Um texto renegociado foi assinado em 24/11/2016 em Bogotá e aprovado pelo Congresso, sem nova consulta popular. Juan Manuel Santos recebeu o Nobel da Paz de 2016.",
+   "ctx": "Petit Journal: chips e Nvidia, alemães contra armas à Ucrânia, minerais críticos, petróleo russo e Colômbia"
+  },
+  {
+   "id": "f13",
+   "t": "f",
+   "q": "Que minerais a China voltou a liberar para os EUA, e até quando?",
+   "a": "Gálio, germânio, antimônio e materiais superduros: a suspensão das restrições foi estendida até 27/1/2027.",
+   "exp": "Prazo curto antes do encontro Xi–Trump no G20, para manter a pressão."
+  },
+  {
+   "id": "c14",
+   "t": "c",
+   "s": "Pelo tratado assinado com a Austrália em novembro de 2026, as Ilhas Salomão ficam proibidas de manter qualquer cooperação com a China.",
+   "ans": "E",
+   "exp": "Não há proibição expressa. O tratado faz da Austrália a parceira primária, veda bases estrangeiras e exige consulta prévia a Canberra antes de acordos de segurança ou infraestrutura crítica com países de fora do Fórum das Ilhas do Pacífico.",
+   "ctx": "Ilhas Salomão assinam tratado de segurança com a Austrália, que vira 'parceira primária', e reveem o pacto de 2022 com a China"
+  },
+  {
+   "id": "f14",
+   "t": "f",
+   "q": "O que prevê o tratado Austrália–Ilhas Salomão de 25/11/2026?",
+   "a": "A Austrália vira parceira primária de segurança; não haverá bases estrangeiras; acordos de segurança com países de fora do Fórum das Ilhas do Pacífico exigem consulta a Canberra; AU$ 740 mi em 10 anos.",
+   "exp": "Resposta ao pacto de segurança Salomão–China de 2022, que vence em abril de 2027."
+  },
+  {
+   "id": "c15",
+   "t": "c",
+   "s": "As negociações recentes para encerrar a guerra na Ucrânia têm ocorrido em formato trilateral, entre Rússia, Ucrânia e EUA, e a Rússia resiste à inclusão formal dos europeus.",
+   "ans": "C",
+   "exp": "A última rodada trilateral foi em Abu Dhabi (10–11/11). Os europeus pedem um formato a quatro, e Peskov disse não ver 'valor agregado' na participação deles.",
+   "ctx": "Kremlin diz não ver 'valor agregado' em europeus nas negociações sobre a Ucrânia; nova rodada em Abu Dhabi segue sem data"
+  },
+  {
+   "id": "f15",
+   "t": "f",
+   "q": "Que formato a Rússia aceita para as negociações sobre a Ucrânia?",
+   "a": "O trilateral (Rússia, Ucrânia e EUA), em Abu Dhabi; Peskov não vê 'valor agregado' na entrada dos europeus.",
+   "exp": "Os europeus pedem formato a quatro, com Alemanha, França, Itália, Polônia, Reino Unido e UE."
+  },
+  {
+   "id": "c16",
+   "t": "c",
+   "s": "Pela Convenção das Nações Unidas sobre o Direito do Mar, navios de todos os Estados gozam do direito de passagem em trânsito por estreitos usados para a navegação internacional, como Ormuz.",
+   "ans": "C",
+   "exp": "Parte III da CNUDM (arts. 37–44). O Irã assinou mas não ratificou a Convenção e contesta o regime para Estados não partes, como os EUA.",
+   "ctx": "Irã diz que dois petroleiros bateram em minas em Ormuz; mesmo assim, o petróleo cai com a recuperação das exportações do Golfo"
+  },
+  {
+   "id": "f16",
+   "t": "f",
+   "q": "Por que o petróleo caiu em 25/11 apesar dos ataques em Ormuz?",
+   "a": "Porque as exportações do Golfo se recuperaram (15 mi barris/dia em outubro, 82% do pré-guerra) e a AIE prevê oferta acima da demanda.",
+   "exp": "O Brent recuou 1,7%, para US$ 89,82."
+  },
+  {
+   "id": "c17",
+   "t": "c",
+   "s": "A guerra civil no Sudão, iniciada em 2023, opõe o Exército sudanês às Forças de Apoio Rápido (RSF), em disputa sobre a integração da força paramilitar às Forças Armadas.",
+   "ans": "C",
+   "exp": "A divergência sobre o prazo e o comando dessa integração detonou o conflito em abril de 2023, entre os generais Abdel Fattah al-Burhan (Exército) e Mohamed Hamdan Dagalo, o 'Hemedti' (RSF).",
+   "ctx": "Sudão recusa oferta da Etiópia para sediar diálogo de paz e acusa Adis Abeba de apoiar as RSF"
+  },
+  {
+   "id": "f17",
+   "t": "f",
+   "q": "Por que o Sudão recusou a Etiópia como sede do diálogo de paz?",
+   "a": "Por falta de neutralidade: Cartum acusa Adis Abeba de apoiar as RSF e de permitir drones a partir de seu território.",
+   "exp": "O Sudão pede que a União Africana exclua a Etiópia da mediação."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "COP31 sem acordo, OMC Brasil×EUA, Venezuela, sanções à Rússia e arma nuclear no espaço"
+   "b": "COP31 sem acordo, Brasil×EUA na OMC, Ucrânia, Pacífico, Ormuz e Sudão"
   },
   {
    "t": "COP31 fracassa em Antália",
-   "b": "A conferência terminou em 22/11 sem decisão final por falta de consenso sobre combustíveis fósseis e financiamento. É a primeira vez desde Copenhague (2009).",
+   "b": "A conferência terminou em 22/11 sem decisão final por falta de consenso sobre combustíveis fósseis e financiamento. Não acontecia desde Copenhague (2009).",
    "l": [
     "Petroestados vetaram menção aos fósseis",
-    "Roteiros da COP30 de Belém nem foram acolhidos",
-    "China e Índia rejeitaram metas sem recursos"
-   ],
-   "n": "Na UNFCCC, decisão é por consenso"
+    "Roteiros da COP30 de Belém não foram acolhidos",
+    "Na UNFCCC, decide-se por consenso"
+   ]
   },
   {
    "t": "Brasil × EUA na OMC (DS646)",
-   "b": "O OSC examina em 24/11 o primeiro pedido brasileiro de painel contra as sobretaxas de 25% (Seção 301) e 12,5% (trabalho forçado). Os EUA podem bloquear o primeiro pedido.",
+   "b": "O OSC examinou em 24/11 o primeiro pedido brasileiro de painel contra as sobretaxas americanas. Os EUA podem bloquear só o 1º pedido; o 2º é automático (consenso negativo).",
    "l": [
-    "Segundo pedido: consenso negativo (art. 6.1 ESC)",
     "Órgão de Apelação parado desde 2019",
-    "EUA fora do MPIA: risco de recurso 'no vazio'"
+    "EUA fora do MPIA: risco de recurso 'no vazio'",
+    "Nova rodada da Seção 301 deixa o Brasil de fora"
    ]
   },
   {
-   "t": "Vistos e agrément Brasil–EUA",
-   "b": "Os dois governos negociam trocar o agrément a Daniel Perez pela regularização do visto da embaixadora Maria Luisa Viotti. O objetivo é abrir caminho para um encontro Lula–Trump no G20 de Miami.",
+   "t": "Vizinhança: Venezuela e Bolívia–Chile",
+   "b": "O chanceler venezuelano Oliver Blanco vem a Brasília em 30/11, com agenda econômica. Bolívia e Chile retomaram as consultas políticas, paradas desde 2010.",
    "l": [
-    "Viena 1961, art. 4º: recusa sem justificativa",
-    "Reciprocidade como instrumento de pressão"
+    "Venezuela suspensa do Mercosul desde 2016",
+    "CIJ (2018): Chile não é obrigado a negociar mar",
+    "Brasil × EUA: troca de agrément e vistos"
    ]
   },
   {
-   "t": "Venezuela volta a Brasília",
-   "b": "O chanceler Oliver Blanco, do governo de Delcy Rodríguez, será recebido por Mauro Vieira em 30/11, com agenda econômico-comercial. É a primeira visita desde a queda de Maduro.",
+   "t": "Ucrânia: quem senta à mesa",
+   "b": "O Kremlin não vê 'valor agregado' em europeus nas negociações, que seguem trilaterais (Rússia, Ucrânia e EUA) em Abu Dhabi. Na Alemanha, 53% já são contra enviar armas a Kiev.",
    "l": [
-    "Brasil criticou a operação dos EUA",
-    "Fronteira, migração e Essequibo na pauta",
-    "Venezuela suspensa do Mercosul desde 2016"
+    "Europeus pedem formato a quatro",
+    "UE propõe o 22º pacote de sanções",
+    "China e Índia: recorde de petróleo russo"
    ]
   },
   {
-   "t": "Bolívia e Chile reaproximam-se",
-   "b": "Os dois retomaram o Mecanismo de Consultas Políticas, parado desde 2010, e falam em normalizar as relações, rompidas em 1978.",
+   "t": "Pacífico: Austrália × China",
+   "b": "As Ilhas Salomão fizeram da Austrália sua parceira primária de segurança, vetaram bases estrangeiras e devem deixar expirar o pacto de 2022 com a China.",
    "l": [
-    "CIJ (2018): o Chile não é obrigado a negociar saída ao mar",
-    "Integração sul-americana em pauta"
+    "AU$ 740 mi em 10 anos",
+    "Consulta prévia para acordos fora do Fórum do Pacífico",
+    "Pequim: cooperação 'não deve mirar terceiros'"
    ]
   },
   {
-   "t": "Pressão sobre a Rússia",
-   "b": "A UE propôs o 22º pacote de sanções: 60 bancos fora do SWIFT, frota-sombra, refinarias e atletas. Enquanto isso, drones ucranianos afundam navios russos no Báltico e na Líbia.",
+   "t": "Ormuz e energia",
+   "b": "O Irã diz que dois petroleiros bateram em minas em Ormuz, e a UKMTO relatou três navios atingidos. Ainda assim, o Brent caiu para US$ 89,8 com a volta das exportações do Golfo.",
    "l": [
-    "Sanções da PESC exigem unanimidade",
-    "China é a principal rota de contorno",
-    "Kaliningrado ganha balsas ferroviárias"
+    "CNUDM: passagem em trânsito em estreitos",
+    "Gás europeu: estoques abaixo da média",
+    "Minerais críticos: China prorroga trégua com os EUA"
    ]
   },
   {
-   "t": "Corrida nuclear no espaço",
-   "b": "A imprensa alemã relata que a Rússia planeja lançar o satélite Sputnik-S com uma ogiva nuclear. Isso violaria o Tratado do Espaço Exterior (1967). Moscou fala em 'propaganda'.",
+   "t": "Sudão e Colômbia",
+   "b": "Cartum recusou a mediação da Etiópia por falta de neutralidade. Na Colômbia, os 10 anos do acordo com as FARC foram marcados por um carro-bomba em Villavicencio.",
    "l": [
-    "Art. IV: armas de destruição em massa fora da órbita",
-    "Rússia vetou resolução do CSNU sobre o tema em 2024",
-    "Brasil defende a PAROS na Conferência do Desarmamento"
+    "Sudão: Exército × RSF desde 2023",
+    "Acordo de 2016 veio após o 'não' no plebiscito",
+    "Dissidências das FARC e narcotráfico"
    ]
   },
   {
-   "t": "Poder na Ásia e no Cáucaso",
-   "b": "O Lowy Institute mostra a menor diferença já registrada entre EUA e China, com a Índia em 3º. Na Armênia, Pashinyan propõe uma Constituição sem a reivindicação do Karabakh, para fechar a paz com o Azerbaijão.",
+   "t": "Tecnologia e poder",
+   "b": "Os EUA ampliaram controles sobre chips de IA, e a imprensa alemã relata plano russo de pôr uma arma nuclear em órbita. O índice Lowy mostra a menor diferença já medida entre EUA e China.",
    "l": [
-    "EUA 78,9 × China 73,6",
-    "Índia preside o BRICS em 2026",
-    "Irã cobra 'dissuasão sustentável' contra os EUA"
+    "Tratado do Espaço Exterior (1967), art. IV",
+    "EUA 78,9 × China 73,6 no índice Lowy",
+    "Licenças para chips a intermediários asiáticos"
    ]
   },
   {
@@ -270,9 +346,9 @@
    "l": [
     "COP decide por consenso, não por maioria",
     "Na OMC, o painel só pode ser bloqueado no 1º pedido",
-    "Agrément é só para o chefe de missão, e a recusa dispensa motivação",
-    "Tratado de 1967 proíbe armas nucleares em órbita, não toda atividade militar no espaço",
-    "Os EUA seguem em 1º no índice Lowy; o que encolheu foi a diferença"
+    "Tratado com as Salomão não proíbe toda cooperação com a China",
+    "Passagem em trânsito (estreitos) ≠ passagem inocente (mar territorial)",
+    "O acordo com as FARC foi assinado após o 'não' no plebiscito, sem nova consulta"
    ]
   }
  ]

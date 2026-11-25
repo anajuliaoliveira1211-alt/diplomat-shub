@@ -1,0 +1,130 @@
+{
+ "kind": "news",
+ "date": "2026-11-25",
+ "cards": [
+  {
+   "id": "2026-11-25-pj76574765",
+   "pj_guid": "76574765",
+   "podcast": "Petit Journal · BP 1185 · 31 min",
+   "materia": "Política Internacional",
+   "edital": "13.8; 3; 14; 13.12; 13.13",
+   "titulo": "Petit Journal: chips e Nvidia, alemães contra armas à Ucrânia, minerais críticos, petróleo russo e Colômbia",
+   "resumo": "Episódio de 24/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Huang volta e Washington fecha brechas",
+     "b": "Nos 11 dias em que Jensen Huang esteve fora da Nvidia, os EUA puseram mais empresas chinesas, inclusive uma subsidiária do grupo Alibaba, na lista negra comercial. Também passaram a exigir licença para exportar chips de IA a intermediários do Sudeste Asiático. Segundo os apresentadores, o Brasil entrou na lista, para evitar a triangulação."
+    },
+    {
+     "t": "Trump, ações e conflito de interesses",
+     "b": "O Financial Times calcula que Trump pode ter ganho até US$ 15 milhões com a alta das ações da Nvidia após a volta de Huang, que ele diz ter defendido junto ao conselho. Para os apresentadores, é um caso de patrimonialismo: interesse público e privado misturados."
+    },
+    {
+     "t": "Nova rodada de tarifas pela Seção 301",
+     "b": "Depois de a Suprema Corte derrubar as tarifas baseadas em emergência nacional, o governo recorre à Seção 301 para novas tarifas contra China, Europa e outros. Os apresentadores leem isso como insistência na agenda comercial mesmo após a derrota republicana nas eleições de meio de mandato."
+    },
+    {
+     "t": "Alemães cansam de armar Kiev",
+     "b": "Pesquisa da Fundação Körber mostra, pela primeira vez desde 2022, maioria contra enviar armas à Ucrânia: 53% contra e 46% a favor (eram 39% e 59% um ano antes). 64% rejeitam que a Alemanha seja liderança militar na Europa, e 61% querem foco em negociações de paz."
+    },
+    {
+     "t": "Trégua dos minerais críticos",
+     "b": "A China estendeu até 27/1/2027 a suspensão das restrições à exportação de gálio, germânio, antimônio e materiais superduros para os EUA. O prazo curto, antes do encontro Xi–Trump no G20, mantém a pressão sobre Washington."
+    },
+    {
+     "t": "China e Índia e o petróleo russo",
+     "b": "Os dois países devem bater recorde de compras e já levam mais de 80% das exportações russas de petróleo. Com cerca de metade do refino russo afetado por drones ucranianos, Moscou exporta mais petróleo bruto, e chineses e indianos o refinam."
+    },
+    {
+     "t": "Colômbia: 10 anos do acordo com as FARC",
+     "b": "No aniversário do acordo de 2016, um carro-bomba atingiu a sede do governo regional em Villavicencio, com 25 feridos, horas depois de um ataque com drones em Cúcuta. Os apresentadores atribuem os ataques a dissidências das FARC que não aderiram à paz."
+    },
+    {
+     "t": "Diplomacia do frango frito",
+     "b": "Na cúpula da ASEAN, nas Filipinas, o presidente Ferdinand Marcos Jr. mandou frango frito da rede local Jollibee aos líderes. Para os apresentadores, é soft power gastronômico."
+    }
+   ],
+   "porque": "O episódio cobre a disputa tecnológica EUA–China (controles de exportação, minerais críticos e tarifas da Seção 301, que também atingem o Brasil), o desgaste do apoio europeu à Ucrânia e a geopolítica do petróleo russo depois das sanções. Na América do Sul, os 10 anos do acordo de paz na Colômbia mostram como dissidências armadas e narcotráfico desafiam a segurança regional, inclusive na fronteira com a Venezuela. Itens 13.8 (comércio e cadeias), 3 (Europa), 14 (Américas) e 13.12–13.13 (terrorismo e crime transnacional).",
+   "ce": {
+    "s": "O acordo de paz entre o governo colombiano e as FARC foi assinado em novembro de 2016, depois que a versão anterior do texto havia sido rejeitada em plebiscito, em outubro daquele ano.",
+    "ans": "C",
+    "exp": "No plebiscito de 2/10/2016, o 'não' venceu por margem estreita. Um texto renegociado foi assinado em 24/11/2016 em Bogotá e aprovado pelo Congresso, sem nova consulta popular. Juan Manuel Santos recebeu o Nobel da Paz de 2016."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/diplomacia-do-frango-frito-bp-1185--76574765",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-25-1",
+   "materia": "Política Internacional",
+   "edital": "10; 13.10; 3",
+   "titulo": "Ilhas Salomão assinam tratado de segurança com a Austrália, que vira 'parceira primária', e reveem o pacto de 2022 com a China",
+   "resumo": "Em 25/11, em Canberra, os premiês Matthew Wale e Anthony Albanese assinaram um tratado que faz da Austrália a 'parceira primária de segurança' das Ilhas Salomão. O arquipélago se compromete a não abrigar bases militares estrangeiras e a manter portos, aeroportos, energia e telecomunicações livres de militarização. Também terá de consultar Canberra antes de acordos de segurança ou infraestrutura crítica com países de fora do Fórum das Ilhas do Pacífico. A Austrália promete AU$ 740 milhões em dez anos. Segundo a imprensa australiana, Honiara avisou Pequim que não renovará o pacto de segurança de 2022, que vence em abril; Wale cita cláusula de confidencialidade e não confirma.",
+   "porque": "O tratado mostra a disputa entre China e o eixo EUA–Austrália pelo Pacífico Sul. O pacto sino-salomonense de 2022 alarmou Canberra pela possibilidade de presença naval chinesa perto da Austrália. A China respondeu que a cooperação 'não deve mirar terceiros'. O caso mostra pequenos Estados barganhando entre potências e a oposição local acusando a Austrália de 'diplomacia do talão de cheques'. Para o CACD: Ásia-Pacífico e a ascensão chinesa (item 10), segurança internacional e alianças, e a ideia de esferas de influência. O Brasil não está envolvido diretamente, mas a disputa ajuda a entender a competição sino-americana, que também chega à América do Sul.",
+   "fonte": "ABC News (Austrália) e AFP/France 24, 25/11/2026",
+   "url": "https://www.abc.net.au/news/2026-11-25/australia-signs-pact-with-solomon-islands-in-blow-to-china/107424550",
+   "img": "https://live-production.wcms.abc-cdn.net.au/7d0c8866855fe2451349918850aa9ca0?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+   "imgCredit": "Foto: ABC News",
+   "ce": {
+    "s": "Pelo tratado assinado com a Austrália em novembro de 2026, as Ilhas Salomão ficam proibidas de manter qualquer cooperação com a China.",
+    "ans": "E",
+    "exp": "Não há proibição expressa. O tratado faz da Austrália a parceira primária, veda bases estrangeiras e exige consulta prévia a Canberra antes de acordos de segurança ou infraestrutura crítica com países de fora do Fórum das Ilhas do Pacífico."
+   },
+   "curso": false
+  },
+  {
+   "id": "2026-11-25-2",
+   "materia": "Política Internacional",
+   "edital": "3; 13.1; 13.10",
+   "titulo": "Kremlin diz não ver 'valor agregado' em europeus nas negociações sobre a Ucrânia; nova rodada em Abu Dhabi segue sem data",
+   "resumo": "Em 24/11, o porta-voz do Kremlin, Dmitri Peskov, disse que Moscou ainda não entende 'que valor agregado surgiria da participação dos europeus' na próxima rodada de negociações entre Rússia, Ucrânia e EUA. Os europeus querem um formato a quatro e já definiram quem falaria pela Europa: Alemanha, França, Itália, Polônia, Reino Unido e representantes da UE. Na semana anterior, o Kremlin disse que os europeus deveriam primeiro apresentar suas propostas em Moscou. A próxima reunião deve ocorrer em Abu Dhabi, mas ainda sem data.",
+   "porque": "A Rússia quer negociar diretamente com os EUA e deixar a Europa de fora, o que divide o Ocidente. Para a UE, um acordo sem os europeus afetaria diretamente a segurança do continente. O impasse coincide com o cansaço da opinião pública alemã com o envio de armas a Kiev, tema do Petit Journal de hoje. Para o CACD: Rússia e segurança europeia (item 3), solução pacífica de controvérsias e o papel de mediadores como os Emirados. O Brasil defende a negociação e propôs, com a China, os 'entendimentos comuns' de 2024. Por isso o formato e os participantes das conversas importam para a diplomacia brasileira.",
+   "fonte": "DPA via Yahoo News, 24/11/2026",
+   "url": "https://www.yahoo.com/news/world/articles/kremlin-sees-no-value-european-160330169.html",
+   "img": "https://s.yimg.com/lo/mysterio/api/2cab24a00203bb5d4678806f8f5e17ff6cee120755563384e4f7598ac002c0ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe6d326c19b02b8381546ee3ead2a591d.jpg",
+   "imgCredit": "Foto: DPA/Yahoo News",
+   "ce": {
+    "s": "As negociações recentes para encerrar a guerra na Ucrânia têm ocorrido em formato trilateral, entre Rússia, Ucrânia e EUA, e a Rússia resiste à inclusão formal dos europeus.",
+    "ans": "C",
+    "exp": "A última rodada trilateral foi em Abu Dhabi (10–11/11). Os europeus pedem um formato a quatro, e Peskov disse não ver 'valor agregado' na participação deles."
+   },
+   "curso": false
+  },
+  {
+   "id": "2026-11-25-3",
+   "materia": "Economia",
+   "edital": "13.8; 7; 3.3",
+   "titulo": "Irã diz que dois petroleiros bateram em minas em Ormuz; mesmo assim, o petróleo cai com a recuperação das exportações do Golfo",
+   "resumo": "Em 25/11, a Marinha da Guarda Revolucionária do Irã afirmou que dois petroleiros que tentavam cruzar o Estreito de Ormuz por uma 'rota não autorizada' atingiram minas navais e pegaram fogo. A agência britânica UKMTO relatou três navios atingidos por projéteis não identificados, que seguiram viagem sem vítimas. Mesmo assim, o Brent caiu 1,7%, para US$ 89,82, e o gás europeu (TTF) recuou 3,9%. Pesou a recuperação das exportações do Golfo, que chegaram a 15 milhões de barris/dia em outubro, 82% do nível pré-guerra.",
+   "porque": "Cerca de um quinto do petróleo mundial passa por Ormuz, e a crise entre EUA e Irã transformou o estreito em ponto de pressão sobre a economia global. O episódio mostra o uso de minas e da 'liberdade de navegação' como armas, tema ligado à Convenção do Mar (passagem em trânsito em estreitos internacionais). O Brasil é afetado pelo preço dos combustíveis e dos fertilizantes, e também ganha espaço como exportador de petróleo fora do Golfo. Com os estoques de gás europeus abaixo da média, a disputa por GNL tende a crescer no inverno. Itens: comércio e energia (13.8; 3.3 de Geografia) e Oriente Médio.",
+   "fonte": "Anadolu Agency, 25/11/2026",
+   "url": "https://www.aa.com.tr/en/economy/oil-and-european-gas-prices-fall-amid-renewed-attacks-in-strait-of-hormuz/4136916",
+   "img": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/25/thumbs_b_c_efbf511fe91dcb39443dfefbcbf1d6b9.jpg",
+   "imgCredit": "Foto: Anadolu Agency",
+   "ce": {
+    "s": "Pela Convenção das Nações Unidas sobre o Direito do Mar, navios de todos os Estados gozam do direito de passagem em trânsito por estreitos usados para a navegação internacional, como Ormuz.",
+    "ans": "C",
+    "exp": "Parte III da CNUDM (arts. 37–44). O Irã assinou mas não ratificou a Convenção e contesta o regime para Estados não partes, como os EUA."
+   },
+   "curso": false
+  },
+  {
+   "id": "2026-11-25-4",
+   "materia": "Política Internacional",
+   "edital": "11; 13.15; 13.6",
+   "titulo": "Sudão recusa oferta da Etiópia para sediar diálogo de paz e acusa Adis Abeba de apoiar as RSF",
+   "resumo": "Em 24/11, o premiê etíope Abiy Ahmed ofereceu sediar um diálogo nacional inclusivo entre militares, partidos e civis sudaneses, para encerrar a guerra e abrir caminho a um governo de unidade. Em 25/11, o governo do Sudão recusou, por nota da agência estatal SUNA, alegando que a Etiópia 'não cumpre o requisito de neutralidade'. Cartum acusa o vizinho de apoiar as Forças de Apoio Rápido (RSF) e de deixar drones partirem de seu território. O Sudão pede investigação independente e quer que a União Africana exclua a Etiópia da mediação.",
+   "porque": "A guerra entre o Exército e as RSF, desde abril de 2023, já matou dezenas de milhares e deslocou milhões. A ONU a considera uma das maiores crises humanitárias do mundo. A recusa mostra como a mediação depende da neutralidade do mediador e como potências regionais disputam influência no Chifre da África e no Mar Vermelho. Há também a disputa entre os dois países pela barragem GERD, no Nilo. Para o CACD: África (item 11), solução de conflitos, papel da União Africana e direitos humanos. O Brasil defende soluções africanas para problemas africanos e tem cooperação humanitária com o continente.",
+   "fonte": "Anadolu Agency, com nota da agência estatal sudanesa SUNA, 25/11/2026",
+   "url": "https://www.aa.com.tr/en/middle-east/sudan-rejects-ethiopia-s-offer-to-host-peace-talks-questions-its-neutrality/4136675",
+   "ce": {
+    "s": "A guerra civil no Sudão, iniciada em 2023, opõe o Exército sudanês às Forças de Apoio Rápido (RSF), em disputa sobre a integração da força paramilitar às Forças Armadas.",
+    "ans": "C",
+    "exp": "A divergência sobre o prazo e o comando dessa integração detonou o conflito em abril de 2023, entre os generais Abdel Fattah al-Burhan (Exército) e Mohamed Hamdan Dagalo, o 'Hemedti' (RSF)."
+   },
+   "curso": false
+  }
+ ]
+}

@@ -27,10 +27,11 @@
   "hm-independencias-hispanicas",
   "hm-unificacoes-bismarck",
   "pi-peb-4-anos-90-dilma",
-  "hm-imperialismo-asia"
+  "hm-imperialismo-asia",
+  "geo-migracoes-internacionais"
  ],
  "kind": "sync",
- "lastRun": "2026-11-24T09:00:00+00:00",
+ "lastRun": "2026-11-25T09:00:00+00:00",
  "processed": {
   "2f60520afdf5455fadd99c10fd26182f": {
    "deck": "hb-america-portuguesa",
@@ -239,6 +240,10 @@
   "40f77560e5fa80a6a13fd2f4c305464c": {
    "deck": "pi-brasil-india-africa-sul",
    "edited": "2026-11-05T17:48:00.655Z"
+  },
+  "42277560e5fa807c9a0ec086bfcd3479": {
+   "deck": "pi-brasil-japao-russia",
+   "edited": "2026-11-24T20:48:10.713Z"
   }
  }
 }

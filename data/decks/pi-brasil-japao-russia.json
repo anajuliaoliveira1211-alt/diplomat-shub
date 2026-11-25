@@ -1,0 +1,336 @@
+{
+ "kind": "deck",
+ "materia": "Política Internacional",
+ "assunto": "Relações Brasil–Japão e Brasil–Rússia",
+ "edital": "10.1",
+ "notionUrl": "https://app.notion.com/p/42277560e5fa807c9a0ec086bfcd3479",
+ "updatedAt": "2026-11-25",
+ "items": [
+  {
+   "id": "f1",
+   "t": "f",
+   "q": "Quando o Império Russo reconheceu a independência do Brasil?",
+   "a": "Em 1828, seis anos depois da independência.",
+   "exp": "Foi o marco inicial das relações bilaterais."
+  },
+  {
+   "id": "f2",
+   "t": "f",
+   "q": "Que imperador brasileiro visitou São Petersburgo e em que ano?",
+   "a": "Dom Pedro II, em 1876.",
+   "exp": "A visita ilustra a admiração da monarquia brasileira pela Rússia."
+  },
+  {
+   "id": "f3",
+   "t": "f",
+   "q": "Qual foi o vaivém das relações Brasil–URSS entre 1917 e 1961?",
+   "a": "Interrupção com a Revolução de 1917; retomada em 1945 (Vargas); nova ruptura em 1947 (Dutra); reatamento definitivo em 1961 (Goulart).",
+   "exp": "O reatamento de 1961 é marca da Política Externa Independente."
+  },
+  {
+   "id": "f4",
+   "t": "f",
+   "q": "O que foi a COLESTE, criada em 1962?",
+   "a": "Comissão para intensificar o comércio com os países socialistas do Leste Europeu.",
+   "exp": "Mostra que comércio e relações diplomáticas podiam seguir lógicas separadas."
+  },
+  {
+   "id": "f5",
+   "t": "f",
+   "q": "Qual foi o único presidente brasileiro a visitar a União Soviética?",
+   "a": "José Sarney, em 1988.",
+   "exp": "A visita veio depois da ida do chanceler Olavo Setúbal a Moscou (1985) e da visita de Shevardnadze ao Brasil (1987)."
+  },
+  {
+   "id": "f6",
+   "t": "f",
+   "q": "Que mecanismo bilateral nasceu da visita de Primakov ao Brasil em 1997?",
+   "a": "A Comissão Brasil–Rússia de Alto Nível de Cooperação (CAN).",
+   "exp": "Cobre cooperação econômica, comercial, científica e tecnológica, inclusive espacial."
+  },
+  {
+   "id": "f7",
+   "t": "f",
+   "q": "Por que a Rússia interessa ao Brasil, além do comércio?",
+   "a": "Como fonte de tecnologia (espacial, nuclear, navegação por satélite) e de fertilizantes para o agronegócio.",
+   "exp": "Exemplos: estações do GLONASS no Brasil e importação de adubos russos."
+  },
+  {
+   "id": "f8",
+   "t": "f",
+   "q": "Qual é a posição do Brasil sobre a guerra na Ucrânia?",
+   "a": "Neutralidade ativa: condena a violação territorial na ONU, mas não adere a sanções unilaterais e defende negociação.",
+   "exp": "A linha foi seguida tanto por Bolsonaro quanto por Lula."
+  },
+  {
+   "id": "f9",
+   "t": "f",
+   "q": "Que tratado inaugurou as relações oficiais Brasil–Japão?",
+   "a": "O Tratado de Amizade, Comércio e Navegação, de 1895.",
+   "exp": "Abriu caminho para a imigração japonesa."
+  },
+  {
+   "id": "f10",
+   "t": "f",
+   "q": "O que marcou a chegada do Kasato Maru, em 1908?",
+   "a": "O início da imigração japonesa: 781 imigrantes chegaram a Santos para trabalhar no café.",
+   "exp": "Hoje o Brasil tem a maior comunidade nikkei fora do Japão, cerca de 2 milhões de pessoas."
+  },
+  {
+   "id": "f11",
+   "t": "f",
+   "q": "O que foi o PRODECER?",
+   "a": "Programa de cooperação nipo-brasileira para o desenvolvimento do Cerrado, com apoio técnico da Embrapa.",
+   "exp": "Ajudou a transformar o Cerrado em fronteira agrícola."
+  },
+  {
+   "id": "f12",
+   "t": "f",
+   "q": "Que status as relações Brasil–Japão ganharam em 2014?",
+   "a": "Parceria Estratégica e Global.",
+   "exp": "Os dois países também atuam juntos no G4 pela reforma do Conselho de Segurança."
+  },
+  {
+   "id": "m1",
+   "t": "m",
+   "q": "Qual sequência de relações Brasil–URSS está correta?",
+   "opts": [
+    "Retomada em 1945, ruptura em 1947, reatamento em 1961",
+    "Ruptura em 1945, retomada em 1947, nova ruptura em 1961",
+    "Relações contínuas de 1917 a 1991",
+    "Reatamento apenas em 1974, no governo Geisel"
+   ],
+   "ans": 0,
+   "exp": "Vargas restabeleceu relações em 1945; Dutra rompeu em 1947; Goulart reatou em 1961."
+  },
+  {
+   "id": "m2",
+   "t": "m",
+   "q": "O governo Castelo Branco, anticomunista, em relação à URSS:",
+   "opts": [
+    "Manteve relações e enviou missão comercial liderada por Roberto Campos (1965)",
+    "Rompeu relações diplomáticas e comerciais",
+    "Suspendeu a COLESTE e proibiu o comércio com o Leste",
+    "Assinou parceria estratégica com Moscou"
+   ],
+   "ans": 0,
+   "exp": "O pragmatismo comercial prevaleceu sobre o alinhamento ideológico."
+  },
+  {
+   "id": "m3",
+   "t": "m",
+   "q": "A Comissão de Alto Nível Brasil–Rússia (CAN) foi criada:",
+   "opts": [
+    "Após a visita de Primakov, em 1997",
+    "Na visita de Sarney a Moscou, em 1988",
+    "No reatamento de 1961",
+    "Na criação do BRICS, em 2009"
+   ],
+   "ans": 0,
+   "exp": "Primakov era chanceler russo quando visitou o Brasil, em 1997."
+  },
+  {
+   "id": "m4",
+   "t": "m",
+   "q": "Sobre a imigração japonesa, é correto afirmar:",
+   "opts": [
+    "Começou em 1908 e formou núcleos em São Paulo e no Paraná",
+    "Começou antes do tratado de 1895",
+    "Foi proibida após o reatamento de 1952",
+    "Dirigiu-se sobretudo à Amazônia no século XIX"
+   ],
+   "ans": 0,
+   "exp": "O Kasato Maru chegou a Santos em 1908."
+  },
+  {
+   "id": "m5",
+   "t": "m",
+   "q": "O fenômeno dekassegui (anos 1980–90) consistiu em:",
+   "opts": [
+    "Descendentes de japoneses indo trabalhar no Japão",
+    "Japoneses migrando para o Cerrado",
+    "Investimentos japoneses em Carajás",
+    "Retorno de japoneses expulsos do Brasil em 1942"
+   ],
+   "ans": 0,
+   "exp": "Crise brasileira e falta de mão de obra no Japão inverteram o fluxo migratório."
+  },
+  {
+   "id": "m6",
+   "t": "m",
+   "q": "Exemplo de cooperação tecnológica Brasil–Japão:",
+   "opts": [
+    "Adoção do padrão japonês ISDB-T na TV digital brasileira",
+    "Instalação do sistema GLONASS",
+    "Acordo nuclear com a Rosatom",
+    "Compra de helicópteros de ataque"
+   ],
+   "ans": 0,
+   "exp": "GLONASS, Rosatom e helicópteros pertencem à agenda com a Rússia."
+  },
+  {
+   "id": "c1",
+   "t": "c",
+   "s": "O Império Russo reconheceu a independência do Brasil em 1828.",
+   "ans": "C",
+   "exp": "Seis anos após 1822."
+  },
+  {
+   "id": "c2",
+   "t": "c",
+   "s": "O reatamento das relações com a URSS, em 1961, ocorreu no governo Dutra, alinhado aos EUA.",
+   "ans": "E",
+   "exp": "Dutra rompeu as relações em 1947; o reatamento foi em 1961, com Goulart.",
+   "trap": 3
+  },
+  {
+   "id": "c3",
+   "t": "c",
+   "s": "A ruptura de relações diplomáticas com a URSS impediu todo comércio bilateral durante a Guerra Fria.",
+   "ans": "E",
+   "exp": "Comércio e diplomacia seguiram lógicas separadas; a COLESTE (1962) e a missão de Roberto Campos (1965) mostram isso.",
+   "trap": 1
+  },
+  {
+   "id": "c4",
+   "t": "c",
+   "s": "José Sarney foi o único presidente brasileiro a visitar a União Soviética.",
+   "ans": "C",
+   "exp": "Visitou Moscou em 1988."
+  },
+  {
+   "id": "c5",
+   "t": "c",
+   "s": "Para o Brasil, a parceria com a Rússia interessa sobretudo pela energia, e não pela tecnologia.",
+   "ans": "E",
+   "exp": "É o contrário: o Brasil busca na Rússia tecnologia (espacial, nuclear, GLONASS) e fertilizantes.",
+   "trap": 2
+  },
+  {
+   "id": "c6",
+   "t": "c",
+   "s": "A neutralidade do Brasil na guerra da Ucrânia foi mantida tanto por Bolsonaro quanto por Lula.",
+   "ans": "C",
+   "exp": "Os dois governos recusaram sanções unilaterais e defenderam negociação."
+  },
+  {
+   "id": "c7",
+   "t": "c",
+   "s": "As relações Brasil–Japão começaram oficialmente com o Tratado de Amizade, Comércio e Navegação de 1908, ano da chegada do Kasato Maru.",
+   "ans": "E",
+   "exp": "O tratado é de 1895; 1908 é o ano do Kasato Maru.",
+   "trap": 4
+  },
+  {
+   "id": "c8",
+   "t": "c",
+   "s": "Brasil e Japão romperam relações em 1942, durante a Segunda Guerra, e as retomaram em 1952.",
+   "ans": "C",
+   "exp": "A retomada veio com o fim da ocupação americana do Japão."
+  },
+  {
+   "id": "c9",
+   "t": "c",
+   "s": "O Japão apoiou a expansão agrícola do Cerrado por meio do PRODECER, em parceria com a Embrapa.",
+   "ans": "C",
+   "exp": "O programa é marco da cooperação nipo-brasileira dos anos 1970."
+  },
+  {
+   "id": "c10",
+   "t": "c",
+   "s": "Brasil e Japão integram o G4, que defende a reforma do Conselho de Segurança, ao lado de Alemanha e África do Sul.",
+   "ans": "E",
+   "exp": "O G4 é formado por Brasil, Alemanha, Índia e Japão.",
+   "trap": 3
+  }
+ ],
+ "resumo": [
+  {
+   "k": "capa",
+   "b": "Brasil–Rússia e Brasil–Japão: tecnologia, imigração e parcerias estratégicas"
+  },
+  {
+   "t": "Rússia: do Império a 1961",
+   "b": "A Rússia reconheceu o Brasil em 1828, e Pedro II visitou São Petersburgo em 1876. Depois de 1917, as relações oscilaram até o reatamento definitivo de 1961.",
+   "l": [
+    "1945: Vargas retoma",
+    "1947: Dutra rompe",
+    "1961: Goulart reata (PEI)"
+   ]
+  },
+  {
+   "t": "Guerra Fria: comércio pragmático",
+   "b": "Mesmo sem alinhamento político, o Brasil manteve comércio com a URSS. A COLESTE (1962) e a missão de Roberto Campos (1965) mostram a separação entre ideologia e negócios.",
+   "l": [
+    "Setúbal em Moscou (1985)",
+    "Shevardnadze no Brasil (1987)",
+    "Sarney em Moscou (1988): único presidente na URSS"
+   ]
+  },
+  {
+   "t": "Pós-URSS: tecnologia",
+   "b": "A visita de Primakov (1997) criou a Comissão de Alto Nível (CAN). Seguiram-se a parceria estratégica (2002) e a aliança tecnológica (2004).",
+   "l": [
+    "Comércio chega a US$ 1 bi em 1997",
+    "Estações do GLONASS no Brasil",
+    "Cooperação espacial e nuclear"
+   ],
+   "n": "O Brasil busca tecnologia; outros buscam energia na Rússia"
+  },
+  {
+   "t": "Rússia hoje",
+   "b": "Fertilizantes russos são vitais para o agro brasileiro, e Moscou apoia o Brasil como membro permanente do CSNU. Na guerra da Ucrânia, o Brasil mantém neutralidade e defende negociação.",
+   "l": [
+    "Parceiros no BRICS",
+    "Sem adesão a sanções unilaterais",
+    "Atritos entre Lula e Zelensky"
+   ]
+  },
+  {
+   "t": "Japão: tratado e imigração",
+   "b": "O Tratado de Amizade, Comércio e Navegação (1895) abriu caminho ao Kasato Maru (1908), com 781 imigrantes para o café paulista.",
+   "l": [
+    "Núcleos em SP e no Paraná",
+    "~2 milhões de nikkeis: maior comunidade fora do Japão",
+    "~200 mil brasileiros no Japão"
+   ]
+  },
+  {
+   "t": "Guerra e reaproximação",
+   "b": "Acordo cultural em 1940, ruptura em 1942 e retomada em 1952, após a ocupação americana. Nos anos 1960–70, o Japão virou um dos maiores investidores no Brasil.",
+   "l": [
+    "Mineração: Carajás e Vale",
+    "Celulose, alimentos e hidrelétricas",
+    "Geisel em Tóquio (1976)"
+   ]
+  },
+  {
+   "t": "Cerrado e dekasseguis",
+   "b": "O PRODECER, com a Embrapa, ajudou a abrir o Cerrado. A crise dos anos 1980 reduziu investimentos e inverteu o fluxo: descendentes foram trabalhar no Japão.",
+   "l": [
+    "Dekasseguis: anos 1980–90",
+    "Investimentos voltam nos anos 1990"
+   ]
+  },
+  {
+   "t": "Japão hoje",
+   "b": "Parceria Estratégica e Global desde 2014. A cooperação técnica inclui a TV digital (padrão ISDB-T), meio ambiente, nanotecnologia, espaço e defesa.",
+   "l": [
+    "G4 pela reforma do CSNU",
+    "Estoque de investimento japonês relevante",
+    "Agenda de desenvolvimento social"
+   ]
+  },
+  {
+   "k": "fim",
+   "t": "Pegadinhas que caem",
+   "l": [
+    "Dutra rompeu (1947); Goulart reatou (1961)",
+    "Ruptura diplomática ≠ fim do comércio",
+    "Tratado com o Japão é de 1895; Kasato Maru é de 1908",
+    "G4 = Brasil, Alemanha, Índia e Japão",
+    "GLONASS é russo; ISDB-T é japonês"
+   ]
+  }
+ ]
+}
