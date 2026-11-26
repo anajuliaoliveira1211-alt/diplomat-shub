@@ -4,7 +4,7 @@
  "assunto": "A Guerra Fria: montagem do sistema (1945)",
  "edital": "3.9",
  "notionUrl": "https://app.notion.com/p/40d77560e5fa801d9d60dc7ffa3e0fe5",
- "updatedAt": "2026-11-09",
+ "updatedAt": "2026-11-26",
  "items": [
   {
    "id": "f1",
@@ -241,6 +241,53 @@
    "ans": "E",
    "exp": "A fronteira com a Alemanha é a Linha Oder-Neisse; Curzon trata da fronteira oriental polonesa com a URSS.",
    "trap": 6
+  },
+  {
+   "id": "c11",
+   "t": "c",
+   "s": "A Carta das Nações Unidas, elaborada em conferência realizada em São Francisco, declarava a luta pelos direitos humanos, o respeito à autodeterminação dos povos e a solidariedade universal como princípios básicos da ONU.",
+   "ans": "C",
+   "exp": "A Carta, assinada em São Francisco em 26/6/1945, traz no preâmbulo e no art. 1º a promoção dos direitos humanos, a autodeterminação dos povos e a cooperação internacional como propósitos da Organização.",
+   "ano": "2018",
+   "prova": "Tarde · Q58 item 3"
+  },
+  {
+   "id": "c12",
+   "t": "c",
+   "s": "A criação de tribunais militares responsáveis pelo julgamento dos crimes de guerra foi uma das decisões da Conferência de Potsdam. Foram então criados dois tribunais internacionais, um sediado em Nuremberg e outro em Tóquio, no qual se destacou entre as acusações dos réus japoneses a escravização sexual de mulheres, as então chamadas mulheres de conforto.",
+   "ans": "C",
+   "exp": "Gabarito definitivo: Certo. Potsdam (jul.–ago./1945) reafirmou o julgamento dos criminosos de guerra; daí saíram o Tribunal de Nuremberg (1945–46) e o Tribunal Militar Internacional para o Extremo Oriente, em Tóquio (1946–48).",
+   "ano": "2018",
+   "prova": "Tarde · Q58 item 4"
+  },
+  {
+   "id": "c13",
+   "t": "c",
+   "s": "A Guerra Fria ficou caracterizada por certa estabilidade, além de padrões previsíveis de confrontos. Os Estados Unidos da América e a União Soviética enfrentavam-se indiretamente por meio de seus satélites e zonas de influência, mas, paradoxalmente, evitavam que conflitos locais fugissem ao controle e alcançassem proporções mundiais.",
+   "ans": "C",
+   "exp": "É a leitura clássica da bipolaridade (a 'longa paz' de Gaddis): as superpotências se enfrentavam por procuração, mas a dissuasão nuclear as levava a conter a escalada dos conflitos periféricos.",
+   "ano": "2018",
+   "prova": "Tarde · Q65 item 1"
+  },
+  {
+   "id": "c14",
+   "t": "c",
+   "s": "A Guerra Fria marcou profundamente a política brasileira durante a experiência liberal, entre 1945 e 1964. A aproximação do Brasil com os Estados Unidos da América resultou na ilegalidade do Partido Comunista, alijado das eleições para a formação da Assembleia Constituinte de 1946.",
+   "ans": "E",
+   "exp": "O PCB era legal em 1945 e disputou as eleições para a Constituinte: elegeu Luís Carlos Prestes senador e uma bancada de deputados. O registro só foi cassado pelo TSE em 1947 (e os mandatos em 1948), já no clima da Guerra Fria sob Dutra.",
+   "trap": 4,
+   "ano": "2018",
+   "prova": "Tarde · Q53 item 3"
+  },
+  {
+   "id": "c15",
+   "t": "c",
+   "s": "Apesar dos esforços da delegada brasileira Bertha Lutz nas reuniões preparatórias, o texto final da Carta das Nações Unidas, assinado em 1945, não menciona a igualdade entre os sexos.",
+   "ans": "E",
+   "exp": "Graças em boa parte a Bertha Lutz e a outras delegadas latino-americanas, o preâmbulo da Carta reafirma a fé 'na igualdade de direitos dos homens e das mulheres', e o art. 8º garante às mulheres acesso aos órgãos da ONU.",
+   "trap": 2,
+   "ano": "2017",
+   "prova": "Manhã · Q20 item 4"
   }
  ],
  "resumo": [

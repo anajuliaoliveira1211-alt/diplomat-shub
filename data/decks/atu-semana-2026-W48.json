@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W48",
  "notionUrl": "",
- "updatedAt": "2026-11-25",
+ "updatedAt": "2026-11-26",
  "items": [
   {
    "id": "c1",
@@ -261,83 +261,180 @@
    "q": "Por que o Sudão recusou a Etiópia como sede do diálogo de paz?",
    "a": "Por falta de neutralidade: Cartum acusa Adis Abeba de apoiar as RSF e de permitir drones a partir de seu território.",
    "exp": "O Sudão pede que a União Africana exclua a Etiópia da mediação."
+  },
+  {
+   "id": "c18",
+   "t": "c",
+   "s": "A Seção 301 da Lei de Comércio dos EUA de 1974 autoriza o governo americano a adotar, de forma unilateral, medidas contra práticas comerciais estrangeiras consideradas injustas, discriminatórias ou prejudiciais ao comércio dos EUA.",
+   "ans": "C",
+   "exp": "É um instrumento unilateral, aplicado pelo USTR depois de uma investigação. Por isso, sua compatibilidade com o sistema multilateral da OMC, que exige a solução de controvérsias pelo OSC, é contestada há décadas.",
+   "ctx": "Petit Journal: tarifas da Seção 301, Embraer e açúcar, impasse em Israel, Brasil–Argentina sem embaixadores e IA em exames na Coreia"
+  },
+  {
+   "id": "f18",
+   "t": "f",
+   "q": "Que mudanças os EUA propuseram em 25/11 para as sobretaxas sobre o Brasil?",
+   "a": "Aeronaves (Embraer) perderiam a isenção e pagariam 10% adicionais; a sobretaxa de 25% sobre certos açúcares viraria tarifa fixa por quilo.",
+   "exp": "O Brasil ficou fora da lista das 14 economias da Seção 301, mas recebeu essa proposta à parte, com audiência pública em 14/1/2027 (segundo o Petit Journal)."
+  },
+  {
+   "id": "c19",
+   "t": "c",
+   "s": "Pela Carta das Nações Unidas, o secretário-geral é nomeado pela Assembleia Geral mediante recomendação do Conselho de Segurança, o que dá aos membros permanentes poder de veto sobre a escolha.",
+   "ans": "C",
+   "exp": "Art. 97 da Carta. A recomendação do Conselho é uma decisão não processual e, portanto, sujeita ao veto dos P5; depois, a Assembleia Geral faz a nomeação. O mandato de cinco anos e a rotação regional vêm da prática, não da Carta.",
+   "ctx": "Ao receber 14 embaixadores, Lula defende uma mulher latino-americana na Secretaria-Geral da ONU, em meio ao impasse no Conselho de Segurança"
+  },
+  {
+   "id": "f19",
+   "t": "f",
+   "q": "Qual é o perfil de secretário-geral da ONU que o Brasil defende para suceder Guterres?",
+   "a": "Uma mulher latino-americana.",
+   "exp": "Nunca houve uma mulher no cargo, e a América Latina só o ocupou com Pérez de Cuéllar (1982–1991). A Celac mandou carta ao Conselho de Segurança; Rebeca Grynspan lidera as sondagens, sem consenso."
+  },
+  {
+   "id": "c20",
+   "t": "c",
+   "s": "Desde 1992, a Assembleia Geral da ONU aprova anualmente resolução que pede o fim do embargo econômico, comercial e financeiro dos EUA a Cuba, a qual obriga juridicamente os Estados-membros.",
+   "ans": "E",
+   "exp": "As resoluções são aprovadas todo ano desde 1992, com ampla maioria e voto favorável do Brasil, mas resoluções da Assembleia Geral sobre esse tema são recomendações, sem força vinculante. Só decisões do Conselho de Segurança com base no Capítulo VII obrigam os Estados.",
+   "ctx": "Diretor-geral da OMS pede que os EUA suspendam o bloqueio de combustível a Cuba e cita 100 mil cirurgias represadas",
+   "trap": 4
+  },
+  {
+   "id": "f20",
+   "t": "f",
+   "q": "Que dados o diretor-geral da OMS citou sobre o impacto do bloqueio de combustível em Cuba?",
+   "a": "Cerca de 100 mil cirurgias represadas, 12 mil delas pediátricas.",
+   "exp": "Tedros pediu em 24/11 que os EUA suspendam o bloqueio; a OMS vai dar US$ 2 milhões para vacinação e equipamentos."
+  },
+  {
+   "id": "c21",
+   "t": "c",
+   "s": "Embora a Malásia não seja parte da Convenção de 1951 sobre o Estatuto dos Refugiados, o princípio de non-refoulement é amplamente reconhecido como norma de direito internacional costumeiro.",
+   "ans": "C",
+   "exp": "O non-refoulement está no art. 33 da Convenção de 1951 e também na Convenção contra a Tortura (art. 3º). O ACNUR e a doutrina majoritária o tratam como costume internacional, que obriga também os Estados que não ratificaram a Convenção.",
+   "ctx": "Malásia anuncia o retorno de 6.800 nacionais de Mianmar em dezembro, dias depois de a CIJ reconhecer genocídio contra os rohingya"
+  },
+  {
+   "id": "f21",
+   "t": "f",
+   "q": "O que diz o princípio de non-refoulement?",
+   "a": "Proíbe devolver uma pessoa a um território onde sua vida ou liberdade corra risco de perseguição.",
+   "exp": "Está no art. 33 da Convenção de 1951 e é visto como costume internacional. Foi invocado contra o plano malaio de devolver 6.800 nacionais de Mianmar depois da sentença da CIJ sobre o genocídio rohingya."
+  },
+  {
+   "id": "c22",
+   "t": "c",
+   "s": "Os houthis (Ansar Allah), movimento de base zaidita do norte do Iêmen, tomaram a capital Sanaa em 2014, e a intervenção militar da coalizão liderada pela Arábia Saudita começou em 2015.",
+   "ans": "C",
+   "exp": "A tomada de Sanaa em setembro de 2014 levou à fuga do presidente Hadi. Em março de 2015, a Arábia Saudita lançou a intervenção ('Tempestade Decisiva') com uma coalizão de países árabes.",
+   "ctx": "Houthis dizem ter atacado Ras Tanura, a maior refinaria saudita, e o distrito financeiro de Riade; Catar e Paquistão condenam"
+  },
+  {
+   "id": "f22",
+   "t": "f",
+   "q": "Que alvos sauditas os houthis disseram ter atingido em 24 e 25/11?",
+   "a": "A refinaria de Ras Tanura (550 mil barris/dia) e a torre do fundo soberano (PIF) no distrito financeiro de Riade.",
+   "exp": "Riade confirmou 11 feridos na torre, mas não danos na refinaria. Catar e Paquistão, mediadores da guerra Irã–EUA, condenaram os ataques."
+  },
+  {
+   "id": "c23",
+   "t": "c",
+   "s": "A Sérvia é candidata oficial à adesão à União Europeia e já abriu negociações de adesão, mas não aderiu às sanções europeias contra a Rússia.",
+   "ans": "C",
+   "exp": "A Sérvia ganhou o status de candidata em 2012 e abriu as negociações em 2014. Mantém laços com Moscou (energia, Kosovo no Conselho de Segurança) e não adotou as sanções da UE desde 2022.",
+   "ctx": "Cúpula UE–Bálcãs Ocidentais trata a adesão como 'investimento geoestratégico'; a Sérvia não vai e fica fora da Declaração de Bruxelas"
+  },
+  {
+   "id": "f23",
+   "t": "f",
+   "q": "Quais países dos Bálcãs Ocidentais vão receber os € 338 milhões extras do Plano de Crescimento?",
+   "a": "Albânia, Montenegro e Macedônia do Norte.",
+   "exp": "Anunciados na cúpula UE–Bálcãs de 25/11 em Bruxelas, à qual a Sérvia não compareceu nem aderiu à Declaração."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "COP31 sem acordo, Brasil×EUA na OMC, Ucrânia, Pacífico, Ormuz e Sudão"
+   "b": "COP31 sem acordo, tarifas dos EUA, Argentina, ONU, Ucrânia, Golfo e direitos humanos"
   },
   {
    "t": "COP31 fracassa em Antália",
-   "b": "A conferência terminou em 22/11 sem decisão final por falta de consenso sobre combustíveis fósseis e financiamento. Não acontecia desde Copenhague (2009).",
+   "b": "A conferência terminou em 22/11 sem decisão final, por falta de consenso sobre combustíveis fósseis e financiamento. Não acontecia desde Copenhague (2009). Lula criticou o resultado.",
    "l": [
-    "Petroestados vetaram menção aos fósseis",
+    "Petroestados vetaram a menção aos fósseis",
     "Roteiros da COP30 de Belém não foram acolhidos",
     "Na UNFCCC, decide-se por consenso"
    ]
   },
   {
-   "t": "Brasil × EUA na OMC (DS646)",
-   "b": "O OSC examinou em 24/11 o primeiro pedido brasileiro de painel contra as sobretaxas americanas. Os EUA podem bloquear só o 1º pedido; o 2º é automático (consenso negativo).",
+   "t": "Brasil × EUA: OMC e novas tarifas",
+   "b": "O OSC examinou em 24/11 o 1º pedido brasileiro de painel (DS646). Em 25/11, os EUA propuseram tarifas da Seção 301 contra 14 economias e, à parte, sobretaxas sobre aviões e açúcar do Brasil.",
    "l": [
-    "Órgão de Apelação parado desde 2019",
-    "EUA fora do MPIA: risco de recurso 'no vazio'",
-    "Nova rodada da Seção 301 deixa o Brasil de fora"
+    "Os EUA só podem bloquear o 1º pedido de painel",
+    "Seção 301: instrumento unilateral, vale em 2027",
+    "Embraer perderia a isenção (+10%)",
+    "Órgão de Apelação parado desde 2019"
    ]
   },
   {
-   "t": "Vizinhança: Venezuela e Bolívia–Chile",
-   "b": "O chanceler venezuelano Oliver Blanco vem a Brasília em 30/11, com agenda econômica. Bolívia e Chile retomaram as consultas políticas, paradas desde 2010.",
+   "t": "Argentina: relação rebaixada",
+   "b": "O Brasil decidiu que o embaixador Julio Bitelli não volta a Buenos Aires, depois de o chanceler Quirno pôr em dúvida a eleição brasileira. Os dois países ficam só com encarregados de negócios.",
    "l": [
-    "Venezuela suspensa do Mercosul desde 2016",
-    "CIJ (2018): Chile não é obrigado a negociar mar",
-    "Brasil × EUA: troca de agrément e vistos"
+    "Bitelli estava chamado para consultas desde julho",
+    "Milei não foi convidado para a posse de 5/1",
+    "Argentina: 3º parceiro comercial do Brasil",
+    "Venezuela: chanceler Blanco em Brasília em 30/11"
    ]
   },
   {
-   "t": "Ucrânia: quem senta à mesa",
-   "b": "O Kremlin não vê 'valor agregado' em europeus nas negociações, que seguem trilaterais (Rússia, Ucrânia e EUA) em Abu Dhabi. Na Alemanha, 53% já são contra enviar armas a Kiev.",
+   "t": "ONU: quem sucede Guterres",
+   "b": "Lula quer uma mulher latino-americana na Secretaria-Geral, e a Celac escreveu ao Conselho de Segurança. As sondagens seguem sem consenso, e o mandato de Guterres acaba em 31/12.",
    "l": [
-    "Europeus pedem formato a quatro",
-    "UE propõe o 22º pacote de sanções",
-    "China e Índia: recorde de petróleo russo"
+    "Art. 97: AGNU nomeia sob recomendação do CSNU",
+    "Veto dos P5 vale na recomendação",
+    "Grynspan lidera; Grossi também concorre",
+    "AL só teve Pérez de Cuéllar (1982–1991)"
    ]
   },
   {
-   "t": "Pacífico: Austrália × China",
-   "b": "As Ilhas Salomão fizeram da Austrália sua parceira primária de segurança, vetaram bases estrangeiras e devem deixar expirar o pacto de 2022 com a China.",
+   "t": "Ucrânia e Europa",
+   "b": "O Kremlin não vê 'valor agregado' em europeus na mesa de Abu Dhabi. A UE propôs o 22º pacote de sanções e reafirmou, na cúpula com os Bálcãs, o alargamento como investimento geoestratégico.",
    "l": [
-    "AU$ 740 mi em 10 anos",
-    "Consulta prévia para acordos fora do Fórum do Pacífico",
-    "Pequim: cooperação 'não deve mirar terceiros'"
+    "Negociação trilateral: Rússia, Ucrânia e EUA",
+    "Sérvia faltou e ficou fora da Declaração de Bruxelas",
+    "€ 338 mi para Albânia, Montenegro e Macedônia do N.",
+    "53% dos alemães contra enviar armas a Kiev"
    ]
   },
   {
-   "t": "Ormuz e energia",
-   "b": "O Irã diz que dois petroleiros bateram em minas em Ormuz, e a UKMTO relatou três navios atingidos. Ainda assim, o Brent caiu para US$ 89,8 com a volta das exportações do Golfo.",
+   "t": "Golfo em chamas",
+   "b": "O Irã diz que dois petroleiros bateram em minas em Ormuz, e os houthis afirmam ter atingido a refinaria saudita de Ras Tanura e a torre do PIF em Riade. Catar e Paquistão mediam a guerra Irã–EUA.",
    "l": [
     "CNUDM: passagem em trânsito em estreitos",
-    "Gás europeu: estoques abaixo da média",
-    "Minerais críticos: China prorroga trégua com os EUA"
+    "Ras Tanura: 550 mil barris/dia",
+    "Riade confirmou 11 feridos na torre do PIF",
+    "Efeito em combustíveis e fertilizantes no Brasil"
    ]
   },
   {
-   "t": "Sudão e Colômbia",
-   "b": "Cartum recusou a mediação da Etiópia por falta de neutralidade. Na Colômbia, os 10 anos do acordo com as FARC foram marcados por um carro-bomba em Villavicencio.",
+   "t": "Direitos humanos: Cuba e rohingya",
+   "b": "A OMS pediu que os EUA suspendam o bloqueio de combustível a Cuba (100 mil cirurgias represadas). A Malásia vai devolver 6.800 nacionais de Mianmar, dias depois da sentença da CIJ sobre o genocídio rohingya.",
    "l": [
+    "Resoluções da AGNU contra o embargo não vinculam",
+    "Non-refoulement: art. 33 da Convenção de 1951",
+    "Malásia não é parte da Convenção de 1951",
+    "ACNUR: não há condições de retorno seguro"
+   ]
+  },
+  {
+   "t": "Pacífico, Sudão e tecnologia",
+   "b": "As Ilhas Salomão fizeram da Austrália sua parceira primária de segurança. O Sudão recusou a mediação etíope. Os EUA ampliaram controles sobre chips de IA, e o índice Lowy mostra EUA e China mais próximos que nunca.",
+   "l": [
+    "Salomão: pacto de 2022 com a China deve expirar",
     "Sudão: Exército × RSF desde 2023",
-    "Acordo de 2016 veio após o 'não' no plebiscito",
-    "Dissidências das FARC e narcotráfico"
-   ]
-  },
-  {
-   "t": "Tecnologia e poder",
-   "b": "Os EUA ampliaram controles sobre chips de IA, e a imprensa alemã relata plano russo de pôr uma arma nuclear em órbita. O índice Lowy mostra a menor diferença já medida entre EUA e China.",
-   "l": [
-    "Tratado do Espaço Exterior (1967), art. IV",
-    "EUA 78,9 × China 73,6 no índice Lowy",
-    "Licenças para chips a intermediários asiáticos"
+    "Tratado do Espaço Exterior (1967), art. IV"
    ]
   },
   {
@@ -346,9 +443,9 @@
    "l": [
     "COP decide por consenso, não por maioria",
     "Na OMC, o painel só pode ser bloqueado no 1º pedido",
-    "Tratado com as Salomão não proíbe toda cooperação com a China",
-    "Passagem em trânsito (estreitos) ≠ passagem inocente (mar territorial)",
-    "O acordo com as FARC foi assinado após o 'não' no plebiscito, sem nova consulta"
+    "SG da ONU: nomeado pela AGNU, com veto dos P5 na recomendação",
+    "Resolução da AGNU sobre o embargo a Cuba é recomendação, não obriga",
+    "Non-refoulement obriga até quem não ratificou a Convenção de 1951"
    ]
   }
  ]

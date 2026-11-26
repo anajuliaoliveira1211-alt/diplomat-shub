@@ -1,0 +1,147 @@
+{
+ "kind": "news",
+ "date": "2026-11-26",
+ "cards": [
+  {
+   "id": "2026-11-26-pj76605920",
+   "pj_guid": "76605920",
+   "podcast": "Petit Journal · BP 1186 · 32 min",
+   "materia": "Política Internacional",
+   "edital": "13.8; 6; 4",
+   "titulo": "Petit Journal: tarifas da Seção 301, Embraer e açúcar, impasse em Israel, Brasil–Argentina sem embaixadores e IA em exames na Coreia",
+   "resumo": "Episódio de 25/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Nova rodada de tarifas da Seção 301",
+     "b": "Em 25/11, o governo Trump propôs tarifas de 15% a 35% contra 14 economias, entre elas China, União Europeia, Japão, Índia, Coreia do Sul, Suíça e Taiwan, acusadas de excesso de capacidade industrial e subsídios. As medidas ainda passam por consulta pública e só valeriam em 2027; México e Noruega foram investigados, mas ficaram sem tarifas nesta etapa."
+    },
+    {
+     "t": "Brasil: aviões da Embraer e açúcar",
+     "b": "O Brasil ficou fora da lista, mas recebeu no mesmo dia uma proposta à parte: aeronaves brasileiras perderiam a isenção e pagariam 10% adicionais, e a sobretaxa de 25% sobre certos açúcares viraria uma tarifa fixa por quilo, com audiência pública em 14/1/2027. Para os apresentadores, a Embraer é o ponto mais sensível, e a instabilidade das regras dificulta o planejamento dos exportadores."
+    },
+    {
+     "t": "Israel: governo que não se forma",
+     "b": "Depois das eleições, Netanyahu segue como premiê interino e sem maioria, e a oposição também não chega às 61 cadeiras. O opositor Gadi Eisenkot tem até 6/12 para montar uma coalizão, mas resiste a incluir os partidos árabes; se falhar, a vez volta a Netanyahu, que soma cerca de 53 cadeiras com os aliados."
+    },
+    {
+     "t": "Comissão sobre o 7 de outubro",
+     "b": "Uma aliança tácita entre oposição e partidos árabes aprovou em primeira etapa no Knesset uma comissão independente sobre as falhas do governo antes do ataque do Hamas de 7/10/2023. Também avançam propostas de limite de mandatos para premiê e de uma espécie de 'ficha limpa', ambas constrangedoras para Netanyahu."
+    },
+    {
+     "t": "Brasil e Argentina sem embaixadores",
+     "b": "Depois de o chanceler Pablo Quirno pôr em dúvida a eleição brasileira, o Brasil decidiu que Julio Bitelli, chamado para consultas desde julho, não volta a Buenos Aires. Os apresentadores lembram a reconstrução da relação desde os anos 1980, com o Mercosul e a cooperação nuclear, e o peso do comércio de manufaturados entre os dois países."
+    },
+    {
+     "t": "Trump e o 'Trump Care'",
+     "b": "Trump disse que quer se reunir com o senador eleito democrata Abdul El-Sayed, de Michigan, defensor do sistema universal de saúde 'Medicare for All', que sugeriu rebatizar a proposta de 'Trump Care'. Os apresentadores veem aí mais um exemplo de que elogiar Trump funciona como estratégia de negociação."
+    },
+    {
+     "t": "Coreia do Sul: IA e fraude em exames",
+     "b": "A descoberta de que o primeiro colocado num exame nacional usou microcâmera e IA generativa levou a medidas extremas no vestibular nacional de 19/11, como adesivos sobre botões, alertas nos celulares e bloqueadores de sinal. A confusão levou o ministro da Educação a renunciar em 22/11, e o presidente Lee Jae-myung aceitou."
+    }
+   ],
+   "porque": "O episódio liga comércio internacional e relações Brasil–EUA (Seção 301, Embraer, açúcar) à crise com a Argentina, item 4 do edital e o pior momento bilateral em décadas, além do Oriente Médio pela política interna israelense depois da guerra em Gaza. O Brasil é diretamente afetado pelas novas tarifas e pelo rebaixamento da relação com Buenos Aires.",
+   "ce": {
+    "s": "A Seção 301 da Lei de Comércio dos EUA de 1974 autoriza o governo americano a adotar, de forma unilateral, medidas contra práticas comerciais estrangeiras consideradas injustas, discriminatórias ou prejudiciais ao comércio dos EUA.",
+    "ans": "C",
+    "exp": "É um instrumento unilateral, aplicado pelo USTR depois de uma investigação. Por isso, sua compatibilidade com o sistema multilateral da OMC, que exige a solução de controvérsias pelo OSC, é contestada há décadas."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/tarifaco-de-novo-bp-1186--76605920",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-26-1",
+   "materia": "Política Internacional",
+   "edital": "13.1; 13.14; 2",
+   "titulo": "Ao receber 14 embaixadores, Lula defende uma mulher latino-americana na Secretaria-Geral da ONU, em meio ao impasse no Conselho de Segurança",
+   "resumo": "Em 24/11, no Planalto, Lula recebeu as credenciais de 14 embaixadores, entre eles os da França, Espanha, Canadá, Chile e União Europeia. Disse que um mundo dividido não interessa ao Brasil e que a escolha do sucessor de António Guterres, cujo mandato termina em 31/12, será crucial para o multilateralismo; o Brasil quer uma mulher latino-americana no cargo, e os líderes da Celac já mandaram carta ao Conselho de Segurança nesse sentido. Nas sondagens informais do Conselho, ninguém tem consenso: a costa-riquenha Rebeca Grynspan lidera, mas com votos contrários, e o argentino Rafael Grossi também concorre.",
+   "porque": "Pela Carta (art. 97), quem nomeia o secretário-geral é a Assembleia Geral, mas por recomendação do Conselho de Segurança, onde os cinco membros permanentes têm veto. Por isso a disputa reflete a correlação de forças entre as potências. Nunca houve uma mulher no cargo, e a América Latina só o ocupou uma vez, com Javier Pérez de Cuéllar (1982–1991). A posição brasileira junta a defesa do multilateralismo e da reforma da ONU à coordenação regional via Celac, temas centrais da PEB.",
+   "fonte": "Agência Brasil (Radioagência Nacional)",
+   "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/lula-recebe-novos-embaixadores-e-pede-mulher-latino-americana-na-onu",
+   "img": "https://imagens.ebc.com.br/MQGU1OvnCHCLQF0Fl0IvjrQ0s_o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/24/55670445557_9f2c1a9d6a_o.jpg?itok=xXWaJw5u",
+   "imgCredit": "Foto: Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "Pela Carta das Nações Unidas, o secretário-geral é nomeado pela Assembleia Geral mediante recomendação do Conselho de Segurança, o que dá aos membros permanentes poder de veto sobre a escolha.",
+    "ans": "C",
+    "exp": "Art. 97 da Carta. A recomendação do Conselho é uma decisão não processual e, portanto, sujeita ao veto dos P5; depois, a Assembleia Geral faz a nomeação. O mandato de cinco anos e a rotação regional vêm da prática, não da Carta."
+   }
+  },
+  {
+   "id": "2026-11-26-2",
+   "materia": "Política Internacional",
+   "edital": "13.6; 14; 13.1",
+   "titulo": "Diretor-geral da OMS pede que os EUA suspendam o bloqueio de combustível a Cuba e cita 100 mil cirurgias represadas",
+   "resumo": "Em 24/11, depois de três dias em Havana, Tedros Adhanom Ghebreyesus disse que o endurecimento das restrições a combustíveis e das sanções americanas causa dano direto aos cubanos, sobretudo aos mais vulneráveis, e põe em risco a vida de crianças. Segundo ele, cerca de 100 mil cirurgias estão represadas no país, 12 mil delas pediátricas. A OMS vai destinar US$ 2 milhões à vacinação e a equipamentos médicos. Washington, que desde janeiro impede na prática a chegada de petróleo à ilha, diz buscar mudança política e lembra que alimentos e remédios têm isenção.",
+   "porque": "O caso opõe sanções unilaterais de uma grande potência ao direito à saúde e à atuação de um organismo especializado da ONU. Mostra também como apagões e falta de combustível afetam serviços básicos. O tema dialoga com a posição histórica do Brasil, que vota todo ano na Assembleia Geral pelo fim do embargo a Cuba e critica sanções sem aval do Conselho de Segurança. Cuba também é assunto recorrente nas relações hemisféricas.",
+   "fonte": "Reuters (via Free Malaysia Today)",
+   "url": "https://www.freemalaysiatoday.com/category/world/2026/11/25/who-chief-calls-on-us-to-lift-oil-blockade-on-cuba-citing-health-impact",
+   "img": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/10/94faeeba-who-tedros-adhanom-ghebreyesus-070824.webp",
+   "imgCredit": "Foto: Free Malaysia Today",
+   "curso": false,
+   "ce": {
+    "s": "Desde 1992, a Assembleia Geral da ONU aprova anualmente resolução que pede o fim do embargo econômico, comercial e financeiro dos EUA a Cuba, a qual obriga juridicamente os Estados-membros.",
+    "ans": "E",
+    "exp": "As resoluções são aprovadas todo ano desde 1992, com ampla maioria e voto favorável do Brasil, mas resoluções da Assembleia Geral sobre esse tema são recomendações, sem força vinculante. Só decisões do Conselho de Segurança com base no Capítulo VII obrigam os Estados.",
+    "trap": 4
+   }
+  },
+  {
+   "id": "2026-11-26-3",
+   "materia": "Política Internacional",
+   "edital": "13.6; 13.11",
+   "titulo": "Malásia anuncia o retorno de 6.800 nacionais de Mianmar em dezembro, dias depois de a CIJ reconhecer genocídio contra os rohingya",
+   "resumo": "O premiê Anwar Ibrahim disse ao Parlamento que 1.500 pessoas voltarão a Mianmar em três navios da Marinha em 6 e 7/12, e outras 5.303 de avião ainda em dezembro, às custas do governo de Mianmar. A Al Jazeera relata que há rohingya entre elas; o governo malaio diz que são detidos de imigração e indocumentados e que os retornos seguem o pedido da Corte por retornos seguros e dignos. Anwar também defendeu o convite a Min Aung Hlaing, feito antes da sentença de 19/11. O ACNUR diz que as condições atuais não permitem retornos seguros, e a Human Rights Watch fala em risco de violação do non-refoulement.",
+   "porque": "O caso mostra o limite prático de uma sentença da CIJ e a tensão entre o controle migratório e o princípio de non-refoulement (proibição de devolver alguém a um lugar onde corra risco de perseguição), num país que não é parte da Convenção de 1951. Liga direitos humanos, genocídio e jurisdição internacional, temas recorrentes do edital. O Brasil é parte da Convenção, tem lei de refúgio própria (Lei 9.474/1997) e costuma defender esse princípio na ONU.",
+   "fonte": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05316ceb28-1795502444.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera",
+   "curso": false,
+   "ce": {
+    "s": "Embora a Malásia não seja parte da Convenção de 1951 sobre o Estatuto dos Refugiados, o princípio de non-refoulement é amplamente reconhecido como norma de direito internacional costumeiro.",
+    "ans": "C",
+    "exp": "O non-refoulement está no art. 33 da Convenção de 1951 e também na Convenção contra a Tortura (art. 3º). O ACNUR e a doutrina majoritária o tratam como costume internacional, que obriga também os Estados que não ratificaram a Convenção."
+   }
+  },
+  {
+   "id": "2026-11-26-4",
+   "materia": "Política Internacional",
+   "edital": "13.12; 3",
+   "titulo": "Houthis dizem ter atacado Ras Tanura, a maior refinaria saudita, e o distrito financeiro de Riade; Catar e Paquistão condenam",
+   "resumo": "Em 25/11, o porta-voz dos houthis, Yahya Saree, disse que drones atingiram a refinaria de Ras Tanura, com capacidade de 550 mil barris por dia, na Província Oriental, e causaram incêndios. A coalizão liderada pelos sauditas diz ter interceptado quatro drones e não confirmou danos, mas imagens de satélite mostraram fumaça sobre o local. Na véspera, um ataque à torre que abriga o fundo soberano saudita (PIF), em Riade, feriu 11 pessoas, o segundo contra o prédio em menos de uma semana. Catar e Paquistão, mediadores da guerra regional entre Irã e EUA, condenaram a ação.",
+   "porque": "Os ataques mostram a guerra entre Irã e EUA se estendendo, por meio de aliados como os houthis, à infraestrutura de energia do Golfo, com efeitos no preço do petróleo e na segurança de abastecimento. Ajudam a estudar guerras por procuração, atores não estatais e a geopolítica do petróleo. O Brasil sente o efeito no preço de combustíveis e fertilizantes, tema que o próprio Lula citou em 24/11.",
+   "fonte": "CBC News (com Reuters)",
+   "url": "https://www.cbc.ca/news/world/yemen-houthi-saudi-arabia-strikes-9.7435269",
+   "img": "https://i.cbc.ca/ais/33070303-9277-4785-b16e-0ec39c0ccc05,1795613004500/full/max/0/default.jpg?im=Crop%2Crect%3D%28118%2C0%2C11241%2C6323%29%3BResize%3D620",
+   "imgCredit": "Foto: CBC News",
+   "curso": false,
+   "ce": {
+    "s": "Os houthis (Ansar Allah), movimento de base zaidita do norte do Iêmen, tomaram a capital Sanaa em 2014, e a intervenção militar da coalizão liderada pela Arábia Saudita começou em 2015.",
+    "ans": "C",
+    "exp": "A tomada de Sanaa em setembro de 2014 levou à fuga do presidente Hadi. Em março de 2015, a Arábia Saudita lançou a intervenção ('Tempestade Decisiva') com uma coalizão de países árabes."
+   }
+  },
+  {
+   "id": "2026-11-26-5",
+   "materia": "Política Internacional",
+   "edital": "3; 13.1",
+   "titulo": "Cúpula UE–Bálcãs Ocidentais trata a adesão como 'investimento geoestratégico'; a Sérvia não vai e fica fora da Declaração de Bruxelas",
+   "resumo": "Em 25/11, em Bruxelas, os 27 adotaram a Declaração de Bruxelas, que reafirma o 'compromisso pleno e inequívoco' com a adesão dos Bálcãs Ocidentais, renova o apoio à Ucrânia e pede avanços na normalização entre Belgrado e Pristina. Os parceiros presentes se alinharam ao texto; a Sérvia, em transição institucional, não mandou representante e não aderiu. A UE cobra de Belgrado o alinhamento à política externa comum, sobretudo às sanções contra a Rússia. Von der Leyen anunciou € 338 milhões a mais do Plano de Crescimento para os países que mais avançam nas reformas: Albânia, Montenegro e Macedônia do Norte.",
+   "porque": "A cúpula mostra que, desde a invasão da Ucrânia, a UE trata o alargamento como instrumento geopolítico para disputar influência com a Rússia. Também mostra a condicionalidade: alinhamento à PESC, Estado de direito e a questão do Kosovo. É bom material para comparar modelos de integração regional (UE × Mercosul) e para estudar a relação Rússia–Europa.",
+   "fonte": "EU Alive",
+   "url": "https://eualive.net/eu-western-balkans-summit-reaffirms-enlargement-momentum-as-serbia-stays-away/",
+   "img": "https://eualive.net/wp-content/uploads/2026/11/6c329440-95c3-4e1e-9a3d-900fb020e387-1-scaled.jpeg",
+   "imgCredit": "Foto: EU Alive",
+   "curso": false,
+   "ce": {
+    "s": "A Sérvia é candidata oficial à adesão à União Europeia e já abriu negociações de adesão, mas não aderiu às sanções europeias contra a Rússia.",
+    "ans": "C",
+    "exp": "A Sérvia ganhou o status de candidata em 2012 e abriu as negociações em 2014. Mantém laços com Moscou (energia, Kosovo no Conselho de Segurança) e não adotou as sanções da UE desde 2022."
+   }
+  }
+ ]
+}
