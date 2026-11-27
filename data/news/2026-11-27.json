@@ -1,0 +1,149 @@
+{
+ "kind": "news",
+ "date": "2026-11-27",
+ "cards": [
+  {
+   "id": "2026-11-27-pj76632924",
+   "pj_guid": "76632924",
+   "podcast": "Petit Journal · BP 1187 · 33 min",
+   "materia": "Política Internacional",
+   "edital": "13.1; 3; 13.8",
+   "titulo": "Petit Journal: eleição na Espanha, reações às tarifas dos EUA, Polônia e drones russos, FMI na África e impasse em Israel",
+   "resumo": "Episódio de 26/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Espanha vota com a direita perto do poder",
+     "b": "Pedro Sánchez antecipou para domingo, 29/11, as eleições gerais que só precisariam ocorrer no ano que vem, e quase todas as pesquisas apontam vitória do PP de Alberto Núñez Feijóo. Para ter maioria no Congresso dos Deputados, o PP pode precisar de uma coalizão inédita com o Vox, de Santiago Abascal, partido de extrema direita conhecido pelo revisionismo sobre o franquismo."
+    },
+    {
+     "t": "O 'cordão sanitário' europeu em xeque",
+     "b": "Os apresentadores lembraram que a CDU alemã se recusa a se aliar à AfD (o Brandmauer, 'muro corta-fogo') e que CDU e PP pertencem ao mesmo Partido Popular Europeu. Se o PP fechar com o Vox, a extrema direita chegaria ao governo nacional espanhol pela primeira vez desde o fim do franquismo; Feijóo promete acordos 'claros, públicos e proporcionais' sem abrir mão da identidade do partido."
+    },
+    {
+     "t": "China e UE reagem às novas tarifas",
+     "b": "A China rejeitou a acusação de práticas industriais desleais que justifica as novas tarifas americanas e disse que se reserva o direito de retaliar, embora a trégua comercial siga de pé (Pequim prorrogou a suspensão dos controles sobre terras raras). A Comissão Europeia espera que as tarifas respeitem o teto de 15% do acordo tarifário UE–EUA e rejeita ser fonte de excesso de capacidade."
+    },
+    {
+     "t": "A lógica de Trump e seus limites",
+     "b": "Para os apresentadores, subir a aposta para depois negociar é o método de Trump, mas a China bateu recorde de superávit (acima de US$ 1 trilhão em 2025) apesar da guerra tarifária. Com baixa popularidade e sem maioria no Congresso após as eleições de meio de mandato, Trump teria pouco tempo e pouca credibilidade para acordos longos; Xi pode ir a Miami para o G20 de dezembro."
+    },
+    {
+     "t": "Polônia quer abater drones russos",
+     "b": "A Polônia anunciou uma zona de exclusão aérea ao longo de quase mil quilômetros de fronteira com a Ucrânia e Belarus, depois de acusar a Rússia de violar seu espaço aéreo com drones e mísseis. Varsóvia também pediu aos aliados da OTAN que autorizem derrubar drones e mísseis russos ainda sobre a Ucrânia, o que Moscou poderia tratar como entrada direta da aliança na guerra."
+    },
+    {
+     "t": "Senegal e Guiné às voltas com o FMI",
+     "b": "No Senegal, a Assembleia Nacional aprovou resolução contra o presidente Bassirou Diomaye Faye, que pôs em vigor por decreto um orçamento com cortes ligado a um programa de US$ 2,2 bilhões negociado com o FMI. Na Guiné, o FMI aprovou um programa de cerca de US$ 425 milhões para reformar as finanças públicas, enquanto o país aposta na mina de ferro de Simandou."
+    },
+    {
+     "t": "Israel: oposição tenta formar governo",
+     "b": "Nem a coalizão de Netanyahu nem a oposição têm maioria no Knesset. Os dois principais partidos árabes, com 19 cadeiras, aceitaram classificar formalmente o Hamas como organização terrorista, condição posta por líderes da oposição para negociar, e dizem apoiar um governo sem pedir ministérios. O prazo para formar a coalizão vai até 6/12."
+    }
+   ],
+   "porque": "O episódio junta temas recorrentes do CACD: a ascensão da extrema direita e os 'cordões sanitários' na Europa (com eco da história do franquismo), o unilateralismo comercial dos EUA e as respostas de China e UE, a segurança europeia diante da guerra na Ucrânia e os limites do envolvimento da OTAN, e a condicionalidade do FMI em países africanos. O Brasil é afetado pela mesma rodada de tarifas e pela reconfiguração política europeia, decisiva para o acordo Mercosul–UE.",
+   "ce": {
+    "s": "O Partido Popular espanhol e a CDU alemã integram, no plano europeu, o Partido Popular Europeu.",
+    "ans": "C",
+    "exp": "Ambos são membros do PPE, a família de centro-direita que tem a maior bancada do Parlamento Europeu. Por isso uma coalizão PP–Vox desafiaria a prática do 'cordão sanitário', que na Alemanha se chama Brandmauer."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/franquismo-de-volta-na-espanha-bp-1187--76632924",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-27-1",
+   "materia": "Política Internacional",
+   "edital": "2; 13.8",
+   "titulo": "Macron chama de 'dopada' a carne do Mercosul, e Agricultura e Itamaraty respondem que a fala 'dissemina desinformação'",
+   "resumo": "Em discurso a agricultores franceses em 25/11, Emmanuel Macron disse que os produtos de origem animal do Mercosul são 'dopados', referindo-se ao uso de antimicrobianos, e celebrou a restrição europeia que, desde setembro, suspende as exportações brasileiras de carne e outros produtos animais para a UE. Em nota conjunta de 26/11, os ministérios da Agricultura e das Relações Exteriores afirmaram que a fala contraria as evidências técnicas e científicas, chamaram de protecionista e política a posição europeia, encampada pela França, e disseram que o governo se reserva o direito de recorrer 'aos instrumentos de que dispõe'. ABPA e Abiec lembraram que um relatório da Comissão Europeia de setembro considerou os controles oficiais brasileiros capazes de dar as garantias exigidas pelo bloco.",
+   "porque": "Mesmo com o acordo Mercosul–UE em vigor provisório desde 1º de maio, regras sanitárias podem anular parte dos ganhos tarifários. Na OMC essas regras são medidas SPS, que pelo Acordo SPS precisam ter base científica. A França lidera a resistência agrícola europeia ao acordo, e o Brasil responde em três frentes: argumento técnico, apelo à parceria estratégica com Paris e aviso de que pode recorrer a instrumentos jurídicos. O tema envolve PEB, comércio internacional e a relação entre os dois blocos, com efeito direto sobre o agronegócio brasileiro.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-e-produtores-repudiam-critica-de-macron-carne-brasileira",
+   "img": "https://imagens.ebc.com.br/UR-YGgAC6kCBS83GULfcQERLz-A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/21/2026-10-21t100728z_1180730329_rc2l7oajms37_rtrmadp_3_gulf-france-qatar.jpg?itok=KSP6I4Kr",
+   "imgCredit": "Foto: Agência Brasil",
+   "curso": false,
+   "ce": {
+    "s": "O Acordo da OMC sobre Medidas Sanitárias e Fitossanitárias (SPS) permite que um membro restrinja importações por motivos sanitários sem justificativa científica, desde que aplique a medida igualmente a todos os parceiros.",
+    "ans": "E",
+    "exp": "O Acordo SPS exige que as medidas se baseiem em princípios científicos e em avaliação de risco (arts. 2 e 5). Medidas mais rigorosas que os padrões internacionais (Codex, OMSA, CIPV) precisam de justificativa científica. Por isso o Brasil insiste nas 'evidências técnicas'."
+   }
+  },
+  {
+   "id": "2026-11-27-2",
+   "materia": "Política Internacional",
+   "edital": "13.9; 2",
+   "titulo": "Governo De La Espriella desiste da entrada da Colômbia no Novo Banco de Desenvolvimento e no BRICS",
+   "resumo": "Em comunicado de 25/11, a chancelaria colombiana informou que o governo de Abelardo De La Espriella não dará continuidade à adesão do país ao BRICS nem ao Novo Banco de Desenvolvimento (NDB), presidido por Dilma Rousseff. O pedido fora entregue por Gustavo Petro a Dilma em Xangai, em maio de 2025, para obter crédito barato para infraestrutura, energia renovável e saúde, e a ratificação dependia de uma lei que o Congresso colombiano não aprovou. Bogotá diz que buscará recursos em outros organismos multilaterais e que segue comprometida com o multilateralismo.",
+   "porque": "O NDB foi criado pelo Acordo de Fortaleza (2014), assinado na cúpula do BRICS sediada pelo Brasil, e admite sócios de fora do bloco, como Bangladesh, Emirados, Egito e Argélia. A decisão do novo governo de direita, mais próximo de Washington (os EUA compram quase 30% das exportações colombianas), freia a expansão do banco na América do Sul, que o Brasil estimulava, e mostra como a alternância de poder muda a inserção internacional de um país. Junta Política Internacional (BRICS e sistema financeiro internacional) e Economia.",
+   "fonte": "El Tiempo (com EFE)",
+   "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-frena-ingreso-de-colombia-al-grupo-de-los-brics-y-adhesion-al-nuevo-banco-de-desarrollo-cancilleria-se-pronuncio-3604350",
+   "img": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/10/23/6718f23120acd.jpeg",
+   "imgCredit": "Foto: El Tiempo",
+   "curso": false,
+   "ce": {
+    "s": "O Novo Banco de Desenvolvimento, criado pelo Acordo de Fortaleza em 2014 e sediado em Xangai, só admite como membros os países integrantes do BRICS.",
+    "ans": "E",
+    "exp": "O NDB está aberto a outros membros da ONU: Bangladesh, Emirados Árabes Unidos e Egito aderiram em 2021, e a Argélia em 2025. Por isso a Colômbia podia pedir para entrar no banco sem ser membro pleno do bloco.",
+    "trap": 1
+   }
+  },
+  {
+   "id": "2026-11-27-3",
+   "materia": "Política Internacional",
+   "edital": "13.10",
+   "titulo": "Na conferência da OPAQ, 34 países e a UE exigem que a Rússia pare de usar agentes químicos e gás lacrimogêneo na guerra da Ucrânia",
+   "resumo": "Em declaração conjunta de 25/11, os diretores de não proliferação de 34 Estados-partes da Organização para a Proibição das Armas Químicas (OPAQ), entre eles Reino Unido, Canadá, Japão, Suécia e Ucrânia, e a União Europeia pediram 'a cessação imediata' do uso de substâncias tóxicas e de agentes de controle de distúrbios como método de guerra na Ucrânia. O texto responde a um relatório ucraniano de 17/11 que registra 14 mil casos desde 2022 e foi distribuído à Conferência dos Estados-Partes, reunida em Haia de 23 a 27/11. Os signatários querem que os responsáveis sejam identificados pelos mecanismos da OPAQ; a Rússia contesta a autenticidade das provas e acusa Kiev do mesmo.",
+   "porque": "A Convenção sobre Armas Químicas (1993, em vigor desde 1997) proíbe desenvolver, estocar e usar armas químicas. Ela também veda o uso de agentes de controle de distúrbios, como o gás CS, 'como método de guerra', embora o permita na manutenção da ordem interna. A OPAQ, Nobel da Paz de 2013, verifica o cumprimento, e a crise testa sua capacidade de atribuir responsabilidade a uma grande potência. O Brasil é parte da Convenção e tem tradição de defesa do desarmamento, tema do item 13.10 do edital.",
+   "fonte": "The Kyiv Independent",
+   "url": "https://kyivindependent.com/over-30-countries-demand-russia-stop-using-chemical-agents-as-weapons-of-war-in-ukraine/",
+   "img": "https://assets.kyivindependent.com/content/images/2025/02/GettyImages-2152456898.jpg",
+   "imgCredit": "Foto: The Kyiv Independent",
+   "curso": false,
+   "ce": {
+    "s": "A Convenção sobre Armas Químicas proíbe o uso de agentes de controle de distúrbios, como o gás lacrimogêneo, em qualquer circunstância, inclusive em operações policiais internas.",
+    "ans": "E",
+    "exp": "O art. I.5 veda o uso desses agentes 'como método de guerra'; o art. II.9 admite seu uso para fins de aplicação da lei, inclusive no controle de distúrbios internos.",
+    "trap": 1
+   }
+  },
+  {
+   "id": "2026-11-27-4",
+   "materia": "Política Internacional",
+   "edital": "3; 13.9",
+   "titulo": "Cúpula extraordinária da UE discute o orçamento 2028–2034 e mais € 45 bilhões para a Ucrânia, mas decisão deve ficar para dezembro",
+   "resumo": "Líderes da UE se reúnem em Bruxelas em 26 e 27/11, a convite do presidente do Conselho Europeu, António Costa, para discutir o Quadro Financeiro Plurianual 2028–2034 e o financiamento da Ucrânia a partir de 2027. Costa propôs cortar cerca de € 204 bilhões (≈10%) do orçamento sugerido pela Comissão, mantendo até € 100 bilhões para Kiev, e a Comissão quer ainda um empréstimo extra de € 45 bilhões em 2027, além dos € 45 bilhões já previstos no programa de € 90 bilhões. Com resistências como a do premiê tcheco Andrej Babiš, que não quer a Ucrânia financiada pelo orçamento comum, a imprensa europeia prevê que a decisão fique para o Conselho Europeu de 17 e 18/12.",
+   "porque": "O Quadro Financeiro Plurianual fixa os tetos de gasto da UE por sete anos. Ele exige unanimidade no Conselho e aprovação do Parlamento Europeu, o que dá poder de veto a governos céticos em relação a Kiev. A disputa mostra quanto custa à Europa sustentar a Ucrânia enquanto os EUA negociam diretamente com Moscou, e pressiona gastos tradicionais como a Política Agrícola Comum, sensível também para o Brasil por causa do acordo Mercosul–UE. O tema cruza integração europeia, segurança e economia.",
+   "fonte": "European Pravda",
+   "url": "https://www.eurointegration.com.ua/eng/news/2026/11/26/7250873/",
+   "img": "https://img.eurointegration.com.ua/images/doc/4/e/4e0bc51-------1.jpg",
+   "imgCredit": "Foto: European Pravda",
+   "curso": false,
+   "ce": {
+    "s": "O Quadro Financeiro Plurianual da União Europeia é aprovado pelo Conselho por maioria qualificada, sem necessidade de aprovação do Parlamento Europeu.",
+    "ans": "E",
+    "exp": "Pelo art. 312 do TFUE, o regulamento do QFP é adotado pelo Conselho por unanimidade, depois da aprovação do Parlamento Europeu. Por isso um só governo pode travar o acordo.",
+    "trap": 4
+   }
+  },
+  {
+   "id": "2026-11-27-5",
+   "materia": "Política Internacional",
+   "edital": "13.8; 2",
+   "titulo": "Seis meses após a vigência provisória do acordo Mercosul–UE, Brasil corre para harmonizar normas técnicas e evitar barreiras não tarifárias",
+   "resumo": "Reportagem de 26/11 mostra que o acordo Mercosul–União Europeia, em vigor provisório desde 1º de maio, já reduziu tarifas, mas ainda não tem normas técnicas comuns para os produtos e serviços que circulam entre os blocos. Sem elas, abre-se espaço a barreiras não tarifárias, que pesam sobretudo sobre pequenos e médios exportadores. A ABNT, que representa o Mercosul junto às entidades europeias, e o Comitê Europeu de Normalização (CEN) iniciaram um protocolo para fechar um acordo sobre o tema o quanto antes; para o presidente da ABNT, Mário William Esper, normas claras dão ao exportador uma certificação válida dos dois lados.",
+   "porque": "Com as tarifas em queda, a disputa comercial migra para regulamentos técnicos e medidas sanitárias, campo regido na OMC pelos Acordos TBT e SPS. Na mesma semana, a fala de Macron sobre a carne 'dopada' mostrou o risco de os padrões europeus funcionarem como proteção, fazendo o acordo render menos do que o previsto. Para o Brasil, é um teste de capacidade técnica e de coordenação dentro do Mercosul, ligado a comércio internacional e integração regional.",
+   "fonte": "Público Brasil",
+   "url": "https://www.publico.pt/2026/11/26/publico-brasil/noticia/brasil-corre-definir-normas-acordo-ue-mercosul-conter-barreiras-2196327",
+   "img": "https://imagens.publico.pt/imagens.aspx/2133746?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Brasil.png",
+   "imgCredit": "Foto: Público",
+   "curso": false,
+   "ce": {
+    "s": "O Acordo da OMC sobre Barreiras Técnicas ao Comércio (TBT) estimula os membros a basear seus regulamentos técnicos em normas internacionais e a aceitar procedimentos de avaliação de conformidade de outros membros.",
+    "ans": "C",
+    "exp": "O Acordo TBT pede que regulamentos técnicos usem normas internacionais como base, quando existirem (art. 2.4), e incentiva o reconhecimento de avaliações de conformidade de outros membros (art. 6), para que não virem obstáculos desnecessários ao comércio."
+   }
+  }
+ ]
+}

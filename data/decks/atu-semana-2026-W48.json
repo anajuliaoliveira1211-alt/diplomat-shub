@@ -5,7 +5,7 @@
  "edital": "13",
  "week": "2026-W48",
  "notionUrl": "",
- "updatedAt": "2026-11-26",
+ "updatedAt": "2026-11-27",
  "items": [
   {
    "id": "c1",
@@ -352,12 +352,105 @@
    "q": "Quais países dos Bálcãs Ocidentais vão receber os € 338 milhões extras do Plano de Crescimento?",
    "a": "Albânia, Montenegro e Macedônia do Norte.",
    "exp": "Anunciados na cúpula UE–Bálcãs de 25/11 em Bruxelas, à qual a Sérvia não compareceu nem aderiu à Declaração."
+  },
+  {
+   "id": "c24",
+   "t": "c",
+   "s": "O Partido Popular espanhol e a CDU alemã integram, no plano europeu, o Partido Popular Europeu.",
+   "ans": "C",
+   "exp": "Ambos são membros do PPE, a família de centro-direita que tem a maior bancada do Parlamento Europeu. Por isso uma coalizão PP–Vox desafiaria a prática do 'cordão sanitário', que na Alemanha se chama Brandmauer.",
+   "ctx": "Petit Journal: eleição na Espanha, reações às tarifas dos EUA, Polônia e drones russos, FMI na África e impasse em Israel"
+  },
+  {
+   "id": "f24",
+   "t": "f",
+   "q": "O que é o Brandmauer na política alemã?",
+   "a": "O 'muro corta-fogo': o compromisso da CDU de não fazer alianças com a extrema direita da AfD.",
+   "exp": "Lembrado no Petit Journal de 26/11 ao discutir uma possível coalizão PP–Vox depois da eleição espanhola de 29/11."
+  },
+  {
+   "id": "c25",
+   "t": "c",
+   "s": "O Acordo da OMC sobre Medidas Sanitárias e Fitossanitárias (SPS) permite que um membro restrinja importações por motivos sanitários sem justificativa científica, desde que aplique a medida igualmente a todos os parceiros.",
+   "ans": "E",
+   "exp": "O Acordo SPS exige que as medidas se baseiem em princípios científicos e em avaliação de risco (arts. 2 e 5). Medidas mais rigorosas que os padrões internacionais (Codex, OMSA, CIPV) precisam de justificativa científica. Por isso o Brasil insiste nas 'evidências técnicas'.",
+   "ctx": "Macron chama de 'dopada' a carne do Mercosul, e Agricultura e Itamaraty respondem que a fala 'dissemina desinformação'"
+  },
+  {
+   "id": "f25",
+   "t": "f",
+   "q": "Desde quando as exportações brasileiras de carne e produtos animais para a UE estão suspensas, e por quê?",
+   "a": "Desde setembro de 2026, por exigências europeias sobre o uso de antimicrobianos na criação animal.",
+   "exp": "Macron chamou a carne do Mercosul de 'dopada' em 25/11; Mapa e MRE responderam em nota conjunta em 26/11."
+  },
+  {
+   "id": "c26",
+   "t": "c",
+   "s": "O Novo Banco de Desenvolvimento, criado pelo Acordo de Fortaleza em 2014 e sediado em Xangai, só admite como membros os países integrantes do BRICS.",
+   "ans": "E",
+   "exp": "O NDB está aberto a outros membros da ONU: Bangladesh, Emirados Árabes Unidos e Egito aderiram em 2021, e a Argélia em 2025. Por isso a Colômbia podia pedir para entrar no banco sem ser membro pleno do bloco.",
+   "trap": 1,
+   "ctx": "Governo De La Espriella desiste da entrada da Colômbia no Novo Banco de Desenvolvimento e no BRICS"
+  },
+  {
+   "id": "f26",
+   "t": "f",
+   "q": "Que tratado criou o Novo Banco de Desenvolvimento e onde fica sua sede?",
+   "a": "O Acordo de Fortaleza (2014), assinado na cúpula do BRICS no Brasil; a sede é em Xangai.",
+   "exp": "Em 25/11/2026 a Colômbia desistiu de aderir ao banco, presidido por Dilma Rousseff."
+  },
+  {
+   "id": "c27",
+   "t": "c",
+   "s": "A Convenção sobre Armas Químicas proíbe o uso de agentes de controle de distúrbios, como o gás lacrimogêneo, em qualquer circunstância, inclusive em operações policiais internas.",
+   "ans": "E",
+   "exp": "O art. I.5 veda o uso desses agentes 'como método de guerra'; o art. II.9 admite seu uso para fins de aplicação da lei, inclusive no controle de distúrbios internos.",
+   "trap": 1,
+   "ctx": "Na conferência da OPAQ, 34 países e a UE exigem que a Rússia pare de usar agentes químicos e gás lacrimogêneo na guerra da Ucrânia"
+  },
+  {
+   "id": "f27",
+   "t": "f",
+   "q": "Que organização verifica a Convenção sobre Armas Químicas e onde fica sua sede?",
+   "a": "A OPAQ (Organização para a Proibição das Armas Químicas), em Haia; recebeu o Nobel da Paz de 2013.",
+   "exp": "Na conferência de 23 a 27/11, 34 países e a UE cobraram da Rússia o fim do uso de agentes químicos na Ucrânia."
+  },
+  {
+   "id": "c28",
+   "t": "c",
+   "s": "O Quadro Financeiro Plurianual da União Europeia é aprovado pelo Conselho por maioria qualificada, sem necessidade de aprovação do Parlamento Europeu.",
+   "ans": "E",
+   "exp": "Pelo art. 312 do TFUE, o regulamento do QFP é adotado pelo Conselho por unanimidade, depois da aprovação do Parlamento Europeu. Por isso um só governo pode travar o acordo.",
+   "trap": 4,
+   "ctx": "Cúpula extraordinária da UE discute o orçamento 2028–2034 e mais € 45 bilhões para a Ucrânia, mas decisão deve ficar para dezembro"
+  },
+  {
+   "id": "f28",
+   "t": "f",
+   "q": "Que período cobrirá o próximo Quadro Financeiro Plurianual da UE?",
+   "a": "2028–2034 (sete anos); o atual vai de 2021 a 2027.",
+   "exp": "Costa propôs cortar cerca de € 204 bilhões da proposta da Comissão e manter até € 100 bilhões para a Ucrânia."
+  },
+  {
+   "id": "c29",
+   "t": "c",
+   "s": "O Acordo da OMC sobre Barreiras Técnicas ao Comércio (TBT) estimula os membros a basear seus regulamentos técnicos em normas internacionais e a aceitar procedimentos de avaliação de conformidade de outros membros.",
+   "ans": "C",
+   "exp": "O Acordo TBT pede que regulamentos técnicos usem normas internacionais como base, quando existirem (art. 2.4), e incentiva o reconhecimento de avaliações de conformidade de outros membros (art. 6), para que não virem obstáculos desnecessários ao comércio.",
+   "ctx": "Seis meses após a vigência provisória do acordo Mercosul–UE, Brasil corre para harmonizar normas técnicas e evitar barreiras não tarifárias"
+  },
+  {
+   "id": "f29",
+   "t": "f",
+   "q": "Que entidade representa o Mercosul na negociação de normas técnicas com o Comitê Europeu de Normalização (CEN)?",
+   "a": "A ABNT (Associação Brasileira de Normas Técnicas).",
+   "exp": "Sem normas comuns, o acordo Mercosul–UE, provisório desde 1º/5, fica exposto a barreiras não tarifárias."
   }
  ],
  "resumo": [
   {
    "k": "capa",
-   "b": "COP31 sem acordo, tarifas dos EUA, Argentina, ONU, Ucrânia, Golfo e direitos humanos"
+   "b": "COP31 sem acordo, tarifas dos EUA, carne e Mercosul–UE, Argentina, ONU, Ucrânia e Golfo"
   },
   {
    "t": "COP31 fracassa em Antália",
@@ -370,22 +463,32 @@
   },
   {
    "t": "Brasil × EUA: OMC e novas tarifas",
-   "b": "O OSC examinou em 24/11 o 1º pedido brasileiro de painel (DS646). Em 25/11, os EUA propuseram tarifas da Seção 301 contra 14 economias e, à parte, sobretaxas sobre aviões e açúcar do Brasil.",
+   "b": "O OSC examinou em 24/11 o 1º pedido brasileiro de painel (DS646). Em 25/11, os EUA propuseram tarifas da Seção 301 contra 14 economias e sobretaxas sobre aviões e açúcar do Brasil. China e UE reagiram.",
    "l": [
     "Os EUA só podem bloquear o 1º pedido de painel",
     "Seção 301: instrumento unilateral, vale em 2027",
     "Embraer perderia a isenção (+10%)",
-    "Órgão de Apelação parado desde 2019"
+    "UE cobra o teto de 15% do seu acordo com os EUA"
    ]
   },
   {
-   "t": "Argentina: relação rebaixada",
-   "b": "O Brasil decidiu que o embaixador Julio Bitelli não volta a Buenos Aires, depois de o chanceler Quirno pôr em dúvida a eleição brasileira. Os dois países ficam só com encarregados de negócios.",
+   "t": "Brasil × UE: carne e normas",
+   "b": "Macron chamou a carne do Mercosul de 'dopada'; Mapa e Itamaraty responderam que a fala dissemina desinformação. O acordo Mercosul–UE, provisório desde 1º/5, ainda precisa de normas técnicas comuns.",
    "l": [
-    "Bitelli estava chamado para consultas desde julho",
+    "Exportações de carne à UE suspensas desde setembro",
+    "Acordo SPS: medida sanitária exige base científica",
+    "Acordo TBT: normas internacionais como base",
+    "ABNT e CEN negociam a harmonização"
+   ]
+  },
+  {
+   "t": "Vizinhos: Argentina e Colômbia",
+   "b": "O Brasil decidiu que o embaixador Bitelli não volta a Buenos Aires, e os países ficam só com encarregados de negócios. A Colômbia de De La Espriella desistiu de entrar no NDB e no BRICS.",
+   "l": [
+    "Quirno pôs em dúvida a eleição brasileira",
     "Milei não foi convidado para a posse de 5/1",
-    "Argentina: 3º parceiro comercial do Brasil",
-    "Venezuela: chanceler Blanco em Brasília em 30/11"
+    "NDB: Acordo de Fortaleza (2014), sede em Xangai",
+    "NDB aceita sócios de fora do BRICS"
    ]
   },
   {
@@ -400,12 +503,12 @@
   },
   {
    "t": "Ucrânia e Europa",
-   "b": "O Kremlin não vê 'valor agregado' em europeus na mesa de Abu Dhabi. A UE propôs o 22º pacote de sanções e reafirmou, na cúpula com os Bálcãs, o alargamento como investimento geoestratégico.",
+   "b": "O Kremlin rejeita europeus na mesa de Abu Dhabi. A cúpula da UE de 26–27/11 discute € 45 bi extras para Kiev e o QFP 2028–2034. Na OPAQ, 34 países e a UE cobram a Rússia por agentes químicos.",
    "l": [
-    "Negociação trilateral: Rússia, Ucrânia e EUA",
-    "Sérvia faltou e ficou fora da Declaração de Bruxelas",
-    "€ 338 mi para Albânia, Montenegro e Macedônia do N.",
-    "53% dos alemães contra enviar armas a Kiev"
+    "QFP: unanimidade no Conselho + aval do PE",
+    "Decisão sobre Kiev deve ir a 17–18/12",
+    "CAQ veda gás CS 'como método de guerra'",
+    "Polônia quer zona de exclusão aérea na fronteira"
    ]
   },
   {
@@ -419,22 +522,13 @@
    ]
   },
   {
-   "t": "Direitos humanos: Cuba e rohingya",
-   "b": "A OMS pediu que os EUA suspendam o bloqueio de combustível a Cuba (100 mil cirurgias represadas). A Malásia vai devolver 6.800 nacionais de Mianmar, dias depois da sentença da CIJ sobre o genocídio rohingya.",
+   "t": "Direitos humanos e Pacífico",
+   "b": "A OMS pediu que os EUA suspendam o bloqueio de combustível a Cuba. A Malásia vai devolver 6.800 nacionais de Mianmar após a sentença da CIJ sobre os rohingya. As Ilhas Salomão elegeram a Austrália parceira primária.",
    "l": [
     "Resoluções da AGNU contra o embargo não vinculam",
     "Non-refoulement: art. 33 da Convenção de 1951",
-    "Malásia não é parte da Convenção de 1951",
-    "ACNUR: não há condições de retorno seguro"
-   ]
-  },
-  {
-   "t": "Pacífico, Sudão e tecnologia",
-   "b": "As Ilhas Salomão fizeram da Austrália sua parceira primária de segurança. O Sudão recusou a mediação etíope. Os EUA ampliaram controles sobre chips de IA, e o índice Lowy mostra EUA e China mais próximos que nunca.",
-   "l": [
     "Salomão: pacto de 2022 com a China deve expirar",
-    "Sudão: Exército × RSF desde 2023",
-    "Tratado do Espaço Exterior (1967), art. IV"
+    "Sudão recusou a mediação da Etiópia"
    ]
   },
   {
@@ -443,9 +537,9 @@
    "l": [
     "COP decide por consenso, não por maioria",
     "Na OMC, o painel só pode ser bloqueado no 1º pedido",
-    "SG da ONU: nomeado pela AGNU, com veto dos P5 na recomendação",
-    "Resolução da AGNU sobre o embargo a Cuba é recomendação, não obriga",
-    "Non-refoulement obriga até quem não ratificou a Convenção de 1951"
+    "O NDB aceita membros que não são do BRICS",
+    "A CAQ veda gás lacrimogêneo na guerra, não no policiamento",
+    "SG da ONU: nomeado pela AGNU, com veto dos P5 na recomendação"
    ]
   }
  ]
