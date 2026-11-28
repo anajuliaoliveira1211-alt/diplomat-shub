@@ -1,546 +1,636 @@
 {
- "kind": "deck",
- "materia": "Atualidades",
  "assunto": "Semana de 23 a 29/nov",
  "edital": "13",
- "week": "2026-W48",
- "notionUrl": "",
- "updatedAt": "2026-11-27",
  "items": [
   {
-   "id": "c1",
-   "t": "c",
-   "s": "A COP31 adotou o Pacto de Antália por maioria qualificada, superando o veto da Arábia Saudita e da Rússia.",
    "ans": "E",
+   "ctx": "COP31 termina sem acordo em Antália: impasse sobre combustíveis fósseis derruba o 'Pacto de Antália'",
    "exp": "As COPs decidem por consenso. Sem ele, o Pacto de Antália não foi adotado, e a conferência terminou sem decisão final.",
-   "ctx": "COP31 termina sem acordo em Antália: impasse sobre combustíveis fósseis derruba o 'Pacto de Antália'"
+   "id": "c1",
+   "s": "A COP31 adotou o Pacto de Antália por maioria qualificada, superando o veto da Arábia Saudita e da Rússia.",
+   "t": "c"
   },
   {
-   "id": "c2",
-   "t": "c",
-   "s": "Pela Convenção de Viena sobre Relações Diplomáticas, o Estado acreditado não está obrigado a dar ao Estado acreditante as razões da recusa do agrément.",
    "ans": "C",
+   "ctx": "Brasil e EUA negociam o fim da 'guerra fria dos vistos': agrément para Daniel Perez e visto para a embaixadora Viotti",
    "exp": "É o que diz o art. 4º, §2º, da Convenção de 1961. O agrément é o consentimento prévio do Estado receptor ao chefe de missão indicado.",
-   "ctx": "Brasil e EUA negociam o fim da 'guerra fria dos vistos': agrément para Daniel Perez e visto para a embaixadora Viotti"
+   "id": "c2",
+   "s": "Pela Convenção de Viena sobre Relações Diplomáticas, o Estado acreditado não está obrigado a dar ao Estado acreditante as razões da recusa do agrément.",
+   "t": "c"
   },
   {
-   "id": "c3",
-   "t": "c",
-   "s": "Na sentença de 2018, a Corte Internacional de Justiça determinou que o Chile negociasse de boa-fé com a Bolívia um acesso soberano ao oceano Pacífico.",
    "ans": "E",
+   "ctx": "Bolívia e Chile retomam, após 16 anos, o Mecanismo de Consultas Políticas e falam em normalizar as relações rompidas em 1978",
    "exp": "Em 1º/10/2018, a CIJ concluiu, por 12 a 3, que o Chile não tem a obrigação de negociar o acesso soberano ao mar.",
-   "ctx": "Bolívia e Chile retomam, após 16 anos, o Mecanismo de Consultas Políticas e falam em normalizar as relações rompidas em 1978"
+   "id": "c3",
+   "s": "Na sentença de 2018, a Corte Internacional de Justiça determinou que o Chile negociasse de boa-fé com a Bolívia um acesso soberano ao oceano Pacífico.",
+   "t": "c"
   },
   {
-   "id": "c4",
-   "t": "c",
-   "s": "Mohammad Bagher Ghalibaf, autor da declaração sobre a 'dissuasão sustentável', é o ministro das Relações Exteriores do Irã.",
    "ans": "E",
+   "ctx": "Irã diz que a situação de 'nem guerra nem paz' com os EUA não pode continuar e cobra 'dissuasão sustentável'",
    "exp": "Ghalibaf preside o Parlamento (Majlis). O chanceler é Abbas Araghchi.",
-   "ctx": "Irã diz que a situação de 'nem guerra nem paz' com os EUA não pode continuar e cobra 'dissuasão sustentável'"
+   "id": "c4",
+   "s": "Mohammad Bagher Ghalibaf, autor da declaração sobre a 'dissuasão sustentável', é o ministro das Relações Exteriores do Irã.",
+   "t": "c"
   },
   {
-   "id": "c5",
-   "t": "c",
-   "s": "O Painel Científico Internacional Independente sobre Inteligência Artificial foi criado por resolução do Conselho de Segurança da ONU.",
    "ans": "E",
+   "ctx": "ONU e Barbados abrem em Bridgetown cúpula especial sobre segurança da inteligência artificial",
    "exp": "O painel, assim como o Diálogo Global sobre Governança da IA, foi criado pela Assembleia Geral, em 2025.",
-   "ctx": "ONU e Barbados abrem em Bridgetown cúpula especial sobre segurança da inteligência artificial"
+   "id": "c5",
+   "s": "O Painel Científico Internacional Independente sobre Inteligência Artificial foi criado por resolução do Conselho de Segurança da ONU.",
+   "t": "c"
   },
   {
-   "id": "f1",
-   "t": "f",
-   "q": "Por que a COP31 terminou sem decisão final em 22/11?",
    "a": "Não houve consenso sobre os combustíveis fósseis: petroestados (Arábia Saudita, Rússia) vetavam qualquer menção, e UE, Noruega, Panamá e Ilhas Marshall rejeitavam um texto que não citasse o tema.",
-   "exp": "Primeira COP a fracassar desde Copenhague (2009); os mapas do caminho da COP30 não foram acolhidos."
+   "exp": "Primeira COP a fracassar desde Copenhague (2009); os mapas do caminho da COP30 não foram acolhidos.",
+   "id": "f1",
+   "q": "Por que a COP31 terminou sem decisão final em 22/11?",
+   "t": "f"
   },
   {
-   "id": "f2",
-   "t": "f",
-   "q": "O que é o agrément e qual o impasse Brasil–EUA em torno dele?",
    "a": "É o consentimento prévio do Estado receptor ao chefe de missão indicado. Os EUA revogaram o visto da embaixadora Viotti alegando demora do Brasil em dar o agrément a Daniel Perez.",
-   "exp": "Convenção de Viena de 1961, art. 4º: a recusa não precisa ser justificada."
+   "exp": "Convenção de Viena de 1961, art. 4º: a recusa não precisa ser justificada.",
+   "id": "f2",
+   "q": "O que é o agrément e qual o impasse Brasil–EUA em torno dele?",
+   "t": "f"
   },
   {
-   "id": "f3",
-   "t": "f",
-   "q": "Desde quando Bolívia e Chile não têm relações diplomáticas plenas, e o que mudou em 20/11/2026?",
    "a": "Desde 1978. Em 20/11 os dois retomaram em Santiago o Mecanismo de Consultas Políticas, parado desde 2010, e anunciaram que querem normalizar as relações.",
-   "exp": "Mandato da Declaração Conjunta Paz–Kast (La Paz, 16/10/2026); modernização do ACE 22."
+   "exp": "Mandato da Declaração Conjunta Paz–Kast (La Paz, 16/10/2026); modernização do ACE 22.",
+   "id": "f3",
+   "q": "Desde quando Bolívia e Chile não têm relações diplomáticas plenas, e o que mudou em 20/11/2026?",
+   "t": "f"
   },
   {
-   "id": "f4",
-   "t": "f",
-   "q": "Quem é Mohammad Bagher Ghalibaf e o que ele defendeu em 22/11?",
    "a": "O presidente do Parlamento iraniano. Disse que o Irã não pode ficar em 'nem guerra nem paz' e defendeu uma 'dissuasão sustentável' contra novos ataques dos EUA e de Israel.",
-   "exp": "O chanceler é Abbas Araghchi; o contexto é o bloqueio naval americano e a tensão em Ormuz."
+   "exp": "O chanceler é Abbas Araghchi; o contexto é o bloqueio naval americano e a tensão em Ormuz.",
+   "id": "f4",
+   "q": "Quem é Mohammad Bagher Ghalibaf e o que ele defendeu em 22/11?",
+   "t": "f"
   },
   {
-   "id": "f5",
-   "t": "f",
-   "q": "Que órgão criou o Painel Científico Internacional Independente sobre IA, que se reúne junto com a cúpula de Bridgetown?",
    "a": "A Assembleia Geral da ONU, em 2025, junto com o Diálogo Global sobre Governança da IA.",
-   "exp": "A cúpula de Bridgetown (23/11), coorganizada pela ONU e por Barbados, não deve produzir acordo vinculante."
+   "exp": "A cúpula de Bridgetown (23/11), coorganizada pela ONU e por Barbados, não deve produzir acordo vinculante.",
+   "id": "f5",
+   "q": "Que órgão criou o Painel Científico Internacional Independente sobre IA, que se reúne junto com a cúpula de Bridgetown?",
+   "t": "f"
   },
   {
-   "id": "c6",
-   "t": "c",
-   "s": "Kaliningrado é um exclave da Rússia no mar Báltico, sem ligação terrestre direta com o restante do território russo, situado entre a Polônia e a Lituânia.",
    "ans": "C",
+   "ctx": "Petit Journal: El Salvador no Haiti, Armênia e Karabakh, Kaliningrado e a volta de Huang à Nvidia",
    "exp": "Antiga Königsberg, foi anexada pela URSS em 1945, por decisão de Potsdam. O exclave faz fronteira só com Polônia e Lituânia, ambas membros da OTAN e da UE.",
-   "ctx": "Petit Journal: El Salvador no Haiti, Armênia e Karabakh, Kaliningrado e a volta de Huang à Nvidia"
+   "id": "c6",
+   "s": "Kaliningrado é um exclave da Rússia no mar Báltico, sem ligação terrestre direta com o restante do território russo, situado entre a Polônia e a Lituânia.",
+   "t": "c"
   },
   {
-   "id": "c7",
-   "t": "c",
-   "s": "A COP15, realizada em Copenhague em 2009, terminou sem que a conferência adotasse formalmente um acordo; as partes apenas 'tomaram nota' do Acordo de Copenhague.",
    "ans": "C",
+   "ctx": "Petit Journal: fim da COP31 sem acordo, navios russos afundados, drones com fio e invasão ao FBI",
    "exp": "O Acordo de Copenhague, negociado por um pequeno grupo de países (entre eles o BASIC, com o Brasil), não foi adotado por consenso; a COP só 'tomou nota' dele.",
-   "ctx": "Petit Journal: fim da COP31 sem acordo, navios russos afundados, drones com fio e invasão ao FBI"
+   "id": "c7",
+   "s": "A COP15, realizada em Copenhague em 2009, terminou sem que a conferência adotasse formalmente um acordo; as partes apenas 'tomaram nota' do Acordo de Copenhague.",
+   "t": "c"
   },
   {
-   "id": "c8",
-   "t": "c",
-   "s": "No sistema de solução de controvérsias da OMC, o membro demandado pode impedir o estabelecimento do painel na primeira reunião do Órgão de Solução de Controvérsias em que o pedido é examinado, mas não na segunda, quando vale a regra do consenso negativo.",
    "ans": "C",
+   "ctx": "OMC analisa hoje o primeiro pedido do Brasil de painel contra o tarifaço dos EUA (DS646), e Washington pode bloqueá-lo",
    "exp": "Art. 6.1 do ESC: o painel é estabelecido, no máximo, na reunião seguinte àquela em que o pedido aparece pela primeira vez na agenda, a menos que o OSC decida por consenso não estabelecê-lo.",
-   "ctx": "OMC analisa hoje o primeiro pedido do Brasil de painel contra o tarifaço dos EUA (DS646), e Washington pode bloqueá-lo"
+   "id": "c8",
+   "s": "No sistema de solução de controvérsias da OMC, o membro demandado pode impedir o estabelecimento do painel na primeira reunião do Órgão de Solução de Controvérsias em que o pedido é examinado, mas não na segunda, quando vale a regra do consenso negativo.",
+   "t": "c"
   },
   {
-   "id": "c9",
-   "t": "c",
-   "s": "A Venezuela está suspensa do Mercosul desde 2016, e a suspensão foi depois fundamentada no Protocolo de Ushuaia, sobre compromisso democrático.",
    "ans": "C",
+   "ctx": "Novo chanceler da Venezuela, Oliver Blanco, visita Brasília em 30/11 com agenda econômico-comercial",
    "exp": "Suspensa em dezembro de 2016 por descumprir compromissos de adesão e, em agosto de 2017, com base no Protocolo de Ushuaia (1998), por ruptura da ordem democrática.",
-   "ctx": "Novo chanceler da Venezuela, Oliver Blanco, visita Brasília em 30/11 com agenda econômico-comercial"
+   "id": "c9",
+   "s": "A Venezuela está suspensa do Mercosul desde 2016, e a suspensão foi depois fundamentada no Protocolo de Ushuaia, sobre compromisso democrático.",
+   "t": "c"
   },
   {
-   "id": "c10",
-   "t": "c",
-   "s": "A adoção de sanções da União Europeia no âmbito da Política Externa e de Segurança Comum exige decisão unânime do Conselho da UE.",
    "ans": "C",
+   "ctx": "UE propõe o 22º pacote de sanções contra a Rússia: mais 60 bancos fora do SWIFT, frota-sombra e atletas",
    "exp": "As decisões da PESC que impõem medidas restritivas são tomadas por unanimidade no Conselho (art. 31 do TUE); o regulamento que as executa vem depois, por maioria qualificada.",
-   "ctx": "UE propõe o 22º pacote de sanções contra a Rússia: mais 60 bancos fora do SWIFT, frota-sombra e atletas"
+   "id": "c10",
+   "s": "A adoção de sanções da União Europeia no âmbito da Política Externa e de Segurança Comum exige decisão unânime do Conselho da UE.",
+   "t": "c"
   },
   {
-   "id": "c11",
-   "t": "c",
-   "s": "Segundo o Asia Power Index 2026, a China superou os Estados Unidos e passou a ser a maior potência da Ásia.",
    "ans": "E",
+   "ctx": "Índice de Poder na Ásia 2026: diferença entre EUA e China é a menor já medida, e a Índia se firma em 3º",
    "exp": "Os EUA seguem em 1º (78,9 contra 73,6 da China). O que mudou foi a diferença, a menor já registrada pelo índice.",
-   "ctx": "Índice de Poder na Ásia 2026: diferença entre EUA e China é a menor já medida, e a Índia se firma em 3º"
+   "id": "c11",
+   "s": "Segundo o Asia Power Index 2026, a China superou os Estados Unidos e passou a ser a maior potência da Ásia.",
+   "t": "c"
   },
   {
-   "id": "c12",
-   "t": "c",
-   "s": "O Tratado do Espaço Exterior, de 1967, proíbe colocar em órbita da Terra objetos que transportem armas nucleares ou outras armas de destruição em massa.",
    "ans": "C",
+   "ctx": "Imprensa alemã diz que a Rússia planeja pôr uma arma nuclear em órbita, o que violaria o Tratado do Espaço Exterior",
    "exp": "Art. IV do tratado. Ele não proíbe toda atividade militar no espaço, só armas de destruição em massa em órbita e bases militares em corpos celestes.",
-   "ctx": "Imprensa alemã diz que a Rússia planeja pôr uma arma nuclear em órbita, o que violaria o Tratado do Espaço Exterior"
+   "id": "c12",
+   "s": "O Tratado do Espaço Exterior, de 1967, proíbe colocar em órbita da Terra objetos que transportem armas nucleares ou outras armas de destruição em massa.",
+   "t": "c"
   },
   {
-   "id": "f6",
-   "t": "f",
-   "q": "Por que a proposta de nova Constituição da Armênia importa para a paz com o Azerbaijão?",
    "a": "Porque o preâmbulo atual remete à declaração de independência de 1990, que prevê a unificação com Nagorno-Karabakh. Pashinyan quer retirar essa referência para assinar e ratificar o tratado de paz.",
-   "exp": "Ele promete renunciar se o texto for rejeitado em referendo."
+   "exp": "Ele promete renunciar se o texto for rejeitado em referendo.",
+   "id": "f6",
+   "q": "Por que a proposta de nova Constituição da Armênia importa para a paz com o Azerbaijão?",
+   "t": "f"
   },
   {
-   "id": "f7",
-   "t": "f",
-   "q": "Por que os drones guiados por fibra ótica ganharam espaço na guerra da Ucrânia?",
    "a": "Porque são imunes ao bloqueio eletrônico, que só afeta sinais de rádio. A fibra vem quase toda da China, que vende aos dois lados; o preço do quilômetro subiu de cerca de US$ 4 para quase US$ 30.",
-   "exp": "Episódio BP 1183 do Petit Journal."
+   "exp": "Episódio BP 1183 do Petit Journal.",
+   "id": "f7",
+   "q": "Por que os drones guiados por fibra ótica ganharam espaço na guerra da Ucrânia?",
+   "t": "f"
   },
   {
-   "id": "f8",
-   "t": "f",
-   "q": "O que o Brasil pede na OMC no caso DS646 e por que um painel favorável pode não resolver a disputa?",
    "a": "Pede um painel contra as sobretaxas dos EUA de 25% (Seção 301) e 12,5% (trabalho forçado), alegando violação do GATT. Mesmo vencendo, os EUA podem recorrer 'no vazio': o Órgão de Apelação está parado desde 2019, e Washington não integra o MPIA.",
-   "exp": "O primeiro pedido pode ser bloqueado; no segundo, vale o consenso negativo (art. 6.1 do ESC)."
+   "exp": "O primeiro pedido pode ser bloqueado; no segundo, vale o consenso negativo (art. 6.1 do ESC).",
+   "id": "f8",
+   "q": "O que o Brasil pede na OMC no caso DS646 e por que um painel favorável pode não resolver a disputa?",
+   "t": "f"
   },
   {
-   "id": "f9",
-   "t": "f",
-   "q": "Quem é Oliver Blanco e qual o sentido da visita dele a Brasília em 30/11?",
    "a": "É o chanceler da Venezuela desde o fim de outubro, no governo de Delcy Rodríguez. A visita, com pauta econômico-comercial, é a primeira a Brasília desde a queda de Maduro e mostra o Brasil mantendo canal próprio com Caracas.",
-   "exp": "Será recebido por Mauro Vieira."
+   "exp": "Será recebido por Mauro Vieira.",
+   "id": "f9",
+   "q": "Quem é Oliver Blanco e qual o sentido da visita dele a Brasília em 30/11?",
+   "t": "f"
   },
   {
-   "id": "f10",
-   "t": "f",
-   "q": "Quais as principais medidas do 22º pacote de sanções da UE contra a Rússia (23/11)?",
    "a": "Mais 60 bancos fora do SWIFT, criptoativos, mais de 70 navios da frota-sombra, proibição de consertar refinarias russas, veto à entrada de soldados que lutaram na Ucrânia e exclusão de atletas sob bandeira russa.",
-   "exp": "Precisa de unanimidade dos Estados-membros; Bruxelas quer aprová-lo em dezembro."
+   "exp": "Precisa de unanimidade dos Estados-membros; Bruxelas quer aprová-lo em dezembro.",
+   "id": "f10",
+   "q": "Quais as principais medidas do 22º pacote de sanções da UE contra a Rússia (23/11)?",
+   "t": "f"
   },
   {
-   "id": "f11",
-   "t": "f",
-   "q": "O que mostrou o Asia Power Index 2026, do Lowy Institute?",
    "a": "EUA em 1º (78,9) e China em 2º (73,6), com a menor diferença já registrada, inclusive em capacidade militar (a menor desde 2018). A Índia ficou em 3º (40,5), à frente de Japão e Rússia.",
-   "exp": "Para o Lowy, a distância caiu mais por erros de Washington do que por avanços de Pequim."
+   "exp": "Para o Lowy, a distância caiu mais por erros de Washington do que por avanços de Pequim.",
+   "id": "f11",
+   "q": "O que mostrou o Asia Power Index 2026, do Lowy Institute?",
+   "t": "f"
   },
   {
-   "id": "f12",
-   "t": "f",
-   "q": "Que tratado a Rússia violaria ao pôr uma arma nuclear em órbita, e o que ele proíbe?",
    "a": "O Tratado do Espaço Exterior (1967), cujo art. IV proíbe colocar em órbita armas nucleares ou outras de destruição em massa.",
-   "exp": "A denúncia veio do Süddeutsche Zeitung, NDR e WDR (23/11); Moscou chamou de 'propaganda'."
+   "exp": "A denúncia veio do Süddeutsche Zeitung, NDR e WDR (23/11); Moscou chamou de 'propaganda'.",
+   "id": "f12",
+   "q": "Que tratado a Rússia violaria ao pôr uma arma nuclear em órbita, e o que ele proíbe?",
+   "t": "f"
   },
   {
-   "id": "c13",
-   "t": "c",
-   "s": "O acordo de paz entre o governo colombiano e as FARC foi assinado em novembro de 2016, depois que a versão anterior do texto havia sido rejeitada em plebiscito, em outubro daquele ano.",
    "ans": "C",
+   "ctx": "Petit Journal: chips e Nvidia, alemães contra armas à Ucrânia, minerais críticos, petróleo russo e Colômbia",
    "exp": "No plebiscito de 2/10/2016, o 'não' venceu por margem estreita. Um texto renegociado foi assinado em 24/11/2016 em Bogotá e aprovado pelo Congresso, sem nova consulta popular. Juan Manuel Santos recebeu o Nobel da Paz de 2016.",
-   "ctx": "Petit Journal: chips e Nvidia, alemães contra armas à Ucrânia, minerais críticos, petróleo russo e Colômbia"
+   "id": "c13",
+   "s": "O acordo de paz entre o governo colombiano e as FARC foi assinado em novembro de 2016, depois que a versão anterior do texto havia sido rejeitada em plebiscito, em outubro daquele ano.",
+   "t": "c"
   },
   {
-   "id": "f13",
-   "t": "f",
-   "q": "Que minerais a China voltou a liberar para os EUA, e até quando?",
    "a": "Gálio, germânio, antimônio e materiais superduros: a suspensão das restrições foi estendida até 27/1/2027.",
-   "exp": "Prazo curto antes do encontro Xi–Trump no G20, para manter a pressão."
+   "exp": "Prazo curto antes do encontro Xi–Trump no G20, para manter a pressão.",
+   "id": "f13",
+   "q": "Que minerais a China voltou a liberar para os EUA, e até quando?",
+   "t": "f"
   },
   {
-   "id": "c14",
-   "t": "c",
-   "s": "Pelo tratado assinado com a Austrália em novembro de 2026, as Ilhas Salomão ficam proibidas de manter qualquer cooperação com a China.",
    "ans": "E",
+   "ctx": "Ilhas Salomão assinam tratado de segurança com a Austrália, que vira 'parceira primária', e reveem o pacto de 2022 com a China",
    "exp": "Não há proibição expressa. O tratado faz da Austrália a parceira primária, veda bases estrangeiras e exige consulta prévia a Canberra antes de acordos de segurança ou infraestrutura crítica com países de fora do Fórum das Ilhas do Pacífico.",
-   "ctx": "Ilhas Salomão assinam tratado de segurança com a Austrália, que vira 'parceira primária', e reveem o pacto de 2022 com a China"
+   "id": "c14",
+   "s": "Pelo tratado assinado com a Austrália em novembro de 2026, as Ilhas Salomão ficam proibidas de manter qualquer cooperação com a China.",
+   "t": "c"
   },
   {
-   "id": "f14",
-   "t": "f",
-   "q": "O que prevê o tratado Austrália–Ilhas Salomão de 25/11/2026?",
    "a": "A Austrália vira parceira primária de segurança; não haverá bases estrangeiras; acordos de segurança com países de fora do Fórum das Ilhas do Pacífico exigem consulta a Canberra; AU$ 740 mi em 10 anos.",
-   "exp": "Resposta ao pacto de segurança Salomão–China de 2022, que vence em abril de 2027."
+   "exp": "Resposta ao pacto de segurança Salomão–China de 2022, que vence em abril de 2027.",
+   "id": "f14",
+   "q": "O que prevê o tratado Austrália–Ilhas Salomão de 25/11/2026?",
+   "t": "f"
   },
   {
-   "id": "c15",
-   "t": "c",
-   "s": "As negociações recentes para encerrar a guerra na Ucrânia têm ocorrido em formato trilateral, entre Rússia, Ucrânia e EUA, e a Rússia resiste à inclusão formal dos europeus.",
    "ans": "C",
+   "ctx": "Kremlin diz não ver 'valor agregado' em europeus nas negociações sobre a Ucrânia; nova rodada em Abu Dhabi segue sem data",
    "exp": "A última rodada trilateral foi em Abu Dhabi (10–11/11). Os europeus pedem um formato a quatro, e Peskov disse não ver 'valor agregado' na participação deles.",
-   "ctx": "Kremlin diz não ver 'valor agregado' em europeus nas negociações sobre a Ucrânia; nova rodada em Abu Dhabi segue sem data"
+   "id": "c15",
+   "s": "As negociações recentes para encerrar a guerra na Ucrânia têm ocorrido em formato trilateral, entre Rússia, Ucrânia e EUA, e a Rússia resiste à inclusão formal dos europeus.",
+   "t": "c"
   },
   {
-   "id": "f15",
-   "t": "f",
-   "q": "Que formato a Rússia aceita para as negociações sobre a Ucrânia?",
    "a": "O trilateral (Rússia, Ucrânia e EUA), em Abu Dhabi; Peskov não vê 'valor agregado' na entrada dos europeus.",
-   "exp": "Os europeus pedem formato a quatro, com Alemanha, França, Itália, Polônia, Reino Unido e UE."
+   "exp": "Os europeus pedem formato a quatro, com Alemanha, França, Itália, Polônia, Reino Unido e UE.",
+   "id": "f15",
+   "q": "Que formato a Rússia aceita para as negociações sobre a Ucrânia?",
+   "t": "f"
   },
   {
-   "id": "c16",
-   "t": "c",
-   "s": "Pela Convenção das Nações Unidas sobre o Direito do Mar, navios de todos os Estados gozam do direito de passagem em trânsito por estreitos usados para a navegação internacional, como Ormuz.",
    "ans": "C",
+   "ctx": "Irã diz que dois petroleiros bateram em minas em Ormuz; mesmo assim, o petróleo cai com a recuperação das exportações do Golfo",
    "exp": "Parte III da CNUDM (arts. 37–44). O Irã assinou mas não ratificou a Convenção e contesta o regime para Estados não partes, como os EUA.",
-   "ctx": "Irã diz que dois petroleiros bateram em minas em Ormuz; mesmo assim, o petróleo cai com a recuperação das exportações do Golfo"
+   "id": "c16",
+   "s": "Pela Convenção das Nações Unidas sobre o Direito do Mar, navios de todos os Estados gozam do direito de passagem em trânsito por estreitos usados para a navegação internacional, como Ormuz.",
+   "t": "c"
   },
   {
-   "id": "f16",
-   "t": "f",
-   "q": "Por que o petróleo caiu em 25/11 apesar dos ataques em Ormuz?",
    "a": "Porque as exportações do Golfo se recuperaram (15 mi barris/dia em outubro, 82% do pré-guerra) e a AIE prevê oferta acima da demanda.",
-   "exp": "O Brent recuou 1,7%, para US$ 89,82."
+   "exp": "O Brent recuou 1,7%, para US$ 89,82.",
+   "id": "f16",
+   "q": "Por que o petróleo caiu em 25/11 apesar dos ataques em Ormuz?",
+   "t": "f"
   },
   {
-   "id": "c17",
-   "t": "c",
-   "s": "A guerra civil no Sudão, iniciada em 2023, opõe o Exército sudanês às Forças de Apoio Rápido (RSF), em disputa sobre a integração da força paramilitar às Forças Armadas.",
    "ans": "C",
+   "ctx": "Sudão recusa oferta da Etiópia para sediar diálogo de paz e acusa Adis Abeba de apoiar as RSF",
    "exp": "A divergência sobre o prazo e o comando dessa integração detonou o conflito em abril de 2023, entre os generais Abdel Fattah al-Burhan (Exército) e Mohamed Hamdan Dagalo, o 'Hemedti' (RSF).",
-   "ctx": "Sudão recusa oferta da Etiópia para sediar diálogo de paz e acusa Adis Abeba de apoiar as RSF"
+   "id": "c17",
+   "s": "A guerra civil no Sudão, iniciada em 2023, opõe o Exército sudanês às Forças de Apoio Rápido (RSF), em disputa sobre a integração da força paramilitar às Forças Armadas.",
+   "t": "c"
   },
   {
-   "id": "f17",
-   "t": "f",
-   "q": "Por que o Sudão recusou a Etiópia como sede do diálogo de paz?",
    "a": "Por falta de neutralidade: Cartum acusa Adis Abeba de apoiar as RSF e de permitir drones a partir de seu território.",
-   "exp": "O Sudão pede que a União Africana exclua a Etiópia da mediação."
+   "exp": "O Sudão pede que a União Africana exclua a Etiópia da mediação.",
+   "id": "f17",
+   "q": "Por que o Sudão recusou a Etiópia como sede do diálogo de paz?",
+   "t": "f"
   },
   {
-   "id": "c18",
-   "t": "c",
-   "s": "A Seção 301 da Lei de Comércio dos EUA de 1974 autoriza o governo americano a adotar, de forma unilateral, medidas contra práticas comerciais estrangeiras consideradas injustas, discriminatórias ou prejudiciais ao comércio dos EUA.",
    "ans": "C",
+   "ctx": "Petit Journal: tarifas da Seção 301, Embraer e açúcar, impasse em Israel, Brasil–Argentina sem embaixadores e IA em exames na Coreia",
    "exp": "É um instrumento unilateral, aplicado pelo USTR depois de uma investigação. Por isso, sua compatibilidade com o sistema multilateral da OMC, que exige a solução de controvérsias pelo OSC, é contestada há décadas.",
-   "ctx": "Petit Journal: tarifas da Seção 301, Embraer e açúcar, impasse em Israel, Brasil–Argentina sem embaixadores e IA em exames na Coreia"
+   "id": "c18",
+   "s": "A Seção 301 da Lei de Comércio dos EUA de 1974 autoriza o governo americano a adotar, de forma unilateral, medidas contra práticas comerciais estrangeiras consideradas injustas, discriminatórias ou prejudiciais ao comércio dos EUA.",
+   "t": "c"
   },
   {
-   "id": "f18",
-   "t": "f",
-   "q": "Que mudanças os EUA propuseram em 25/11 para as sobretaxas sobre o Brasil?",
    "a": "Aeronaves (Embraer) perderiam a isenção e pagariam 10% adicionais; a sobretaxa de 25% sobre certos açúcares viraria tarifa fixa por quilo.",
-   "exp": "O Brasil ficou fora da lista das 14 economias da Seção 301, mas recebeu essa proposta à parte, com audiência pública em 14/1/2027 (segundo o Petit Journal)."
+   "exp": "O Brasil ficou fora da lista das 14 economias da Seção 301, mas recebeu essa proposta à parte, com audiência pública em 14/1/2027 (segundo o Petit Journal).",
+   "id": "f18",
+   "q": "Que mudanças os EUA propuseram em 25/11 para as sobretaxas sobre o Brasil?",
+   "t": "f"
   },
   {
-   "id": "c19",
-   "t": "c",
-   "s": "Pela Carta das Nações Unidas, o secretário-geral é nomeado pela Assembleia Geral mediante recomendação do Conselho de Segurança, o que dá aos membros permanentes poder de veto sobre a escolha.",
    "ans": "C",
+   "ctx": "Ao receber 14 embaixadores, Lula defende uma mulher latino-americana na Secretaria-Geral da ONU, em meio ao impasse no Conselho de Segurança",
    "exp": "Art. 97 da Carta. A recomendação do Conselho é uma decisão não processual e, portanto, sujeita ao veto dos P5; depois, a Assembleia Geral faz a nomeação. O mandato de cinco anos e a rotação regional vêm da prática, não da Carta.",
-   "ctx": "Ao receber 14 embaixadores, Lula defende uma mulher latino-americana na Secretaria-Geral da ONU, em meio ao impasse no Conselho de Segurança"
+   "id": "c19",
+   "s": "Pela Carta das Nações Unidas, o secretário-geral é nomeado pela Assembleia Geral mediante recomendação do Conselho de Segurança, o que dá aos membros permanentes poder de veto sobre a escolha.",
+   "t": "c"
   },
   {
-   "id": "f19",
-   "t": "f",
-   "q": "Qual é o perfil de secretário-geral da ONU que o Brasil defende para suceder Guterres?",
    "a": "Uma mulher latino-americana.",
-   "exp": "Nunca houve uma mulher no cargo, e a América Latina só o ocupou com Pérez de Cuéllar (1982–1991). A Celac mandou carta ao Conselho de Segurança; Rebeca Grynspan lidera as sondagens, sem consenso."
+   "exp": "Nunca houve uma mulher no cargo, e a América Latina só o ocupou com Pérez de Cuéllar (1982–1991). A Celac mandou carta ao Conselho de Segurança; Rebeca Grynspan lidera as sondagens, sem consenso.",
+   "id": "f19",
+   "q": "Qual é o perfil de secretário-geral da ONU que o Brasil defende para suceder Guterres?",
+   "t": "f"
   },
   {
-   "id": "c20",
-   "t": "c",
-   "s": "Desde 1992, a Assembleia Geral da ONU aprova anualmente resolução que pede o fim do embargo econômico, comercial e financeiro dos EUA a Cuba, a qual obriga juridicamente os Estados-membros.",
    "ans": "E",
-   "exp": "As resoluções são aprovadas todo ano desde 1992, com ampla maioria e voto favorável do Brasil, mas resoluções da Assembleia Geral sobre esse tema são recomendações, sem força vinculante. Só decisões do Conselho de Segurança com base no Capítulo VII obrigam os Estados.",
    "ctx": "Diretor-geral da OMS pede que os EUA suspendam o bloqueio de combustível a Cuba e cita 100 mil cirurgias represadas",
+   "exp": "As resoluções são aprovadas todo ano desde 1992, com ampla maioria e voto favorável do Brasil, mas resoluções da Assembleia Geral sobre esse tema são recomendações, sem força vinculante. Só decisões do Conselho de Segurança com base no Capítulo VII obrigam os Estados.",
+   "id": "c20",
+   "s": "Desde 1992, a Assembleia Geral da ONU aprova anualmente resolução que pede o fim do embargo econômico, comercial e financeiro dos EUA a Cuba, a qual obriga juridicamente os Estados-membros.",
+   "t": "c",
    "trap": 4
   },
   {
-   "id": "f20",
-   "t": "f",
-   "q": "Que dados o diretor-geral da OMS citou sobre o impacto do bloqueio de combustível em Cuba?",
    "a": "Cerca de 100 mil cirurgias represadas, 12 mil delas pediátricas.",
-   "exp": "Tedros pediu em 24/11 que os EUA suspendam o bloqueio; a OMS vai dar US$ 2 milhões para vacinação e equipamentos."
+   "exp": "Tedros pediu em 24/11 que os EUA suspendam o bloqueio; a OMS vai dar US$ 2 milhões para vacinação e equipamentos.",
+   "id": "f20",
+   "q": "Que dados o diretor-geral da OMS citou sobre o impacto do bloqueio de combustível em Cuba?",
+   "t": "f"
   },
   {
-   "id": "c21",
-   "t": "c",
-   "s": "Embora a Malásia não seja parte da Convenção de 1951 sobre o Estatuto dos Refugiados, o princípio de non-refoulement é amplamente reconhecido como norma de direito internacional costumeiro.",
    "ans": "C",
+   "ctx": "Malásia anuncia o retorno de 6.800 nacionais de Mianmar em dezembro, dias depois de a CIJ reconhecer genocídio contra os rohingya",
    "exp": "O non-refoulement está no art. 33 da Convenção de 1951 e também na Convenção contra a Tortura (art. 3º). O ACNUR e a doutrina majoritária o tratam como costume internacional, que obriga também os Estados que não ratificaram a Convenção.",
-   "ctx": "Malásia anuncia o retorno de 6.800 nacionais de Mianmar em dezembro, dias depois de a CIJ reconhecer genocídio contra os rohingya"
+   "id": "c21",
+   "s": "Embora a Malásia não seja parte da Convenção de 1951 sobre o Estatuto dos Refugiados, o princípio de non-refoulement é amplamente reconhecido como norma de direito internacional costumeiro.",
+   "t": "c"
   },
   {
-   "id": "f21",
-   "t": "f",
-   "q": "O que diz o princípio de non-refoulement?",
    "a": "Proíbe devolver uma pessoa a um território onde sua vida ou liberdade corra risco de perseguição.",
-   "exp": "Está no art. 33 da Convenção de 1951 e é visto como costume internacional. Foi invocado contra o plano malaio de devolver 6.800 nacionais de Mianmar depois da sentença da CIJ sobre o genocídio rohingya."
+   "exp": "Está no art. 33 da Convenção de 1951 e é visto como costume internacional. Foi invocado contra o plano malaio de devolver 6.800 nacionais de Mianmar depois da sentença da CIJ sobre o genocídio rohingya.",
+   "id": "f21",
+   "q": "O que diz o princípio de non-refoulement?",
+   "t": "f"
   },
   {
-   "id": "c22",
-   "t": "c",
-   "s": "Os houthis (Ansar Allah), movimento de base zaidita do norte do Iêmen, tomaram a capital Sanaa em 2014, e a intervenção militar da coalizão liderada pela Arábia Saudita começou em 2015.",
    "ans": "C",
+   "ctx": "Houthis dizem ter atacado Ras Tanura, a maior refinaria saudita, e o distrito financeiro de Riade; Catar e Paquistão condenam",
    "exp": "A tomada de Sanaa em setembro de 2014 levou à fuga do presidente Hadi. Em março de 2015, a Arábia Saudita lançou a intervenção ('Tempestade Decisiva') com uma coalizão de países árabes.",
-   "ctx": "Houthis dizem ter atacado Ras Tanura, a maior refinaria saudita, e o distrito financeiro de Riade; Catar e Paquistão condenam"
+   "id": "c22",
+   "s": "Os houthis (Ansar Allah), movimento de base zaidita do norte do Iêmen, tomaram a capital Sanaa em 2014, e a intervenção militar da coalizão liderada pela Arábia Saudita começou em 2015.",
+   "t": "c"
   },
   {
-   "id": "f22",
-   "t": "f",
-   "q": "Que alvos sauditas os houthis disseram ter atingido em 24 e 25/11?",
    "a": "A refinaria de Ras Tanura (550 mil barris/dia) e a torre do fundo soberano (PIF) no distrito financeiro de Riade.",
-   "exp": "Riade confirmou 11 feridos na torre, mas não danos na refinaria. Catar e Paquistão, mediadores da guerra Irã–EUA, condenaram os ataques."
+   "exp": "Riade confirmou 11 feridos na torre, mas não danos na refinaria. Catar e Paquistão, mediadores da guerra Irã–EUA, condenaram os ataques.",
+   "id": "f22",
+   "q": "Que alvos sauditas os houthis disseram ter atingido em 24 e 25/11?",
+   "t": "f"
   },
   {
-   "id": "c23",
-   "t": "c",
-   "s": "A Sérvia é candidata oficial à adesão à União Europeia e já abriu negociações de adesão, mas não aderiu às sanções europeias contra a Rússia.",
    "ans": "C",
+   "ctx": "Cúpula UE–Bálcãs Ocidentais trata a adesão como 'investimento geoestratégico'; a Sérvia não vai e fica fora da Declaração de Bruxelas",
    "exp": "A Sérvia ganhou o status de candidata em 2012 e abriu as negociações em 2014. Mantém laços com Moscou (energia, Kosovo no Conselho de Segurança) e não adotou as sanções da UE desde 2022.",
-   "ctx": "Cúpula UE–Bálcãs Ocidentais trata a adesão como 'investimento geoestratégico'; a Sérvia não vai e fica fora da Declaração de Bruxelas"
+   "id": "c23",
+   "s": "A Sérvia é candidata oficial à adesão à União Europeia e já abriu negociações de adesão, mas não aderiu às sanções europeias contra a Rússia.",
+   "t": "c"
   },
   {
-   "id": "f23",
-   "t": "f",
-   "q": "Quais países dos Bálcãs Ocidentais vão receber os € 338 milhões extras do Plano de Crescimento?",
    "a": "Albânia, Montenegro e Macedônia do Norte.",
-   "exp": "Anunciados na cúpula UE–Bálcãs de 25/11 em Bruxelas, à qual a Sérvia não compareceu nem aderiu à Declaração."
+   "exp": "Anunciados na cúpula UE–Bálcãs de 25/11 em Bruxelas, à qual a Sérvia não compareceu nem aderiu à Declaração.",
+   "id": "f23",
+   "q": "Quais países dos Bálcãs Ocidentais vão receber os € 338 milhões extras do Plano de Crescimento?",
+   "t": "f"
   },
   {
-   "id": "c24",
-   "t": "c",
-   "s": "O Partido Popular espanhol e a CDU alemã integram, no plano europeu, o Partido Popular Europeu.",
    "ans": "C",
+   "ctx": "Petit Journal: eleição na Espanha, reações às tarifas dos EUA, Polônia e drones russos, FMI na África e impasse em Israel",
    "exp": "Ambos são membros do PPE, a família de centro-direita que tem a maior bancada do Parlamento Europeu. Por isso uma coalizão PP–Vox desafiaria a prática do 'cordão sanitário', que na Alemanha se chama Brandmauer.",
-   "ctx": "Petit Journal: eleição na Espanha, reações às tarifas dos EUA, Polônia e drones russos, FMI na África e impasse em Israel"
+   "id": "c24",
+   "s": "O Partido Popular espanhol e a CDU alemã integram, no plano europeu, o Partido Popular Europeu.",
+   "t": "c"
   },
   {
-   "id": "f24",
-   "t": "f",
-   "q": "O que é o Brandmauer na política alemã?",
    "a": "O 'muro corta-fogo': o compromisso da CDU de não fazer alianças com a extrema direita da AfD.",
-   "exp": "Lembrado no Petit Journal de 26/11 ao discutir uma possível coalizão PP–Vox depois da eleição espanhola de 29/11."
+   "exp": "Lembrado no Petit Journal de 26/11 ao discutir uma possível coalizão PP–Vox depois da eleição espanhola de 29/11.",
+   "id": "f24",
+   "q": "O que é o Brandmauer na política alemã?",
+   "t": "f"
   },
   {
-   "id": "c25",
-   "t": "c",
-   "s": "O Acordo da OMC sobre Medidas Sanitárias e Fitossanitárias (SPS) permite que um membro restrinja importações por motivos sanitários sem justificativa científica, desde que aplique a medida igualmente a todos os parceiros.",
    "ans": "E",
+   "ctx": "Macron chama de 'dopada' a carne do Mercosul, e Agricultura e Itamaraty respondem que a fala 'dissemina desinformação'",
    "exp": "O Acordo SPS exige que as medidas se baseiem em princípios científicos e em avaliação de risco (arts. 2 e 5). Medidas mais rigorosas que os padrões internacionais (Codex, OMSA, CIPV) precisam de justificativa científica. Por isso o Brasil insiste nas 'evidências técnicas'.",
-   "ctx": "Macron chama de 'dopada' a carne do Mercosul, e Agricultura e Itamaraty respondem que a fala 'dissemina desinformação'"
+   "id": "c25",
+   "s": "O Acordo da OMC sobre Medidas Sanitárias e Fitossanitárias (SPS) permite que um membro restrinja importações por motivos sanitários sem justificativa científica, desde que aplique a medida igualmente a todos os parceiros.",
+   "t": "c"
   },
   {
-   "id": "f25",
-   "t": "f",
-   "q": "Desde quando as exportações brasileiras de carne e produtos animais para a UE estão suspensas, e por quê?",
    "a": "Desde setembro de 2026, por exigências europeias sobre o uso de antimicrobianos na criação animal.",
-   "exp": "Macron chamou a carne do Mercosul de 'dopada' em 25/11; Mapa e MRE responderam em nota conjunta em 26/11."
+   "exp": "Macron chamou a carne do Mercosul de 'dopada' em 25/11; Mapa e MRE responderam em nota conjunta em 26/11.",
+   "id": "f25",
+   "q": "Desde quando as exportações brasileiras de carne e produtos animais para a UE estão suspensas, e por quê?",
+   "t": "f"
   },
   {
-   "id": "c26",
-   "t": "c",
-   "s": "O Novo Banco de Desenvolvimento, criado pelo Acordo de Fortaleza em 2014 e sediado em Xangai, só admite como membros os países integrantes do BRICS.",
    "ans": "E",
+   "ctx": "Governo De La Espriella desiste da entrada da Colômbia no Novo Banco de Desenvolvimento e no BRICS",
    "exp": "O NDB está aberto a outros membros da ONU: Bangladesh, Emirados Árabes Unidos e Egito aderiram em 2021, e a Argélia em 2025. Por isso a Colômbia podia pedir para entrar no banco sem ser membro pleno do bloco.",
-   "trap": 1,
-   "ctx": "Governo De La Espriella desiste da entrada da Colômbia no Novo Banco de Desenvolvimento e no BRICS"
+   "id": "c26",
+   "s": "O Novo Banco de Desenvolvimento, criado pelo Acordo de Fortaleza em 2014 e sediado em Xangai, só admite como membros os países integrantes do BRICS.",
+   "t": "c",
+   "trap": 1
   },
   {
-   "id": "f26",
-   "t": "f",
-   "q": "Que tratado criou o Novo Banco de Desenvolvimento e onde fica sua sede?",
    "a": "O Acordo de Fortaleza (2014), assinado na cúpula do BRICS no Brasil; a sede é em Xangai.",
-   "exp": "Em 25/11/2026 a Colômbia desistiu de aderir ao banco, presidido por Dilma Rousseff."
+   "exp": "Em 25/11/2026 a Colômbia desistiu de aderir ao banco, presidido por Dilma Rousseff.",
+   "id": "f26",
+   "q": "Que tratado criou o Novo Banco de Desenvolvimento e onde fica sua sede?",
+   "t": "f"
   },
   {
-   "id": "c27",
-   "t": "c",
-   "s": "A Convenção sobre Armas Químicas proíbe o uso de agentes de controle de distúrbios, como o gás lacrimogêneo, em qualquer circunstância, inclusive em operações policiais internas.",
    "ans": "E",
+   "ctx": "Na conferência da OPAQ, 34 países e a UE exigem que a Rússia pare de usar agentes químicos e gás lacrimogêneo na guerra da Ucrânia",
    "exp": "O art. I.5 veda o uso desses agentes 'como método de guerra'; o art. II.9 admite seu uso para fins de aplicação da lei, inclusive no controle de distúrbios internos.",
-   "trap": 1,
-   "ctx": "Na conferência da OPAQ, 34 países e a UE exigem que a Rússia pare de usar agentes químicos e gás lacrimogêneo na guerra da Ucrânia"
+   "id": "c27",
+   "s": "A Convenção sobre Armas Químicas proíbe o uso de agentes de controle de distúrbios, como o gás lacrimogêneo, em qualquer circunstância, inclusive em operações policiais internas.",
+   "t": "c",
+   "trap": 1
   },
   {
-   "id": "f27",
-   "t": "f",
-   "q": "Que organização verifica a Convenção sobre Armas Químicas e onde fica sua sede?",
    "a": "A OPAQ (Organização para a Proibição das Armas Químicas), em Haia; recebeu o Nobel da Paz de 2013.",
-   "exp": "Na conferência de 23 a 27/11, 34 países e a UE cobraram da Rússia o fim do uso de agentes químicos na Ucrânia."
+   "exp": "Na conferência de 23 a 27/11, 34 países e a UE cobraram da Rússia o fim do uso de agentes químicos na Ucrânia.",
+   "id": "f27",
+   "q": "Que organização verifica a Convenção sobre Armas Químicas e onde fica sua sede?",
+   "t": "f"
   },
   {
-   "id": "c28",
-   "t": "c",
-   "s": "O Quadro Financeiro Plurianual da União Europeia é aprovado pelo Conselho por maioria qualificada, sem necessidade de aprovação do Parlamento Europeu.",
    "ans": "E",
+   "ctx": "Cúpula extraordinária da UE discute o orçamento 2028–2034 e mais € 45 bilhões para a Ucrânia, mas decisão deve ficar para dezembro",
    "exp": "Pelo art. 312 do TFUE, o regulamento do QFP é adotado pelo Conselho por unanimidade, depois da aprovação do Parlamento Europeu. Por isso um só governo pode travar o acordo.",
-   "trap": 4,
-   "ctx": "Cúpula extraordinária da UE discute o orçamento 2028–2034 e mais € 45 bilhões para a Ucrânia, mas decisão deve ficar para dezembro"
-  },
-  {
-   "id": "f28",
-   "t": "f",
-   "q": "Que período cobrirá o próximo Quadro Financeiro Plurianual da UE?",
-   "a": "2028–2034 (sete anos); o atual vai de 2021 a 2027.",
-   "exp": "Costa propôs cortar cerca de € 204 bilhões da proposta da Comissão e manter até € 100 bilhões para a Ucrânia."
-  },
-  {
-   "id": "c29",
+   "id": "c28",
+   "s": "O Quadro Financeiro Plurianual da União Europeia é aprovado pelo Conselho por maioria qualificada, sem necessidade de aprovação do Parlamento Europeu.",
    "t": "c",
-   "s": "O Acordo da OMC sobre Barreiras Técnicas ao Comércio (TBT) estimula os membros a basear seus regulamentos técnicos em normas internacionais e a aceitar procedimentos de avaliação de conformidade de outros membros.",
-   "ans": "C",
-   "exp": "O Acordo TBT pede que regulamentos técnicos usem normas internacionais como base, quando existirem (art. 2.4), e incentiva o reconhecimento de avaliações de conformidade de outros membros (art. 6), para que não virem obstáculos desnecessários ao comércio.",
-   "ctx": "Seis meses após a vigência provisória do acordo Mercosul–UE, Brasil corre para harmonizar normas técnicas e evitar barreiras não tarifárias"
+   "trap": 4
   },
   {
-   "id": "f29",
-   "t": "f",
-   "q": "Que entidade representa o Mercosul na negociação de normas técnicas com o Comitê Europeu de Normalização (CEN)?",
+   "a": "2028–2034 (sete anos); o atual vai de 2021 a 2027.",
+   "exp": "Costa propôs cortar cerca de € 204 bilhões da proposta da Comissão e manter até € 100 bilhões para a Ucrânia.",
+   "id": "f28",
+   "q": "Que período cobrirá o próximo Quadro Financeiro Plurianual da UE?",
+   "t": "f"
+  },
+  {
+   "ans": "C",
+   "ctx": "Seis meses após a vigência provisória do acordo Mercosul–UE, Brasil corre para harmonizar normas técnicas e evitar barreiras não tarifárias",
+   "exp": "O Acordo TBT pede que regulamentos técnicos usem normas internacionais como base, quando existirem (art. 2.4), e incentiva o reconhecimento de avaliações de conformidade de outros membros (art. 6), para que não virem obstáculos desnecessários ao comércio.",
+   "id": "c29",
+   "s": "O Acordo da OMC sobre Barreiras Técnicas ao Comércio (TBT) estimula os membros a basear seus regulamentos técnicos em normas internacionais e a aceitar procedimentos de avaliação de conformidade de outros membros.",
+   "t": "c"
+  },
+  {
    "a": "A ABNT (Associação Brasileira de Normas Técnicas).",
-   "exp": "Sem normas comuns, o acordo Mercosul–UE, provisório desde 1º/5, fica exposto a barreiras não tarifárias."
+   "exp": "Sem normas comuns, o acordo Mercosul–UE, provisório desde 1º/5, fica exposto a barreiras não tarifárias.",
+   "id": "f29",
+   "q": "Que entidade representa o Mercosul na negociação de normas técnicas com o Comitê Europeu de Normalização (CEN)?",
+   "t": "f"
+  },
+  {
+   "ans": "C",
+   "ctx": "Petit Journal: bolha da IA, dívida corporativa, lições de 2008 e das ponto-com, e pouca margem fiscal",
+   "exp": "A crise começou com a inadimplência das hipotecas subprime e os títulos lastreados nelas, e se espalhou após a quebra do Lehman Brothers, em setembro de 2008.",
+   "id": "c30",
+   "s": "A crise financeira de 2008 teve origem no mercado de crédito imobiliário dos EUA, com as hipotecas subprime.",
+   "t": "c"
+  },
+  {
+   "a": "A Argentina, sucedendo o Uruguai; o Brasil quer levar o Mercosul ao Caribe e à América Central, usando Guiana e Suriname como 'porta'.",
+   "exp": "Há negociações com El Salvador, República Dominicana e Trinidad e Tobago; o Panamá é associado desde 2024.",
+   "id": "f30",
+   "q": "Qual país assume a presidência pro tempore do Mercosul na cúpula de Montevidéu (3–4/12/2026), e que região o Brasil quer aproximar do bloco?",
+   "t": "f"
+  },
+  {
+   "ans": "C",
+   "ctx": "Às vésperas da cúpula de Montevidéu, Itamaraty diz que o Brasil quer levar o Mercosul ao Caribe e à América Central, via Guiana e Suriname",
+   "exp": "A presidência pro tempore do Mercosul gira a cada seis meses, por ordem alfabética; depois do Uruguai, vem a Argentina.",
+   "id": "c31",
+   "s": "Segundo o Itamaraty, a 69ª Cúpula do Mercosul, em Montevidéu, marca a passagem da presidência pro tempore do bloco do Uruguai para a Argentina.",
+   "t": "c"
+  },
+  {
+   "a": "Estreito de Ormuz, mar Vermelho, mar Negro e canal do Panamá.",
+   "exp": "Por isso a UNCTAD prevê crescimento zero do comércio marítimo em 2026 e alta de 3,2% em 2027.",
+   "id": "f31",
+   "q": "Quais quatro gargalos marítimos a UNCTAD aponta sob pressão simultânea em 2026?",
+   "t": "f"
+  },
+  {
+   "ans": "E",
+   "ctx": "UNCTAD prevê crescimento zero do comércio marítimo em 2026, com Ormuz, mar Vermelho, mar Negro e canal do Panamá sob pressão ao mesmo tempo",
+   "exp": "O volume cresceu 1,9% em 2025, metade do ritmo de 2024; desvios aumentam a distância percorrida, não o volume transportado.",
+   "id": "c32",
+   "s": "Segundo a UNCTAD, o comércio marítimo mundial teve em 2025 crescimento maior que o de 2024, impulsionado pelos desvios de rota.",
+   "t": "c"
+  },
+  {
+   "a": "O Conselho de Direitos Humanos; são peritos independentes, não remunerados, dos procedimentos especiais.",
+   "exp": "Volker Türk, alto comissário, pediu que a Costa Rica reconsiderasse a decisão.",
+   "id": "f32",
+   "q": "Quem nomeia os relatores especiais da ONU, como Francesca Albanese, barrada na Costa Rica?",
+   "t": "f"
+  },
+  {
+   "ans": "C",
+   "ctx": "Costa Rica barra a entrada de Francesca Albanese, relatora da ONU para os territórios palestinos, e Volker Türk pede revisão",
+   "exp": "Os relatores especiais integram os procedimentos especiais do Conselho de Direitos Humanos; servem a título pessoal e não recebem salário da ONU.",
+   "id": "c33",
+   "s": "Os relatores especiais da ONU, como Francesca Albanese, são nomeados pelo Conselho de Direitos Humanos e atuam como peritos independentes, sem remuneração da ONU.",
+   "t": "c"
+  },
+  {
+   "a": "Desde abril de 2026; foi suspenso durante negociações e retomado em julho.",
+   "exp": "Em 26/11, os EUA inutilizaram o Pacific Archer (bandeira de Palau), ao menos o 15º navio atingido.",
+   "id": "f33",
+   "q": "Desde quando vigora o bloqueio naval dos EUA aos portos iranianos?",
+   "t": "f"
+  },
+  {
+   "ans": "E",
+   "ctx": "EUA atingem navio de bandeira de Palau que tentava furar o bloqueio aos portos do Irã; é o 15º desde abril",
+   "exp": "O bloqueio começou em abril, foi suspenso temporariamente durante as negociações com Teerã e retomado em julho.",
+   "id": "c34",
+   "s": "O bloqueio naval americano aos portos iranianos vigora sem interrupção desde abril de 2026.",
+   "t": "c"
+  },
+  {
+   "a": "A Revolução Cidadã, de Rafael Correa, suspensa.",
+   "exp": "Noboa governa com estados de exceção e apoio dos EUA (Escudo das Américas) contra o narcotráfico.",
+   "id": "f34",
+   "q": "Qual partido de oposição está fora das eleições locais equatorianas de 29/11?",
+   "t": "f"
+  },
+  {
+   "ans": "C",
+   "ctx": "Equador vota no domingo em eleições locais em que Noboa tenta se consolidar, com o partido de Correa suspenso",
+   "exp": "A Revolução Cidadã, principal força de oposição, foi suspensa, o que reduziu a concorrência a Noboa no pleito.",
+   "id": "c35",
+   "s": "O partido Revolução Cidadã, do ex-presidente Rafael Correa, está suspenso e não disputa as eleições locais de 29/11 no Equador.",
+   "t": "c"
+  },
+  {
+   "a": "Em 2008 a crise foi de crédito imobiliário; agora seria de crédito empresarial, com menos espaço fiscal e monetário para reagir.",
+   "exp": "Também lembram a bolha ponto-com: quando a tecnologia se banaliza, o investimento excessivo não se paga.",
+   "id": "f35",
+   "q": "Que comparação os apresentadores do Petit Invest 139 fazem entre a possível crise da IA e 2008?",
+   "t": "f"
   }
  ],
+ "kind": "deck",
+ "materia": "Atualidades",
+ "notionUrl": "",
  "resumo": [
   {
-   "k": "capa",
-   "b": "COP31 sem acordo, tarifas dos EUA, carne e Mercosul–UE, Argentina, ONU, Ucrânia e Golfo"
+   "b": "COP31 sem acordo, tarifas dos EUA, Mercosul–UE e Caribe, Argentina, ONU, Ucrânia e Golfo",
+   "k": "capa"
   },
   {
-   "t": "COP31 fracassa em Antália",
    "b": "A conferência terminou em 22/11 sem decisão final, por falta de consenso sobre combustíveis fósseis e financiamento. Não acontecia desde Copenhague (2009). Lula criticou o resultado.",
    "l": [
     "Petroestados vetaram a menção aos fósseis",
     "Roteiros da COP30 de Belém não foram acolhidos",
     "Na UNFCCC, decide-se por consenso"
-   ]
+   ],
+   "t": "COP31 fracassa em Antália"
   },
   {
-   "t": "Brasil × EUA: OMC e novas tarifas",
    "b": "O OSC examinou em 24/11 o 1º pedido brasileiro de painel (DS646). Em 25/11, os EUA propuseram tarifas da Seção 301 contra 14 economias e sobretaxas sobre aviões e açúcar do Brasil. China e UE reagiram.",
    "l": [
     "Os EUA só podem bloquear o 1º pedido de painel",
     "Seção 301: instrumento unilateral, vale em 2027",
     "Embraer perderia a isenção (+10%)",
     "UE cobra o teto de 15% do seu acordo com os EUA"
-   ]
+   ],
+   "t": "Brasil × EUA: OMC e novas tarifas"
   },
   {
-   "t": "Brasil × UE: carne e normas",
    "b": "Macron chamou a carne do Mercosul de 'dopada'; Mapa e Itamaraty responderam que a fala dissemina desinformação. O acordo Mercosul–UE, provisório desde 1º/5, ainda precisa de normas técnicas comuns.",
    "l": [
     "Exportações de carne à UE suspensas desde setembro",
     "Acordo SPS: medida sanitária exige base científica",
     "Acordo TBT: normas internacionais como base",
     "ABNT e CEN negociam a harmonização"
-   ]
+   ],
+   "t": "Brasil × UE: carne e normas"
   },
   {
-   "t": "Vizinhos: Argentina e Colômbia",
-   "b": "O Brasil decidiu que o embaixador Bitelli não volta a Buenos Aires, e os países ficam só com encarregados de negócios. A Colômbia de De La Espriella desistiu de entrar no NDB e no BRICS.",
+   "b": "Na cúpula de 3–4/12, a Argentina assume o Mercosul, e o Brasil quer levar o bloco ao Caribe via Guiana e Suriname. Bitelli não volta a Buenos Aires. A Colômbia desistiu do NDB e do BRICS.",
    "l": [
+    "Panamá é associado ao Mercosul desde 2024",
     "Quirno pôs em dúvida a eleição brasileira",
-    "Milei não foi convidado para a posse de 5/1",
     "NDB: Acordo de Fortaleza (2014), sede em Xangai",
-    "NDB aceita sócios de fora do BRICS"
-   ]
+    "Equador vota em 29/11 sem o partido de Correa"
+   ],
+   "t": "Vizinhos: Mercosul, Argentina, Colômbia"
   },
   {
-   "t": "ONU: quem sucede Guterres",
    "b": "Lula quer uma mulher latino-americana na Secretaria-Geral, e a Celac escreveu ao Conselho de Segurança. As sondagens seguem sem consenso, e o mandato de Guterres acaba em 31/12.",
    "l": [
     "Art. 97: AGNU nomeia sob recomendação do CSNU",
     "Veto dos P5 vale na recomendação",
     "Grynspan lidera; Grossi também concorre",
     "AL só teve Pérez de Cuéllar (1982–1991)"
-   ]
+   ],
+   "t": "ONU: quem sucede Guterres"
   },
   {
-   "t": "Ucrânia e Europa",
    "b": "O Kremlin rejeita europeus na mesa de Abu Dhabi. A cúpula da UE de 26–27/11 discute € 45 bi extras para Kiev e o QFP 2028–2034. Na OPAQ, 34 países e a UE cobram a Rússia por agentes químicos.",
    "l": [
     "QFP: unanimidade no Conselho + aval do PE",
     "Decisão sobre Kiev deve ir a 17–18/12",
     "CAQ veda gás CS 'como método de guerra'",
     "Polônia quer zona de exclusão aérea na fronteira"
-   ]
+   ],
+   "t": "Ucrânia e Europa"
   },
   {
-   "t": "Golfo em chamas",
-   "b": "O Irã diz que dois petroleiros bateram em minas em Ormuz, e os houthis afirmam ter atingido a refinaria saudita de Ras Tanura e a torre do PIF em Riade. Catar e Paquistão mediam a guerra Irã–EUA.",
+   "b": "Minas em Ormuz, ataques houthis a Ras Tanura e Riade e o 15º navio atingido pelo bloqueio dos EUA aos portos do Irã. A UNCTAD prevê comércio marítimo estagnado em 2026.",
    "l": [
     "CNUDM: passagem em trânsito em estreitos",
-    "Ras Tanura: 550 mil barris/dia",
-    "Riade confirmou 11 feridos na torre do PIF",
+    "Bloqueio desde abril, retomado em julho",
+    "Seguro de guerra de petroleiro: US$ 0,2 mi → 1 mi",
     "Efeito em combustíveis e fertilizantes no Brasil"
-   ]
+   ],
+   "t": "Golfo em chamas"
   },
   {
-   "t": "Direitos humanos e Pacífico",
-   "b": "A OMS pediu que os EUA suspendam o bloqueio de combustível a Cuba. A Malásia vai devolver 6.800 nacionais de Mianmar após a sentença da CIJ sobre os rohingya. As Ilhas Salomão elegeram a Austrália parceira primária.",
+   "b": "A Costa Rica barrou a relatora da ONU Francesca Albanese. A OMS pediu o fim do bloqueio de combustível a Cuba. A Malásia vai devolver 6.800 nacionais de Mianmar após a sentença da CIJ sobre os rohingya.",
    "l": [
+    "Relatores: peritos independentes do CDH",
     "Resoluções da AGNU contra o embargo não vinculam",
     "Non-refoulement: art. 33 da Convenção de 1951",
-    "Salomão: pacto de 2022 com a China deve expirar",
-    "Sudão recusou a mediação da Etiópia"
-   ]
+    "Salomão elegeu a Austrália parceira primária"
+   ],
+   "t": "Direitos humanos e Pacífico"
   },
   {
    "k": "fim",
-   "t": "Pegadinhas que caem",
    "l": [
     "COP decide por consenso, não por maioria",
     "Na OMC, o painel só pode ser bloqueado no 1º pedido",
     "O NDB aceita membros que não são do BRICS",
     "A CAQ veda gás lacrimogêneo na guerra, não no policiamento",
     "SG da ONU: nomeado pela AGNU, com veto dos P5 na recomendação"
-   ]
+   ],
+   "t": "Pegadinhas que caem"
   }
- ]
+ ],
+ "updatedAt": "2026-11-28",
+ "week": "2026-W48"
 }

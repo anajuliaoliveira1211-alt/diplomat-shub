@@ -1,0 +1,144 @@
+{
+ "kind": "news",
+ "date": "2026-11-28",
+ "cards": [
+  {
+   "id": "2026-11-28-pj76644620",
+   "pj_guid": "76644620",
+   "podcast": "Petit Journal · Invest 139 · 19 min",
+   "materia": "Economia",
+   "edital": "Economia; 13.8; 13.9",
+   "titulo": "Petit Journal: bolha da IA, dívida corporativa, lições de 2008 e das ponto-com, e pouca margem fiscal",
+   "resumo": "Episódio de 27/11 com Tanguy Baghdadi e Daniel Sousa. Os tópicos abaixo resumem, com minhas palavras, o que foi discutido; as leituras e opiniões são dos apresentadores.",
+   "topicos": [
+    {
+     "t": "Volatilidade nas ações de IA",
+     "b": "Nas últimas semanas, os papéis de empresas de inteligência artificial sobem e caem com força em poucos dias. Para os apresentadores, isso mostra que os investidores já duvidam de que os investimentos vão se pagar, embora não signifique necessariamente uma crise."
+    },
+    {
+     "t": "Investimento financiado por dívida",
+     "b": "As empresas do setor tomam muito crédito para construir infraestrutura de IA e esperam retorno para quitar os empréstimos. Se houver calote, credores e poupadores perdem, num efeito dominó que pode reduzir investimento e consumo e levar à recessão."
+    },
+    {
+     "t": "Comparação com 2008",
+     "b": "Alguns analistas falam de algo parecido com 2008, em escala menor: lá a crise foi de crédito imobiliário, agora seria de crédito empresarial. A diferença é que os EUA tinham então mais folga fiscal, inflação baixa (com a China barateando produtos) e mercados mais abertos."
+    },
+    {
+     "t": "Pouca margem para reagir",
+     "b": "Com inflação alta nos EUA, o Fed teria menos espaço para cortar juros, como fez nas crises de 2001 e 2008, e a dívida pública cresceu muito desde a pandemia em vários países, inclusive o Brasil, acima de 80% do PIB. Por isso, dizem, as autoridades 'torcem' para não haver crise."
+    },
+    {
+     "t": "Lição da bolha ponto-com",
+     "b": "Na virada dos anos 2000, fazer um site era raro e caro; quando virou algo trivial, muito dinheiro investido não teve retorno. Os apresentadores veem risco semelhante: ferramentas de IA ficam mais acessíveis, e modelos chineses mais baratos e com menor consumo de energia reduzem a barreira de entrada."
+    },
+    {
+     "t": "Corrida sem volta atrás",
+     "b": "Mesmo com receitas crescentes, as empresas de IA têm dificuldade de dar lucro porque reinvestem tudo. Quem não investe fica fora do mercado, mas quem investe pode não estar entre os sobreviventes, e a competição com a China torna recuar ainda mais difícil."
+    },
+    {
+     "t": "Risco para a economia global",
+     "b": "O crescimento recente dos EUA é puxado pelo investimento em IA; se a bolha estourar, a economia americana desacelera e arrasta outras, porque o sistema financeiro mundial está ancorado no dólar. O cenário alternativo é só um 'teto', com investimentos desacelerando sem calotes."
+    }
+   ],
+   "porque": "O episódio liga temas de Economia cobrados no CACD: ciclos de crédito e bolhas especulativas (ponto-com, 2001, e subprime, 2008), política monetária e espaço fiscal para respostas anticíclicas, e a centralidade do dólar na transmissão de crises. Também toca a rivalidade tecnológica EUA–China. O Brasil seria afetado por uma recessão americana via fluxo de capitais, câmbio e demanda por commodities, com dívida pública alta limitando sua própria reação.",
+   "ce": {
+    "s": "A crise financeira de 2008 teve origem no mercado de crédito imobiliário dos EUA, com as hipotecas subprime.",
+    "ans": "C",
+    "exp": "A crise começou com a inadimplência das hipotecas subprime e os títulos lastreados nelas, e se espalhou após a quebra do Lehman Brothers, em setembro de 2008."
+   },
+   "img": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00abc407024f7578d01ec6636bef5913.jpg",
+   "imgCredit": "Arte: Petit Journal",
+   "url": "https://www.spreaker.com/episode/panico-na-ia-invest-139--76644620",
+   "fonte": "Petit Journal (podcast) · tópicos escritos a partir do episódio",
+   "curso": false
+  },
+  {
+   "id": "2026-11-28-1",
+   "materia": "Política Internacional",
+   "edital": "14; 2; 13.8",
+   "titulo": "Às vésperas da cúpula de Montevidéu, Itamaraty diz que o Brasil quer levar o Mercosul ao Caribe e à América Central, via Guiana e Suriname",
+   "resumo": "Em 27/11, a secretária de América Latina e Caribe do Itamaraty, Gisela Padovan, disse que o Brasil usará a 69ª Cúpula do Mercosul (Montevidéu, 3 e 4/12), em que a presidência pro tempore passa do Uruguai à Argentina, para aproximar o bloco do Caribe e da América Central. Há negociações com El Salvador, República Dominicana e Trinidad e Tobago, e um acordo com o Panamá, membro associado desde 2024, é esperado para junho de 2027. Guiana e Suriname, que ainda não têm acordo com o bloco, seriam a 'porta' para o Caribe, que hoje compra comida brasileira via Miami. A cúpula também vai ajustar a implementação do acordo com a UE, precedida por um fórum empresarial Mercosul–UE em Punta del Este em 2/12.",
+   "porque": "Mostra a estratégia brasileira de diversificar parceiros do Mercosul depois do acordo com a UE e de usar o bloco como plataforma de integração da América do Sul com o Caribe, onde o Brasil quer competir com a logística via EUA. Também revela que o bloco segue funcionando mesmo com as relações Brasil–Argentina rebaixadas (sem embaixadores e sem bilateral Lula–Milei prevista). Liga integração regional (Mercosul, Caricom), política externa brasileira e comércio exterior.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/brasil-quer-aproximar-mercosul-de-mercados-do-caribe-e-america-central",
+   "img": "https://imagens.ebc.com.br/e-HW_jQxJWGUlu1XQV164HH9Qvg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/forum-empresarial-mercosul_mcamgo_abr_27112023-8.jpg?itok=zHM31hjA",
+   "imgCredit": "Foto: Agência Brasil",
+   "ce": {
+    "s": "Segundo o Itamaraty, a 69ª Cúpula do Mercosul, em Montevidéu, marca a passagem da presidência pro tempore do bloco do Uruguai para a Argentina.",
+    "ans": "C",
+    "exp": "A presidência pro tempore do Mercosul gira a cada seis meses, por ordem alfabética; depois do Uruguai, vem a Argentina."
+   },
+   "curso": false
+  },
+  {
+   "id": "2026-11-28-2",
+   "materia": "Economia",
+   "edital": "13.8; 13.1; Economia",
+   "titulo": "UNCTAD prevê crescimento zero do comércio marítimo em 2026, com Ormuz, mar Vermelho, mar Negro e canal do Panamá sob pressão ao mesmo tempo",
+   "resumo": "Em 26/11, a UNCTAD (agência da ONU para comércio e desenvolvimento) divulgou sua revisão anual do transporte marítimo: o volume chegou a 12,3 bilhões de toneladas em 2025, mas cresceu só 1,9%, metade do ritmo de 2024. Para 2026, prevê crescimento zero, com recuperação de 3,2% em 2027, porque quatro gargalos estão pressionados ao mesmo tempo: o estreito de Ormuz (guerra Irã–EUA), o mar Vermelho, o mar Negro e o canal do Panamá. Os desvios de rota aumentam as distâncias percorridas em 1,5%, e o seguro de risco de guerra de um petroleiro de US$ 100 milhões saltou de cerca de US$ 200 mil para US$ 1 milhão por viagem.",
+   "porque": "Mais de 80% do comércio mundial viaja por mar; a UNCTAD mostra como conflitos e clima viram inflação de alimentos e combustíveis, sobretudo para países menos desenvolvidos e pequenos Estados insulares, que podem ter alta de preços quase duas vezes maior que a média. Para o Brasil, grande exportador de commodities por via marítima, fretes e seguros mais caros afetam a competitividade e o custo dos fertilizantes importados. Liga Economia internacional, geopolítica dos estreitos e governança do comércio.",
+   "fonte": "ONU News (UNCTAD)",
+   "url": "https://news.un.org/en/story/2026/11/1168884",
+   "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-2.jpg/image770x420cropped.jpg",
+   "imgCredit": "Foto: ONU News",
+   "ce": {
+    "s": "Segundo a UNCTAD, o comércio marítimo mundial teve em 2025 crescimento maior que o de 2024, impulsionado pelos desvios de rota.",
+    "ans": "E",
+    "exp": "O volume cresceu 1,9% em 2025, metade do ritmo de 2024; desvios aumentam a distância percorrida, não o volume transportado."
+   },
+   "curso": false
+  },
+  {
+   "id": "2026-11-28-3",
+   "materia": "Política Internacional",
+   "edital": "13.6; 13.1; 14",
+   "titulo": "Costa Rica barra a entrada de Francesca Albanese, relatora da ONU para os territórios palestinos, e Volker Türk pede revisão",
+   "resumo": "Na quinta (26/11), a Costa Rica negou a entrada de Francesca Albanese, relatora especial da ONU sobre os territórios palestinos ocupados, alegando um 'alerta internacional' sobre ligações com terrorismo e razões de segurança nacional. Ela passou duas noites no aeroporto Juan Santamaría, em San José, até que a Sala Constitucional da Suprema Corte ordenasse sua transferência para um hotel; saiu do aeroporto na manhã de 28/11, rumo ao México. O alto comissário da ONU para os direitos humanos, Volker Türk, disse estar 'profundamente preocupado' e pediu que o governo reconsiderasse, e a Itália, país de Albanese, deu assistência consular.",
+   "porque": "Os relatores especiais são peritos independentes nomeados pelo Conselho de Direitos Humanos; impedir seu trabalho atinge o sistema de procedimentos especiais da ONU. O caso evidencia o alinhamento crescente do governo costa-riquenho com EUA e Israel e a pressão sobre mecanismos de direitos humanos que investigam Gaza, num momento em que a escolha do próximo secretário-geral também está em jogo. Liga direitos humanos, ONU e a política externa de um vizinho centro-americano.",
+   "fonte": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0a91b9-1795854777.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera",
+   "ce": {
+    "s": "Os relatores especiais da ONU, como Francesca Albanese, são nomeados pelo Conselho de Direitos Humanos e atuam como peritos independentes, sem remuneração da ONU.",
+    "ans": "C",
+    "exp": "Os relatores especiais integram os procedimentos especiais do Conselho de Direitos Humanos; servem a título pessoal e não recebem salário da ONU."
+   },
+   "curso": false
+  },
+  {
+   "id": "2026-11-28-4",
+   "materia": "Política Internacional",
+   "edital": "13.12; 13.10; Direito (DIP)",
+   "titulo": "EUA atingem navio de bandeira de Palau que tentava furar o bloqueio aos portos do Irã; é o 15º desde abril",
+   "resumo": "Em 26/11, aviões militares dos EUA dispararam munições de precisão contra a popa do Pacific Archer, de bandeira de Palau, no golfo de Omã, e inutilizaram sua propulsão sem ferir a tripulação, segundo o Comando Central (CENTCOM). O navio saíra de Bandar Abbas rumo a Singapura; é ao menos o 15º atingido desde o início do bloqueio americano aos portos iranianos, em abril, suspenso durante negociações e retomado em julho, período em que 158 navios foram desviados. O comandante da Marinha iraniana disse que o Irã vai 'romper o bloqueio' e expulsar o inimigo das águas da região.",
+   "porque": "O bloqueio naval é um ato de guerra pelo direito internacional, e o uso de bandeiras de conveniência (como Palau) mostra como o comércio de petróleo iraniano tenta contornar sanções. A escalada em Ormuz encarece petróleo, frete e seguros no mundo todo, como mostrou a UNCTAD, e pesa sobre países importadores de fertilizantes e combustíveis, como o Brasil. Liga conflitos no Oriente Médio, direito do mar e economia da energia.",
+   "fonte": "Al Jazeera (com CENTCOM)",
+   "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afba6a9-1794877097.jpg?resize=1920%2C1440",
+   "imgCredit": "Foto: Al Jazeera",
+   "ce": {
+    "s": "O bloqueio naval americano aos portos iranianos vigora sem interrupção desde abril de 2026.",
+    "ans": "E",
+    "exp": "O bloqueio começou em abril, foi suspenso temporariamente durante as negociações com Teerã e retomado em julho."
+   },
+   "curso": false
+  },
+  {
+   "id": "2026-11-28-5",
+   "materia": "Política Internacional",
+   "edital": "14; 13.12; 13.6",
+   "titulo": "Equador vota no domingo em eleições locais em que Noboa tenta se consolidar, com o partido de Correa suspenso",
+   "resumo": "No domingo (29/11), 13,8 milhões de equatorianos elegem 23 governadores de província, 222 prefeitos, legisladores locais e os sete membros do Conselho de Participação Cidadã e Controle Social, que nomeia cargos-chave como os órgãos eleitorais e a procuradoria. O presidente Daniel Noboa disputa sem o principal partido de oposição, a Revolução Cidadã, do ex-presidente Rafael Correa, que foi suspensa. O país vive uma crise de segurança porque virou rota de exportação da cocaína da Colômbia e do Peru, e Noboa governa com decretos sucessivos de estado de exceção e uso dos militares, com apoio dos EUA pelo chamado Escudo das Américas.",
+   "porque": "O Equador sintetiza dilemas sul-americanos: narcotráfico transnacional, militarização da segurança, cooperação militar com Washington e denúncias de erosão democrática e violações de direitos humanos. Para o Brasil, interessa pela segurança regional (rotas de cocaína que passam também pelo território brasileiro) e pela defesa da democracia e do diálogo regional em instâncias como a Celac e a OEA. Liga política sul-americana, crime organizado transnacional e direitos humanos.",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/equador-noboa-tenta-se-consolidar-em-eleicao-com-oposicao-reduzida",
+   "ce": {
+    "s": "O partido Revolução Cidadã, do ex-presidente Rafael Correa, está suspenso e não disputa as eleições locais de 29/11 no Equador.",
+    "ans": "C",
+    "exp": "A Revolução Cidadã, principal força de oposição, foi suspensa, o que reduziu a concorrência a Noboa no pleito."
+   },
+   "curso": false
+  }
+ ]
+}
